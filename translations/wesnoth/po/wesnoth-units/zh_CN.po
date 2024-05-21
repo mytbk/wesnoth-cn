@@ -3427,12 +3427,12 @@ msgstr ""
 msgid ""
 "Elvish Rangers are well-traveled and adept at traversing harsh terrains like "
 "sand, water, and mountains."
-msgstr "精灵游侠们游历甚广，擅长穿越沙地、水面和山地等恶劣地形。"
+msgstr "精灵巡林者们游历甚广，擅长穿越沙地、水面和山地等恶劣地形。"
 
 #. [female]: gender=female
 #: data/core/units/elves/Ranger.cfg:95
 msgid "female^Elvish Ranger"
-msgstr "精灵游侠"
+msgstr "精灵巡林者"
 
 #. [unit_type]: id=Elvish Rider, race=elf
 #: data/core/units/elves/Rider.cfg:4
