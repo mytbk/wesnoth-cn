@@ -11,11 +11,11 @@ First released in 2003, Wesnoth is one of the most polished open source games ev
 
 Anyone willing to help with the Simplified Chinese localization is welcome.
 
-Most of the localization-related discussions are happening in the QQ Group 131160118.
-
 For plain text translation, you may clone the repository or download the .po files in the `translations` directory and translate them. (The subdirectory structure of `translations` mirrors the official repositories of the Wesnoth project.)
 
-For map localization, this repository would only contain finished overlays. If you wish to localize the maps, please go to [issue #7](https://github.com/CloudiDust/wesnoth-cn/issues/7).
+# TODO: map localization ...
+
+ For map localization, this repository would only contain finished overlays. If you wish to localize the maps, please go to [issue #7](https://github.com/CloudiDust/wesnoth-cn/issues/7).
 
 Please refer to the how-to links below if you are not familar with the localization workflow.
 
@@ -36,4 +36,7 @@ Also there is an unofficial [Tieba](http://tieba.baidu.com/f?kw=%E9%9F%A6%E8%AF%
 
 # Note: Project Origin
 
-Back in 2010 the work on Wesnoth's zh_CN localization was kind of in a hiatus and not quite coordinated, so I (Cloudidust), with the permission of then zh_CN translation maintainer *sylecn*, started this project and hosted it on Google Code, in a [Mercurial repository](https://code.google.com/p/wesnoth-translation-cn). In 2015 this project was moved to [Github](https://github.com/CloudiDust/wesnoth-cn), but I made a mistake: starting a new git repo instead of importing the hg one. I regret it, but if interested you can browse/download the hg repo archive for history.
+Cloudidust: Back in 2010 the work on Wesnoth's zh_CN localization was kind of in a hiatus and not quite coordinated, so I (Cloudidust), with the permission of then zh_CN translation maintainer *sylecn*, started this project and hosted it on Google Code, in a [Mercurial repository](https://code.google.com/p/wesnoth-translation-cn). In 2015 this project was moved to [Github](https://github.com/CloudiDust/wesnoth-cn), but I made a mistake: starting a new git repo instead of importing the hg one. I regret it, but if interested you can browse/download the hg repo archive for history.
+
+In 2024, Cloudidust and the translator QQ group seem to be inactive, so I (vimacs) take over this project.
+
