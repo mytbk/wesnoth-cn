@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 02:28 UTC\n"
-"PO-Revision-Date: 2024-05-22 15:55+0800\n"
+"PO-Revision-Date: 2024-06-02 16:04+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -123,12 +123,12 @@ msgstr "其他"
 msgid ""
 "Complete the ‘<i>Eastern Invasion</i>’ scenario with at least 10 surviving "
 "units."
-msgstr ""
+msgstr "在完成 ‘<i>东部入侵</i>’ 场景时有至少10个存活单位。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:33
 msgid "Scenario 1: Tactical Withdrawal"
-msgstr ""
+msgstr "场景1：战术撤退"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:35
@@ -361,12 +361,12 @@ msgstr "此村庄里没有流寇。"
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:33
 msgid "Warning!"
-msgstr ""
+msgstr "警告！"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:34
 msgid "Content note: this campaign has minor depictions of blood and gore."
-msgstr ""
+msgstr "内容说明：这个战役有轻微的血腥描写。"
 
 #. [part]
 #. It is 625 YW. Konrad II is king, having reigned since 612.
@@ -646,12 +646,12 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:296
 msgid "Survive until turns run out"
-msgstr ""
+msgstr "存活直到回合用尽"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:306
 msgid "Move any unit to the trapdoor just outside your keep (10,15)"
-msgstr ""
+msgstr "移动任意单位到你的营地外 (10,15) 位置的活板门"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:316
@@ -1295,7 +1295,7 @@ msgstr ""
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:351
 msgid "I told him he should have studied harder."
-msgstr ""
+msgstr "我告诉他他应该更努力地学习。"
 
 #. [message]: speaker=Mal-Kallat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:355
@@ -1364,7 +1364,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:162
 msgid "Move any unit to the signpost in the northwest"
-msgstr ""
+msgstr "移动任意单位到西北方的路标"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:167
@@ -2993,7 +2993,7 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1083
 msgid "My decision is..."
-msgstr ""
+msgstr "我的决定是……"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1085
@@ -3087,10 +3087,8 @@ msgstr "怪物"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:124
-#, fuzzy
-#| msgid "An Elven Alliance"
 msgid "Northern Alliance"
-msgstr "精灵联盟"
+msgstr "北方联盟"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:137
@@ -3879,7 +3877,7 @@ msgstr ""
 #. [side]: type=Saurian Ambusher, id=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:110
 msgid "Saurians"
-msgstr ""
+msgstr "蜥蜴人"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:187
@@ -4196,7 +4194,7 @@ msgstr ""
 #. [side]: type=Naga Centurion, id=Aleii, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:209
 msgid "Naga"
-msgstr ""
+msgstr "娜迦"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:265
@@ -4478,7 +4476,7 @@ msgstr ""
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:637
 msgid "10 gold"
-msgstr ""
+msgstr "10金币"
 
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:637
@@ -4489,7 +4487,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:638
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:639
 msgid "20 gold"
-msgstr ""
+msgstr "20金币"
 
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:638
@@ -4649,7 +4647,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:100
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:127
 msgid "Drakes"
-msgstr ""
+msgstr "龙人"
 
 #. [side]: type=Sky Drake, id=Kegra
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:105
@@ -5059,7 +5057,7 @@ msgstr ""
 #. [scenario]: id=09_Castle_in_the_Ice
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1360
 msgid "25 gold"
-msgstr ""
+msgstr "25金币"
 
 #. [message]: speaker=unit
 #. circa 25 gold pieces
