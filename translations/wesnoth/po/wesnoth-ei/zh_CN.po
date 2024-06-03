@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 02:28 UTC\n"
-"PO-Revision-Date: 2024-06-02 16:04+0800\n"
+"PO-Revision-Date: 2024-06-03 10:20+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -380,31 +380,18 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:42
-#, fuzzy
-#| msgid ""
-#| "Cattle and beasts of burden were found dead in the fields, and men went "
-#| "missing from their houses, with no clues but a thin stream of black "
-#| "blood. At first the settlers suspected raiders from the great desert, but "
-#| "when they sent scouts east they found nothing but a small mountain range "
-#| "and miles of swamp."
 msgid ""
 "Cattle and beasts of burden were found dead in the fields and villagers "
 "vanished from their houses with nary a clue nor sign of struggle. At first, "
 "the settlers suspected raiders from the great desert, but when they sent "
 "scouts east they found nothing but a small mountain range and miles of swamp."
 msgstr ""
-"牲畜家禽被发现死在田地里，人也从家里失踪了，除了少许黑色的血迹之外，没有任何"
-"的线索。开始时，居民们怀疑是大漠里来的劫掠者干的好事，但当他们派出侦察兵前往"
-"东方时，却只发现了一座小小的山脉和绵延数里的沼泽。"
+"牲畜家禽被发现死在田地里，村民也从家里失踪了，没有任何的线索或挣扎的痕迹。开"
+"始时，居民们怀疑是大漠里来的劫掠者干的好事，但当他们派出侦察兵前往东方时，却"
+"只发现了一座小小的山脉和绵延数里的沼泽。"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:46
-#, fuzzy
-#| msgid ""
-#| "The disappearances did not stop, and every day the terror grew greater. "
-#| "Eventually, the people living in the eastern villages sent a messenger to "
-#| "the King, asking for help. The messenger rode hard for many days and "
-#| "nights, and finally reached the city of Weldyn."
 msgid ""
 "The disappearances did not stop and every day the terror grew greater. "
 "Eventually, the people living in the eastern villages sent a messenger to "
@@ -416,12 +403,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:50
-#, fuzzy
-#| msgid ""
-#| "When the King received news of the problem, his advisor Dacyn had much to "
-#| "say. Apparently, these attacks were connected to similar ones that "
-#| "occurred earlier on the far southern border, attacks by undead. Dacyn "
-#| "outlined a plan to combat these intrusions."
 msgid ""
 "When the king received news of the problem, his advisor Dacyn had much to "
 "say. Apparently, these attacks bore much similarity to ones that had "
@@ -429,8 +410,8 @@ msgid ""
 "eventual culprit. Dacyn outlined a plan to combat these intrusions."
 msgstr ""
 "当国王收到有关这问题的消息时，他的顾问达辛有许多话要说。看上去，这些攻击和在"
-"极南边境发生的相似事件有些联系。南方是被亡灵所攻击的。达辛构思了一个反击入侵"
-"的计划。"
+"极南边境此前发生的事件非常相似，那次最终的罪魁祸首是亡灵。达辛构思了一个反击"
+"入侵的计划。"
 
 #. [part]
 #. The River Guard posts had been built in 470 YW; they were abandoned in 544 YW.
@@ -689,8 +670,6 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:343
-#, fuzzy
-#| msgid "Men, to arms!"
 msgid "Soldiers, to arms!"
 msgstr "士兵们，武装起来！"
 
@@ -712,10 +691,8 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:439
-#, fuzzy
-#| msgid "I sense a great evil... Can it be? Gweddry, I must not be seen."
 msgid "I sense a great power... no, it cannot be... I must not be seen."
-msgstr "我感到大恶逼近……难道是？格温德利，别让我被发现了。"
+msgstr "我感到一股强大的力量……不，这不可能……别让我被发现了。"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:483
@@ -844,10 +821,8 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:578
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:599
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:815
-#, fuzzy
-#| msgid "Hmm..."
 msgid "..."
-msgstr "呣……"
+msgstr "……"
 
 #. [message]: speaker=Mal-Talar
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:861
@@ -867,10 +842,8 @@ msgstr "现在我们快离开吧！"
 
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:888
-#, fuzzy
-#| msgid "You have defeated my brother, but I will follow you and kill you!"
 msgid "You may defeat me now, but I will return!"
-msgstr "你击败了我的兄弟，但我会追杀你到死！"
+msgstr "你现在可以击败我，但我会回来的！"
 
 #. [scenario]: id=02_The_Escape_Tunnel
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:17
@@ -940,10 +913,8 @@ msgstr "玛尔-巴克拉尔"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:222
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:504
-#, fuzzy
-#| msgid "Move Gweddry to the tunnel exit"
 msgid "Move any unit to the tunnel exit"
-msgstr "移动格温德利至隧道出口"
+msgstr "移动任意单位至隧道出口"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:244
@@ -962,17 +933,13 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:305
-#, fuzzy
-#| msgid "We must make haste to escape before the undead catch up."
 msgid "We must make haste to escape before the undead catch us."
 msgstr "在亡灵追上来之前我们必须赶快走。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:309
-#, fuzzy
-#| msgid "Wait, before we go anywhere — who were those undead?"
 msgid "Wait, before we go anywhere — who were those necromancers?"
-msgstr "等等，在继续前进之前——那些亡灵是谁？"
+msgstr "等等，在继续前进之前——那些死灵法师是谁？"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:313
@@ -12196,7 +12163,7 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:137
 msgid "Crystal Quiver"
-msgstr ""
+msgstr "水晶箭筒"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:138
 msgid ""
@@ -12225,10 +12192,8 @@ msgid ""
 msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:211
-#, fuzzy
-#| msgid "Holy Amulet"
 msgid "Drop Holy Amulet"
-msgstr "神圣护身符"
+msgstr "放下神圣护身符"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:225
 msgid "sentinel"
