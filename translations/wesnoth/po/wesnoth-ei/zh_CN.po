@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 02:28 UTC\n"
-"PO-Revision-Date: 2024-06-03 16:49+0800\n"
+"PO-Revision-Date: 2024-06-04 16:57+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -418,13 +418,6 @@ msgstr ""
 #. The wave of colonization had begun around 530 YW.
 #. This intro starts in 625 YW; the king's forces arrive at the outposts in 626 YW.
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:57
-#, fuzzy
-#| msgid ""
-#| "In the days of King Garard I, two strong-points had been built along the "
-#| "near bank of the Weldyn, south of Soradoc, to stop bandits and orcish "
-#| "raiders out of the Estmarks from entering Wesnoth. But in later years the "
-#| "River Guard posts had been abandoned, as colonists spread into the "
-#| "Estmarks and the orcs were driven in retreat north of the Great River."
 msgid ""
 "In the days of King Garard I, two strong points had been built along the "
 "near bank of the River Weldyn, south of Soradoc, to stop bandits and orcish "
@@ -433,9 +426,9 @@ msgid ""
 "orcs were driven in retreat north of the Great River."
 msgstr ""
 "在伽拉德一世国王统治的时期，为了阻挡东界丘陵外围的强盗和兽人掠夺者，人们在索"
-"拉多克南部的维尔帝河岸边建造了两座据点，以阻止东界丘陵之外的匪盗以及兽人劫掠"
-"者进入韦诺。但近年来，殖民者深入东界各处定居，而兽人也被赶回了泰河的北面，河"
-"岸卫队的岗哨随之也都被放弃了。"
+"拉多克南部的维尔帝河河岸边建造了两座据点，以阻止东界丘陵之外的匪盗以及兽人劫"
+"掠者进入韦诺。后来，殖民者深入东界各处定居，而兽人也被赶回了泰河的北面，河岸"
+"卫队的岗哨随之也都被放弃了。"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:61
@@ -650,10 +643,8 @@ msgstr "格温德利或达辛死亡"
 #. [message]: speaker=Gweddry
 #. Probably only two or three watchmen
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:330
-#, fuzzy
-#| msgid "What? What is going on?"
 msgid "Watchmen, report. What’s going on?"
-msgstr "什么？发生了什么事？"
+msgstr "警卫员，报告。发生了什么事？"
 
 #. [message]: speaker=Vugreddyr
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:334
@@ -696,17 +687,10 @@ msgstr "我感到一股强大的力量……不，这不可能……别让我被
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:483
-#, fuzzy
-#| msgid ""
-#| "This is the resistance you spoke of, an untrained commander and a few "
-#| "fresh recruits? You will suffer for your incompetence. Destroy them, and "
-#| "dare not bother me again."
 msgid ""
 "This is the resistance you spoke of, an untrained commander and a few fresh "
 "recruits?"
-msgstr ""
-"这就是你所说的反抗力量？未经训练的指挥官和一群新兵？你会为你的无能付出代价"
-"的。摧毁他们，别妄图再打扰我。"
+msgstr "这就是你所说的反抗力量：未经训练的指挥官和一群新兵？"
 
 #. [message]: speaker=Mal-Talar
 #. Mal-Ravanal is neither male nor female, so avoid structures using direct addresses or pronouns when possible
@@ -755,18 +739,14 @@ msgstr "格温德利？啊，你还活着。"
 msgid ""
 "Dacyn, why did you flee the battle? Our situation has become rather "
 "desperate."
-msgstr ""
+msgstr "达辛，为什么你逃离战斗？我们的情况已经变得很绝望了。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:720
-#, fuzzy
-#| msgid ""
-#| "There is no time to explain. If you wish to survive, you will escape "
-#| "through this trapdoor."
 msgid ""
 "Now is not the time for a lengthy report. Unless you intend to die, I "
 "suggest you escape through this trapdoor."
-msgstr "没有时间解释了，如果你想要活命，就必须通过这个活板门逃脱。"
+msgstr "现在不是做长篇报告的时候。除非你想死，我建议你从这个活板门逃脱。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:760
@@ -1096,7 +1076,7 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:583
 msgid "A small victory. He will be replaced soon enough; we must still flee."
-msgstr ""
+msgstr "一个小胜利。他很快会被替代，我们还是必须逃走。"
 
 #. [event]
 #. [side]: type=Dark Adept, id=Mal-Tar
@@ -1215,7 +1195,7 @@ msgstr "不！！他们会杀掉我的！"
 #. talking to Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:268
 msgid "We can always bring you back if you die."
-msgstr ""
+msgstr "如果你死了，我们总可以把你带回来。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:281
@@ -3739,8 +3719,6 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07a_Capturing_the_Ogres.cfg:236
-#, fuzzy
-#| msgid "We have let one escape. Let’s hope they don’t all!"
 msgid "We have let one escape. Let’s hope not all of them do!"
 msgstr "我们已经让一只食人魔跑掉了。但愿他们别都跑了！"
 
@@ -6765,7 +6743,7 @@ msgstr "当桥梁被摧毁时，将失去所有不在桥南边的单位（包括
 msgid ""
 "Dacyn, are you feeling better? We must keep moving! The orcs have almost "
 "caught up to us."
-msgstr ""
+msgstr "达辛，你感觉好点了吗？我们要继续前进！兽人要赶上我们了。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:304
@@ -7130,7 +7108,7 @@ msgstr "我们没有及时炸毁那座桥！兽人会把我们杀光的！"
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:926
 msgid ""
 "I can hardly believe it! We didn’t need to destroy the bridge after all."
-msgstr ""
+msgstr "我几乎不能相信！我们不用摧毁这座桥。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:930
@@ -7607,7 +7585,7 @@ msgstr ""
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1465
 msgid "Why won’t you just die?!"
-msgstr ""
+msgstr "你怎么不去死？！"
 
 #. [message]: speaker=Gweddry
 #. victory event, and the rest of the player's units catch up
@@ -7881,7 +7859,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:755
 msgid "Clearwater Lake"
-msgstr ""
+msgstr "清水湖"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:808
@@ -12108,7 +12086,7 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:844
 msgid "My story ends here."
-msgstr ""
+msgstr "我的故事到此结束。"
 
 #. [message]: speaker=spirit2
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:856
@@ -12410,7 +12388,7 @@ msgstr ""
 #. [trait]: id=TRAIT_elements
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1137
 msgid "elements"
-msgstr ""
+msgstr "元素"
 
 #. [trait]: id=TRAIT_elements
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1138
