@@ -1,40 +1,29 @@
-Wesnoth Simplified Chinese Localization Project
+韦诺中文本地化项目
 -----------------------------------------------
 
-# Introduction
+此项目是回合制战略游戏[韦诺之战](https://wesnoth.org)的简体中文本地化项目。按照韦诺之战社区的规定，游戏的本地化由各语言的维护者进行维护，并提交翻译给官方本地化维护者。此项目用于各翻译者提交修改给简体中文本地化维护者。
 
-This is a project dedicated to the Simplified Chinese (zh_CN) localization of the open source turn-based strategy game, [the Battle for Wesnoth](https://wesnoth.org).
+# 如何参与
 
-First released in 2003, Wesnoth is one of the most polished open source games ever made. The game uses GNU Gettext to support localized text, and native support for image (game map) localization is also present. In compliance with official localization management policy, this project maintains translated assets out of the official source tree.
+欢迎大家参与韦诺之战的本地化。
 
-# How to Participate
+本项目各分支对应相应的韦诺之战分支。目前本项目重点翻译韦诺之战 1.18 版本，因此建议大家在 1.18 分支上做翻译。
 
-Anyone willing to help with the Simplified Chinese localization is welcome.
+对于文字翻译，请克隆此版本库，并翻译 translations/wesnoth/po/ 的子目录下的 .po 文件，推荐使用 [Poedit](https://poedit.net/) 翻译。
 
-For plain text translation, you may clone the repository or download the .po files in the `translations` directory and translate them. (The subdirectory structure of `translations` mirrors the official repositories of the Wesnoth project.)
+# 地图本地化
 
-# TODO: map localization ...
+TBD
 
- For map localization, this repository would only contain finished overlays. If you wish to localize the maps, please go to [issue #7](https://github.com/CloudiDust/wesnoth-cn/issues/7).
+# 参考资料
 
-Please refer to the how-to links below if you are not familar with the localization workflow.
+* 韦诺之战官方网站：https://wesnoth.org
+* Github 上的韦诺之战代码：https://github.com/wesnoth
+* 官方翻译指导：https://wiki.wesnoth.org/WesnothTranslationsHowTo
+* 官方地图本地化指导：https://wiki.wesnoth.org/MapLocalization
+* 百度贴吧韦诺之战吧：https://tieba.baidu.com/f?kw=%E9%9F%A6%E8%AF%BA%E4%B9%8B%E6%88%98&ie=utf-8
 
-When you are ready to submit some localized assets, please file a pull request, post the resulting files in the QQ group, or send them to my mailbox (*cloudidust at gmail*), and I will take care of the rest.
-
-# Useful Links
-
-Hats off to the great Wesnoth community!
-
-The following are Wesnoth's official:
-
-* Website: https://wesnoth.org
-* Github organization: https://github.com/wesnoth
-* Plain text translation how-to: https://wiki.wesnoth.org/WesnothTranslationsHowTo
-* Map localization how-to: https://wiki.wesnoth.org/MapLocalization
-
-Also there is an unofficial [Tieba](http://tieba.baidu.com/f?kw=%E9%9F%A6%E8%AF%BA%E4%B9%8B%E6%88%98&ie=utf-8) where general discussions of the game are held.
-
-# Note: Project Origin
+# 项目历史
 
 Cloudidust: Back in 2010 the work on Wesnoth's zh_CN localization was kind of in a hiatus and not quite coordinated, so I (Cloudidust), with the permission of then zh_CN translation maintainer *sylecn*, started this project and hosted it on Google Code, in a [Mercurial repository](https://code.google.com/p/wesnoth-translation-cn). In 2015 this project was moved to [Github](https://github.com/CloudiDust/wesnoth-cn), but I made a mistake: starting a new git repo instead of importing the hg one. I regret it, but if interested you can browse/download the hg repo archive for history.
 
