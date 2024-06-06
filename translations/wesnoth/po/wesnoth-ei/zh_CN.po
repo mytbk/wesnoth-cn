@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 02:28 UTC\n"
-"PO-Revision-Date: 2024-06-04 16:57+0800\n"
+"PO-Revision-Date: 2024-06-06 11:50+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3810,6 +3810,9 @@ msgid ""
 "and his men attempted their escape from Wesnoth and Mal-Ravanal’s undead "
 "hordes into the wild northlands."
 msgstr ""
+"帕辛滩的恶名仅次于雅碧滩。这是伊利阿-玛拉尔的幽灵军队首次制造恐怖，结果被传奇"
+"的德法多击败的地方。这是马林·凯沙丢弃了人性，开始钻研黑暗艺术的地方。而这也是"
+"格温德利和他的人试图逃离韦诺和玛尔-拉瓦纳尔的亡灵军团，进入荒野北陆的地方。"
 
 #. [side]: type=Ogre, id=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:41
@@ -5105,17 +5108,17 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:670
 msgid "Move Dacyn, Gweddry, and reinforcements into the gate"
-msgstr ""
+msgstr "移动达辛、格温德利和援军到大门"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:677
 msgid "Find both gate keys"
-msgstr ""
+msgstr "找到两个大门的钥匙"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:684
 msgid "Move Dacyn, Gweddry, and reinforcements into the inner gate"
-msgstr ""
+msgstr "移动达辛、格温德利和援军到内部的大门"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:691
@@ -5142,14 +5145,14 @@ msgstr "活过漫漫长夜"
 #. TODO in 1.19 add "... and end your turn"
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:721
 msgid "To enter the castle, move Dacyn into the gated area."
-msgstr ""
+msgstr "要进入城堡，移动达辛到大门区域。"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:727
 msgid ""
 "Dacyn has been here before and will have better outcomes when stepping on "
 "runes."
-msgstr ""
+msgstr "达辛之前来过这里，踩上符文会有更好的结果。"
 
 #. [message]: speaker=Dacyn
 #. Iliah-Malal was the male lich antagonist of Delfador's Memoirs, around 160 years ago
@@ -5158,6 +5161,7 @@ msgid ""
 "We have arrived. This is a long-abandoned sanctum that you may know as the "
 "lair of the mage Iliah-Malal."
 msgstr ""
+"我们已经到了。这是一个废弃已久的密室，你可能知道它是法师伊利阿-玛拉尔的老巢。"
 
 #. [message]: speaker=Dacyn
 #. once again Dacyn is an unreliable narrator and does not speak absolute truth, he only says what he knows
@@ -5170,11 +5174,15 @@ msgid ""
 "\n"
 "I once thought such a power too dangerous to use; I am no longer so naive."
 msgstr ""
+"正是在这里，我寻找伊利阿-玛拉尔的面纱护身符，这是一件拥有打开活人之地和死人之"
+"地之门的力量的神器。\n"
+"\n"
+"我曾经认为这样的力量用起来太危险了；我现在不再那么幼稚了。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:767
 msgid "Iliah-Malal? I know that name from the legends..."
-msgstr ""
+msgstr "伊利阿-玛拉尔？我从传说中知道这个名字……"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:776
@@ -5308,7 +5316,7 @@ msgstr ""
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:886
 msgid "For a mage of the Light, the words you speak are dark indeed."
-msgstr ""
+msgstr "对于一位光明法师，你说的这些话真的很黑暗。"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:890
@@ -5324,6 +5332,8 @@ msgid ""
 "artifact, and Gweddry has agreed to accompany me, so that leaves room for "
 "six more."
 msgstr ""
+"这个前室只有八个人的位置。我要去取这件神器，格温德利答应陪我，所以剩下六个位"
+"置。"
 
 #. [message]: speaker=Dacyn
 #. the player needs to choose 6 troops
@@ -5342,27 +5352,27 @@ msgstr ""
 #. somewhat like an airlock
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:992
 msgid "I am ready to cycle the gates. Gweddry, shall we proceed?"
-msgstr ""
+msgstr "我准备转动大门了。格温德利，我们继续吗？"
 
 #. [option]
 #. 6 soldiers
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:995
 msgid "Yes, these are the soldiers I want."
-msgstr ""
+msgstr "是的，这些是我要的战士。"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1003
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2479
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:847
 msgid "No, not yet."
-msgstr ""
+msgstr "不，还没有。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1012
 msgid ""
 "Gweddry, you agreed to accompany me. We must both enter this antechamber "
 "before I cycle the gates."
-msgstr ""
+msgstr "格温德利，你同意陪我的。在转动大门之前，我们都必须进入这个前室。"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1072
@@ -11207,7 +11217,7 @@ msgstr ""
 #. [unit_type]: id=Ancient Ogre, race=ogre
 #: data/campaigns/Eastern_Invasion/units/Ogre_Ancient.cfg:4
 msgid "Ancient Ogre"
-msgstr ""
+msgstr "上古食人魔"
 
 #. [unit_type]: id=Ancient Ogre, race=ogre
 #: data/campaigns/Eastern_Invasion/units/Ogre_Ancient.cfg:30
@@ -11220,7 +11230,7 @@ msgstr ""
 #. [unit_type]: id=Great Ogre, race=ogre
 #: data/campaigns/Eastern_Invasion/units/Ogre_Great.cfg:4
 msgid "Great Ogre"
-msgstr ""
+msgstr "大食人魔"
 
 #. [unit_type]: id=Great Ogre, race=ogre
 #: data/campaigns/Eastern_Invasion/units/Ogre_Great.cfg:27
