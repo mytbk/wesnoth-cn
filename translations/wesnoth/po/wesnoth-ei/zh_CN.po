@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 02:28 UTC\n"
-"PO-Revision-Date: 2024-06-06 11:50+0800\n"
+"PO-Revision-Date: 2024-06-06 18:21+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1468,12 +1468,12 @@ msgstr ""
 #. to the remaining mercenaries, who are orcs and human outlaws
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:367
 msgid "No, we need your help! Please come back!"
-msgstr ""
+msgstr "不，我们需要你们的帮助！请你们回来！"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:371
 msgid "Sorry lady, but coin’s no good if you’re not alive to spend it."
-msgstr ""
+msgstr "对不起，女士，但如果你没命花钱，金币没有好处。"
 
 #. [message]: speaker=$found_unit.id
 #. the mercenaries decide it's time to retreat
@@ -1496,11 +1496,12 @@ msgid ""
 "I suppose we’ll have to bring him with us, at least for a time. Tie him up "
 "so he doesn’t run away."
 msgstr ""
+"我认为我们不得不带他和我们一起，至少持续一段时间。把他绑住，这样他逃不掉。"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:427
 msgid "Help! I was only doing my job!"
-msgstr ""
+msgstr "救命！我只是在做我的工作！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:463
@@ -1528,7 +1529,7 @@ msgstr "不！这是我第一次任务失败，也是最后一次！"
 #. last breath
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:512
 msgid "I only wanted... to protect my people..."
-msgstr ""
+msgstr "我只是想……保护我的人民……"
 
 #. [message]: speaker=unit
 #. The valley of the River Weldyn, although there's also a city with the same name.
@@ -2442,7 +2443,7 @@ msgstr "找到格温德利、达辛和欧瓦埃克"
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:260
 msgid "Owaec is a leader and can recruit units when standing on a keep."
-msgstr ""
+msgstr "欧瓦埃克是一名领袖，站在城堡主楼的时候可以招募单位。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:315
@@ -2765,6 +2766,8 @@ msgid ""
 "Mage, pull your nose out of your books for a moment, would you? Gweddry and "
 "I have some questions about this invasion you speak of."
 msgstr ""
+"法师，把你的鼻子从书里伸出来一会儿，好吗？我和格温德利对你所说的这次入侵有一"
+"些疑问。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:966
@@ -3464,7 +3467,7 @@ msgstr ""
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:783
 msgid "Owaec? Is that you?"
-msgstr ""
+msgstr "欧瓦埃克？是你吗？"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:787
@@ -4371,33 +4374,33 @@ msgstr ""
 msgid ""
 "It be a sad day when dwarf fights dwarf... ken ye not let us pass peaceable-"
 "like?"
-msgstr ""
+msgstr "矮人和矮人战斗，这真是一个悲伤的日子……你就不能让我们和平地通过吗？"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:540
 msgid "I’m not afraid of ye! Raise yer axe, foreigner!"
-msgstr ""
+msgstr "我不怕你！举起你的斧头吧，外族人！"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:553
 msgid "Ach, it’s been too long since I put my axe in an orc’s skull!"
-msgstr ""
+msgstr "啊，我已经很久没有用斧头砍兽人的脑袋了！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:557
 msgid "For the Chief!"
-msgstr ""
+msgstr "为了酋长！"
 
 #. [message]: speaker=Dolburras
 #. attacking a saurian
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:571
 msgid "Ooch, what manner o’ creature be you?"
-msgstr ""
+msgstr "哎哟，你是个什么生物？"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:575
 msgid "Your sssslayer!"
-msgstr ""
+msgstr "你这嘶嘶杀手！"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:589
@@ -4409,7 +4412,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:593
 msgid "The only honor here belongs to the Chief!"
-msgstr ""
+msgstr "唯一的荣誉属于酋长！"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:606
@@ -4431,7 +4434,7 @@ msgstr "10金币"
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:637
 msgid "These dwarves have a pile of 10 gold pieces!"
-msgstr ""
+msgstr "这些矮人有堆10金币的金币块！"
 
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:638
@@ -4442,12 +4445,12 @@ msgstr "20金币"
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:638
 msgid "These nagas have a pile of 20 gold pieces!"
-msgstr ""
+msgstr "这些娜迦有堆20金币的金币块！"
 
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:639
 msgid "These orcs have a pile of 20 gold pieces!"
-msgstr ""
+msgstr "这些兽人有堆20金币的金币块！"
 
 #. [message]: speaker=Bagork
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:655
@@ -4465,12 +4468,12 @@ msgstr "看起来没戏。"
 #. [message]: speaker=Prok-Bak
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:676
 msgid "Chief Dra-Nak will hear of this!"
-msgstr ""
+msgstr "德拉-纳克酋长会听到的！"
 
 #. [message]: speaker=Aleii
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:687
 msgid "Thisss isss why we avoid outsssidersss..."
-msgstr ""
+msgstr "这嘶嘶就是嘶嘶为什么我们要躲避外来者嘶嘶……"
 
 #. [message]: speaker=Pelathsil
 #. "It seems those humans were mightier than I thought..."
@@ -4495,6 +4498,8 @@ msgid ""
 "We are doing well. Our forces have already gathered $gold gold — plenty for "
 "the winter, and there is enough time remaining to gather even more."
 msgstr ""
+"我们做得不错。我们的部队已经收集了$gold金币——足够这个冬天了，并且我们还有时间"
+"收集更多。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:742
@@ -4537,7 +4542,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:785
 msgid "Travel north regardless. <i>(challenging)</i>"
-msgstr ""
+msgstr "无论如何向北出发。 <i>（挑战）</i>"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:789
@@ -4549,7 +4554,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:794
 msgid "Restart the level."
-msgstr ""
+msgstr "重打这关。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:815
@@ -4646,7 +4651,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:730
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:288
 msgid "It is winter, daytime is shorter"
-msgstr ""
+msgstr "这是冬天，白天会变短"
 
 #. [note]
 #. The amount is likely between 2 and 10 per turn.
@@ -5859,10 +5864,8 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:42
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:119
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:29
-#, fuzzy
-#| msgid "King Dra-Nak"
 msgid "Chief Dra-Nak"
-msgstr "德拉-纳克王"
+msgstr "德拉-纳克酋长"
 
 #. [message]: speaker=Chief Dra-Nak
 #. the wyrms being the drakes in S09
@@ -6487,10 +6490,8 @@ msgstr ""
 
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1338
-#, fuzzy
-#| msgid "Finally, we’re rescued!"
 msgid "Hooray, we’re rescued!"
-msgstr "我们终于得救了！"
+msgstr "太好了，我们得救了！"
 
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1339
@@ -6571,10 +6572,8 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1529
-#, fuzzy
-#| msgid "We’ve got to get out of here!"
 msgid "Everyone hurry, we have to get out of here!"
-msgstr "我们得离开这儿！"
+msgstr "大家赶快，我们得离开这儿！"
 
 #. [message]: speaker=Owaec
 #. 3 turns after the main escape starts
@@ -7044,6 +7043,9 @@ msgid ""
 "His armies weakened,\n"
 "His prey fled."
 msgstr ""
+"德拉-纳克死了。\n"
+"他的军队弱了。\n"
+"他的猎物跑了。"
 
 #. [message]: speaker=Mortic
 #. to his fellow drakes, and any surviving orcs
@@ -7053,6 +7055,9 @@ msgid ""
 "His armies weakened,\n"
 "His prey fled."
 msgstr ""
+"德拉-纳克弱了。\n"
+"他的军队弱了。\n"
+"他的猎物跑了。"
 
 #. [message]: speaker=Mortic
 #. to his fellow drakes, and any surviving orcs
@@ -10513,10 +10518,8 @@ msgstr "击败所有龙人首领"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:588
-#, fuzzy
-#| msgid "Death of Dacyn"
 msgid "Death of Chief Dra-Nak"
-msgstr "达辛死亡"
+msgstr "德拉-纳克酋长死亡"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:592
