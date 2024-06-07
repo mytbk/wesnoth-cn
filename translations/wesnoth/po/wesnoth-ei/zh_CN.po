@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 02:28 UTC\n"
-"PO-Revision-Date: 2024-06-06 18:21+0800\n"
+"PO-Revision-Date: 2024-06-07 10:31+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -206,7 +206,7 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:49
 msgid "Complete ‘<i>Soradoc</i>’ without killing any enemy leaders."
-msgstr ""
+msgstr "不消灭任何地方首领而完成“<i>索拉多克</i>”。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:49
@@ -246,7 +246,7 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:57
 msgid "Recruit the wild ogres in ‘<i>Castle in the Ice</i>’."
-msgstr ""
+msgstr "在“<i>冰中城堡</i>”一幕招募野生食人魔。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:57
@@ -432,12 +432,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:61
-#, fuzzy
-#| msgid ""
-#| "With unknown enemies pressing Wesnoth from the East, Konrad II decided to "
-#| "re-build and re-man the River Guard outposts, and use them to keep the "
-#| "Crown’s eye and hand firmly on the settled country to either side of the "
-#| "lower Weldyn. He sent two of the most promising young officers to them."
 msgid ""
 "With unknown enemies pressing Wesnoth from the East, Dacyn pressed Konrad II "
 "to re-man the outposts, and use them to keep the Crown’s eye and hand firmly "
@@ -446,18 +440,12 @@ msgid ""
 "southern outpost, he sent Sergeant Gweddry, who would be accompanied by "
 "Dacyn the mage."
 msgstr ""
-"来自东面的未知敌人威胁着韦诺，科纳德二世决定重建并重新派兵驻守河岸卫队的哨"
-"所，以便让王国可以密切注视并牢牢控制住维尔帝河下游两岸的有人居住区。他派出两"
-"位最有前途的年轻军官前往哨所。"
+"来自东面的未知敌人威胁着韦诺，达辛催促科纳德二世重新派兵驻守哨所，并利用它们"
+"监视和控制韦尔帝河下游。他派出两位最有前途的年轻军官前往哨所。他派欧瓦埃克，"
+"一个氏族贵族，前往北疆哨所。他派格温德利军士，由法师达辛陪同，前往南疆哨所。"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:65
-#, fuzzy
-#| msgid ""
-#| "All went well once the King’s forces arrived. There were no attacks for "
-#| "several weeks, and Gweddry’s men started to grow incautious. Then, at "
-#| "dawn one day, Gweddry and his men were roused by the startled cries of "
-#| "the night watchmen..."
 msgid ""
 "All went well once the king’s forces arrived. There were no attacks for "
 "several weeks, and Gweddry’s men started to grow incautious. Then, one "
@@ -465,7 +453,7 @@ msgid ""
 "watchmen..."
 msgstr ""
 "国王的军队到来之后，一切都很正常。有好几周都没有遇到袭击，格温德利的部队开始"
-"松懈起来。而后，在某一天的黎明，格温德利和他的部队被守夜人惊恐的叫声吵醒了……"
+"松懈起来。而后，在某个傍晚，格温德利和他的部队被守夜人惊恐的叫声吵醒了……"
 
 #. [side]
 #. [side]: type=Lancer, id=Yannic
@@ -1272,10 +1260,8 @@ msgstr ""
 
 #. [scenario]: id=04a_An_Elven_Interlude
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:8
-#, fuzzy
-#| msgid "An Elven Alliance"
 msgid "An Elven Interlude"
-msgstr "精灵联盟"
+msgstr "精灵的插曲"
 
 #. [scenario]: id=04a_An_Elven_Interlude
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:24
@@ -4095,7 +4081,7 @@ msgstr "异种憎恶"
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:26
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:30
 msgid "<b><span color='#00cc99'>Part II: The Wildlands</span></b>"
-msgstr ""
+msgstr "<b><span color='#00cc99'>第二部：荒地</span></b>"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:31
@@ -4572,10 +4558,8 @@ msgstr ""
 
 #. [scenario]: id=09_Castle_in_the_Ice
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:4
-#, fuzzy
-#| msgid "Come, into the castle."
 msgid "Castle in the Ice"
-msgstr "快，到城堡里来。"
+msgstr "冰中城堡"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:43
@@ -5057,7 +5041,7 @@ msgstr ""
 #. [scenario]: id=10_Dark_Sanctuary
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:4
 msgid "Dark Sanctuary"
-msgstr ""
+msgstr "黑暗圣殿"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:19
@@ -7166,7 +7150,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:35
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:41
 msgid "<b><span color='#ff0000'>Part III: Wesnoth at War</span></b>"
-msgstr ""
+msgstr "<b><span color='#ff0000'>第三部：战争中的韦诺</span></b>"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:36
@@ -10402,7 +10386,7 @@ msgstr ""
 #. [scenario]: id=99_Empire
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:4
 msgid "Empire"
-msgstr ""
+msgstr "帝国"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:18
@@ -10812,10 +10796,8 @@ msgstr ""
 #. [message]: speaker=Chief Dra-Nak
 #. all the prisoners
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1438
-#, fuzzy
-#| msgid "Kill them all!"
 msgid "Now kill them all."
-msgstr "杀光他们！"
+msgstr "现在杀光他们。"
 
 #. [message]: speaker=Unik
 #. already paid them for the prisoners
@@ -11565,10 +11547,8 @@ msgstr "我……必须——啊……！"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:47
-#, fuzzy
-#| msgid "We are doomed..."
 msgid "The light fades... We are doomed..."
-msgstr "我们完了……"
+msgstr "光明消逝……我们完了……"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:65
@@ -11594,10 +11574,8 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:102
-#, fuzzy
-#| msgid "Wesnoth, I have failed you..."
 msgid "The light fades... Wesnoth, I have failed you..."
-msgstr "韦诺，我辜负了你……"
+msgstr "光明消逝……韦诺，我辜负了你……"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:121
@@ -11774,12 +11752,12 @@ msgstr ""
 #. death of a male Necromancer. Mal-Talar died in S01 and the player has now killed his renamed clone too.
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:397
 msgid "No! How am I defeated so easily..."
-msgstr ""
+msgstr "不！我怎么这么容易被击败……"
 
 #. [message]: speaker=Naken-alvak
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:425
 msgid "You... waste... your effort..."
-msgstr ""
+msgstr "你……浪费了……你的努力……"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:27
@@ -12279,7 +12257,7 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:734
 msgid "Ring of Invisibility"
-msgstr ""
+msgstr "隐身之环"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:735
 msgid ""
@@ -12290,7 +12268,7 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:759
 msgid "Drop Ring of Invisibility"
-msgstr ""
+msgstr "放下隐身之环"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:773
 msgid "staff"
