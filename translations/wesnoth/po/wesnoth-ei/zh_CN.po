@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-10 03:42 UTC\n"
-"PO-Revision-Date: 2024-06-10 15:47+0800\n"
+"PO-Revision-Date: 2024-06-11 13:15+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -276,12 +276,12 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:63
 msgid "Complete ‘<i>Evacuation</i>’ by defeating all enemy leaders."
-msgstr ""
+msgstr "通过击败所有敌方首领完成“<i>撤退</i>”一幕。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:63
 msgid "Scenario 12: Plan B"
-msgstr ""
+msgstr "场景12：B计划"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:65
@@ -983,7 +983,7 @@ msgstr ""
 #. [message]: speaker=Duduril
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:385
 msgid "Thursagan’s beard! I’ve got to go help the others!"
-msgstr ""
+msgstr "瑟萨冈的胡子！我必须去帮助其他人！"
 
 #. [message]: speaker=unit
 #. "troll treasure hole, keep out"
@@ -1032,17 +1032,17 @@ msgstr "我看到日光了！跟我走！"
 #. [message]: speaker=Knutan
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:557
 msgid "Maybe I ain’t been the wisest leader..."
-msgstr ""
+msgstr "也许我不是最有智慧的领袖……"
 
 #. [message]: speaker=Kabak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:568
 msgid "From stone I come... now stone I return..."
-msgstr ""
+msgstr "我从石中来……现归石中去……"
 
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:579
 msgid "I die? But how?"
-msgstr ""
+msgstr "我死了？但怎么死的？"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:583
@@ -1108,12 +1108,12 @@ msgstr "玛尔-卡拉特"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:160
 msgid "To travel northwest, defeat Mal-Skraat. <i>(easy)</i>"
-msgstr ""
+msgstr "击败玛尔-斯克拉特以去往西北方。 <i>（简单）</i>"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:165
 msgid "To travel east, defeat Mal-Kallat. <i>(normal)</i>"
-msgstr ""
+msgstr "击败玛尔-卡拉特以去往东方。 <i>（普通）</i>"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:207
@@ -2122,10 +2122,8 @@ msgstr "击败一名黑暗法师从而逃离"
 #. [objective]: condition=win
 #. when initially shown there are 6 imprisoned knights, the text doesn't change as they're freed
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:434
-#, fuzzy
-#| msgid "Release the other prisoners"
 msgid "Rescue the imprisoned knights"
-msgstr "释放其他囚犯"
+msgstr "救出被囚禁的骑士"
 
 #. [unit]: type=Terraent, id=Terraent
 #. the unique unit type is a Paladin variantion
@@ -2402,10 +2400,8 @@ msgstr "击败卡拉卡莱兹"
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1465
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:277
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1244
-#, fuzzy
-#| msgid "Find Gweddry, Dacyn and Owaec"
 msgid "Death of Gweddry, Dacyn, or Owaec"
-msgstr "找到格温德利、达辛和欧瓦埃克"
+msgstr "格温德利、达辛或欧瓦埃克死亡"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:260
@@ -3650,10 +3646,8 @@ msgstr "看，这峡谷里住着一个食人魔部落。我们该试着抓一些
 
 #. [message]: race=ogre
 #: data/campaigns/Eastern_Invasion/scenarios/07a_Capturing_the_Ogres.cfg:170
-#, fuzzy
-#| msgid "Humans are coming! Run!"
 msgid "Guh... human? Human come! Run!"
-msgstr "人类来啦！快跑！"
+msgstr "嗝……人类？人类来啦！快跑！"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/07a_Capturing_the_Ogres.cfg:174
@@ -3702,8 +3696,6 @@ msgstr "不要伤害$ogre_name|！"
 
 #. [value]
 #: data/campaigns/Eastern_Invasion/scenarios/07a_Capturing_the_Ogres.cfg:290
-#, fuzzy
-#| msgid "$ogre_name will be good! Promise!"
 msgid "$ogre_name be good will! Promise!"
 msgstr "$ogre_name|会乖乖的！保证！"
 
@@ -3762,10 +3754,8 @@ msgstr "我们抓到了很多食人魔！它们对我们的队伍而言是很不
 
 #. [scenario]: id=07b_Ogre_Crossing
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:6
-#, fuzzy
-#| msgid "The Crossing"
 msgid "Ogre Crossing"
-msgstr "渡口"
+msgstr "食人魔渡口"
 
 #. [part]
 #. Delfador's Memoirs was around 160 years ago, DiD was around 240 years ago.
@@ -3800,10 +3790,8 @@ msgstr "蜥蜴人"
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:187
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:470
-#, fuzzy
-#| msgid "Northern Outpost"
 msgid "Parthyn Guardpost"
-msgstr "北疆哨所"
+msgstr "帕辛哨所"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:194
@@ -3866,14 +3854,11 @@ msgstr "蜥蜴蠢货！你完蛋了！"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:291
-#, fuzzy
-#| msgid ""
-#| "If we show ourselves as enemies of the orcs, they may aid us. But first "
-#| "we need to cross the river."
 msgid ""
 "If we can reach the ogres in time, we may be able to convince them to aid "
 "us. But first we need to cross the river."
-msgstr "如果我们以兽人的敌人的身份出现，他们可能会协助我们。但首先我们得过河。"
+msgstr ""
+"如果我们能及时见到食人魔，我们可能可以说服他们协助我们。但首先我们得过河。"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:300
@@ -3925,10 +3910,8 @@ msgstr ""
 
 #. [message]: speaker=ghast_leader
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:450
-#, fuzzy
-#| msgid "Grarrgghh..."
 msgid "Gruhhhh...."
-msgstr "嘎啊啊啊……"
+msgstr "咕啊啊啊……"
 
 #. [message]: speaker=Mal-Talar
 #. This is a reference to S01 and S02.
@@ -4027,10 +4010,8 @@ msgstr ""
 #. [message]: speaker=Owaec
 #. crossed the river
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:871
-#, fuzzy
-#| msgid "Good! We have escaped these accursed caves!"
 msgid "Good, we have safely crossed!"
-msgstr "好！我们终于逃出了这该死的洞穴！"
+msgstr "好，我们安全地渡过了！"
 
 #. [message]: speaker=Izziasch
 #. "they" meaning the undead, not the player's troops
@@ -4046,10 +4027,8 @@ msgstr ""
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:930
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:139
-#, fuzzy
-#| msgid "Grarrgghh..."
 msgid "Hurt... grarrgghh..."
-msgstr "嘎啊啊啊……"
+msgstr "痛……嘎啊啊啊……"
 
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:10
@@ -4429,8 +4408,6 @@ msgstr "我要杀光你们！"
 #. [message]: speaker=second_unit
 #. The unit who killed Bagork responds to Bagork's last breath, which was "I will kill all of you!"
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:666
-#, fuzzy
-#| msgid "Not very likely."
 msgid "Not likely."
 msgstr "看起来没戏。"
 
@@ -4447,16 +4424,12 @@ msgstr "这嘶嘶就是嘶嘶为什么我们要躲避外来者嘶嘶……"
 #. [message]: speaker=Pelathsil
 #. "It seems those humans were mightier than I thought..."
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:702
-#, fuzzy
-#| msgid "It seems yon humans are mightier than I kenned..."
 msgid "It seems yon humans be mightier than I kenned..."
 msgstr "你们人类看来比我所知道的要强……"
 
 #. [message]: speaker=Pelathsil
 #. "Foul orcs! Perhaps we should have allied with the humans..."
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:716
-#, fuzzy
-#| msgid "Foul orcs! Perhaps we should ha’ allied wi’ the humans..."
 msgid "Foul orcs! Mayhaps we should ha’ allied wi’ the humans..."
 msgstr "肮脏的兽人！我们也许该和人类结盟的……"
 
@@ -5099,17 +5072,13 @@ msgstr "击败敌方首领"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:709
-#, fuzzy
-#| msgid "Retrieve the stolen gold"
 msgid "Retrieve the amulet"
-msgstr "取回被偷走的金币"
+msgstr "取回护身符"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:714
-#, fuzzy
-#| msgid "Survive the long night"
 msgid "Survive the orcish assault"
-msgstr "活过漫漫长夜"
+msgstr "活过兽人的袭击"
 
 #. [note]
 #. TODO in 1.19 add "... and end your turn"
@@ -5408,10 +5377,8 @@ msgstr ""
 #. [message]: speaker=unit
 #. the feeling that they've triggered a trap
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1323
-#, fuzzy
-#| msgid "Uh oh!"
 msgid "Uh oh..."
-msgstr "啊哦！"
+msgstr "啊哦……"
 
 #. [message]: speaker=unit
 #. no obvious effect yet, it triggers when that unit moves again
@@ -6491,10 +6458,8 @@ msgstr "守卫被引开了！现在正是逃跑的好时机！"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1451
-#, fuzzy
-#| msgid "Move Gweddry to the western exit"
 msgid "Move Gweddry, Dacyn, or Owaec to the south-west exit"
-msgstr "移动格温德利至西面出口"
+msgstr "移动格温德利，达辛或欧瓦埃克至西面出口"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1455
