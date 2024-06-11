@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-10 03:42 UTC\n"
-"PO-Revision-Date: 2024-06-11 13:15+0800\n"
+"PO-Revision-Date: 2024-06-11 14:59+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1272,7 +1272,7 @@ msgstr ""
 #. [side]: type=Outlaw, id=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:115
 msgid "Mercenaries"
-msgstr ""
+msgstr "雇佣军"
 
 #. [side]: type=Outlaw, id=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:119
@@ -1310,7 +1310,7 @@ msgstr ""
 msgid ""
 "What brings you to our lands? Long has it has been since men of Wesnoth "
 "presented themselves to us."
-msgstr ""
+msgstr "是什么把你们带到了我们的领地？韦诺人很久没有在我们面前出现过了。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:215
@@ -5481,12 +5481,12 @@ msgstr ""
 msgid ""
 "What’s this? Looks like a book on necromancy? <i>‘To become a lich, one must "
 "first-</i>"
-msgstr ""
+msgstr "这是什么？看起来是本关于死灵术的书？ <i>欲成巫妖，身必先-</i>"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1684
 msgid "Drop that at once! That journal is dangerous!"
-msgstr ""
+msgstr "立刻放下！这本日记很危险！"
 
 #. [message]: speaker=Dacyn
 #. a book on necromancy
@@ -5495,6 +5495,8 @@ msgid ""
 "I recognize this volume. Such a thing could be dangerous in the wrong hands. "
 "Perhaps I should hold on to it... for safekeeping."
 msgstr ""
+"我认得这卷书。这样的东西落在坏人手里会很危险。也许我应该把它保存起来……妥善保"
+"管。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1711
@@ -5503,11 +5505,13 @@ msgid ""
 "thing could be dangerous in the wrong hands. Perhaps I should hold on to "
 "it... for safekeeping."
 msgstr ""
+"……我认得这卷书。很幸运我先找到了它，这样的东西落在坏人手里会很危险。也许我应"
+"该把它保存起来……妥善保管。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1730
 msgid "There are a few loose pages on the ground here..."
-msgstr ""
+msgstr "这里有几页书散落在地上……"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1734
@@ -5546,6 +5550,7 @@ msgid ""
 "This volume has something to do with a dwarf named Tharga... Thursag-"
 "something? The text is very faded."
 msgstr ""
+"这卷书和一个矮人有点关系，他的名字叫萨嘎……瑟萨格-什么？文字已经褪色了。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1764
@@ -5573,7 +5578,7 @@ msgstr ""
 #. a wooden crate, using the items/box.png image
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1792
 msgid "This box is empty."
-msgstr ""
+msgstr "这个盒子是空的。"
 
 #. [message]: speaker=unit
 #. a wooden crate, using the items/box.png image
@@ -5607,7 +5612,7 @@ msgstr ""
 #. Cowardly Goblin is male, and appears in just two events. This one, and the end-of-level event.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1876
 msgid "Aaah, humans! Run away!"
-msgstr ""
+msgstr "啊，人类！快跑！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1883
@@ -5673,7 +5678,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2077
 msgid "Yes, release some ghouls."
-msgstr ""
+msgstr "是的，释放一些食尸鬼。"
 
 #. [message]: speaker=Goblin Leader
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2101
@@ -5685,7 +5690,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2112
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2195
 msgid "No, keep them locked up."
-msgstr ""
+msgstr "不，让它们继续锁着。"
 
 #. [message]: speaker=Dacyn
 #. rune on the floor that will open floor-to-ceiling gates
@@ -5758,7 +5763,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2419
 msgid "Yes, I’m ready."
-msgstr ""
+msgstr "是的，我准备好了。"
 
 #. [command]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2426
@@ -5769,7 +5774,7 @@ msgstr ""
 #. looking at it from about 3 indoor hexes away
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2462
 msgid "Is that... the Amulet?"
-msgstr ""
+msgstr "这是……护身符？"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2466
@@ -9288,10 +9293,8 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2035
-#, fuzzy
-#| msgid "I have. I think we should..."
 msgid "I think we should..."
-msgstr "是的。我想我们应该……"
+msgstr "我想我们应该……"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2037
@@ -9304,10 +9307,8 @@ msgstr "向玛尔-拉瓦纳尔提出决斗。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2041
-#, fuzzy
-#| msgid "I will send the message at once."
 msgid "I agree. Dacyn, send the message at once."
-msgstr "我会马上送出这个消息。"
+msgstr "我同意。达辛，马上送出这个消息。"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2051
@@ -9318,10 +9319,8 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2055
-#, fuzzy
-#| msgid "I will begin preparing our troops."
 msgid "I agree. Owaec, begin preparing our armies."
-msgstr "我将整备部队。"
+msgstr "我同意。欧瓦埃克，开始整备我们的军队。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2073
@@ -9430,10 +9429,8 @@ msgstr ""
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2208
-#, fuzzy
-#| msgid "challenge Mal-Ravanal to a duel."
 msgid "challenge Mal-Ravanal to a duel. <i>(regular)</i>"
-msgstr "向玛尔-拉瓦纳尔提出决斗。"
+msgstr "向玛尔-拉瓦纳尔提出决斗。 <i>（正常）</i>"
 
 #. [option]
 #. both Gweddry and Owaec are dead, so this goes from "challenging" to "very hard"
@@ -9504,12 +9501,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:191
-#, fuzzy
-#| msgid ""
-#| "The rules of the duel are these:\n"
-#| "You may recruit or recall up to 5 units.\n"
-#| "At the end of your first turn, your keep will disappear, and you must "
-#| "battle with whatever troops you have at that time."
 msgid ""
 "The rules of the duel are these:\n"
 "You may recruit or recall up to 6 units.\n"
@@ -9517,31 +9508,24 @@ msgid ""
 "with whatever troops you have at that time."
 msgstr ""
 "决斗的规则是：\n"
-"你能征募或召回最多5个单位。\n"
+"你能征募或召回最多6个单位。\n"
 "在你的第一回合的结尾，你的主楼将消失，而不论当时你拥有什么单位，你都必须使用"
 "他们来战斗。"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:294
-#, fuzzy
-#| msgid ""
-#| "Wait — what just happened? He called more warriors out of the ground! "
-#| "That’s not allowed!"
 msgid ""
 "Wait — what just happened? More undead creatures just came out of the "
 "ground! That’s not allowed!"
-msgstr "等等——刚才发生什么了？他从地底召来了更多的战士！这是不允许的！"
+msgstr "等等——刚才发生什么了？更多亡灵生物从地底出来了！这是不允许的！"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:298
-#, fuzzy
-#| msgid ""
-#| "Stop talking and fight! The rules say nothing about bringing up warriors "
-#| "that were already here."
 msgid ""
 "The rules say nothing about bringing up warriors who were already here. Feel "
 "free to reanimate some too, if you can."
-msgstr "闭嘴，打吧！规则里可没有说不能复活已经存在于此的战士。"
+msgstr ""
+"规则里可没有说不能复活已经存在于此的战士。如果你行的话，也可以随便复活一些。"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:306
@@ -9781,10 +9765,8 @@ msgstr "玛尔-德拉卡纳尔"
 
 #. [value]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:947
-#, fuzzy
-#| msgid "My master is merely toying with you!"
 msgid "I am merely toying with you!"
-msgstr "我的主人只是和你们玩玩而已！"
+msgstr "我只是和你们玩玩而已！"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:992
