@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-10 03:42 UTC\n"
-"PO-Revision-Date: 2024-06-11 14:59+0800\n"
+"PO-Revision-Date: 2024-06-13 11:25+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -917,6 +917,8 @@ msgid ""
 "much too powerful for us; perhaps too powerful for all of Wesnoth. We must "
 "flee while I consider how to defeat them."
 msgstr ""
+"真的是提问的时候吗？可以说，他们代表了一支对我们来说过于强大的军队；也许对整"
+"个韦诺来说太强大了。在我考虑如何打败他们的时候，我们必须逃走。"
 
 #. [message]: speaker=unit
 #. speaker is a dwarf
@@ -1187,7 +1189,7 @@ msgstr ""
 #. "their leader" being Mal-Ravanal, who's neither male nor female
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:290
 msgid "Yes. I have history with their leader."
-msgstr ""
+msgstr "是的。我有他们首领的历史。"
 
 #. [message]: speaker=Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:313
@@ -1222,7 +1224,7 @@ msgstr "我告诉他他应该更努力地学习。"
 msgid ""
 "I wanted to avoid as much battle as I could, but it seems like we have no "
 "choice..."
-msgstr ""
+msgstr "我想尽可能地避免战斗，但看起来我们没有选择……"
 
 #. [message]: speaker=Mal-Kallat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:367
@@ -1303,7 +1305,7 @@ msgstr "你们好，旅行者！希望你们感受到我们森林的热情。"
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:207
 msgid "Indeed, and you have my thanks for allowing us entry."
-msgstr ""
+msgstr "的确，我非常感谢你允许我们进来。"
 
 #. [message]: speaker=Vaelya
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:211
@@ -1532,6 +1534,8 @@ msgid ""
 "The fighting has awoken woses from the forest. Now they will surely deny us "
 "passage, and this delay will mean the end of Wesnoth..."
 msgstr ""
+"这场战斗唤醒了森林里树人。现在他们肯定会拒绝我们通过，而这延误就意味着韦诺的"
+"终结……"
 
 #. [scenario]: id=04b_Ill_Humors
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:7
@@ -3255,10 +3259,8 @@ msgstr ""
 
 #. [side]: type=Dark Sorcerer, id=Mal-Mana, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:303
-#, fuzzy
-#| msgid "Mal-Marak"
 msgid "Mal-Mana"
-msgstr "玛尔-玛拉克"
+msgstr "玛尔-玛娜"
 
 #. [side]: type=Death Knight, id=Naken-alvak
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:377
@@ -3635,14 +3637,10 @@ msgstr "如果一只食人魔移动到了地图边缘，则它会逃脱。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07a_Capturing_the_Ogres.cfg:166
-#, fuzzy
-#| msgid ""
-#| "Look, this valley is inhabited by a tribe of ogres. We should try to "
-#| "capture some to train."
 msgid ""
 "Look, this valley is inhabited by a tribe of ogres. They do not seem very "
 "bright..."
-msgstr "看，这峡谷里住着一个食人魔部落。我们该试着抓一些来训练。"
+msgstr "看，这峡谷里住着一个食人魔部落。他们看起来不是很有活力……"
 
 #. [message]: race=ogre
 #: data/campaigns/Eastern_Invasion/scenarios/07a_Capturing_the_Ogres.cfg:170
@@ -5065,10 +5063,8 @@ msgstr "移动达辛、格温德利和援军到内部的大门"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:702
-#, fuzzy
-#| msgid "Defeat the enemy leader"
 msgid "Defeat the sanctum guard"
-msgstr "击败敌方首领"
+msgstr "击败密室守卫"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:709
@@ -6105,28 +6101,20 @@ msgstr "我相信指挥官一定会来救我们的！"
 #. [message]: role=escapee sidekick 0
 #. Male speaker talking to male deserter, also the huge enemies changed in 1.17 from trolls to orcs
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:700
-#, fuzzy
-#| msgid ""
-#| "What? Didn’t you see those huge trolls drag them away? It’s hopeless!"
 msgid "What? Didn’t you see those huge orcs drag them away? It’s hopeless!"
-msgstr "什么？你没看到那些庞大的巨魔把他们拖走了吗？没救了！"
+msgstr "什么？你没看到那些庞大的兽人把他们拖走了吗？没救了！"
 
 #. [message]: role=escapee sidekick 0
 #. Female speaker talking to male deserter, also the huge enemies changed in 1.17 from trolls to orcs
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:702
-#, fuzzy
-#| msgid ""
-#| "What? Didn’t you see those huge trolls drag them away? It’s hopeless!"
 msgid ""
 "female^What? Didn’t you see those huge orcs drag them away? It’s hopeless!"
-msgstr "什么？你没看到那些庞大的巨魔把他们拖走了吗？没救了！"
+msgstr "什么？你没看到那些庞大的兽人把他们拖走了吗？没救了！"
 
 #. [message]: role=escapee leader
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:706
-#, fuzzy
-#| msgid "Be quiet, you two! There’s something back here..."
 msgid "Be quiet, you three! There’s something back here..."
-msgstr "安静，你们两个！这儿好像有……"
+msgstr "安静，你们三个！这儿好像有……"
 
 #. [message]: role=escapee leader
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:711
@@ -6456,10 +6444,8 @@ msgstr ""
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1446
-#, fuzzy
-#| msgid "The guards are distracted! Now is the time to escape!"
 msgid "The guards are distracted! Let us make our daring escape!"
-msgstr "守卫被引开了！现在正是逃跑的好时机！"
+msgstr "守卫被引开了！让我们大胆地逃跑！"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1451
@@ -7184,10 +7170,8 @@ msgstr ""
 #. [objective]: condition=win
 #. Mal-Yrna, a female necromancer
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:519
-#, fuzzy
-#| msgid "Defeat the enemy leader"
 msgid "Defeat the southern necromancer"
-msgstr "击败敌方首领"
+msgstr "击败南面的死灵法师"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:523
@@ -7245,10 +7229,8 @@ msgstr ""
 #. [message]
 #. Vovan has been turned into a ghoul, and the other prisoner has been too.
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:621
-#, fuzzy
-#| msgid "No! I... die..."
 msgid "I... Hunger..."
-msgstr "不！我……要死了……"
+msgstr "我……饿……"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:626
@@ -8853,10 +8835,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:983
-#, fuzzy
-#| msgid "Survive the long night"
 msgid "Survive the undead assault"
-msgstr "活过漫漫长夜"
+msgstr "活过亡灵袭击"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:988
@@ -8916,14 +8896,8 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1080
-#, fuzzy
-#| msgid ""
-#| "We will fight soon, my lord. Look, night approaches; and with it the "
-#| "undead hordes. I stand ready to defend the kingdom."
 msgid "Night approaches, and with it the undead hordes. I stand ready."
-msgstr ""
-"我们的战斗就要开始，吾王。看，夜晚即将来临。而亡灵大军也将随之而来。我已经准"
-"备好保卫王国了。"
+msgstr "夜晚即将来临。而亡灵大军也将随之而来。我已经准备好了。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1084
@@ -9300,10 +9274,8 @@ msgstr "我想我们应该……"
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2037
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2091
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2154
-#, fuzzy
-#| msgid "challenge Mal-Ravanal to a duel."
 msgid "challenge Mal-Ravanal to a duel. <i>(normal)</i>"
-msgstr "向玛尔-拉瓦纳尔提出决斗。"
+msgstr "向玛尔-拉瓦纳尔提出决斗。<i>（普通）</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2041
@@ -9357,17 +9329,13 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2095
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2158
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2212
-#, fuzzy
-#| msgid "I will send the message at once."
 msgid "Excellent, I will send the message at once."
-msgstr "我会马上送出这个消息。"
+msgstr "好，我会马上送出这个消息。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2109
-#, fuzzy
-#| msgid "I will begin preparing our troops."
 msgid "Excellent, I will begin preparing our armies!"
-msgstr "我将整备部队。"
+msgstr "好，我将整备军队！"
 
 #. [message]: speaker=Gweddry
 #. although there's a lot of dead troops, this is mainly "to mourn for Owaec"
