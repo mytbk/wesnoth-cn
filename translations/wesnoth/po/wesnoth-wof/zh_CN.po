@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-06-06 13:18+0800\n"
+"PO-Revision-Date: 2024-06-25 12:03+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -1176,7 +1176,7 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:178
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:44
 msgid "Resha"
-msgstr ""
+msgstr "瑞莎"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:40
@@ -1321,7 +1321,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:211
 msgid "Hold the advantage at the end of turn 24"
-msgstr ""
+msgstr "在24回合结束时保持优势"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:216
@@ -1331,7 +1331,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:220
 msgid "Not hold the advantage at the end of turn 24"
-msgstr ""
+msgstr "在24回合结束时没有保持优势"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:224
@@ -1343,7 +1343,7 @@ msgstr ""
 msgid ""
 "Advantage is determined by adding the gold, the value of the drakes on the "
 "field, and five times the income; Right-click to see the current score"
-msgstr ""
+msgstr "优势由金币，场上龙人的价值，和收入的五倍相加所得；右键查看当前分数"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:235
@@ -1353,19 +1353,19 @@ msgstr ""
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:239
 msgid "You must recruit one drake from each caste before recruiting any more"
-msgstr ""
+msgstr "在征募更多单位前，你必须从每个龙人种类中都征募一个单位"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:242
 msgid "No recalls are permitted"
-msgstr ""
+msgstr "不允许召回"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:245
 msgid ""
 "Any drake you lose in combat will not be killed and may be recalled in "
 "future scenarios"
-msgstr ""
+msgstr "任何在战斗中损失的龙人不会被杀，可以在后续场景被召回"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:248
@@ -1390,12 +1390,12 @@ msgstr ""
 #. [set_menu_item]: id=advantage_dialog
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:360
 msgid "Show Advantage"
-msgstr ""
+msgstr "显示优势"
 
 #. [args]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:370
 msgid "dialog^Advantage"
-msgstr ""
+msgstr "优势"
 
 #. [message]: speaker=Vladnir
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:412
@@ -1723,12 +1723,12 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:152
 msgid "Hold all villages at the end of turn 18"
-msgstr ""
+msgstr "在18回合结束时持有所有村庄"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:156
 msgid "Not hold all villages at the end of turn 18"
-msgstr ""
+msgstr "在18回合结束时没有持有所有村庄"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:171
@@ -1736,6 +1736,8 @@ msgid ""
 "You can make the naga allies by moving Resha next to their leader (if you "
 "have not killed any of them)"
 msgstr ""
+"你可以通过移动瑞莎到娜迦首领旁边，让娜迦成为盟友（如果你没有杀死他们的任意一"
+"个）"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:174
@@ -1745,7 +1747,7 @@ msgstr ""
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:177
 msgid "It is summer, daytime is longer"
-msgstr ""
+msgstr "现在是夏天，白天会更长"
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:188
@@ -2305,14 +2307,14 @@ msgstr ""
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:455
 msgid "Recruiting and recalling are not possible"
-msgstr ""
+msgstr "不可征募或召回"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:458
 msgid ""
 "The humans and merfolk will attempt to recapture villages but wildlife will "
 "not"
-msgstr ""
+msgstr "人类和人鱼会尝试重新占领村庄，但野生动物不会"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:467
@@ -2684,7 +2686,7 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:37
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:63
 msgid "Drakes"
-msgstr ""
+msgstr "龙人"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:137
@@ -2750,7 +2752,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:195
 msgid "They are ‘saurians’."
-msgstr ""
+msgstr "他们是“蜥蜴人”。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:199
@@ -2946,7 +2948,7 @@ msgstr "洁欣王后"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:91
 msgid "Lance of Ladoc"
-msgstr ""
+msgstr "拉德克之矛"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:106
@@ -4377,7 +4379,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:832
 msgid "Resha..."
-msgstr ""
+msgstr "瑞莎……"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:857
@@ -4387,12 +4389,12 @@ msgstr ""
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:23
 msgid "My friend..."
-msgstr ""
+msgstr "我的朋友……"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:26
 msgid "I have slain you..."
-msgstr ""
+msgstr "我杀了你……"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:64
@@ -4413,7 +4415,7 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:106
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:386
 msgid "It is winter, nighttime is longer"
-msgstr ""
+msgstr "现在是冬天，夜晚会变长"
 
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:120
@@ -4570,7 +4572,7 @@ msgstr ""
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:431
 msgid "I will return."
-msgstr ""
+msgstr "我会回来的。"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:466
@@ -5850,7 +5852,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:128
 msgid "Resha!"
-msgstr ""
+msgstr "瑞莎！"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:142
