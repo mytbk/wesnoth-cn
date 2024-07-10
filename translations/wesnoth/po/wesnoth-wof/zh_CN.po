@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-06-28 11:54+0800\n"
+"PO-Revision-Date: 2024-07-10 10:16+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -1698,7 +1698,7 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:74
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:115
 msgid "Merfolk"
-msgstr ""
+msgstr "人鱼"
 
 #. [leader]: id=Nemas, type=Merman Warrior
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:77
@@ -1925,7 +1925,7 @@ msgstr ""
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:354
 msgid "Advance!"
-msgstr ""
+msgstr "前进！"
 
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:358
@@ -2964,12 +2964,12 @@ msgstr "拉德克之矛"
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:106
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:107
 msgid "Reinforcements"
-msgstr ""
+msgstr "援军"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:128
 msgid "Kill all the humans"
-msgstr ""
+msgstr "杀了所有人类"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:148
@@ -2984,16 +2984,19 @@ msgid ""
 "Karron with veteran drakes attacking from the west\n"
 "Saurians attacking from the north\n"
 msgstr ""
+"移动任何人到烽火台以呼唤援军：\n"
+"Karron和龙人老兵会从西边进攻\n"
+"蜥蜴人从北边进攻\n"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:161
 msgid "Clashers can be recruited and recalled again"
-msgstr ""
+msgstr "可以再次征募和召回龙人冲击者"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:164
 msgid "Saurians can be recruited and recalled now"
-msgstr ""
+msgstr "现在可以征募和召回蜥蜴人"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:187
@@ -3043,12 +3046,12 @@ msgstr ""
 #. [message]: speaker=Iryn
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:247
 msgid "Not orcs, sir, dragons."
-msgstr ""
+msgstr "不是兽人，先生，是龙人。"
 
 #. [message]: speaker=Vorlyan
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:251
 msgid "Dragons?!"
-msgstr ""
+msgstr "龙人？！"
 
 #. [message]: speaker=Iryn
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:257
@@ -3097,22 +3100,22 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:314
 msgid "Do you wish to light the beacon?"
-msgstr ""
+msgstr "你要点亮烽火吗？"
 
 #. [option]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:317
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #. [option]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:325
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:405
 msgid "I see we shall eat well this day!"
-msgstr ""
+msgstr "我看今天可以吃顿好的了！"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:416
@@ -3521,12 +3524,12 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:243
 msgid "Kill all prey"
-msgstr ""
+msgstr "杀掉所有猎物"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:266
 msgid "Opponents will remain passive until attacked"
-msgstr ""
+msgstr "对手在受到攻击之前不会主动攻击"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:269
@@ -3534,11 +3537,12 @@ msgid ""
 "Use of fire attacks on anyone standing in forest will ignite sweeping "
 "wildfires (due to enchanted leaf litter)"
 msgstr ""
+"对站在森林中的任何人使用火焰攻击都会引发大范围的野火（由被施法的落叶引起）"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:272
 msgid "Anyone standing on wildfire for a turn suffers 16 fire damage"
-msgstr ""
+msgstr "任何在野火中站一回合的人受到16点火焰伤害"
 
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:283
@@ -3547,6 +3551,9 @@ msgid ""
 "\n"
 "This is the sovereign realm of Wesmere. No further may you go."
 msgstr ""
+"你们这些怪物！停下！\n"
+"\n"
+"这是韦弥尔的主权领地。你们不能再往前走了。"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:291
@@ -3902,7 +3909,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:637
 msgid "$unit.name finds a shiny sapphire. Do you want this unit to take it?"
-msgstr ""
+msgstr "$unit.name发现了一颗闪亮的蓝宝石。你想让这个单位拿走它吗？"
 
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:638
@@ -3986,17 +3993,17 @@ msgstr ""
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:239
 msgid "When the heroes exit, anyone left on the map will die"
-msgstr ""
+msgstr "当英雄们离开的时候，任何留在地图上的人会死掉"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:242
 msgid "Anyone that exits before the heroes do will survive"
-msgstr ""
+msgstr "任何在英雄们之前离开的人会存活"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:245
 msgid "Unrecalled veterans will survive"
-msgstr ""
+msgstr "未召回的老兵会存活"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:255
@@ -4289,12 +4296,12 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:650
 msgid "You will..."
-msgstr ""
+msgstr "你会……"
 
 #. [option]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:652
 msgid "have your truce."
-msgstr ""
+msgstr "休战。"
 
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:668
@@ -4312,12 +4319,12 @@ msgstr ""
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:680
 msgid "The gate blocking your passage is no more. Hurry, there is little time."
-msgstr ""
+msgstr "挡住你们道路的大门不复存在。快，没什么时间了。"
 
 #. [option]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:685
 msgid "meet your doom."
-msgstr ""
+msgstr "迎接你的毁灭。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:689
@@ -4384,7 +4391,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:826
 msgid "Farewell my friend..."
-msgstr ""
+msgstr "永别了我的朋友……"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:832
@@ -4394,7 +4401,7 @@ msgstr "瑞莎……"
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:857
 msgid "My wings catch the Winds of Fate..."
-msgstr ""
+msgstr "我的翅膀捕捉到了命运之风……"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:23
@@ -4729,7 +4736,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:292
 msgid "Survive for 18 turns"
-msgstr ""
+msgstr "存活18回合"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:311
@@ -5706,7 +5713,7 @@ msgstr ""
 #. [unit_type]: id=Dolphin, race=monster
 #: data/campaigns/Winds_of_Fate/units/Dolphin.cfg:5
 msgid "Dolphin"
-msgstr ""
+msgstr "海豚"
 
 #. [unit_type]: id=Dolphin, race=monster
 #: data/campaigns/Winds_of_Fate/units/Dolphin.cfg:8
@@ -5727,7 +5734,7 @@ msgstr ""
 #. [unit_type]: id=Gate, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Gate.cfg:5
 msgid "Gate"
-msgstr ""
+msgstr "大门"
 
 #. [unit_type]: id=Gate, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Gate.cfg:9
@@ -5737,7 +5744,7 @@ msgstr ""
 #. [unit_type]: id=Leopard, race=monster
 #: data/campaigns/Winds_of_Fate/units/Leopard.cfg:5
 msgid "Leopard"
-msgstr ""
+msgstr "豹"
 
 #. [unit_type]: id=Leopard, race=monster
 #: data/campaigns/Winds_of_Fate/units/Leopard.cfg:8
@@ -5811,7 +5818,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: data/campaigns/Winds_of_Fate/units/Storm_Wisp.cfg:101
 msgid "lightning"
-msgstr ""
+msgstr "闪电"
 
 #. [unit_type]: id=Stymphalian, race=monster
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:5
@@ -5844,7 +5851,7 @@ msgstr ""
 #. [damage]: id=blast
 #: data/campaigns/Winds_of_Fate/utils/abilities.cfg:11
 msgid "This attack also harms everyone near the opponent."
-msgstr ""
+msgstr "这个攻击也会伤害对手附近的每个人。"
 
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:69
 msgid "Arinexis"
@@ -5892,14 +5899,14 @@ msgstr ""
 #. [object]
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:173
 msgid "Sapphire of Ice"
-msgstr ""
+msgstr "冰之蓝宝石"
 
 #. [object]
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:175
 msgid "This sapphire grants the bearer a ranged cold attack!"
-msgstr ""
+msgstr "蓝宝石给持有者提供远程冰寒攻击的能力！"
 
 #. [effect]: type=cold
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:179
 msgid "sapphire of ice"
-msgstr ""
+msgstr "冰之蓝宝石"
