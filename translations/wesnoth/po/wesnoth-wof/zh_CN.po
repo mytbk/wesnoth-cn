@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-07-10 15:07+0800\n"
+"PO-Revision-Date: 2024-07-11 11:00+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -335,6 +335,11 @@ msgid ""
 "\n"
 "Call the Hunt."
 msgstr ""
+"我们不需要更多的猎手，也能取得胜利。\n"
+"挑战已经足够让我们为有为者做好准备。\n"
+"也不需要你们族群长久以来预言的复兴。\n"
+"\n"
+"开始狩猎吧。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:191
@@ -343,6 +348,9 @@ msgid ""
 "\n"
 "For the sake of our hatchlings, take all the prey you can carry!"
 msgstr ""
+"遵从您的意愿——猎手们，下场！\n"
+"\n"
+"为了我们的幼崽，尽力带走你们带得动的所有猎物！"
 
 #. [message]: speaker=Resha
 #. Drakes refer to aloe as “tailleaf” and use it medicinally the same way humans use yarrow.
@@ -352,11 +360,14 @@ msgid ""
 "Their cleansing waters purge miasma from wounds.\n"
 "While the tailleaf growing at their shores makes a fine poultice."
 msgstr ""
+"看哪，这座岛屿上分布着许多具有疗愈功效的绿洲。\n"
+"它们清澈的水能够净化伤口的恶气。\n"
+"而岸边生长的芦荟则是制作药膏的优质原料。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:208
 msgid "Any of us injured during the hunt should seek an oasis for healing."
-msgstr ""
+msgstr "任何在狩猎中受伤的，都应该找个绿洲疗伤。"
 
 #. [message]: type=Drake Fighter
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:225
@@ -366,6 +377,10 @@ msgid ""
 "In my fire for the hunt, I strayed from Karron’s pack.\n"
 "Then a bite from venomous prey drove my retreat here."
 msgstr ""
+"啊，是你，戈拉克。\n"
+"\n"
+"在狩猎的热情中，我偏离了卡伦的队伍。\n"
+"然后被毒蛇猎物咬伤，使我退避至此。"
 
 #. [message]: type=Drake Fighter
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:234
@@ -375,6 +390,8 @@ msgid ""
 "I ask sanction to join your hunt, so I might now purge the dishonor of my "
 "folly."
 msgstr ""
+"科蒂克纪念碑流淌的水已经清除了我伤口中的毒液。\n"
+"我请求加入你们的狩猎，让我现在可以清除我愚蠢行为带来的耻辱。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:239
@@ -383,6 +400,9 @@ msgid ""
 "\n"
 "My sanction is given."
 msgstr ""
+"是<i>卡伦</i>未能将你重新团结起来而应蒙羞。\n"
+"\n"
+"我同意了。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:261
