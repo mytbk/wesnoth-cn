@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-07-11 11:00+0800\n"
+"PO-Revision-Date: 2024-07-12 10:04+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -254,7 +254,7 @@ msgstr "杀死20个生物    （当前已杀死 $kill_total 个）"
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:296
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:191
 msgid "Death of Gorlack"
-msgstr "Gorlack死亡"
+msgstr "戈拉克死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:88
@@ -267,7 +267,7 @@ msgstr "Gorlack死亡"
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:224
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:195
 msgid "Death of Resha"
-msgstr "Resha死亡"
+msgstr "瑞莎死亡"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:95
@@ -407,17 +407,17 @@ msgstr ""
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:261
 msgid "So it is, that timid Gorlack attempts the Trial of Gaall."
-msgstr ""
+msgstr "确实如此，胆小的戈拉克也要尝试加尔岛的考验了。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:267
 msgid "So it is, that brave Karron cowers within the Cenotaph of Morogor."
-msgstr ""
+msgstr "确实如此，勇敢的卡伦却在莫罗戈纪念碑内畏缩不前。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:273
 msgid "Karron, you are without companions."
-msgstr ""
+msgstr "卡伦，你没有同伴了。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:277
@@ -431,7 +431,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:284
 msgid "To attempt this trial with only two allies was unwise."
-msgstr ""
+msgstr "只带着两名队友就尝试这次考验是不明智的。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:288
@@ -439,21 +439,23 @@ msgid ""
 "Yet so have I already succeeded, <i>little glider</i>.\n"
 "All my prey-tokens are gathered; my hunt is ended."
 msgstr ""
+"然而我已经成功了，<i>小小的滑翔者</i>。\n"
+"我已经收集到了所有的猎物标记；我的狩猎结束了。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:295
 msgid "Then take your leave."
-msgstr ""
+msgstr "那么你就走吧。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:299
 msgid "As you wish."
-msgstr ""
+msgstr "如你所愿。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:305
 msgid "...... Karron, hold."
-msgstr ""
+msgstr "……卡伦，等等。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:311
@@ -462,6 +464,9 @@ msgid ""
 "\n"
 "For your own sake, join us."
 msgstr ""
+"…在没有帮助的情况下离开这个地方是危险的。\n"
+"\n"
+"为了你自己的安全，加入我们吧。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:317
@@ -473,6 +478,12 @@ msgid ""
 "You will taste humiliation at the contention.\n"
 "I shall deliver it."
 msgstr ""
+"戈拉克，我之所以这样做，完全是为了<b>你们</b>的缘故。\n"
+"这是最后一次。\n"
+"\n"
+"当我们离开这座岛屿之后，我们再次作为敌人分道扬镳。\n"
+"在争斗中，你们将尝到耻辱的滋味。\n"
+"而我，将会给予你们这种滋味。"
 
 #. [message]: type=Fire Guardian
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:340
