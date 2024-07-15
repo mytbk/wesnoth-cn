@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-03 11:27+0800\n"
+"PO-Revision-Date: 2024-07-15 13:16+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -980,7 +980,7 @@ msgstr "人类！你们来我们洞穴干啥？"
 #. "you" meaning a single dwarf
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:381
 msgid "A horde of undead is pursuing us! You should come with us and escape."
-msgstr ""
+msgstr "一群亡灵正在追赶我们！你应该和我们一起逃跑。"
 
 #. [message]: speaker=Duduril
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:385
@@ -1003,7 +1003,7 @@ msgstr "看起来这些巨魔藏了些金子。我点到了五十枚金币！"
 msgid ""
 "I recognize the enchantment on that quiver. How did trolls come to possess "
 "such an artifact?"
-msgstr ""
+msgstr "我认出了那箭筒上的魔力。巨魔是如何拥有这样一件法器的？"
 
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:493
@@ -1120,7 +1120,7 @@ msgstr "击败玛尔-卡拉特以去往东方。 <i>（普通）</i>"
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:207
 msgid "Quick, I must collapse the tunnels behind us."
-msgstr ""
+msgstr "快点，我必须把我们身后的隧道弄塌。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:236
@@ -4894,7 +4894,7 @@ msgid ""
 msgstr ""
 "德拉-纳克警告过我们。\n"
 "你们这些西-北人讲的是和平。\n"
-"然而你却在我们的逃亡中挥舞着你们的长矛。\n"
+"然而你们却在我们的逃亡中挥舞着长矛。\n"
 "我们已经付了高价给兽人。\n"
 "没有更多的致敬了。"
 
@@ -5166,7 +5166,7 @@ msgid ""
 "I once thought such a power too dangerous to use; I am no longer so naive."
 msgstr ""
 "正是在这里，我寻找伊利阿-玛拉尔的面纱护身符，这是一件拥有打开活人之地和死人之"
-"地之门的力量的神器。\n"
+"地之门的力量的法器。\n"
 "\n"
 "我曾经认为这样的力量用起来太危险了；我现在不再那么幼稚了。"
 
@@ -5323,7 +5323,7 @@ msgid ""
 "artifact, and Gweddry has agreed to accompany me, so that leaves room for "
 "six more."
 msgstr ""
-"这个前室只有八个人的位置。我要去取这件神器，格温德利答应陪我，所以剩下六个位"
+"这个前室只有八个人的位置。我要去取这件法器，格温德利答应陪我，所以剩下六个位"
 "置。"
 
 #. [message]: speaker=Dacyn
@@ -6088,18 +6088,13 @@ msgstr "被俘"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:15
-#, fuzzy
-#| msgid ""
-#| "Gweddry, Dacyn and Owaec were promptly taken before the orcish king, Dra-"
-#| "Nak, while the rest were thrown into the orcish prisons to await their "
-#| "turn..."
 msgid ""
 "After their surrender, Gweddry, Dacyn, and Owaec were promptly taken before "
 "the orcish chieftain, Dra-Nak. The rest were thrown into the prisons to "
 "await their turn..."
 msgstr ""
-"格温德利，达辛和欧瓦埃克立刻被带到了兽人之王德拉-纳克面前，而其余的人则被投入"
-"兽人监狱，等待审问……"
+"投降之后，格温德利，达辛和欧瓦埃克立刻被带到了兽人酋长德拉-纳克面前，而其余的"
+"人则被投入监狱，等待审问……"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:94
@@ -7144,7 +7139,7 @@ msgstr ""
 #. [scenario]: id=13_Spoils_of_War
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:8
 msgid "Spoils of War"
-msgstr ""
+msgstr "战利品"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:25
@@ -7160,13 +7155,15 @@ msgid ""
 "screams, and roars broke out from behind. Neither the orcs nor the drakes "
 "attempted to give pursuit."
 msgstr ""
+"当格温德利、欧瓦埃克和达辛逃走并穿过利斯特拉河时，身后爆发出一阵疯狂的呼喊、"
+"尖叫和咆哮。兽人和龙人都没有试图追击。"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:42
 msgid ""
 "Leaving the tumultuous wildlands far behind, the soldiers of Wesnoth "
 "prepared to cross the Great River once more and return to their homeland..."
-msgstr ""
+msgstr "韦诺的士兵们远离喧嚣的荒野，准备再次渡过泰河，返回家园……"
 
 #. [side]: type=Death Knight, id=Ducatithil
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:251
@@ -7204,32 +7201,32 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:476
 msgid "Rescue as many prisoners as possible (6 groups arrive soon)"
-msgstr ""
+msgstr "营救尽可能多的战俘（6组就要到来）"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:483
 msgid "Rescue as many prisoners as possible (5 groups arrive soon)"
-msgstr ""
+msgstr "营救尽可能多的战俘（5组就要到来）"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:490
 msgid "Rescue as many prisoners as possible (4 groups arrive soon)"
-msgstr ""
+msgstr "营救尽可能多的战俘（4组就要到来）"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:497
 msgid "Rescue as many prisoners as possible (3 groups arrive soon)"
-msgstr ""
+msgstr "营救尽可能多的战俘（3组就要到来）"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:504
 msgid "Rescue as many prisoners as possible (2 groups arrive soon)"
-msgstr ""
+msgstr "营救尽可能多的战俘（2组就要到来）"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:511
 msgid "Rescue as many prisoners as possible (1 group arrives soon)"
-msgstr ""
+msgstr "营救尽可能多的战俘（1组就要到来）"
 
 #. [objective]: condition=win
 #. Mal-Yrna, a female necromancer
@@ -7253,13 +7250,13 @@ msgstr "达辛死亡"
 #. two prisoners and one jailer per gang
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:548
 msgid "Prisoner gangs will alternate arriving on north and south paths."
-msgstr ""
+msgstr "每群战俘将会轮流沿北边和南边的路线到达。"
 
 #. [note]
 #. "enemy" in this case meaning "player's unit"
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:552
 msgid "Bats prefer to fly towards the nearest enemy."
-msgstr ""
+msgstr "蝙蝠倾向于飞向最近的敌人。"
 
 #. [message]: id=Owaec,Terraent
 #. TODO for 1.19? There's a cut-scene running up to this, but it's unclear what's happened until I read the WML and found that player's full starting roster is exactly one *horseman* for this scenario.
@@ -7664,6 +7661,8 @@ msgid ""
 "after battlefield, in the ruins of what used to be Wesnoth’s thriving "
 "eastern provinces."
 msgstr ""
+"格温德利、欧瓦埃克和达辛急于与韦诺军队会合，急忙向西推进。当他们穿过曾经是韦"
+"诺繁荣东部省份的一片片废墟中的战场时，他们的心情愈发沉重。"
 
 #. [leader]: type=Barrow Wight, id=Sir Seoraery
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:113
@@ -7797,6 +7796,8 @@ msgid ""
 "Gah, undead! This one was mired face-first in the swamp, dormant until I "
 "stumbled upon it. They must be lying everywhere in this muck."
 msgstr ""
+"啊，亡灵！这只脸先是陷在沼泽里，一直处于休眠状态，直到我偶然发现它。它们一定"
+"到处躺在这淤泥里。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:552
@@ -7805,6 +7806,8 @@ msgid ""
 "contend with them until we sight them. We can afford some time to capture "
 "villages and build our forces."
 msgstr ""
+"也许它们的首领也处于休眠状态。我怀疑，在我们看到它们之前，我们不必与它们对"
+"抗。我们有时间占领村庄并建立我们的部队。"
 
 #. [message]: speaker=Gweddry
 #. Player's unit trigger an ambush last turn. During the enemy turn, some other nearby corpses started moving too.
@@ -7813,6 +7816,8 @@ msgid ""
 "Whenever we stumble upon a corpse, it awakens its nearby allies! What will "
 "happen when we wake their leaders?"
 msgstr ""
+"每当我们偶然发现一具尸体，它就会唤醒附近的盟友！当我们唤醒它们的首领时会发生"
+"什么？"
 
 #. [message]: speaker=Dacyn
 #. The keeps are visible, so the player can guess where the leaders themselves are.
@@ -7820,17 +7825,17 @@ msgstr ""
 msgid ""
 "It may be prudent to clear the swamp near the undead leaders before we sight "
 "them."
-msgstr ""
+msgstr "在我们看到亡灵首领之前，清理它们附近的沼泽可能是明智的。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:693
 msgid "Their leader is waking nearby allies out from the swamp!"
-msgstr ""
+msgstr "它们的首领正在将附近的盟友从沼泽中唤醒！"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:697
 msgid "Just more abominations for us to slay!!"
-msgstr ""
+msgstr "我们还要杀更多可憎的东西！！"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:751
@@ -7886,7 +7891,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:854
 msgid "Fallen Clansman"
-msgstr ""
+msgstr "堕落的氏族成员"
 
 #. [message]: speaker=Owaec
 #. [message]: speaker=Dacyn
@@ -8067,20 +8072,20 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1237
 msgid "Loot Addogin’s smugglers’ caches."
-msgstr ""
+msgstr "掠夺阿道金的走私者的藏匿处。"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1253
 msgid ""
 "Enemy leaders are idle until first sighted, but will then abandon their keep "
 "and attack you."
-msgstr ""
+msgstr "敌方首领在第一次被发现之前都没事做，但随后会放弃它们的营地并攻击你。"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1256
 msgid ""
 "It may be wise to capture villages and build up an army before attacking."
-msgstr ""
+msgstr "在进攻之前占领村庄并建立军队可能是明智的。"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1264
@@ -8384,6 +8389,8 @@ msgid ""
 "you. Perhaps you should rest and take a moment to regain your strength? I "
 "could carry the Amulet for a while, or we could store it away."
 msgstr ""
+"达辛，我一直在想。这个法器对你的影响太大了。也许你应该休息一下，花点时间恢复"
+"体力？我可以把护身符拿一会儿，或者我们可以把它存起来。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2035
@@ -8420,12 +8427,12 @@ msgstr ""
 msgid ""
 "But on the other hand... this is a dangerous artifact. I fear that only I "
 "can withstand its energies."
-msgstr ""
+msgstr "但另一方面……这是一个危险的物品。我担心只有我能承受它的能量。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2061
 msgid "Well, you’re the magic expert."
-msgstr ""
+msgstr "好吧，你是魔法专家。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2075
@@ -8516,7 +8523,7 @@ msgstr ""
 #. [scenario]: id=15_Return_to_Wesnoth
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:4
 msgid "Return to Wesnoth"
-msgstr ""
+msgstr "重返韦诺"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:17
@@ -8924,7 +8931,7 @@ msgstr "科纳德二世死亡"
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1007
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:641
 msgid "Konrad II will not leave the center island."
-msgstr ""
+msgstr "科纳德二世不会离开中央的岛屿。"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1010
