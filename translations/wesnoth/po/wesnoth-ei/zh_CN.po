@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-15 13:16+0800\n"
+"PO-Revision-Date: 2024-07-16 13:22+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -6341,7 +6341,7 @@ msgstr ""
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:996
 msgid "But there’s too many of them!"
-msgstr "但巨魔太多了！"
+msgstr "但它们的人太多了！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1000
@@ -6694,17 +6694,12 @@ msgstr "撤退"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:45
-#, fuzzy
-#| msgid ""
-#| "Gweddry and his men had escaped from the orcish prisons, but after "
-#| "returning to the daylight they soon found themselves surrounded by a host "
-#| "of orcs."
 msgid ""
 "Gweddry and his men escaped from the orcish prisons and fled westward as "
 "swiftly as they could, closely pursued by the orcs and their drake vassals."
 msgstr ""
-"格温德利和部下们逃离了兽人监狱，但他们刚回到阳光之下，便发现自己被一群兽人包"
-"围了。"
+"格温德利和部下们逃离了兽人监狱并尽可能快地往西方逃跑，兽人和他们的龙人附庸紧"
+"追着他们。"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:272
@@ -6739,7 +6734,7 @@ msgstr "达辛，你感觉好点了吗？我们要继续前进！兽人要赶上
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:305
 msgid "(cough) (cough) Yes, yes, I’m perfectly fine... (cough)"
-msgstr ""
+msgstr "（咳）（咳）是的，是的，我很好……（咳）"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:309
@@ -6747,6 +6742,8 @@ msgid ""
 "Such decrepitude is one ten-thousandth of what you deserve for wielding that "
 "evil amulet! But lo, a bridge in the distance! Hope is not yet lost."
 msgstr ""
+"这种衰老是你挥舞那邪恶护身符应得的万分之一！但是，看，远处有一座桥！希望尚未"
+"破灭。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:313
@@ -6754,17 +6751,19 @@ msgid ""
 "We must get across quickly before we are cut off and overwhelmed. But the "
 "men are exhausted! We cannot keep running for much longer."
 msgstr ""
+"我们必须在被切断和被击败之前迅速通过。但我们的人已经筋疲力尽了！我们不能再继"
+"续跑了。"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:317
 msgid "(nodding) Gruuhhh... Grug tired. Leg hurt..."
-msgstr ""
+msgstr "（点头）咕噜……格拉格累了。腿受伤了……"
 
 #. [message]: speaker=Dolburras
 #. "Yeah, don't forget! My legs aren't as long as you humans'!"
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:322
 msgid "Aye, dinnae forget, my legs ain’t as long as ye human-folks’!"
-msgstr ""
+msgstr "是啊，别忘了，俺的腿没有你们人类那么长！"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:326
@@ -6772,6 +6771,8 @@ msgid ""
 "Tell the men they need not fear! I will cross last and destroy the bridge "
 "behind us so that the orcs cannot follow!"
 msgstr ""
+"告诉大伙，他们不必害怕！我会最后一个过河并摧毁我们身后的桥，这样兽人就不会跟"
+"着了！"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:331
@@ -6779,18 +6780,20 @@ msgid ""
 "Well I intend to cross first! Gold’s no good if I die before I can spend it! "
 "I’m not about to sacrifice myself to save you bunch of barbarians."
 msgstr ""
+"好吧，我打算先过河！如果我还没来得及花掉金币就死了，那金币就没用了！我不会为"
+"了救你们这些野蛮人而牺牲自己。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:335
 msgid ""
 "Everyone, get moving! Anyone left behind on this side of the bridge will "
 "surely be killed!"
-msgstr ""
+msgstr "所有人，行动起来！任何留在桥这边的人肯定会被杀！"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:339
 msgid "I’m gettin’ too old for this life..."
-msgstr ""
+msgstr "我年纪太大了，不适合这种生活……"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:344
@@ -6806,6 +6809,9 @@ msgid ""
 "immediately across the bridge we may be able to (cough)(cough) reach the far "
 "shore before the orcs can attack."
 msgstr ""
+"不幸的是（咳），我们没有存下任何金币来招募或召回士兵。我们的士兵是不可能逃跑"
+"的，但如果我们几个人立即冲过桥，我们可能会（咳）（咳）在兽人进攻之前到达远"
+"岸。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:371
@@ -6815,6 +6821,9 @@ msgid ""
 "immediately across the bridge we may be able to (cough)(cough) reach the far "
 "shore before the orcs can attack."
 msgstr ""
+"不幸的是（咳），我们只存下了很少金币来招募或召回士兵。每个人都逃跑是不太可能"
+"的，但如果我们中的3个人立即冲过桥，我们可能会（咳）（咳）在兽人进攻之前到达远"
+"岸。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:381
@@ -6824,6 +6833,9 @@ msgid ""
 "immediately across the bridge we may be able to (cough)(cough) reach the far "
 "shore before the orcs can attack."
 msgstr ""
+"我们有足够的金币来打仗，但兽人很多（咳）而且很强。每个人都逃跑是不太可能的，"
+"但如果我们中的3个人立即冲过桥，我们可能会（咳）（咳）在兽人发动攻击之前到达远"
+"岸。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:388
@@ -6833,6 +6845,9 @@ msgid ""
 "immediately across the bridge we may be able to (cough)(cough) reach the far "
 "shore before the orcs can attack."
 msgstr ""
+"我们有支持很多士兵的金币，但这座桥（咳）又长又窄。每个人都逃跑是不太可能的，"
+"但如果我们中的3个人立即冲过桥，我们可能会（咳）（咳）在兽人发动攻击之前到达远"
+"岸。"
 
 #. [message]: speaker=Owaec
 #. Although Dacyn is a Mage of Light, he currently doesn't have a halo.
@@ -6842,12 +6857,14 @@ msgid ""
 "Small wonder your Light has abandoned you, if you would leave our companions "
 "to the mercy of the orcs! We should all cross together and leave none behind!"
 msgstr ""
+"难怪你的光抛弃了你，如果你愿意把我们的同伴交给兽人！我们应该一起过河，不落下"
+"任何一个人！"
 
 #. [message]: speaker=Dacyn
 #. After this message the halo flickers and then stays on.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:405
 msgid "(cough) My light? ...oh, oh yes, yes of course. Just one moment."
-msgstr ""
+msgstr "（咳）我的光？……哦，哦，是的，当然。请稍等。"
 
 #. [message]: speaker=Hahid al-Ali
 #. He drinks an elixir between this message and the next one
@@ -6870,12 +6887,12 @@ msgstr ""
 msgid ""
 "Gweddry, you saw how Dacyn struggled to channel his Light. What do you think "
 "of this?"
-msgstr ""
+msgstr "格温德利，你看着达辛挣扎着点亮他的光。你怎么看？"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:484
 msgid "Aye, and have ye noticed the man’s cough? He be trying to hide it."
-msgstr ""
+msgstr "是的，你注意到这个人的咳嗽了吗？他在试图隐藏这个。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:488
@@ -6883,11 +6900,13 @@ msgid ""
 "... it is a bad sign, to be sure. But Dacyn is determined to protect Wesnoth "
 "and destroy Mal-Ravanal, and I believe he is our only chance at doing so."
 msgstr ""
+"……这是个糟糕的信号，我敢肯定。但达辛决心保护韦诺并毁灭玛尔-拉瓦纳尔，我相信他"
+"是做到这件事的唯一机会。"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:492
 msgid "Magic man kind! Be good magic man be."
-msgstr ""
+msgstr "魔法人类！做一个好的魔法人。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:496
@@ -6895,6 +6914,8 @@ msgid ""
 "I agree his intentions are good, but with each passing hour, that foul "
 "amulet’s darkness festers within him. What influence may it have?"
 msgstr ""
+"我同意他的意图是好的，但随着时间的推移，那个肮脏的护身符的黑暗在他体内溃烂。"
+"它可能会有什么影响？"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:500
@@ -6902,6 +6923,8 @@ msgid ""
 "I choose to place my faith in the holy Light, not the darkness! We will "
 "overcome Mal-Ravanal’s evil, and this dark amulet’s as well."
 msgstr ""
+"我选择将我的信仰放在圣光中，而不是黑暗中！我们将战胜玛尔-拉瓦纳尔的邪恶，以及"
+"这个黑暗护身符。"
 
 #. [message]: speaker=Hahid al-Ali
 #. Last message in the "Gweddry, you saw how Dacyn struggled to channel his Light" conversation
@@ -6938,7 +6961,7 @@ msgstr ""
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:584
 msgid "Is everyone across? I’m ready to chop down the bridge."
-msgstr ""
+msgstr "每个人都过河了吗？我准备砍断这座桥了。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:588
@@ -6957,6 +6980,8 @@ msgid ""
 "Owaec, you fool! I am trapped on the east bank! Without my help Wesnoth will "
 "surely fall to Mal-Ravanal..."
 msgstr ""
+"欧瓦埃克，你个蠢货！我被困在东岸了！没有我的帮助韦诺肯定会陷落在玛尔-拉瓦纳尔"
+"之下……"
 
 #. [message]: speaker=Dacyn
 #. Owaec has just destroyed the bridge
@@ -6965,6 +6990,8 @@ msgid ""
 "Owaec, you fool! Gweddry is trapped on the east bank! Without his help "
 "Wesnoth will surely fall to Mal-Ravanal..."
 msgstr ""
+"欧瓦埃克，你个蠢货！格温德利被困在东岸了！没有他的帮助韦诺肯定会陷落在玛尔-拉"
+"瓦纳尔之下……"
 
 #. [message]: speaker=Owaec
 #. Several high-level units were left unrecalled. For a brief cutscene, 10 unrecalled units (high levels preferred) appear on the starting castle.
@@ -6972,7 +6999,7 @@ msgstr ""
 msgid ""
 "Alas, what have I done? So many brave soldiers of Wesnoth, left behind in "
 "the wildlands..."
-msgstr ""
+msgstr "唉，我做了什么？如此多的韦诺勇士，被遗弃在荒野中……"
 
 #. [message]
 #. Said by any left-behind unit except ogres (they can't speak fluently) and Hahid al-Ali (it would be very out of character for him).
@@ -6982,6 +7009,8 @@ msgid ""
 "At least you three commanders are safe. From here, we must ride swift, ride "
 "strong, and ride to save all of Wesnoth!"
 msgstr ""
+"至少你们三位指挥官是安全的。从这里开始，你们必须迅速行动，全力以赴，拯救韦诺"
+"的所有人！"
 
 #. [message]: speaker=Owaec
 #. either got everyone across or left behind at most one L2 or L3 unit
@@ -7129,7 +7158,7 @@ msgstr ""
 #. Aspirant is a drake military rank
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:984
 msgid "I am Aspirant no more."
-msgstr ""
+msgstr "我不再是有为者。"
 
 #. [message]: speaker=Rakkha
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:997
