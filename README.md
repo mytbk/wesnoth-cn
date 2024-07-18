@@ -11,6 +11,8 @@
 
 对于文字翻译，请克隆此版本库，并翻译 translations/wesnoth/po/ 的子目录下的 .po 文件，推荐使用 [Poedit](https://poedit.net/) 翻译。
 
+翻译进度参见此[翻译统计信息](https://gettext.wesnoth.org/?view=langs&version=branch&lang=zh_CN)页面。
+
 # 地图本地化
 
 TBD
