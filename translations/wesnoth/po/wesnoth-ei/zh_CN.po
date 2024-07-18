@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-16 13:22+0800\n"
+"PO-Revision-Date: 2024-07-18 10:41+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1460,7 +1460,7 @@ msgstr "对不起，女士，但如果你没命花钱，金币没有好处。"
 #. the mercenaries decide it's time to retreat
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:398
 msgid "This ain’t lookin’ good. Those Wesnoth soldiers are <i>mean</i>."
-msgstr ""
+msgstr "这看起来不太好。那些韦诺士兵好<i>凶残</i>。"
 
 #. [message]: speaker=$second_unit.id
 #. capturing Addogin, spoken by the unit fighting him
@@ -12127,6 +12127,8 @@ msgid ""
 "<i><b>illuminating</b></i> the surrounding area and making your bow or "
 "crossbow attacks <i><b>arcane</b></i>."
 msgstr ""
+"这个水晶箭筒中的箭闪烁着淡淡的魔光，<i><b>照明</b></i>周围的区域，使你的弓或"
+"弩变成<i><b>奥术</b></i>攻击。"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:170
 msgid "Drop Crystal Quiver"
@@ -12146,6 +12148,8 @@ msgid ""
 "<i><b>melee</b></i> and <i><b>ranged</b></i> attacks with <i><b>arcane</b></"
 "i> damage."
 msgstr ""
+"雕刻着神圣的符号，这个护身符将祝福你的<i><b>近战</b>和<i><b>远程</b></i>攻击"
+"形成<i><b>奥术</b></i>伤害。"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:211
 msgid "Drop Holy Amulet"
@@ -12153,11 +12157,11 @@ msgstr "放下神圣护身符"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:225
 msgid "sentinel"
-msgstr ""
+msgstr "哨兵"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:226
 msgid "Shield of the Sentinel"
-msgstr ""
+msgstr "哨兵之盾"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:227
 msgid ""
@@ -12205,11 +12209,11 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:639
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:654
 msgid "baneblade"
-msgstr ""
+msgstr "毒刃"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:640
 msgid "Baneblade"
-msgstr ""
+msgstr "毒刃"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:641
 msgid ""
@@ -12218,18 +12222,21 @@ msgid ""
 "their foes with reckless abandon.\n"
 "<i><b>6x4 arcane</b></i> damage, <i><b>drains</b></i>, <i><b>berserk</b></i>."
 msgstr ""
+"这把无形的剑类似于亡灵幽灵挥舞的剑。任何有足够勇气挥舞它的凡人都会变得 <i><b>"
+"混沌</b></i>，并肆无忌惮地猛烈攻击敌人。\n"
+"<i><b>6x4 奥术</b></i> 伤害，<i><b>吸血</b></i>，<i><b>狂暴</b></i>。"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:691
 msgid "Drop Baneblade"
-msgstr ""
+msgstr "放下毒刃"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:705
 msgid "barkskin"
-msgstr ""
+msgstr "树皮"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:706
 msgid "Potion of Barkskin"
-msgstr ""
+msgstr "树皮药水"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:707
 msgid ""
@@ -12237,6 +12244,8 @@ msgid ""
 "Its drinker gains the <i><b>steadfast</b></i> ability and can <i><b>heal 2 "
 "hitpoints each turn</b></i>, like dwarves with the ‘healthy’ trait."
 msgstr ""
+"这种药水在明火上冒泡，但摸起来很凉。喝它的人获得<i><b>坚定</b></i>能力，"
+"<i><b>每回合恢复2点生命</b></i>，就像具有“康健”特质的矮人一样。"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:737
 msgid "ring"
