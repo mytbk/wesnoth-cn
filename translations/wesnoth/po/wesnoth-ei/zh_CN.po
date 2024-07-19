@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-18 10:41+0800\n"
+"PO-Revision-Date: 2024-07-22 10:14+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -5503,13 +5503,13 @@ msgstr ""
 #. there was a closed chest on this hex, and it's been opened
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1602
 msgid "It’s full of... toilet paper?!?"
-msgstr ""
+msgstr "里面全是……厕纸？！？"
 
 #. [message]: speaker=unit
 #. and the unit immediately does that, changing a closed-gate terrain to open-gate
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1617
 msgid "I can unlock this gate from the inside."
-msgstr ""
+msgstr "我可以从里面打开这扇门。"
 
 #. [message]: speaker=Study Guard
 #. the Study Guard is a Deathblade (or Draug on hard difficulty) that's stood immobile in the doorway
@@ -7893,10 +7893,8 @@ msgstr "清水湖"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:808
-#, fuzzy
-#| msgid "Defeat the enemy leaders"
 msgid "Defeat the spirits"
-msgstr "击败敌方首领"
+msgstr "击败鬼魂"
 
 #. [message]: speaker=Owaec
 #. The player hasn't recruited yet, so listening are Gweddry, Dacyn, and the auto-recalled optional loyals (at most 8 people in total).
@@ -8262,10 +8260,8 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1595
-#, fuzzy
-#| msgid "I’m gonna blow you up!"
 msgid "I’m not your enemy!"
-msgstr "我要把你炸飞！"
+msgstr "我不是你的敌人！"
 
 #. [message]: speaker=Sir Seoraery
 #. he's talking of a memory, not the current situation
@@ -8865,7 +8861,7 @@ msgstr ""
 #. [scenario]: id=16_Eleventh_Hour
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:18
 msgid "Eleventh Hour"
-msgstr ""
+msgstr "最后时刻"
 
 #. [side]: type=Lich, id=Mal-Xakralan
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:700
@@ -8941,7 +8937,7 @@ msgstr "活过亡灵袭击"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:988
 msgid "Protect generals Halrad, Halric, and Halrod"
-msgstr ""
+msgstr "保护将军哈拉德、哈尔里克和哈尔罗德"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:998
@@ -8968,31 +8964,33 @@ msgid ""
 "Generals will reinforce each bridgehead while they/you have defenders there, "
 "falling back to their castle otherwise."
 msgstr ""
+"将军们将增援每个桥头堡，在他们/你在那里有防御者的情况下，否则将撤退到他们的城"
+"堡。"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1013
 msgid ""
 "If you decide not to duel Mal-Ravanal, surviving generals will aid you in "
 "the next scenario."
-msgstr ""
+msgstr "如果你决定不与玛尔-拉瓦纳尔决斗，幸存的将军们将在下一个场景中帮助你。"
 
 #. [message]: speaker=Halrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1037
 msgid ""
 "Undead approach at the northern crossings. My forces are in position to "
 "engage the invaders."
-msgstr ""
+msgstr "亡灵在北方渡口逼近。我的部队已准备好与侵略者交战。"
 
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1042
 msgid "The southeastern bridges are secure; hostiles inbound."
-msgstr ""
+msgstr "东南部的桥梁是安全的；敌军来袭。"
 
 #. [message]: speaker=Halrod
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1047
 msgid ""
 "My fortifications are manned and ready. Brace for attack from the southwest."
-msgstr ""
+msgstr "我的防御工事已经有人把守，准备就绪。做好西南方向到来的进攻的准备。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1080
@@ -9002,14 +9000,14 @@ msgstr "夜晚即将来临。而亡灵大军也将随之而来。我已经准备
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1084
 msgid "Let us show these undead the might of Wesnoth!"
-msgstr ""
+msgstr "让我们向这些亡灵展示韦诺的威力！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1088
 msgid ""
 "And so it comes to this, here at what seems the end of days. Prepare for "
 "battle!"
-msgstr ""
+msgstr "事情就是这样，似乎到了世界末日。准备战斗吧！"
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1134
@@ -9092,7 +9090,7 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1365
 msgid "Not if I stop you first! I defeated you before, and I will do so again!"
-msgstr ""
+msgstr "如果我先阻止你，就不会！我以前打败过你，我还会再次打败你！"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1391
@@ -9167,6 +9165,7 @@ msgid ""
 "I must... defeat Ravan! I must be strong enough to stand alone... I alone "
 "must wield this fullness of power!"
 msgstr ""
+"我必须……击败莱文！我必须强大到可以独自站立……我必须独自发挥这种完整的力量！"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1613
@@ -9249,12 +9248,12 @@ msgstr ""
 #. plaque on a statue
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1852
 msgid "<i>Delfador the Great, sage of Wesnoth, restorer of the throne.</i>"
-msgstr ""
+msgstr "<i> 德法多大师，韦诺的贤者，王座的复原者。</i>"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1857
 msgid "My predecessor, ‘the Great’. I intend to be greater."
-msgstr ""
+msgstr "我的前任，“大师”。我要变得更伟大。"
 
 #. [message]: speaker=Mel Guthrak
 #. last breath of Mel Guthrak
@@ -9671,7 +9670,7 @@ msgstr ""
 #. last breath for Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:375
 msgid "Wait, wait, stop, I surrender! I know your leader Gweddry!"
-msgstr ""
+msgstr "等等，等等，停下来，我投降！我认识你的首领格温德利！"
 
 #. [message]: speaker=unit
 #. last breath for Mal-Tar
@@ -9955,6 +9954,8 @@ msgid ""
 "We are gathered here today in remembrance of our dear colleague and friend, "
 "Dacyn, who fell even as he vanquished the arch-lich Mal-Ravanal."
 msgstr ""
+"我们今天聚集在这里，纪念我们亲爱的同事和朋友达辛，他在击败大巫妖玛尔-拉瓦纳尔"
+"时就倒下了。"
 
 #. [message]: speaker=Renaerawan
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:202
@@ -9963,22 +9964,24 @@ msgid ""
 "above all, Dacyn sought to act for the good of Wesnoth, and today we honor "
 "him for that."
 msgstr ""
+"我知道达辛是个复杂的人：野心勃勃但忠诚，骄傲但聪明。但最重要的是，达辛致力于"
+"为韦诺的利益而行动，今天我们为此向他致敬。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:208
 msgid "Today we have won a great victory, yet it comes at great cost."
-msgstr ""
+msgstr "今天我们赢得了伟大的胜利，然而同样付出了巨大的代价。"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:212
 msgid "Grug sad! Magic man kind."
-msgstr ""
+msgstr "格拉格伤心！魔法人类。"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:216
 msgid ""
 "Ay. Too many ha’ died in this war, both my kinsmen at Knalga and yours here."
-msgstr ""
+msgstr "是的。在这场战争中死了太多人了，包括俺们纳尔迦的和你们的亲属。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:220
@@ -9992,7 +9995,7 @@ msgstr "这么多月的战斗……我觉得自己就像从漫长的噩梦之中
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:225
 msgid ""
 "My duty is done; the Clans have been avenged. At last, I can rest in peace."
-msgstr ""
+msgstr "我的职责已经完成；氏族的仇已经报了。我终于可以地休息了。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:231
@@ -10275,7 +10278,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:590
 msgid ""
 "Owaec, last Prince of the Plains. You and your people have suffered much."
-msgstr ""
+msgstr "欧瓦埃克，平原的最后一位王子。你和你的人民遭受了很多苦难。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:594
@@ -10917,7 +10920,7 @@ msgstr ""
 #. [unit_type]: id=Fallen Mage, race=human, gender=male
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Fallen_Mage.cfg:10
 msgid "Fallen Mage"
-msgstr ""
+msgstr "堕落法师"
 
 #. [unit_type]: id=Fallen Mage, race=human, gender=male
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Fallen_Mage.cfg:25
@@ -10940,7 +10943,7 @@ msgstr ""
 #. [unit_type]: id=Twilight Mage, race=human, gender=male
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Twilight_Mage.cfg:4
 msgid "Twilight Mage"
-msgstr ""
+msgstr "暮光法师"
 
 #. [unit_type]: id=Twilight Mage, race=human, gender=male
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Twilight_Mage.cfg:19
@@ -11032,7 +11035,7 @@ msgstr ""
 #. [attack]: type=fire
 #: data/campaigns/Eastern_Invasion/units/Human_Konrad_King_of_Wesnoth.cfg:38
 msgid "sceptre of fire"
-msgstr ""
+msgstr "圣火权杖"
 
 #. [unit_type]: id=Mounted Warrior  # use the old id so we don't break old saves, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Owaec_Clan_Captain.cfg:4
@@ -11749,7 +11752,7 @@ msgstr "你……浪费了……你的努力……"
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:27
 msgid "A-ha, what’s this? The white mage resorts to wielding black magic?"
-msgstr ""
+msgstr "啊-哈，这是什么？这个白袍法师施展黑魔法？"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:45
@@ -11769,7 +11772,7 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:70
 msgid "For King and country!"
-msgstr ""
+msgstr "为了国王和国家！"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:86
@@ -11908,7 +11911,7 @@ msgstr ""
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:480
 msgid "Is it over? We’ve won?"
-msgstr ""
+msgstr "结束了？我们赢了？"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:494
@@ -11925,12 +11928,12 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:502
 msgid "You escaped me once before-"
-msgstr ""
+msgstr "你曾经逃脱了我一次-"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:550
 msgid "-but NEVER AGAIN!!!"
-msgstr ""
+msgstr "-但不会有下次了！！！"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:561
@@ -12148,8 +12151,8 @@ msgid ""
 "<i><b>melee</b></i> and <i><b>ranged</b></i> attacks with <i><b>arcane</b></"
 "i> damage."
 msgstr ""
-"雕刻着神圣的符号，这个护身符将祝福你的<i><b>近战</b>和<i><b>远程</b></i>攻击"
-"形成<i><b>奥术</b></i>伤害。"
+"雕刻着神圣的符号，这个护身符将祝福你的<i><b>近战</b></i>和<i><b>远程</b></i>"
+"攻击形成<i><b>奥术</b></i>伤害。"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:211
 msgid "Drop Holy Amulet"
