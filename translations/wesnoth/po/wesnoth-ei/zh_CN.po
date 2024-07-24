@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-22 10:14+0800\n"
+"PO-Revision-Date: 2024-07-24 13:31+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -8122,35 +8122,38 @@ msgid ""
 "until you drop, with <b><i>unlimited melee attacks</i></b> and the "
 "<b><i>berserk</i></b> melee special!"
 msgstr ""
+"在寻求极度的复仇？欧瓦埃克，我的朋友，你需要的是我的狂狼之怒药水！尝一口这种"
+"苦涩红色的仙国，你在倒下之前都会持续地战斗，拥有<b><i>无限次的近战攻击</i></"
+"b>和<b><i>狂暴</i></b>近战特攻！"
 
 #. [message]: speaker=Hahid al-Ali
 #. player bought the elixir of ulfserker fury
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1278
 msgid "Try not to die too quickly!"
-msgstr ""
+msgstr "尽量不要死得太快！"
 
 #. [message]: speaker=Hahid al-Ali
 #. player declined the elixir of ulfserker fury
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1287
 msgid "Suit yourself! Don’t expect me to drink that though, I’m not suicidal!"
-msgstr ""
+msgstr "随你便！不过别指望我会喝，我不想自杀！"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1292
 msgid ""
 "This offer expires as soon as your anger does! <i>(elixirs only last for 1 "
 "scenario)</i>"
-msgstr ""
+msgstr "这个供应就和你的愤怒一样快速地失效！<i>（药水只在1个场景生效）</i>"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1294
 msgid "Buy the elixir for Owaec (30 gold)."
-msgstr ""
+msgstr "为欧瓦埃克购买药水（30金币）。"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1304
 msgid "Leave the elixir."
-msgstr ""
+msgstr "不要药水。"
 
 #. [message]: speaker=Addogin
 #. Wait a moment... this landscape looks familiar.
@@ -8179,7 +8182,7 @@ msgstr ""
 msgid ""
 "Just remember, I ain’t been here in years. Some of them caches might be "
 "empty now."
-msgstr ""
+msgstr "记住，俺多年没来了。其中一些藏匿处可能现在是空的。"
 
 #. [message]: speaker=Addogin
 #. although there are three map markers to explore, the first one that the player explores always has this gold, and the second is always empty
@@ -8187,23 +8190,23 @@ msgstr ""
 msgid ""
 "That’s the first cache. Lookee here, my smuggler friend left us 45 gold "
 "pieces."
-msgstr ""
+msgstr "这是第一个藏匿处。看这里，俺的走私者朋友留下了45金块。"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1426
 msgid ""
 "This be the second cache, but looks like some’un found it before us. Empty."
-msgstr ""
+msgstr "这是第二个藏匿处，但看起来有人比俺们先找到了。空的。"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1432
 msgid "Third ’n last cache, and it’s loaded! A clean 100 gold pieces."
-msgstr ""
+msgstr "第三个也是最后一个藏匿处，里面是有东西的！干净的100金块。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1444
 msgid "Excellent! The gold from these caches will be very helpful."
-msgstr ""
+msgstr "优秀！这些藏匿处里的金币会很有用。"
 
 #. [message]: speaker=Grug
 #. this is probably grug's first time fighting squishy undead (though there were a few in S10)
@@ -8518,7 +8521,7 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2150
 msgid "Apology accepted."
-msgstr ""
+msgstr "接受道歉。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2159
@@ -10054,6 +10057,9 @@ msgid ""
 "penalty of death, and are hereby exiled from Wesnoth. Be grateful for Our "
 "mercy."
 msgstr ""
+"格拉格，一个死灵法师食人魔对我们来说是完全不认识的事物，但你知道韦诺绝不会容"
+"忍你这种人。你应该交出那根被诅咒的棍子，让它被摧毁，你应该放弃练习所有的魔"
+"法，否则将被判处死刑，并且你因此被驱逐出韦诺。请感谢我们的慈悲。"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:288
@@ -10085,6 +10091,9 @@ msgid ""
 "the practice of all magic on penalty of death, and you are hereby exiled "
 "from Wesnoth. Be grateful for Our mercy."
 msgstr ""
+"矮人，<i>死灵法师</i>，你知道韦诺绝不会容忍你这种人。你应该交出那根被诅咒的棍"
+"子，让它被摧毁，你应该放弃练习所有的魔法，否则将被判处死刑，并且你因此被驱逐"
+"出韦诺。请感谢我们的慈悲。"
 
 #. [message]: speaker=Dolburras
 #. "Yeah, fair enough. I don't think my kinsmen will look kindly upon necromancies either."
@@ -10092,7 +10101,7 @@ msgstr ""
 msgid ""
 "Aye, fair enough. I dinnae think my kinsmen will look kindly upon "
 "necromancies either."
-msgstr ""
+msgstr "是的，很公平。俺寻思俺的族人也不会对死灵术抱有善意。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:339
@@ -10102,18 +10111,21 @@ msgid ""
 "crafted shield — an heirloom of my line — and an honor guard as you return "
 "to Knalga."
 msgstr ""
+"多尔布拉斯，欧瓦埃克告诉我你为他部下提供的帮助；既有你的武器技能，也有顽强的"
+"精神。我们希望为你提供这枚精心制作的盾牌——我家族的传家宝——以及在你返回纳尔迦"
+"时提供一支仪仗队。"
 
 #. [message]: speaker=Dolburras
 #. "Aye, I am honored. You have my sincerest thanks, your Majesty."
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:350
 msgid "Aye, I be honored. Ye have my sincerest thanks, yer Majesty."
-msgstr ""
+msgstr "是的，俺很荣幸。陛下，俺衷心感谢您。"
 
 #. [message]: speaker=Dolburras
 #. Owaec's dead
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:358
 msgid "Aye, I be honored. I only wish he were here to see the Clans avenged."
-msgstr ""
+msgstr "是的，俺很荣幸。俺只希望他能在这里看到有人为氏族复仇。"
 
 #. [message]: speaker=Konrad
 #. the player chose to give Addogin the plague staff
@@ -10124,6 +10136,9 @@ msgid ""
 "foreswear the practice of all magic on penalty of death, and you are hereby "
 "exiled from Wesnoth. Be grateful for Our mercy."
 msgstr ""
+"雇佣兵，<i>死灵法师</i>，你知道韦诺绝不会容忍你这种人。你应该交出那根被诅咒的"
+"棍子，让它被摧毁，你应该放弃练习所有的魔法，否则将被判处死刑，并且你因此被驱"
+"逐出韦诺。请感谢我们的慈悲。"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:391
@@ -10166,6 +10181,9 @@ msgid ""
 "foreswear the practice of all magic on penalty of death, and you are hereby "
 "exiled back to the desert wastes. Be grateful for Our mercy."
 msgstr ""
+"南方人，<i>死灵法师</i>，你知道韦诺绝不会容忍你这种人。你应该交出那根被诅咒的"
+"棍子，让它被摧毁，你应该放弃练习所有的魔法，否则将被判处死刑，并且你因此被驱"
+"逐回沙漠。请感谢我们的慈悲。"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:437
@@ -10268,6 +10286,8 @@ msgid ""
 "be destroyed, and are hereby forbidden to practice magic in any form, at "
 "penalty of death. Be grateful for Our mercy."
 msgstr ""
+"至于你，<i>死灵法师</i>。你应该交出那根被诅咒的棍子，让它被摧毁，你应该放弃练"
+"习所有的魔法，否则将被判处死刑。请感谢我们的慈悲。"
 
 #. [message]: speaker=$plague_staff_wielder_id
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:569
