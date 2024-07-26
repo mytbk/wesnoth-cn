@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-24 13:31+0800\n"
+"PO-Revision-Date: 2024-07-26 11:22+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -138,59 +138,59 @@ msgstr "在亡灵到达完成之前“<i>离脱隧道</i>”场景。"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:35
 msgid "Scenario 2: Speedrun"
-msgstr ""
+msgstr "场景2：快速通关"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:37
 msgid ""
 "Complete ‘<i>An Unexpected Appearance</i>’ without killing Mal-Tar, the dark "
 "adept."
-msgstr ""
+msgstr "在不杀黑暗狂徒玛尔-塔的情况下完成“<i>意外的露面</i>”。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:37
 msgid "Scenario 3: Merciful"
-msgstr ""
+msgstr "场景3：仁慈"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:39
 msgid "Defeat both the bandit and elven leaders in ‘<i>Elven Interlude</i>’."
-msgstr ""
+msgstr "在“<i>精灵的插曲</i>”中同时击败强盗和精灵首领。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:39
 msgid "Scenario 4a: Scorched Earth"
-msgstr ""
+msgstr "场景4a：焦土政策"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:41
 msgid "Recruit the dunefolk in ‘<i>Ill Humours</i>’."
-msgstr ""
+msgstr "在“<i>坏脾气</i>”中征募沙丘游民。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:41
 msgid "Scenario 4b: Mercenary"
-msgstr ""
+msgstr "场景4b：雇佣兵"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:43
 msgid "Rescue all 6 prisoners from ‘<i>Mal Ravanal’s Capital</i>’."
-msgstr ""
+msgstr "从“<i>玛尔-拉瓦纳尔之都</i>”救出全部 6 名囚犯。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:43
 msgid "Scenario 4c: No (Horse)Man Left Behind"
-msgstr ""
+msgstr "场景4c：没有人（骑师）被落下"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:45
 msgid "Complete ‘<i>Northern Outpost</i>’ without any peasants dying."
-msgstr ""
+msgstr "在没有任何农民死亡的情况下完成“<i>北疆哨所</i>”。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:45
 msgid "Scenario 5: Folk Hero"
-msgstr ""
+msgstr "场景5：民族英雄"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:47
@@ -211,7 +211,7 @@ msgstr "不消灭任何敌方首领而完成“<i>索拉多克</i>”。"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:49
 msgid "Scenario 6b: Ninja"
-msgstr ""
+msgstr "场景6b：忍者"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:51
