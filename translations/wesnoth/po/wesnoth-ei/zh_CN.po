@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-26 11:22+0800\n"
+"PO-Revision-Date: 2024-07-29 15:45+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -196,12 +196,12 @@ msgstr "场景5：民族英雄"
 #: data/campaigns/Eastern_Invasion/achievements.cfg:47
 msgid ""
 "Defeat the necromancer in ‘<i>Undead Crossing</i>’ before rescuing Dolburras."
-msgstr ""
+msgstr "在“<i>亡灵渡口</i>”中救出多尔布拉斯之前击败死灵法师。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:47
 msgid "Scenario 6a: A Little Help Here?"
-msgstr ""
+msgstr "场景6a：一个小小的请求？"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:49
@@ -216,32 +216,32 @@ msgstr "场景6b：忍者"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:51
 msgid "Refuse to enslave any ogres in ‘<i>Capturing the Ogres</i>’."
-msgstr ""
+msgstr "在“<i>捕获食人魔</i>”中拒绝奴役任何食人魔。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:51
 msgid "Scenario 7a: Ogre Rights Advocate"
-msgstr ""
+msgstr "场景7a：食人魔权利倡导者"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:53
 msgid "Kill 5 enemy leaders in ‘<i>Ogre Crossing</i>’."
-msgstr ""
+msgstr "在“<i>食人魔渡口</i>”中击杀5个敌方首领。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:53
 msgid "Scenario 7b: Frenzied"
-msgstr ""
+msgstr "场景7b：狂乱的状况"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:55
 msgid "Ally with the dwarves in ‘<i>Xenophobia</i>’."
-msgstr ""
+msgstr "在“<i>异种憎恶</i>”中与矮人结盟。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:55
 msgid "Scenario 8: And My Axe"
-msgstr ""
+msgstr "场景8：和我的斧头"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:57
@@ -251,27 +251,28 @@ msgstr "在“<i>冰中城堡</i>”一幕招募野生食人魔。"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:57
 msgid "Scenario 9: Guuuh..."
-msgstr ""
+msgstr "场景9：哇哇……"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:59
 msgid "Find the legendary Staff of Power in ‘<i>Dark Sanctuary</i>’."
-msgstr ""
+msgstr "在“<i>黑暗圣殿</i>”中寻找传奇的力量之法杖。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:59
 msgid "Scenario 10: Brains"
-msgstr ""
+msgstr "场景10：脑子"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:61
 msgid "Find the Ring of Invisibility in ‘<i>Captured</i>’."
-msgstr ""
+msgstr "在“<i>被俘</i>”中找到隐身指环。"
 
+# 引用自 https://zh.wikipedia.org/wiki/%E8%87%B3%E5%B0%8A%E9%AD%94%E6%88%92
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:61
 msgid "Scenario 11: And In The Darkness Bind Them"
-msgstr ""
+msgstr "场景11：众戒归一黑暗中"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:63
@@ -286,52 +287,52 @@ msgstr "场景12：B计划"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:65
 msgid "Recruit Gaennell, the dark adept, in ‘<i>Spoils of War</i>’."
-msgstr ""
+msgstr "在“<i>战利品</i>”中征募黑暗狂徒盖内尔。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:65
 msgid "Scenario 13: Oath of Redemption"
-msgstr ""
+msgstr "场景13：赎罪誓言"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:67
 msgid "Read the story of the Clans’ defeat in ‘<i>The Drowned Plains</i>’."
-msgstr ""
+msgstr "在“<i>淹没的平原</i>”中阅读关于氏族战败的故事。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:67
 msgid "Scenario 14: Historian"
-msgstr ""
+msgstr "场景14：历史学家"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:69
 msgid "Complete ‘<i>Eleventh Hour</i>’ with no recalling and no items."
-msgstr ""
+msgstr "在没有召回并且不带物品的情况下完成“<i>最后时刻</i>”。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:69
 msgid "Scenario 16: Alternate History"
-msgstr ""
+msgstr "场景16：平行历史"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:71
 msgid "Kill no enemies before defeating Mal-Ravanal in ‘<i>The Duel</i>’."
-msgstr ""
+msgstr "在“<i>决斗</i>”中击败玛尔-拉瓦纳尔之前，不杀死任何敌人。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:71
 msgid "Scenario 17a: Pacifist"
-msgstr ""
+msgstr "场景17a：和平主义者"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:73
 msgid "Kill all enemies before defeating Mal-Ravanal in ‘<i>All-In</i>’."
-msgstr ""
+msgstr "在“<i>全体上场</i>”中击败玛尔-拉瓦纳尔之前，消灭所有敌人。"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:73
 msgid "Scenario 17b: Warmonger"
-msgstr ""
+msgstr "场景17b：好战分子"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:75
@@ -802,10 +803,8 @@ msgstr "不！我被许诺过我可以统治这个省的！"
 #. the speaker is male
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:874
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:87
-#, fuzzy
-#| msgid "Now let’s get out of here!"
 msgid "Get me out of here!"
-msgstr "现在我们快离开吧！"
+msgstr "带我离开这里！"
 
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:888
@@ -860,10 +859,8 @@ msgstr "卡巴克"
 
 #. [side]: type=Troll, id=Kabak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:128
-#, fuzzy
-#| msgid "Nafga"
 msgid "Nag"
-msgstr "纳法加"
+msgstr "纳格"
 
 #. [side]: type=Troll, id=Kabak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:136
@@ -959,9 +956,6 @@ msgstr "俺的部落在这个洞穴里过了快一个世纪了，俺们不会为
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:358
 #, fuzzy
-#| msgid ""
-#| "Very well. The best of luck in your battle. Gweddry, we may be able to "
-#| "avoid the bulk of the trolls by going through the dwarves’ tunnel."
 msgid ""
 "Yes, I’m sure that will end well. Gweddry, we may be able to avoid the bulk "
 "of the trolls by going through the dwarves’ tunnel. I doubt they will need "
@@ -1013,10 +1007,6 @@ msgstr "我找到你们的藏身之处了，生肉！受死吧！"
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:497
 #, fuzzy
-#| msgid ""
-#| "They follow us... we must escape through this tunnel. That is "
-#| "unfortunate, for it will take us into the Estmark hills, beyond the "
-#| "borders of Wesnoth. But it is our only option."
 msgid ""
 "He sounds awfully smug for finding an open trapdoor. Gweddry, we must escape "
 "through this tunnel’s eastern exit. It is unfortunate that it will take us "
@@ -1395,10 +1385,8 @@ msgstr "纳法加"
 #. [message]: speaker=Nafga
 #. What are your orders for me to perform, Addogin?
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:283
-#, fuzzy
-#| msgid "But what about the outpost?"
 msgid "And what about me?"
-msgstr "可是哨所怎么办？"
+msgstr "那我呢？"
 
 #. [message]: speaker=Addogin
 #. "you" being a single male Orcish Slayer or Orcish Nightblade
@@ -1501,10 +1489,6 @@ msgstr ""
 #. [message]: speaker=Nafga
 #. last breath
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:499
-#, fuzzy
-#| msgid ""
-#| "No! This is the first time I have failed a mission, and it will be my "
-#| "last!"
 msgid "No! This is the first and last time I have failed a mission!"
 msgstr "不！这是我第一次任务失败，也是最后一次！"
 
@@ -2007,14 +1991,12 @@ msgstr ""
 #. [side]: type=Dark Sorcerer, id=Mal-Rikna, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:67
 #, fuzzy
-#| msgid "Mal-Uknalu"
 msgid "Mal-Rikna"
 msgstr "玛尔-乌克纳鲁"
 
 #. [side]: type=Lich, id=Mal-Vakaz
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:96
 #, fuzzy
-#| msgid "Mal-Sakkat"
 msgid "Mal-Vakaz"
 msgstr "玛尔-萨卡特"
 
@@ -2026,7 +2008,6 @@ msgstr "拉瓦-克罗达兹"
 #. [side]: type=Death Knight, id=Rava-Krovan
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:171
 #, fuzzy
-#| msgid "Rava-Krodaz"
 msgid "Rava-Krovan"
 msgstr "拉瓦-克罗达兹"
 
@@ -2052,9 +2033,6 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:315
 #, fuzzy
-#| msgid ""
-#| "This sounds dangerous. We will try to free as many of you as possible "
-#| "before we escape from here."
 msgid ""
 "No soldier deserves such treatment. We will try to free as many of you as "
 "possible."
@@ -2152,9 +2130,6 @@ msgstr "特拉恩特"
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:479
 #, fuzzy
-#| msgid ""
-#| "The Bitter Swamp’s ill reputation is, it seems, well merited. Mal-"
-#| "Ravanal’s capital lies before us!"
 msgid ""
 "The Bitter Swamp’s ill reputation is, it seems, well merited. Mal-Ravanal’s "
 "fortress lies before us."
@@ -2284,9 +2259,6 @@ msgstr "你过去和这个巫妖是<b>朋友</b>？！？"
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:837
 #, fuzzy
-#| msgid ""
-#| "Yes... We studied together many years ago. He was most powerful then, but "
-#| "the dark power I sense today is far greater. We must escape immediately!"
 msgid ""
 "Yes... We studied together many years ago. Ravan’s power was already most "
 "potent back then, but I fear it has become far greater now. None of you "
@@ -2359,11 +2331,6 @@ msgstr ""
 #. only shown if the previous scenario was S04c (Mal-Ravanal’s Capital)
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:48
 #, fuzzy
-#| msgid ""
-#| "Gweddry’s men retreated swiftly from the Bitter Swamp, fleeing north and "
-#| "west as if their heels were winged. Finding a low pass through the "
-#| "northern Estmarks, they were greatly relieved to see the valley of the "
-#| "Weldyn open before them on the other side."
 msgid ""
 "Leaving the Bitter Swamp far behind, Gweddry and his men fled northwest as "
 "if their heels were winged. After weeks of frantic marching, they were "
@@ -2377,7 +2344,7 @@ msgstr ""
 #. [side]: type=Dark Adept, id=Rilaka
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:139
 msgid "Rilaka"
-msgstr ""
+msgstr "里拉卡"
 
 #. [message]: speaker=Owaec
 #. "here lies the dead body of". An amulet was visible on this hex, a unit has moved to pick it up, which triggers this explanation why it's there.
@@ -2401,10 +2368,8 @@ msgstr "击杀朔德拉诺"
 #. [objective]: condition=win
 #. Rilaka is a male Dark Adept
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:241
-#, fuzzy
-#| msgid "Defeat Khrakrahs"
 msgid "Defeat Rilaka"
-msgstr "击败卡拉卡莱兹"
+msgstr "击败里拉卡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:251
@@ -2519,9 +2484,6 @@ msgstr ""
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:406
 #, fuzzy
-#| msgid ""
-#| "If the situation is as dire as you’ve described, I must... but we have no "
-#| "way to remove these bandits."
 msgid ""
 "If the situation is so dire, I am honor-bound to join you... but I know of "
 "no way to remove these bandits."
@@ -2530,11 +2492,6 @@ msgstr "如果情况真如你所说那样危急，那我必须……但是，我
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:410
 #, fuzzy
-#| msgid ""
-#| "I think I may be able to help. Gweddry, I believe I can cast a spell that "
-#| "will reveal the bandits when our troops enter a village. However, this "
-#| "magic will require my full attention; I won’t be able to help you in "
-#| "battle."
 msgid ""
 "You forget that I have many skills as the advisor to the Crown. I can reveal "
 "the bandits when our soldiers enter a village. However, this magic will "
@@ -2583,9 +2540,6 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:454
 #, fuzzy
-#| msgid ""
-#| "That sounds good; it is time to drive out some bandits. Dacyn, cast your "
-#| "spell!"
 msgid ""
 "Very well. Owaec, we will aid you in driving out these bandits. Dacyn, cast "
 "your spell!"
@@ -2627,9 +2581,6 @@ msgstr ""
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:616
 #, fuzzy
-#| msgid ""
-#| "I believe there is a leader behind these outlaws; kill him and we will "
-#| "face no further resistance. I will place my clansmen at your service."
 msgid ""
 "I believe there is a leader behind these outlaws. Kill him and we will face "
 "no further resistance."
@@ -2667,10 +2618,8 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:704
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:865
-#, fuzzy
-#| msgid "You may now recruit horsemen!"
 msgid "(You may now recruit Horsemen and Cavalrymen!)"
-msgstr "你现在可以征募骑手了！"
+msgstr "（你现在可以征募骑师和骑兵了！）"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:725
@@ -2721,9 +2670,6 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:919
 #, fuzzy
-#| msgid ""
-#| "Well, both the outlaws and undead are defeated. We have some time to "
-#| "spare now before more undead arrive."
 msgid ""
 "Now that both the outlaws and undead are defeated, we finally have some time "
 "to rest."
@@ -2792,12 +2738,6 @@ msgstr ""
 #. Happened in 589 YW, it's now 626 YW.
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1006
 #, fuzzy
-#| msgid ""
-#| "In all the land, there were two magi that clearly stood out from the "
-#| "rest. A mage from the east named Ravan, and myself. The King, wishing to "
-#| "choose the best advisor, sent us both before Galdren. Then he conversed "
-#| "with the seer privately. None know what was said, but when he came out he "
-#| "announced that the seer was dead, and he had chosen me as his new advisor."
 msgid ""
 "Thus, the King decided to seek this peerless savant. In all the land, there "
 "were two magi that clearly stood out from the rest. Myself, and my good "
@@ -3026,7 +2966,6 @@ msgstr "北方联盟"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:137
 #, fuzzy
-#| msgid "Mal-un-Karad"
 msgid "Defeat Mal-un-Karad"
 msgstr "玛尔-昂-卡拉德"
 
@@ -3206,9 +3145,6 @@ msgstr "是时候唤醒我的援军了！"
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:495
 #, fuzzy
-#| msgid ""
-#| "It seems as if in addition to summoning undead this foul sorcerer has "
-#| "learned to call up monsters from the deep!"
 msgid ""
 "In addition to summoning undead, this sorcerer has learned to command swarms "
 "of carnivorous fish!"
@@ -3301,7 +3237,6 @@ msgstr ""
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:440
 #, fuzzy
-#| msgid "trample"
 msgid "Temple"
 msgstr "践踏"
 
@@ -3313,9 +3248,6 @@ msgstr "移动任意单位至北方的路径。"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:495
 #, fuzzy
-#| msgid ""
-#| "Defeat as many enemy leaders as possible before turns run out (easier "
-#| "next scenario)."
 msgid ""
 "Defeat as many enemy leaders as possible, and then move any unit to the "
 "northern path (easier next scenario)"
@@ -4807,7 +4739,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:130
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:75
 msgid "Mortic"
-msgstr ""
+msgstr "莫提克"
 
 #. [message]: speaker=Tapok
 #. male Orcish Warlord talking to Mortic, a random-gender Drake Flameheart.
@@ -5074,7 +5006,6 @@ msgstr ""
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:547
 #, fuzzy
-#| msgid "Royal Guard"
 msgid "Study Guard"
 msgstr "皇家卫兵"
 
@@ -6155,7 +6086,6 @@ msgstr "我们得离开这儿！"
 #. Speaker is the male deserter, however the other units don't know his backstory yet
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:695
 #, fuzzy
-#| msgid "I’m sure the commander will come and save us!"
 msgid "I’m sure your commanders will come and save us!"
 msgstr "我相信指挥官一定会来救我们的！"
 
@@ -6328,9 +6258,6 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:987
 #, fuzzy
-#| msgid ""
-#| "The other prison cells should be to the north of that chamber. If we can "
-#| "get past those trolls we could free our comrades."
 msgid ""
 "The other prison cells should be to the north of that chamber. If we can get "
 "past those guards we could set everyone free."
@@ -6355,10 +6282,8 @@ msgstr "那，我看上去如何？"
 
 #. [message]: id=$unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1062
-#, fuzzy
-#| msgid "I’ll try to slip past the trolls. You wait here."
 msgid "I’ll try to slip past the guards. You wait here."
-msgstr "我去试试溜过那些巨魔。你们在这儿等着。"
+msgstr "我去试试溜过那些守卫。你们在这儿等着。"
 
 #. [message]: speaker=Chief Dra-Nak
 #. Gweddry, Dacyn and Owaec are being held by guards in front of Dra-Nak's throne
@@ -6437,7 +6362,6 @@ msgstr "释放其他囚犯"
 #. while the speaker is still in disguise
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1274
 #, fuzzy
-#| msgid "Here’s one of the prison cells! Let me open it..."
 msgid ""
 "Here’s one of the prison cells! As soon as I open this, all hell is going to "
 "break loose."
@@ -6481,10 +6405,8 @@ msgstr "太好了，我们得救了！"
 
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1368
-#, fuzzy
-#| msgid "Now let’s get out of here!"
 msgid "Yes! Get us out of here!"
-msgstr "现在我们快离开吧！"
+msgstr "是！带我们离开这里吧！"
 
 #. [message]: speaker=Ga'all
 #. Ga'all and Verash are drakes from S10
@@ -6540,7 +6462,6 @@ msgstr ""
 #. orc leader who was guarding against external threats sends troops into the orcs' throneroom
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1541
 #, fuzzy
-#| msgid "Death of the escapees"
 msgid "Into the caves!"
 msgstr "逃出的囚犯们死亡"
 
@@ -6586,7 +6507,6 @@ msgstr ""
 #. "them" being the Horse Clans' plains
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1596
 #, fuzzy
-#| msgid "Come, let us return to Wesnoth and head for the Northern Outpost."
 msgid "Then let us return quickly to Wesnoth to aid in their defense!"
 msgstr "来吧，我们回到韦诺去，前往北哨所。"
 
@@ -6594,7 +6514,6 @@ msgstr "来吧，我们回到韦诺去，前往北哨所。"
 #. Boja is the name of the cave bear
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1611
 #, fuzzy
-#| msgid "Hey! Who are you? Get him!"
 msgid "Hey, who are you? Boja, sic ’em!"
 msgstr "嘿！你是谁？抓住他！"
 
@@ -6716,9 +6635,6 @@ msgstr "击败所有敌方首领"
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:292
 #, fuzzy
-#| msgid ""
-#| "Every unit not south of the bridge when it is destroyed will be lost "
-#| "(including non-recalled units)"
 msgid ""
 "<b>Every unit east of the bridge when it is destroyed will be lost "
 "(including non-recalled units)</b>"
@@ -7122,11 +7038,8 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:916
-#, fuzzy
-#| msgid ""
-#| "We have not thrown down the bridge in time! The orcs will kill us all!"
 msgid "We have not crossed the bridge in time. Now we will all be killed!"
-msgstr "我们没有及时炸毁那座桥！兽人会把我们杀光的！"
+msgstr "我们没有及时过这座桥。现在我们都会被杀掉的！"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:927
@@ -7203,7 +7116,6 @@ msgstr ""
 #. female necromancer, will be renamed to Mal-Mana if Mal-Mana wasn't killed in a previous scenario
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:277
 #, fuzzy
-#| msgid "Mal-Arnai"
 msgid "Mal-Yrna"
 msgstr "玛尔-阿奈"
 
@@ -7270,10 +7182,8 @@ msgstr "欧瓦埃克死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:532
-#, fuzzy
-#| msgid "Death of Dacyn"
 msgid "Death of Terraent"
-msgstr "达辛死亡"
+msgstr "特拉恩特死亡"
 
 #. [note]
 #. two prisoners and one jailer per gang
@@ -7582,7 +7492,6 @@ msgstr ""
 #. to Terraent. She's summoning bats.
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1387
 #, fuzzy
-#| msgid "You have failed me, man of Wesnoth..."
 msgid "Not again! Do not test me, paladin of Wesnoth..."
 msgstr "你们辜负了我，韦诺住民……"
 
@@ -7718,10 +7627,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:449
-#, fuzzy
-#| msgid "I failed my Master..."
 msgid "... I failed you all..."
-msgstr "我辜负了吾主……"
+msgstr "……我辜负了你们所有人……"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:450
@@ -7782,7 +7689,6 @@ msgstr ""
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:460
 #, fuzzy
-#| msgid "Wesnoth, I have failed you..."
 msgid "... Lord Gaelyc, I have failed you."
 msgstr "韦诺，我辜负了你……"
 
@@ -7900,9 +7806,6 @@ msgstr "击败鬼魂"
 #. The player hasn't recruited yet, so listening are Gweddry, Dacyn, and the auto-recalled optional loyals (at most 8 people in total).
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:840
 #, fuzzy
-#| msgid ""
-#| "Now, we have reached the Horse Plains, the fair homeland of my people. "
-#| "They may be able to help us find—"
 msgid ""
 "At last we have reached the Horse Plains, the fair homeland of my people! "
 "Here we can finally reunite with our comrades-in-arms and vanquish the "
@@ -8026,7 +7929,6 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1055
 #, fuzzy
-#| msgid "So what should we do now?"
 msgid "What do I do now?"
 msgstr "那我们现在该怎么办？"
 
@@ -8276,7 +8178,6 @@ msgstr ""
 #. he's talking of a memory, not the current situation
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1652
 #, fuzzy
-#| msgid "But there’s too many of them!"
 msgid "... there’s... too many."
 msgstr "但巨魔太多了！"
 
@@ -8760,12 +8661,6 @@ msgstr ""
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:926
 #, fuzzy
-#| msgid ""
-#| "I can tell by your words that you have not seen the hordes for yourself. "
-#| "It is like all of the dead warriors from all the ages have come back to "
-#| "attack us. There is no end to the columns of marching skeletons, the "
-#| "wailing ghosts, the infernal bats, led by the foul necromancers who "
-#| "raised them."
 msgid ""
 "Truly, have you three not seen the might of the armies encircling Weldyn? It "
 "is as if all of the dead warriors from all ages past have come back to "
@@ -8810,9 +8705,6 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:948
 #, fuzzy
-#| msgid ""
-#| "We face his entire army regardless. The only difference is whether Mal-"
-#| "Ravanal is commanding in back or gloating in front."
 msgid ""
 "We face their entire army regardless. (cough)(cough) The only difference is "
 "whether Mal-Ravanal is commanding in the back or gloating in the front."
@@ -8879,14 +8771,12 @@ msgstr ""
 #. [side]: type=Necromancer, id=Mal-Analla, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:740
 #, fuzzy
-#| msgid "Mal-Kallat"
 msgid "Mal-Analla"
 msgstr "玛尔-卡拉特"
 
 #. [unit]: type=Necromancer, id=Mal-Saerav
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:848
 #, fuzzy
-#| msgid "Mal-Marak"
 msgid "Mal-Saerav"
 msgstr "玛尔-玛拉克"
 
@@ -9316,15 +9206,12 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1958
 #, fuzzy
-#| msgid "Now I will never get promoted!"
 msgid "No! Now I will never have my revenge..."
 msgstr "现在我再也不可能晋升了！"
 
 #. [message]: speaker=unit
 #. last breath of the reanimated (Soulless) Mal-Skraat or Mal-Kallat
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1969
-#, fuzzy
-#| msgid "Grarrgghh..."
 msgid "Gruhhh..."
 msgstr "嘎啊啊啊……"
 
@@ -9468,10 +9355,8 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2172
-#, fuzzy
-#| msgid "I will begin preparing our troops."
 msgid "I will begin preparing our armies."
-msgstr "我将整备部队。"
+msgstr "我将整备我们的军队。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2190
@@ -9610,7 +9495,7 @@ msgstr ""
 #. [scenario]: id=17b_All-In
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:11
 msgid "All-In"
-msgstr ""
+msgstr "全体上场"
 
 #. [part]
 #. the river has the same name as the city
@@ -9898,7 +9783,6 @@ msgstr ""
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1385
 #, fuzzy
-#| msgid "Their spell is broken! There he is!"
 msgid "Their spell is broken!"
 msgstr "魔咒阻断了！他在那儿！"
 
@@ -10003,9 +9887,6 @@ msgstr "我的职责已经完成；氏族的仇已经报了。我终于可以地
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:231
 #, fuzzy
-#| msgid ""
-#| "Nor is our work yet complete. Mal-Ravanal’s host has been broken, but in "
-#| "its wake chaos and disorder prevail throughout the countryside."
 msgid ""
 "Alas, our work is not yet complete. Mal-Ravanal’s host has been broken, but "
 "in its wake, chaos and disorder prevail throughout the countryside. We will "
@@ -10017,9 +9898,6 @@ msgstr ""
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:235
 #, fuzzy
-#| msgid ""
-#| "Even now we should be sending our troops to restore order throughout the "
-#| "land."
 msgid ""
 "Even now we should be sending what’s left of our armies to restore order "
 "throughout the land."
@@ -10077,10 +9955,8 @@ msgstr ""
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:301
-#, fuzzy
-#| msgid "Grug say new home will make thanks with."
 msgid "(bowing clumsily) Grug say new home will make thanks with."
-msgstr "格拉格说新家要谢谢。"
+msgstr "（笨拙地鞠躬）格拉格说新家要谢谢。"
 
 #. [message]: speaker=Konrad
 #. the player chose to give Dolburras the plague staff
@@ -10212,10 +10088,6 @@ msgstr ""
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:470
 #, fuzzy
-#| msgid ""
-#| "Sir Terraent, your service to the crown has been a beacon of light in "
-#| "these dark times. We are appointing you to command the River Guard in "
-#| "Estmark."
 msgid ""
 "Sir Terraent, your service to the Crown and your unfailing optimism has been "
 "a beacon of light in these dark times. If you accept, we would appoint you "
@@ -10227,8 +10099,6 @@ msgstr ""
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:474
 #, fuzzy
-#| msgid ""
-#| "It is an honor to serve my kingdom, and I humbly accept your commission."
 msgid ""
 "It has been an honor to spread the holy Light in this kingdom, and I humbly "
 "accept your commission. May the Light shine ever-bright upon the pious."
@@ -10347,7 +10217,6 @@ msgstr "陛下，微臣只是尽职而已。"
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:640
 #, fuzzy
-#| msgid "Quite. Now do not interrupt while I am doing mine... Kneel, Gweddry."
 msgid ""
 "Quite. Now do not interrupt while I am doing mine... Kneel, Gweddry, "
 "lieutenant."
@@ -10355,14 +10224,12 @@ msgstr "的确。现在不要打断我……单膝下跪，格温德利。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:645
-#, fuzzy
-#| msgid ""
-#| "And arise, Gweddry, Earl of Estmark. The land for which you shed your "
-#| "blood shall be put under your hand to be made green again."
 msgid ""
 "And arise, Gweddry, Earl of Estmark! The land for which you shed your blood "
 "shall be put under your hand to be made green again. May you ever prosper."
-msgstr "平身，格温德利，东界伯爵。这片你所染血的土地，会经由你的手重获绿色。"
+msgstr ""
+"平身，格温德利，东界伯爵。这片你所染血的土地，会经由你的手重获绿色。愿你永远"
+"繁荣昌盛。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:653
@@ -10382,10 +10249,6 @@ msgstr ""
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:670
 #, fuzzy
-#| msgid ""
-#| "Arise, Owaec, Knight Commander of the King’s Horse. And take as Our first "
-#| "command to you your own wish; go from here, secure our borders, and show "
-#| "all that the might of Wesnoth will endure."
 msgid ""
 "To each of you, take as Our first command to you your own wish! Go from "
 "here; secure our borders. Show all that the might of Wesnoth will endure!"
@@ -10405,6 +10268,8 @@ msgid ""
 "S12 ‘Evacuation’, and completing the difficult S17b ‘All-In’, you’ve "
 "unlocked this bonus scenario!"
 msgstr ""
+"恭喜！通过在场景11“被俘”放过德拉-纳克，在场景12“逃脱”放过莫提克，并完成困难的"
+"场景17b“全体上场”，你解锁了这个奖励场景！"
 
 #. [side]: type=Drake Arbiter, id=Goag
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:103
@@ -10429,7 +10294,6 @@ msgstr ""
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:238
 #, fuzzy
-#| msgid "Prisoners"
 msgid "Prison Guards"
 msgstr "囚犯"
 
@@ -10450,10 +10314,8 @@ msgstr ""
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:243
-#, fuzzy
-#| msgid "Grug"
 msgid "Grugnuk"
-msgstr "格拉格"
+msgstr "格拉格纳克"
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:545
@@ -10776,10 +10638,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1367
-#, fuzzy
-#| msgid "We’ve got to get out of here!"
 msgid "Yes, YES! Get me out of here."
-msgstr "我们得离开这儿！"
+msgstr "是的，是的！带我离开这里。"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1370
@@ -11086,10 +10946,6 @@ msgstr "马背领主"
 #. [unit_type]: id=Horse Lord, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Owaec_Horse_Lord.cfg:27
 #, fuzzy
-#| msgid ""
-#| "The greatest of the men of the plains, Horse Lords are heads of their "
-#| "houses and are respected by all, friend or foe. Their sword can kill most "
-#| "ordinary enemies, and their morning star crushes those who are left."
 msgid ""
 "The greatest of the men of the plains, Horse Lords are heads of their houses "
 "and are respected by all, friend or foe. These lords lead by example, "
@@ -11115,10 +10971,8 @@ msgstr ""
 #. [unit_type]: id=Shadow Lord, race=human, gender=female
 #. In the liberty textdomain exists a male unit with that name
 #: data/campaigns/Eastern_Invasion/units/Human_Shadow_Lord.cfg:6
-#, fuzzy
-#| msgid "Lich Lord"
 msgid "female^Shadow Lord"
-msgstr "巫妖领主"
+msgstr "暗影领主"
 
 #. [unit_type]: id=Shadow Lord, race=human, gender=female
 #: data/campaigns/Eastern_Invasion/units/Human_Shadow_Lord.cfg:24
@@ -11238,7 +11092,6 @@ msgstr ""
 #. [unit_type]: id=Barrow Wight, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Horse_Barrow_Wight.cfg:4
 #, fuzzy
-#| msgid "Bone Knight"
 msgid "Barrow Wight"
 msgstr "枯骨骑士"
 
@@ -11365,9 +11218,6 @@ msgstr "震击"
 #. [attacks]: id=shock
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:153
 #, fuzzy
-#| msgid ""
-#| "When this attack is used on offense, the opponent will retaliate with one "
-#| "less strike than normally, to a minimum of one strike."
 msgid ""
 "The crushing power of this attack overwhelms enemies. When used on offense, "
 "the opponent can only retaliate with one strike."
@@ -11378,9 +11228,6 @@ msgstr ""
 #. [special_note]
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:162
 #, fuzzy
-#| msgid ""
-#| "This unit’s melee attack can overwhelm the defenses of enemies, "
-#| "preventing them from retaliating as effectively."
 msgid ""
 "This unit’s melee attack can overwhelm enemies’ defenses, preventing them "
 "from retaliating as effectively."
@@ -11690,10 +11537,6 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:327
 #, fuzzy
-#| msgid ""
-#| "It was perhaps as well for the men of Gweddry’s troop that they did not "
-#| "live to see the grim tide of undead sweeping westward into Wesnoth, "
-#| "laying waste to all in its path."
 msgid ""
 "It was perhaps as well for the men of Gweddry’s troop that they did not live "
 "to witness the fullness of the grim tide of undead sweeping westward into "
@@ -11705,10 +11548,6 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:337
 #, fuzzy
-#| msgid ""
-#| "Wesnoth never learned the fate of Gweddry’s band, but all too soon they "
-#| "would suffer the rage and malice of marauding orcs and undead in a war "
-#| "that would end only in misery and death."
 msgid ""
 "Wesnoth never learned the fate of Gweddry’s band, but they would soon learn "
 "the full measure of the power of Mal-Ravanal in a war that would end only in "
@@ -11720,10 +11559,6 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:347
 #, fuzzy
-#| msgid ""
-#| "Their home country proved to be no refuge for Gweddry’s weary men, and no "
-#| "more would it for the inhabitants of Wesnoth as foes pressed them on all "
-#| "sides to a final defense of the doomed kingdom."
 msgid ""
 "Their home country had proved to be no refuge for Gweddry’s weary men, and "
 "no more would it for the inhabitants of Wesnoth as foes pressed them on all "
@@ -11735,10 +11570,6 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:357
 #, fuzzy
-#| msgid ""
-#| "With the staunchest defenders of Wesnoth bested on their home ground, the "
-#| "once-great kingdom was plunged into final darkness under the vengeful "
-#| "hand of Mal-Ravanal."
 msgid ""
 "With the staunchest defenders of Wesnoth bested on their home ground, the "
 "once-great kingdom was plunged into final darkness under the hand of Mal-"
@@ -11957,10 +11788,8 @@ msgstr "-但不会有下次了！！！"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:561
-#, fuzzy
-#| msgid "What was that?!"
 msgid "Wha- what is this?!"
-msgstr "什么声音？！"
+msgstr "这-这是什么？！"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:568
@@ -12509,10 +12338,8 @@ msgstr "快逃命！"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:88
-#, fuzzy
-#| msgid "Now let’s get out of here!"
 msgid "female^Get me out of here!"
-msgstr "现在我们快离开吧！"
+msgstr "带我离开这里！"
 
 #. [message]: speaker=narrator
 #. unit is male
@@ -12568,7 +12395,6 @@ msgid ""
 msgstr ""
 
 #, fuzzy
-#~| msgid "trample"
 #~ msgid "trample"
 #~ msgstr "践踏"
 
