@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-29 15:45+0800\n"
+"PO-Revision-Date: 2024-08-04 21:10+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -342,7 +342,7 @@ msgstr "完成秘密奖励场景。"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:75
 msgid "Scenario 99: Haw, Haw, Haw"
-msgstr ""
+msgstr "场景99：嚯，嚯，嚯"
 
 #. [lua]: wml_actions.bandit_village_capture
 #: data/campaigns/Eastern_Invasion/lua/bandits.lua:84
@@ -566,7 +566,7 @@ msgstr "亡灵"
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:105
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:655
 msgid "Nakeg-alvan"
-msgstr ""
+msgstr "纳克格-阿尔万"
 
 #. [side]: type=Dark Sorcerer, id=Mal-Talar
 #. [else]
@@ -589,7 +589,7 @@ msgstr "玛尔-塔拉"
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:168
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:647
 msgid "Mel Guthrak"
-msgstr ""
+msgstr "梅尔·古斯拉克"
 
 #. [side]: type=Necromancer, id=Mel Guthrak
 #. [unit]: type=Dark Adept, id=Gaennell, gender=female
@@ -599,12 +599,12 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:211
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1055
 msgid "Gaennell"
-msgstr ""
+msgstr "盖内尔"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:235
 msgid "Vugreddyr"
-msgstr ""
+msgstr "乌格里迪尔"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:296
@@ -840,12 +840,12 @@ msgstr "努坦"
 #. [side]: type=Dwarvish Steelclad, id=Knutan
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:76
 msgid "Pelmaithodor"
-msgstr ""
+msgstr "佩尔梅托多尔"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:86
 msgid "Duduril"
-msgstr ""
+msgstr "杜德里尔"
 
 #. [side]: type=Troll, id=Kabak
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:110
@@ -866,7 +866,7 @@ msgstr "纳格"
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:136
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:146
 msgid "Hur"
-msgstr ""
+msgstr "胡尔"
 
 #. [then]
 #. [modify_unit]
@@ -955,14 +955,13 @@ msgstr "俺的部落在这个洞穴里过了快一个世纪了，俺们不会为
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:358
-#, fuzzy
 msgid ""
 "Yes, I’m sure that will end well. Gweddry, we may be able to avoid the bulk "
 "of the trolls by going through the dwarves’ tunnel. I doubt they will need "
 "it much longer."
 msgstr ""
-"好吧，祝你们在战斗中好运。格温德利，要是从矮人的隧道走，我们或许能躲开大部分"
-"巨魔。"
+"是的，我相信结局会好。格温德利，要是从矮人的隧道走，我们或许能躲开大部分巨"
+"魔。我怀疑他们会需要它更长时间。"
 
 #. [message]: speaker=Duduril
 #. speaker is a dwarf, currently alone
@@ -1006,15 +1005,15 @@ msgstr "我找到你们的藏身之处了，生肉！受死吧！"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:497
-#, fuzzy
 msgid ""
 "He sounds awfully smug for finding an open trapdoor. Gweddry, we must escape "
 "through this tunnel’s eastern exit. It is unfortunate that it will take us "
 "into the Estmark hills, beyond the borders of Wesnoth. But it is the only "
 "option."
 msgstr ""
-"它们紧跟着我们……我们一定要从这个隧道里逃出去。这真不幸，沿着隧道我们会越过韦"
-"诺边界，到达东界丘陵。但这是我们唯一的选择。"
+"他听起来为找到了一扇敞开的活板门而很得意。格威德利，我们一定要从这个隧道的东"
+"面出口逃出去。这真不幸，沿着隧道我们会越过韦诺边界，到达东界丘陵。但这是我们"
+"唯一的选择。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:531
@@ -1054,7 +1053,7 @@ msgstr "玛尔-塔"
 msgid ""
 "Hello? My masters said I should see what was making all the noise down in "
 "this old cave..."
-msgstr ""
+msgstr "你好？我的主人说我要看看是什么东西在这个古老洞穴里弄出这么大的声响……"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:640
@@ -1073,6 +1072,8 @@ msgid ""
 "clambered out of the dingy cave. The lush Estmark hills filled the horizon "
 "in all directions."
 msgstr ""
+"白昼破晓，格威德利和他的人从肮脏的山洞中爬出，他们脸上的表情释然。茂密的东界"
+"丘陵在四面八方地平线上延伸。"
 
 #. [side]: type=Dark Sorcerer, id=Mal-Skraat
 #. [side]: type=Dark Sorcerer, id=Mal-Skraat, gender=male
@@ -1117,12 +1118,12 @@ msgstr "快点，我必须把我们身后的隧道弄塌。"
 msgid ""
 "Excellent, we have swiftly escaped the tunnels, and there is no sign of "
 "pursuit."
-msgstr ""
+msgstr "优秀，我们迅速逃离了地道，没有追踪的迹象。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:244
 msgid "It’s a relief to once again breathe the fresh air. Where are we now?"
-msgstr ""
+msgstr "再次呼吸新鲜空气真是一种放松。我们现在在哪里？"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:248
@@ -1131,6 +1132,8 @@ msgid ""
 "east and west. I am unsure which path leads us the swiftest towards Wesnoth, "
 "but we certainly cannot stay here."
 msgstr ""
+"这是东界丘陵，所以我们一定是在一条通往东西两方的山口。我不确定哪条路能最快带"
+"我们到韦诺，但我们肯定不能留在这里。"
 
 #. [message]: speaker=Mal-Kallat
 #. sister talking to younger brother
@@ -1138,7 +1141,7 @@ msgstr ""
 msgid ""
 "What are these soldiers doing here? The vanguard must not have done a "
 "thorough job of cleaning up..."
-msgstr ""
+msgstr "这些士兵在这里做什么？先锋部队一定没有彻底清理……"
 
 #. [message]: speaker=Mal-Skraat
 #. brother talking to older sister
@@ -1146,7 +1149,7 @@ msgstr ""
 msgid ""
 "Don’t be scared, Kala. Look at how haggard they are! I bet the new recruit "
 "can handle them by himself."
-msgstr ""
+msgstr "别怕，卡拉。看看他们多憔悴！我敢打赌新征募的就能独自应付他们。"
 
 #. [message]: speaker=Mal-Tar
 #. Dacyn and Gweddry are going to do this during turn 1, before he even gets a chance to recruit
@@ -1167,13 +1170,15 @@ msgid ""
 "armies while in the tunnel. We must kill either of the dark sorcerers and "
 "escape towards Wesnoth."
 msgstr ""
+"我相信这是亡灵后卫；我们肯定在隧道中穿过了他们的军队。我们必须杀死任意一个黑"
+"暗巫师，然后逃向韦诺。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:285
 msgid ""
 "This is a true invasion then? These necromancers mean to conquer Wesnoth "
 "itself?"
-msgstr ""
+msgstr "这是一次真正的入侵吗？这些死灵法师想征服韦诺本身？"
 
 #. [message]: speaker=Dacyn
 #. "their leader" being Mal-Ravanal, who's neither male nor female
@@ -1184,25 +1189,25 @@ msgstr "是的。我有他们首领的历史。"
 #. [message]: speaker=Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:313
 msgid "I... I actually did it!"
-msgstr ""
+msgstr "我……我真的做到了！"
 
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:317
 msgid ""
 "Well well, I’m impressed! Perhaps this apprenticeship has not been wasted on "
 "you after all."
-msgstr ""
+msgstr "好好好，我很佩服！或许这次学徒生涯并没有在你身上白费。"
 
 #. [message]: speaker=Mal-Kallat
 #. star wars reference
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:322
 msgid "We will watch your career with great interest..."
-msgstr ""
+msgstr "我们将非常关注你的职业生涯……"
 
 #. [message]: speaker=Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:336
 msgid "Wait, please, not like this!"
-msgstr ""
+msgstr "等等，请，不要这样！"
 
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:351
@@ -1219,7 +1224,7 @@ msgstr "我想尽可能地避免战斗，但看起来我们没有选择……"
 #. [message]: speaker=Mal-Kallat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:367
 msgid "Skrai, no!! Cursed Wesnothians, he was my precious little brother..."
-msgstr ""
+msgstr "斯卡拉，不！!该死的韦诺人，他是我珍贵的弟弟……"
 
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:388
@@ -1227,11 +1232,13 @@ msgid ""
 "Kala, no!! Curse you Wesnothians! You may have killed my sister, but I will "
 "chase you east and take my revenge!"
 msgstr ""
+"卡拉，不！!诅咒你们韦诺人！你们可能杀了我的姐姐，但我会追你们到东边，为我报"
+"仇！"
 
 #. [message]: speaker=Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:418
 msgid "... wait, what just happened? Why am I still alive?"
-msgstr ""
+msgstr "...等等，刚才发生了什么？我为什么还活着？"
 
 #. [scenario]: id=04a_An_Elven_Interlude
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:8
@@ -1241,7 +1248,7 @@ msgstr "精灵的插曲"
 #. [scenario]: id=04a_An_Elven_Interlude
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:24
 msgid "Singing Spring"
-msgstr ""
+msgstr "歌唱之泉"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:29
@@ -1250,6 +1257,8 @@ msgid ""
 "of slow and labored mountain marching, they stumbled upon a green valley and "
 "an unknown forest."
 msgstr ""
+"格威德利和达辛通过西通道找到了一丝微弱的安慰。经过几周的缓慢而艰难的山地行"
+"军，他们偶然发现了一个绿色山谷和一个未知的森林。"
 
 #. [side]: type=Elvish Lady, id=Vaelya
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:61
@@ -1375,7 +1384,7 @@ msgstr "……阿道金，请把这些韦诺人送到东方去。"
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:261
 msgid "You heard the lady! Boys, it’s time to earn our keep!"
-msgstr ""
+msgstr "你听到了女士的话！男孩们，是时候自食其力了！"
 
 #. [unit]: type={ON_DIFFICULTY (Orcish Slayer) (Orcish Nightblade) (Orcish Nightblade)}, id=Nafga
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:272
@@ -1397,6 +1406,8 @@ msgid ""
 "behind. And don’t even think of running off with any corpses before I can "
 "collect our bounty!"
 msgstr ""
+"跟你一起进入森林。如果发生流血事件，从他们背后攻击。在我能收集我们的战利品之"
+"前，也不要想带着任何尸体逃跑！"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:308
@@ -2032,11 +2043,10 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:315
-#, fuzzy
 msgid ""
 "No soldier deserves such treatment. We will try to free as many of you as "
 "possible."
-msgstr "这听起来很危险。在我们逃离这里之前，会尽可能让你们自由的。"
+msgstr "没有一个战士值得被这样对待。我们会尽可能让你们自由的。"
 
 #. [message]: speaker={ID}
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:319
@@ -2965,9 +2975,8 @@ msgstr "北方联盟"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:137
-#, fuzzy
 msgid "Defeat Mal-un-Karad"
-msgstr "玛尔-昂-卡拉德"
+msgstr "击败玛尔-昂-卡拉德"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:146
