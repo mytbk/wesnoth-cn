@@ -1,0 +1,16 @@
+We are translating some text in the turn based strategy game Wesnoth. The following is the English text and the translation of some terms and names, one for each line:
+Wesnoth 韦诺
+Weldyn 维尔帝
+Great River 泰河
+Soradoc 索拉多克
+undead 亡灵
+necromancer 死灵法师
+scenerio 场景
+Mal- 玛尔-
+Mal-Ravanal 玛尔-拉瓦纳尔
+Gweddry 格威德利
+Owaec 欧瓦埃克
+Dacyn 达辛
+Terraent 特拉恩特
+Estmark hills 东界丘陵
+Please translate this text from English to simplified Chinese, your response should only contain the translated text: 
