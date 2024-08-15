@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-08-13 14:37+0800\n"
+"PO-Revision-Date: 2024-08-15 13:32+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1865,18 +1865,13 @@ msgstr ""
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:455
-#, fuzzy
-#| msgid ""
-#| "Ghouls! They have an insatiable hunger for flesh and even one scratch from "
-#| "their claws will weaken you with sickness and disease. Nasty things; let’s "
-#| "chop them to pieces before they can leave the canal."
 msgid ""
 "Ghouls! They have an insatiable hunger for flesh. One scratch from their claws "
 "will weaken you with sickness and disease. Nasty things; let’s chop them to "
 "pieces before they can leave the canal."
 msgstr ""
-"食尸鬼！他们对肉有贪得无厌的渴望，即使只被它们的爪子划伤一点，也会让你恶疾缠"
-"身、虚弱无力。实在是恶心的东西。在它们离开运河之前，我们把它们砍成碎片吧。"
+"食尸鬼！他们对肉有贪得无厌的渴望。被它们的爪子划伤一点，就会让你恶疾缠身、虚弱"
+"无力。实在是恶心的东西。在它们离开运河之前，我们把它们砍成碎片吧。"
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:470
@@ -2020,14 +2015,10 @@ msgstr "你们是不可能追上来的，活着的臭虫。"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:398
-#, fuzzy
-#| msgid ""
-#| "We’ll have to kill these revenants to get after him. There are only two of "
-#| "them, so they shouldn’t last long."
 msgid ""
 "We’ll have to kill these revenants to get after him. There are only two of "
 "them. This shouldn’t last long."
-msgstr "要赶上他，我们必须杀掉这些亡魂。他们只有两个，他们应该撑不了多久的。"
+msgstr "要赶上他，我们必须杀掉这些亡魂。他们只有两个。这应该不需要多久。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:415
@@ -2352,10 +2343,8 @@ msgstr ""
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:919
-#, fuzzy
-#| msgid "And I feel better too. Now let’s get back at that disgusting skeleton."
 msgid "And I feel better too. Now where’s that disgusting skeleton?"
-msgstr "我的确感觉好多了。我们去找恶心的骷髅兵算帐吧。"
+msgstr "我的确感觉好多了。现在那些恶心的骷髅在哪里？"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:925
@@ -2381,14 +2370,10 @@ msgstr "我只是塔林，不是什么领主。你现在看起来好多了。"
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:981
-#, fuzzy
-#| msgid ""
-#| "Oh, just a few tricks I know, otherwise I probably would be dead by now. "
-#| "But let’s get back at that disgusting skeleton."
 msgid ""
 "Oh, just a few tricks I know, otherwise I probably would be dead by now. Now "
 "where’s that disgusting skeleton?"
-msgstr "哦，之前我是装的，不然我可能已经死掉了。现在让我们去找骷髅兵算帐吧。"
+msgstr "哦，之前我是装的，不然我可能已经死掉了。现在那些恶心的骷髅在哪里？"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:988
@@ -2412,10 +2397,8 @@ msgstr "谁说不是呢。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1032
-#, fuzzy
-#| msgid "Holy cow! What did I just let out of that cage! Look out everyone."
 msgid "Holy cow! What did I just let out of that cage? Look out everyone!"
-msgstr "我的天呐！我刚刚把什么东西放出来了！大家小心。"
+msgstr "我的天呐！我刚刚把什么东西放出来了？大家小心！"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1037
@@ -2471,15 +2454,11 @@ msgstr "应该是“他”。没错，他们其实是非常有智慧的生物。
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1095
-#, fuzzy
-#| msgid ""
-#| "Hush! I am trying to talk to him. Nope, we’ll never hurt you. But if you "
-#| "want to you can hurt some skeletons."
 msgid ""
 "Hush, I am trying to talk to him. Nope, we’ll never hurt you. But if you want "
 "to you can hurt some skeletons."
 msgstr ""
-"嘘！我要和他谈谈。当然不会，我们绝不会攻击你。如果你愿意，你可以去攻击那些骷髅"
+"嘘，我要和他谈谈。当然不会，我们绝不会攻击你。如果你愿意，你可以去攻击那些骷髅"
 "兵。"
 
 #. [message]: speaker=Krash
@@ -2504,12 +2483,8 @@ msgstr "哇！他好像并不怎么友好……也许他只是不喜欢某些东
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1140
-#, fuzzy
-#| msgid ""
-#| "(<i>Sigh</i>) There doesn’t seem to be anything down this tunnel, either "
-#| "friend or foe."
 msgid "(<i>Sigh</i>) There doesn’t seem to be anything down this tunnel."
-msgstr "（<b>叹气</b>）看来这个隧道里什么也没有，没有朋友也没有敌人。"
+msgstr "（<b>叹气</b>）看来这个隧道里什么也没有。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1164
@@ -2569,14 +2544,6 @@ msgstr "什么东西，安彼海？"
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1296
-#, fuzzy
-#| msgid ""
-#| "This is the Great Rod of Justice, my boy. It was an ancient artifact even "
-#| "when I was young. They say it was crafted by the Great Gods themselves, and "
-#| "given to the first true Ruler of Men to ensure peace, harmony and above all "
-#| "— justice. For hundreds of years it did just that, for during the time it "
-#| "was wielded by men, the ruling class never became corrupt, the people never "
-#| "lacked justice and neither evil nor wars troubled the land."
 msgid ""
 "This is the Great Rod of Justice, my boy. It was an ancient artifact even when "
 "I was young. They say it was crafted by the Great Gods themselves, and given "
@@ -2949,10 +2916,6 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2050
-#, fuzzy
-#| msgid ""
-#| "Then how do we get past? I can see that the passage continues to both the "
-#| "north and south and we haven’t found Malifor yet..."
 msgid ""
 "Then how do we get past? I can see that the passage continues to both the "
 "north and south, and we haven’t found Malifor yet..."
@@ -3015,25 +2978,18 @@ msgstr "我们要去毁灭玛利弗。"
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2128
-#, fuzzy
-#| msgid ""
-#| "(<i>pales if possible</i>) Malifor...! Finally someone here in force to "
-#| "deal with that menace!"
 msgid "Malifor...! Finally someone here in force to deal with that menace!"
-msgstr ""
-"（<b>脸色变白，如果那有可能的话</b>）玛利弗……！终于有人带着大军来对付那威胁了！"
+msgstr "玛利弗……！终于有人带着大军来对付那威胁了！"
 
 #. [message]: speaker=Tallin
 #. "this spirit" is referring to the Ghost named Abhai.
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2134
-#, fuzzy
-#| msgid ""
-#| "Can you tell us where he is? And, if I may ask, who are — or rather, were — "
-#| "you?"
 msgid ""
 "<i>Did this spirit get even paler?</i> Can you tell us where he is? And, if I "
 "may ask, who are — or rather, were — you?"
-msgstr "你能告诉我们他在哪里吗？还有，恕我冒昧，你是——应该说，曾经是——谁？"
+msgstr ""
+"<i>这个灵魂变得更苍白了吗？</i>你能告诉我们他在哪里吗？还有，恕我冒昧，你是——应"
+"该说，曾经是——谁？"
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2139
@@ -3412,28 +3368,14 @@ msgstr "交易"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:19
-#, fuzzy
-#| msgid ""
-#| "Laden with gold and filled with an elation at their victory that was "
-#| "tempered with sadness at the death of their friends, Tallin and his people "
-#| "made their way back to the mines."
 msgid ""
 "Laden with gold, and filled with both elation at their victory and sadness for "
 "their departed comrades, Tallin and his people made their way back to the "
 "mines."
-msgstr "满载金币，带着胜利的喜悦和失去战友的悲伤，塔林和他的队伍回到了矿脉。"
+msgstr "满载金币，带着胜利的喜悦和同志逝去的悲伤，塔林和他的队伍回到了矿脉。"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:22
-#, fuzzy
-#| msgid ""
-#| "As they approached they were met with a most welcome sight: new "
-#| "fortifications, looking very much like the legendary impenetrable dwarvish "
-#| "defenses of old, had sprung up everywhere. All of them were manned by alert "
-#| "and well-armed dwarves who hailed them boisterously. The mines were "
-#| "belching smoke from the furiously working forges. New weapons and armor for "
-#| "humans and dwarves alike lay neatly stacked, and the deafening clang of "
-#| "hammers and picks from the dwarves promised more."
 msgid ""
 "As they approached they were met with a most welcome sight: new "
 "fortifications, looking very much like the legendary impenetrable dwarvish "
@@ -3445,9 +3387,9 @@ msgid ""
 msgstr ""
 "当他们快到的时候，看到了一幕最好的景象：新的防御工事遍地都是，就像过去传说中矮"
 "人坚不可摧的防御一样。这些工事里都驻扎着警惕而装备精良的矮人，他们喧闹着欢迎塔"
-"林一行。矿上热火朝天的锻造场里冒出滚滚浓烟。为人类和矮人定制的新武器和铠甲整齐"
-"地码放着，而矮人工坊中传出的震耳欲聋的铁锤和鹤嘴锄的声响，表明有更多的装备即将"
-"出炉。"
+"林一行。浓烟从疯狂工作的锻炉中喷出，熔炉的热量几乎令人难以置信。为人类和矮人定"
+"制的新武器和铠甲整齐地码放着，而矮人工坊中传出的震耳欲聋的铁锤和鹤嘴锄的声响，"
+"表明有更多的装备即将出炉。"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:25
@@ -3488,18 +3430,13 @@ msgstr ""
 
 #. [message]: speaker=Galim
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:148
-#, fuzzy
-#| msgid ""
-#| "We have cleared the connecting tunnels to here and to the old keep as well "
-#| "as other parts o’ Knalga. It is slow and dangerous work, mostly due to the "
-#| "trolls. But it ha’ been made easier by Malifor’s ending."
 msgid ""
 "We have cleared the connecting tunnels from here to the old keep as well as "
 "other parts o’ Knalga. It is slow and dangerous work, mostly due to the "
 "trolls. But it ha’ been made easier by Malifor’s ending."
 msgstr ""
-"我们已经清理好了通往这里、旧要塞以及纳尔迦的其他部分的隧道。这是一项缓慢而艰险"
-"的工作，主要是因为巨魔的存在。不过随着玛利弗的倒台，事情还是变得容易了些。"
+"我们已经清理好了从这里到旧要塞以及纳尔迦的其他部分的隧道。这是一项缓慢而艰险的"
+"工作，主要是因为巨魔的存在。不过随着玛利弗的倒台，事情还是变得容易了些。"
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:153
@@ -3521,20 +3458,13 @@ msgstr "太好了！武器和铠甲方面的情况怎样？"
 #. battle. Some of us dwarves are experts in the sword, mace, and bow and can
 #. aid your veterans in teaching others.
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:164
-#, fuzzy
-#| msgid ""
-#| "As you can see, Tallin, there are muckle heaps of them, all ready to be "
-#| "borne into battle. What’s more, some of the dwarves who are expert with the "
-#| "sword, mace and bow, as well as some of yer own men who have grown skilled "
-#| "by experience, can teach others how to wield them."
 msgid ""
 "As ye ken see, Tallin, there be muckle heaps o’ them, all ready to be borne "
 "inta battle. And, some o’ us dwarves be experts in the sword, mace, and bow "
 "and ken aid yer veterans in teaching others."
 msgstr ""
 "正如你所见，塔林，这里有大堆大堆的武器和铠甲，都已经整备完毕可以带上战场了。另"
-"外，有些矮人是使用刀剑、棍棒和弓箭的专家，你的人里也有一部分作战经验丰富而变得"
-"善于使用武器，他们可以教其他人如何使用这些武器。"
+"外，有些矮人是使用刀剑、棍棒和弓箭的专家，可以帮助你的老兵教其他人。"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:169
@@ -3567,16 +3497,12 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:185
-#, fuzzy
-#| msgid ""
-#| "That’s great! What is the price of your weapons? We have gathered much "
-#| "booty from Malifor’s treasury and we will be able to pay you generously."
 msgid ""
 "That’s great! What is the price of your weapons? We have gathered much gold "
 "from Malifor’s treasury and will be able to pay you generously."
 msgstr ""
-"太好了！你的这些武器怎么卖？我们从玛利弗的金库里抢回了很多战利品，我们可以花大"
-"价钱跟你买。"
+"太好了！你的这些武器怎么卖？我们从玛利弗的金库里抢回了很多金币，可以花大价钱跟"
+"你买。"
 
 #. [message]: speaker=Galim
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:190
@@ -3590,9 +3516,6 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:195
-#, fuzzy
-#| msgid ""
-#| "But don’t you need the gold to help rebuild Knalga? And we have plenty."
 msgid "But don’t you need the gold to help rebuild Knalga? We have plenty."
 msgstr "难道你们不需要金币来重建纳尔迦吗？我们有很多金币呢。"
 
@@ -7073,13 +6996,9 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:66
-#, fuzzy
-#| msgid ""
-#| "At Hidel’s call Tallin approached and knelt beside Hidel, bowing his head "
-#| "in respect."
 msgid ""
 "At Hidel’s call Tallin approached. He knelt beside, bowing his head in respect."
-msgstr "听到海达尔的呼唤，塔林走过去跪在他旁边，低头靠近他。"
+msgstr "听到海达尔的呼唤，塔林走了过去。他跪在旁边，尊敬地低下头。"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:69
@@ -7112,14 +7031,12 @@ msgstr "谢谢你……塔林……我现在……要休息了……祝你……
 msgid "Then Hidel closed his eyes and took one last breath."
 msgstr "然后海达尔闭上眼睛，吸了最后一口气。"
 
-# Translated by ollama with model glm4
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:82
-#, fuzzy
 msgid ""
 "Slowly Tallin approached her. He hesitated before wrapping her gently in his "
 "arms."
-msgstr "缓慢地，塔林走近她。他在将她温柔地拥入怀中之前犹豫了一下。"
+msgstr "慢慢地，塔林靠近她。他犹豫了一下，将她温柔地拥入怀中。"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:86
@@ -7731,8 +7648,6 @@ msgstr "这句话引发了所有人的欢呼雀跃。他们经历的痛苦折磨
 
 #. [message]: id=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:1037
-#, fuzzy
-#| msgid "(<i>Small voice lost in the uproar</i>) Awww, is it over already?"
 msgid "(<i>Small voice lost in the uproar</i>) Awww, is it done already?"
 msgstr "（<b>喧嚣中有个微弱的声音</b>）噢，一切都结束了吗？"
 
