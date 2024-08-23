@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-08-16 10:17+0800\n"
+"PO-Revision-Date: 2024-08-23 09:49+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -5020,12 +5020,6 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:78
-#, fuzzy
-#| msgid ""
-#| "Remember, Ro’Arthian, we need willing allies rather than resentful lackeys "
-#| "that would turn on us at the first reverse. If we rescue their princess, "
-#| "the elves may yet choose not to help us, but that is a risk we’ll have to "
-#| "take."
 msgid ""
 "Remember, Ro’Arthian, we need willing allies rather than resentful lackeys "
 "that would turn on us at the first chance. If we rescue their princess, the "
@@ -5037,10 +5031,6 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:80
-#, fuzzy
-#| msgid ""
-#| "Elves are deeply honor-bound, especially in matters that touch their kin. "
-#| "If we rescue the Princess, I am certain the deed will not go without reward."
 msgid ""
 "Elves are deeply honor-bound, especially in matters that touch their kin. If "
 "we rescue the princess, I am certain the deed will not go without reward."
@@ -5145,10 +5135,6 @@ msgstr "他们在城堡附近挖了一条护城河。"
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:350
-#, fuzzy
-#| msgid ""
-#| "Are we here to sight-see or to rescue this blasted sorceress? And if you "
-#| "really want to sight-see, then check out that orcish encampment south of us."
 msgid ""
 "Are we here to sight-see or to rescue this blasted sorceress? If you really "
 "want to sight-see, then check out that orcish encampment south of us."
@@ -5332,18 +5318,13 @@ msgstr ""
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:255
-#, fuzzy
-#| msgid ""
-#| "Then Tallin and his ragtag band hunted down Malifor and reduced him to "
-#| "dust. Now Tallin is building an alliance of humans, dwarves, dead mages and "
-#| "whatever critters he can find to crush the orcs."
 msgid ""
 "Then Tallin and his band hunted down Malifor and destroyed him. Now Lord "
 "Tallin is building an alliance of humans, dwarves, dead mages and whatever "
 "critters he can find to crush the orcs."
 msgstr ""
-"塔林和他的部下又消灭了玛利弗。现在塔林建立了由人类，矮人，死灵法师组成的反对兽"
-"人的同盟军。"
+"塔林和他的部下又追捕并消灭了玛利弗。现在塔林领主建立了由人类，矮人，死灵法师组"
+"成的反对兽人的同盟军。"
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:260
@@ -5397,22 +5378,15 @@ msgstr ""
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:300
-#, fuzzy
-#| msgid ""
-#| "That could hardly count as repayment of our debt to you, Tallin. This "
-#| "Rakshas fellow is an enemy to every Northern Elf as well. Why, it can’t "
-#| "have been more than a few months ago that the orcs attacked our forests and "
-#| "took me prisoner. Helping you defeat them would be serving our own "
-#| "interests as much as yours."
 msgid ""
 "That could hardly count as repayment of our debt to you, Tallin. This Rakshas "
 "is an enemy to every Northern Elf as well. Why, it can’t have been more than a "
 "few months ago that the orcs attacked our forests and took me prisoner. "
 "Helping you defeat them would be serving our own interests as much as yours."
 msgstr ""
-"那样做不能算是我们对你的报答，塔林。这个叫拉克夏斯的家伙也是每个北方精灵的敌"
-"人。知道为什么吗，就在几个月前，那些兽人进攻了我们的森林还抓走了我。帮你打败他"
-"们不仅是为了你们，也是为了我们自己。"
+"那样做不能算是我们对你的报答，塔林。这个拉克夏斯也是每个北方精灵的敌人。知道为"
+"什么吗，就在几个月前，那些兽人进攻了我们的森林还抓走了我。帮你打败他们不仅是为"
+"了你们，也是为了我们自己。"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:305
@@ -5667,12 +5641,8 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:38
-#, fuzzy
-#| msgid ""
-#| "Fearing the worst, Tallin rushed to find Hamel who also couldn’t bear to "
-#| "meet his eyes."
 msgid "Fearing the worst, Tallin rushed to find Hamel."
-msgstr "塔林非常担心，他火速找到了哈梅尔，不过他不敢直视塔林的眼睛。"
+msgstr "塔林非常担心，他火速找到了哈梅尔。"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:41
@@ -7236,10 +7206,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:37
-#, fuzzy
-#| msgid ""
-#| "The idea was to completely surround Rakshas on all sides, cutting off any "
-#| "chance of escape or reinforcements."
 msgid ""
 "The idea was to completely surround Rakshas, cutting off any chance of escape "
 "or reinforcements."
@@ -7340,25 +7306,15 @@ msgstr "你们这些头脑简单的精灵！想和这些人类联手对付我？
 
 #. [message]: id=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:847
-#, fuzzy
-#| msgid ""
-#| "Good luck, you monster. You are cut off and surrounded. We shall kill you "
-#| "and feed your carcass to the vultures and wild beasts."
 msgid ""
 "Good luck, you monster. You are cut off and surrounded. We shall kill you and "
 "feed your carcass to the vultures!"
 msgstr ""
-"祝你好运，怪物。你已经被包围了，孤立无援。我们要杀死你，把你的尸体喂给秃鹫和野"
-"兽吃掉。"
+"祝你好运，怪物。你已经被包围了，孤立无援。我们要杀死你，把你的尸体喂给秃鹫吃"
+"掉！"
 
 #. [message]: id=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:851
-#, fuzzy
-#| msgid ""
-#| "Hahahahah! You fools, do you not see that you are right in the heart of "
-#| "orcish territory, surrounded yourselves! Why, at this very moment my entire "
-#| "western army is marching this way. They will soon be here and will scatter "
-#| "your forces like straw!"
 msgid ""
 "Hahahahah! You fools, do you not see that you are in the heart of orcish "
 "territory? You’ve surrounded yourselves! Why, at this very moment my entire "
@@ -7389,11 +7345,6 @@ msgstr "我们没有眼珠，白痴！"
 
 #. [message]: id=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:870
-#, fuzzy
-#| msgid ""
-#| "PAH! You fools, know that you shall soon be outnumbered and surrounded. At "
-#| "this very moment my entire western army is marching this way. They will "
-#| "soon be here and will scatter your puny forces like straw!"
 msgid ""
 "PAH! You fools, know that you shall soon be outnumbered and surrounded. At "
 "this very moment my entire western army is marching this way. They will soon "
@@ -7466,10 +7417,8 @@ msgstr "老天爷啊，看看那些从要塞里倾巢而出的兽人。"
 
 #. [message]: id=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:978
-#, fuzzy
-#| msgid "Aye, and not just any orcs either, those are all hardened veterans!"
 msgid "Aye, and not just grunts either, those are all hardened veterans!"
-msgstr "是啊，而且他们不是普通的兽人，那些都是久经战阵的老兵！"
+msgstr "是啊，而且他们不只是咕噜兵，那些都是久经战阵的老兵！"
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:982
@@ -7482,14 +7431,10 @@ msgstr ""
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:994
-#, fuzzy
-#| msgid ""
-#| "Die, you murderous beast! No longer shall you terrorize the people of the "
-#| "North."
 msgid ""
 "Die, you murderous beast! No longer shall you terrorize the people of the "
 "North!"
-msgstr "去死吧，你这个杀人不眨眼的野兽！你再也不能让北方的人民感到恐惧了。"
+msgstr "去死吧，你这个杀人不眨眼的野兽！你再也不能让北方的人民感到恐惧了！"
 
 #. [message]: id=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:998
@@ -7525,14 +7470,10 @@ msgstr "最后！拉克夏斯被战胜了，兽人的据点也毁了。和平和
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:1032
-#, fuzzy
-#| msgid ""
-#| "At these words all the allied forces gave out a combined and thunderous "
-#| "cheer. Their long ordeal was finally over."
 msgid ""
 "At these words all the allied forces gave out a combined and thunderous cheer. "
 "The war was finally over."
-msgstr "这句话引发了所有人的欢呼雀跃。他们经历的痛苦折磨结束了。"
+msgstr "这句话引发了所有人的欢呼雀跃。战争终于结束了。"
 
 #. [message]: id=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:1037
@@ -7606,12 +7547,6 @@ msgstr "拉克夏斯只是个典型。关键是兽人本身的天性。"
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:89
-#, fuzzy
-#| msgid ""
-#| "The orcs are exceedingly numerous and warlike. While they squabble among "
-#| "themselves, their warlike nature turns upon itself and they are no threat; "
-#| "but when a strong warlord like Rakshas arises among them, their battle-lust "
-#| "becomes a plague upon their neighbors."
 msgid ""
 "The orcs are exceedingly numerous and warlike. While they squabble among "
 "themselves, their warlike nature turns upon itself, and they are no threat; "
@@ -7701,12 +7636,6 @@ msgstr ""
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:142
-#, fuzzy
-#| msgid ""
-#| "The orcs have just experienced a crushing defeat; it shouldn’t be too hard "
-#| "to get them to agree. In the future, if they should renege on their "
-#| "treaties, and threaten the peace and prosperity of the North, then the army "
-#| "maintained by the warders would crush them."
 msgid ""
 "The orcs have just experienced a crushing defeat; it shouldn’t be too hard to "
 "get them to agree. In the future, if they should renege on their treaties, and "
@@ -7714,7 +7643,7 @@ msgid ""
 "crush them."
 msgstr ""
 "兽人刚刚遭到毁灭性的打击，让他们同意并不难。如果将来，他们要违背协议，威胁北方"
-"的和平与繁荣，那么守望者理事会的军队有权摧毁他们。"
+"的和平，那么守望者理事会的军队有权摧毁他们。"
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:146
@@ -8074,12 +8003,6 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:411
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:432
-#, fuzzy
-#| msgid ""
-#| "On Father Morvin’s advice, the Council approached all the different orcish "
-#| "tribes and made treaties with them. If a chieftain refused to cooperate "
-#| "with the Alliance, he was forcibly removed from his post and a more "
-#| "favorably-disposed leader put in his place."
 msgid ""
 "On Father Morvin’s advice, the Council approached all the different orcish "
 "tribes and made treaties with them. If a chieftain refused to cooperate with "
@@ -8122,21 +8045,15 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:439
-#, fuzzy
-#| msgid ""
-#| "In time, Knalga’s caverns were refurbished, becoming a busy and prosperous "
-#| "home to many dwarves. Under the protection of the Northern Alliance, people "
-#| "of all races began coming, as they did before, from all corners of the "
-#| "known — and unknown — world to trade with the Dwarves of Knalga."
 msgid ""
 "In time, Knalga’s caverns were restored and became a busy and prosperous home "
 "to many dwarves. Under the protection of the Northern Alliance, people of all "
 "races began coming, as they did before, from all corners of the known — and "
 "unknown — world to trade with the Dwarves of Knalga."
 msgstr ""
-"后来，纳尔迦的洞穴修整一新，变成了许多矮人忙碌繁盛的家园。在北方联盟的保护下，"
-"各族人民开始来到这里，就像他们过去做的那样，从已知的或是未知的世界各地赶来，和"
-"纳尔迦的矮人们进行贸易。"
+"后来，纳尔迦的洞穴复原了，变成了许多矮人忙碌繁盛的家园。在北方联盟的保护下，各"
+"族人民开始来到这里，就像他们过去做的那样，从已知的或是未知的世界各地赶来，和纳"
+"尔迦的矮人们进行贸易。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:444
