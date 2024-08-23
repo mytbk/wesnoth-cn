@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-08-07 11:18+0800\n"
+"PO-Revision-Date: 2024-08-23 10:09+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1593,7 +1593,6 @@ msgstr "亚布曼"
 msgid "Nur al-Nuh"
 msgstr "努尔·努赫"
 
-# Translated by ollama with model glm4
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:263
 msgid "Muma"
@@ -1680,7 +1679,6 @@ msgstr "安静，有人靠近…"
 msgid "Unknown"
 msgstr "未知"
 
-# Translated by ollama with model glm4
 #. [message]
 #. male speaker talking to female
 #. alswdan is a fictional swamp herb
@@ -2615,7 +2613,6 @@ msgstr "格温德利、达辛或欧瓦埃克死亡"
 msgid "Owaec is a leader and can recruit units when standing on a keep."
 msgstr "欧瓦埃克是一名领袖，站在城堡主楼的时候可以招募单位。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:315
 msgid "Alas! The northern outpost has been destroyed..."
@@ -2814,11 +2811,10 @@ msgstr "非常好，解开他的绳子！欧瓦埃克，我们将帮助您驱逐
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:454
-#, fuzzy
 msgid ""
 "Very well. Owaec, we will aid you in driving out these bandits. Dacyn, cast "
 "your spell!"
-msgstr "听起来不错。是时候赶出这些强盗了。达辛，施展魔咒吧！"
+msgstr "很好。欧瓦埃克，我们会帮助你驱逐这些强盗。达辛，施展魔咒吧！"
 
 # Translated by ollama with model glm4
 #. [message]: speaker=Addogin
@@ -3702,11 +3698,10 @@ msgstr "移动任意单位至北方的路径。"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:495
-#, fuzzy
 msgid ""
 "Defeat as many enemy leaders as possible, and then move any unit to the "
 "northern path (easier next scenario)"
-msgstr "在回合耗尽之前击败尽可能多的敌方首领（更简单的下一幕）。"
+msgstr "击败尽可能多的敌方首领，然后移动任意单位到北方的路径（更简单的下一幕）"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:506
@@ -6540,9 +6535,8 @@ msgstr "我们得离开这儿！"
 #. [message]: role=escapee sidekick 2
 #. Speaker is the male deserter, however the other units don't know his backstory yet
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:695
-#, fuzzy
 msgid "I’m sure your commanders will come and save us!"
-msgstr "我相信指挥官一定会来救我们的！"
+msgstr "我相信你的指挥官会来救我们的！"
 
 #. [message]: role=escapee sidekick 0
 #. Male speaker talking to male deserter, also the huge enemies changed in 1.17 from trolls to orcs
@@ -6961,9 +6955,8 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #. "them" being the Horse Clans' plains
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1596
-#, fuzzy
 msgid "Then let us return quickly to Wesnoth to aid in their defense!"
-msgstr "来吧，我们回到韦诺去，前往北哨所。"
+msgstr "让我们赶快回到韦诺，帮助他们的防守！"
 
 #. [message]: speaker=Chief Dra-Nak
 #. Boja is the name of the cave bear
@@ -7946,9 +7939,8 @@ msgstr ""
 #. [message]: speaker=Mal-Yrna
 #. to Terraent. She's summoning bats.
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1387
-#, fuzzy
 msgid "Not again! Do not test me, paladin of Wesnoth..."
-msgstr "你们辜负了我，韦诺住民……"
+msgstr "不要再来了！不要考验我，韦诺的圣骑士……"
 
 #. [message]: speaker=Mal-Yrna
 #. to Owaec. She's summoning bats.
@@ -8383,9 +8375,8 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1055
-#, fuzzy
 msgid "What do I do now?"
-msgstr "那我们现在该怎么办？"
+msgstr "我现在做什么？"
 
 #. [message]: speaker=Dacyn
 #. The chasms are filled with sand, so all terrain near the keep is walkable again.
@@ -9225,15 +9216,13 @@ msgstr ""
 
 #. [side]: type=Necromancer, id=Mal-Analla, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:740
-#, fuzzy
 msgid "Mal-Analla"
-msgstr "玛尔-卡拉特"
+msgstr "玛尔-安娜拉"
 
 #. [unit]: type=Necromancer, id=Mal-Saerav
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:848
-#, fuzzy
 msgid "Mal-Saerav"
-msgstr "玛尔-玛拉克"
+msgstr "玛尔-萨拉夫"
 
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:863
@@ -9660,9 +9649,8 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1958
-#, fuzzy
 msgid "No! Now I will never have my revenge..."
-msgstr "现在我再也不可能晋升了！"
+msgstr "不！现在我不可能复仇了……"
 
 #. [message]: speaker=unit
 #. last breath of the reanimated (Soulless) Mal-Skraat or Mal-Kallat
@@ -10351,11 +10339,10 @@ msgstr ""
 
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:235
-#, fuzzy
 msgid ""
 "Even now we should be sending what’s left of our armies to restore order "
 "throughout the land."
-msgstr "哪怕是现在我们也应该派部队到全国各地恢复秩序。"
+msgstr "哪怕是现在我们也应该派我们剩下的部队到各地恢复秩序。"
 
 #. [message]: speaker=Konrad
 #. TODO for 1.19? Make clear who this is addressing, and make variations depending on whether it's to one person or two.
