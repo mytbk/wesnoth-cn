@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-08-24 12:49+0800\n"
+"PO-Revision-Date: 2024-09-05 18:31+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1735,22 +1735,18 @@ msgstr ""
 msgid "Why, there’s one now! Safyam, if you would."
 msgstr "哎呀，现在有一个了！萨菲亚姆，如果你愿意的话。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:494
-#, fuzzy
 msgid ""
 "Thanks to my cure made from this marvelous herb, she is now immune to the "
 "swamp’s ill humours! With more, I can make an antitoxin strong enough to "
 "cure the draught of death itself!"
 msgstr ""
-"感谢我从这种神奇草药中制作的治愈，她现在对沼泽的邪恶气息免疫！更有甚者，我可"
+"感谢我从这种神奇草药中制作的药方，她现在对沼泽的邪恶气息免疫！更有甚者，我可"
 "以制作出足够强大的解毒剂来治愈死亡的毒药！"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:498
-#, fuzzy
 msgid ""
 "If we help you find more of this ‘alswdan’, will you share your cure with "
 "us? Our people have been attacked by undead and we must now fight this dark "
@@ -1992,11 +1988,9 @@ msgid ""
 msgstr ""
 "随意吧！既然我已经得到了我需要的东西，是时候我和我的朋友们返回阿什兰了。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Hahid al-Ali
 #. offering Hahid extra gold, but not having enough gold
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:874
-#, fuzzy
 msgid ""
 "Ho ho, very funny, for a moment I thought you meant it! But really now, do "
 "you want my information or not?"
@@ -2312,17 +2306,13 @@ msgstr ""
 "撤退，我们需要消灭这些尾随我们的黑暗法师之一。但我们已经身处敌方首都，我认为"
 "我们有责任尽可能地阻碍亡灵。看，我们不是这里唯一在战斗的人！"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:498
-#, fuzzy
 msgid "In the name of all that is holy, Lich, I will strike you down!"
-msgstr "在所有神圣之名的名义下，亡灵巫师，我将击败你！"
+msgstr "在所有神圣之名的名义下，巫妖，我将击败你！"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:502
-#, fuzzy
 msgid "Try it, fleshbag."
 msgstr "试试吧，肉包。"
 
@@ -2340,20 +2330,16 @@ msgstr "玛尔-拉瓦纳尔"
 msgid "That tickled a bit!"
 msgstr "那有点痒！"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:595
-#, fuzzy
 msgid ""
 "Well paladin, this has been amusing, but apparently we have a new group of "
 "guests to entertain. Back into the cage with you."
 msgstr ""
-"好的圣武士，这很有趣，但显然我们有一批新客人需要招待。你回到笼子里去吧。"
+"好的圣骑士，这很有趣，但显然我们有一批新客人需要招待。你回到笼子里去吧。"
 
-# Translated by ollama with model glm4
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:602
-#, fuzzy
 msgid ""
 "Gratitude to you and yours, pious warriors! Now let us join forces to free "
 "my companions and cleanse this place in holy fire!"
@@ -2366,10 +2352,8 @@ msgstr ""
 msgid "Silly fleshbags, did you come just to nourish our swamp?"
 msgstr "愚蠢的肉袋，你们是来滋养我们的沼泽的吗？"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:664
-#, fuzzy
 msgid "Did you really think that your crude weapons would work?"
 msgstr "你真的认为你的粗糙武器会起作用吗？"
 
@@ -2378,10 +2362,8 @@ msgstr "你真的认为你的粗糙武器会起作用吗？"
 msgid "Mal-Ravanal cannot be defeated right now. We must flee!"
 msgstr "现在无法击败玛尔-拉瓦纳尔。我们要逃跑！"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:683
-#, fuzzy
 msgid ""
 "Gweddry, we should not be here. They are merely toying with us right now, "
 "but all will be lost if Mal-Ravanal finds me amongst you!"
@@ -3811,7 +3793,7 @@ msgstr ""
 #. there were originally 4 of them, and 3 are now defeated
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:763
 msgid "That’s almost all the undead leaders defeated!"
-msgstr ""
+msgstr "那是差不多所有被击败的亡灵首领了！"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:779
@@ -3936,7 +3918,7 @@ msgstr ""
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:908
 msgid "No, wait, you can’t just leave us here!"
-msgstr ""
+msgstr "不，等等，你们不能就这样把我留在这里！"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:912
@@ -5275,7 +5257,7 @@ msgstr ""
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1068
 msgid "Our Hunt must continue."
-msgstr ""
+msgstr "我们的狩猎必须继续。"
 
 #. [message]: speaker=Mortic
 #. letting us know that they're just a small and relatively weak Drake Flight but it sets us up to meet some strong ones later
@@ -5321,7 +5303,7 @@ msgstr "人类！人类，人类，人类！"
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1225
 msgid "They don’t look very friendly..."
-msgstr ""
+msgstr "他们看起来不是很友好……"
 
 #. [message]: speaker=$found_unit.id
 #. [message]
@@ -5341,32 +5323,32 @@ msgstr ""
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1265
 msgid "Me... friend? New friend?"
-msgstr ""
+msgstr "我……朋友？新朋友？"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1271
 msgid "New friend! Me no fight friend."
-msgstr ""
+msgstr "新朋友！我不打朋友。"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1315
 msgid "Grug me! Me friend human."
-msgstr ""
+msgstr "格拉格我！我朋友人类。"
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1320
 msgid "Uhhhh... friend... human?"
-msgstr ""
+msgstr "呃……朋友……人类？"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1324
 msgid "You too friend human! Help human fight good."
-msgstr ""
+msgstr "你也朋友人类！帮助人来战斗好。"
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1329
 msgid "OK, me help human fight! Human good!"
-msgstr ""
+msgstr "好，我帮助人类战斗！人类好！"
 
 #. [scenario]: id=09_Castle_in_the_Ice
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1365
@@ -5762,7 +5744,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1203
 msgid "Hissssss..."
-msgstr ""
+msgstr "他的嘶嘶……"
 
 #. [message]: speaker=unit
 #. 200, 160, or 130 gold
@@ -6396,7 +6378,7 @@ msgstr ""
 #. "everyone" being 6 units, or less
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2876
 msgid "Dacyn! Everyone stand back, give him some air."
-msgstr ""
+msgstr "达辛！各位站在后面，给他点空气。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2880
@@ -6473,7 +6455,7 @@ msgstr "囚犯"
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:103
 msgid "Bats"
-msgstr ""
+msgstr "蝙蝠"
 
 #. [side]: type=Orcish Warlord, id=Varrak-Klar
 #. In S11, an orc with so much gold for recruitment that the player can't beat them, acts as a turn limit.
@@ -6984,13 +6966,13 @@ msgstr ""
 #. goblin with a ring of invisibility (although not enough sense to wear it when running away)
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1700
 msgid "Aaah! Humans! Run away run away!"
-msgstr ""
+msgstr "啊！人类！快跑，快跑！"
 
 #. [message]: speaker=second_unit
 #. unit who discovered the goblin with a ring of invisibility
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1707
 msgid "Hmm, looks like he dropped something."
-msgstr ""
+msgstr "嗯，他好像掉了什么东西。"
 
 #. [message]: speaker=unit
 #. if the disguised unit runs out of the caves alone, without rescuing any other prisoners
@@ -9089,16 +9071,15 @@ msgstr ""
 
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:926
-#, fuzzy
 msgid ""
 "Truly, have you three not seen the might of the armies encircling Weldyn? It "
 "is as if all of the dead warriors from all ages past have come back to "
 "attack us. There is no end to the columns of marching skeletons, the wailing "
 "ghosts, the infernal bats, the necromancers who raised them..."
 msgstr ""
-"从你所言，我看出你从没有亲眼见过亡灵大军。那就如同历史上每一个时代里死去的战"
-"士们都回来攻击我们。一望无际的骷髅海，哀嚎的幽灵，阴间的蝙蝠，被召唤它们的邪"
-"恶死灵法师领导着行进而来。"
+"真的，你们三个没看到包围维尔帝的军队的力量吗？那就如同历史上每一个时代里死去"
+"的战士们都回来攻击我们。一望无际的骷髅海，哀嚎的幽灵，阴间的蝙蝠，召唤它们的"
+"死灵法师……"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:930
@@ -9133,13 +9114,12 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:948
-#, fuzzy
 msgid ""
 "We face their entire army regardless. (cough)(cough) The only difference is "
 "whether Mal-Ravanal is commanding in the back or gloating in the front."
 msgstr ""
-"无论如何我们都要面对他的整支大军。唯一的区别在于玛尔-拉瓦纳尔是躲在阵后指挥，"
-"还是站在阵前洋洋自得。"
+"无论如何我们都要面对他们的整支大军。（咳）（咳）唯一的区别在于玛尔-拉瓦纳尔是"
+"躲在阵后指挥，还是站在阵前洋洋自得。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:956
@@ -10311,14 +10291,13 @@ msgstr "我的职责已经完成；氏族的仇已经报了。我终于可以地
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:231
-#, fuzzy
 msgid ""
 "Alas, our work is not yet complete. Mal-Ravanal’s host has been broken, but "
 "in its wake, chaos and disorder prevail throughout the countryside. We will "
 "be years... decades... recovering from the ill wrought here."
 msgstr ""
-"我们的任务并没有完成。玛尔-拉瓦纳尔的势力已经被摧毁，但这势力出现之时，韦诺的"
-"乡村陷入了混乱和无序之中。"
+"哎，我们的任务还没有完成。玛尔-拉瓦纳尔的势力已经被摧毁，但这势力出现之时，韦"
+"诺的乡村陷入了混乱和无序之中。我们要花几年……几十年……从这里的恶劣环境恢复。"
 
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:235
@@ -10511,22 +10490,20 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:470
-#, fuzzy
 msgid ""
 "Sir Terraent, your service to the Crown and your unfailing optimism has been "
 "a beacon of light in these dark times. If you accept, we would appoint you "
 "to command the River Guard in Estmark."
 msgstr ""
-"特拉恩特爵士，你为王室建立的功勋有如黑暗中的明灯。我将委派你指挥东界的河岸卫"
-"队。"
+"特拉恩特爵士，你为王室建立的功勋和你一贯的乐观有如黑暗中的明灯。如果你接受，"
+"我将委派你指挥东界的河岸卫队。"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:474
-#, fuzzy
 msgid ""
 "It has been an honor to spread the holy Light in this kingdom, and I humbly "
 "accept your commission. May the Light shine ever-bright upon the pious."
-msgstr "为王国效力乃微臣之幸，受此大任，不胜惶恐。"
+msgstr "在王国散布圣光乃微臣之幸，受此大任，不胜惶恐。愿光明永远照耀虔诚的人。"
 
 #. [message]: speaker=Konrad
 #. Gaennell’s previous crimes are held against her, regardless of whether or not she has the plague staff now.
@@ -10640,11 +10617,10 @@ msgstr "陛下，微臣只是尽职而已。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:640
-#, fuzzy
 msgid ""
 "Quite. Now do not interrupt while I am doing mine... Kneel, Gweddry, "
 "lieutenant."
-msgstr "的确。现在不要打断我……单膝下跪，格威德利。"
+msgstr "安静。现在不要打断我……单膝下跪，格威德利，尉官。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:645
@@ -11368,14 +11344,13 @@ msgstr "马背领主"
 
 #. [unit_type]: id=Horse Lord, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Owaec_Horse_Lord.cfg:27
-#, fuzzy
 msgid ""
 "The greatest of the men of the plains, Horse Lords are heads of their houses "
 "and are respected by all, friend or foe. These lords lead by example, "
 "dominating the battlefield from the head of a cavalry charge."
 msgstr ""
-"平原上的翘楚，马背领主是家族的首脑，无论是敌是友，人们都敬仰他。他们的剑能杀"
-"死大部分敌人，而他们的晨星之锤将把残兵败将一扫而空。"
+"平原上的翘楚，马背领主是家族的首脑，无论是敌是友，人们都敬仰他。这些领主以身"
+"作则，带领骑兵冲锋陷阵，称霸战场。"
 
 #. [unit_type]: id=Mounted Fighter  # use the old id so we don't break old saves, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Owaec_Princeling.cfg:4
@@ -11640,17 +11615,13 @@ msgstr "震击"
 
 #. [attacks]: id=shock
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:153
-#, fuzzy
 msgid ""
 "The crushing power of this attack overwhelms enemies. When used on offense, "
 "the opponent can only retaliate with one strike."
-msgstr ""
-"当在进攻中使用本攻击时，对手的反击次数将比通常少一次，但最少还是会有一次反"
-"击。"
+msgstr "这种攻击的压倒性威力让敌人喘不过气来。用于进攻时，对手只能反击一次。"
 
 #. [special_note]
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:162
-#, fuzzy
 msgid ""
 "This unit’s melee attack can overwhelm enemies’ defenses, preventing them "
 "from retaliating as effectively."
