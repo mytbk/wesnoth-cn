@@ -4,6 +4,8 @@ Weldyn 维尔帝
 Great River 泰河
 Soradoc 索拉多克
 undead 亡灵
+ogre 食人魔
+orc 兽人
 lich 巫妖
 necromancer 死灵法师
 scenerio 场景
@@ -15,6 +17,7 @@ Owaec 欧瓦埃克
 Dacyn 达辛
 Terraent 特拉恩特
 Yannic 雅尼克
+Grug 格拉格
 clan 氏族
 Estmark hills 东界丘陵
 Please translate this text from English to simplified Chinese, your response should only contain the translated text: 
