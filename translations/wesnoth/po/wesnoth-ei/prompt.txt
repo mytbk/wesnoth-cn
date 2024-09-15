@@ -8,6 +8,8 @@ ogre 食人魔
 orc 兽人
 lich 巫妖
 necromancer 死灵法师
+drake 龙人
+Aspirant 有为者
 scenerio 场景
 Mal- 玛尔-
 Mal-Ravanal 玛尔-拉瓦纳尔

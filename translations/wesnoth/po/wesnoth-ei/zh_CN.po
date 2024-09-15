@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-15 14:10+0800\n"
+"PO-Revision-Date: 2024-09-15 16:01+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2156,21 +2156,17 @@ msgid ""
 "this cage on my own."
 msgstr "哎呀，我不需要你的帮助！迟早我会自己从笼子里出来的。"
 
-# Translated by ollama with model glm4
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:367
-#, fuzzy
 msgid "Yrthynaenc"
-msgstr "厄斯尼安"
+msgstr "厄斯内恩克"
 
-# Translated by ollama with model glm4
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:375
-#, fuzzy
 msgid ""
 "My thanks, friends. I had despaired of ever again riding free amongst the "
 "living."
-msgstr "我的朋友，我曾绝望地以为再也不能在活人之间自由驰骋了。"
+msgstr "谢谢，朋友。我曾绝望地以为再也不能在活人之间自由驰骋了。"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:376
@@ -2184,21 +2180,17 @@ msgid ""
 "inflicted upon us!"
 msgstr "复仇亡灵！我要让他们为对我们施加的虐待付出代价！"
 
-# Translated by ollama with model glm4
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:385
-#, fuzzy
 msgid "Vobreddaent"
 msgstr "沃布里达恩特"
 
-# Translated by ollama with model glm4
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:392
-#, fuzzy
 msgid ""
 "Truly you are heroes of legend to have fought so deep past the undead! I am "
 "forever in your debt."
-msgstr "真正地，你们是跨越亡灵战斗的传说英雄！我将永远欠你们的情。"
+msgstr "你们是真正的传说中深入与亡灵战斗的英雄！我将永远欠你们的恩情。"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:428
@@ -2225,10 +2217,8 @@ msgid ""
 msgstr ""
 "苦涩沼泽的糟糕形象，看上去是，名副其实的。玛尔-拉瓦纳尔的堡垒就在我们面前。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:483
-#, fuzzy
 msgid ""
 "Yes, and behind us undead forces are closing in, including that pest Mal-"
 "Skraat. What exactly is your plan? We have no means for victory with the "
@@ -2237,20 +2227,18 @@ msgid ""
 "another."
 msgstr ""
 "是的，我们身后亡灵部队正在逼近，包括那个害虫玛尔-斯克拉特。你的计划到底是什"
-"么？我们目前拥有的工具寥寥无几，根本无法取得胜利。即使我们摧毁了马尔的骷髅身"
-"躯，他们的灵魂仍会留下，并简单地占据另一个躯体。"
+"么？我们目前拥有的工具寥寥无几，根本无法取得胜利。即使我们摧毁了玛尔-拉瓦纳尔"
+"的骷髅身躯，他们的灵魂仍会留下，并轻易地占据另一个躯体。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:487
-#, fuzzy
 msgid ""
 "To retreat, we need to kill one of these dark sorcerers that follow us. But "
 "we are already in the enemy capital and I believe we have a duty to hamper "
 "the undead however we can. And look, we are not the only ones fighting here!"
 msgstr ""
-"撤退，我们需要消灭这些尾随我们的黑暗法师之一。但我们已经身处敌方首都，我认为"
-"我们有责任尽可能地阻碍亡灵。看，我们不是这里唯一在战斗的人！"
+"为了撤退，我们需要消灭这些尾随我们的黑暗巫师之一。但我们已经身处敌方首都，我"
+"认为我们有责任尽可能地阻止这些亡灵。并且看，我们不是唯一在这里战斗的人！"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:498
@@ -3215,14 +3203,12 @@ msgstr ""
 msgid "Mal-un-Karad"
 msgstr "玛尔-昂-卡拉德"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Mal-un-Karad
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:95
-#, fuzzy
 msgid ""
 "Fine, you can have the south shore! I’m going to stay nice and safe in my "
 "castle."
-msgstr "好的，你可以得到南岸！我将待在我的城堡里安全舒适。"
+msgstr "好的，你可以得到南岸！我将安全舒适地待在我的城堡里。"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:115
@@ -4398,16 +4384,14 @@ msgstr "如果我们帮你们打你们的敌人，你会和我们一起帮助我
 # Translated by ollama with model glm4.
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:783
-#, fuzzy
 msgid "Mmmm... Grug think..."
-msgstr "嗯嗯...咕鲁思虑..."
+msgstr "嗯嗯…格拉格想…"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:792
-#, fuzzy
 msgid "... Grug head hurt. Grug say join you."
-msgstr "... 格鲁格头部受伤。格鲁格说加入你们。"
+msgstr "…格拉格头伤了。格拉格说加入你们。"
 
 #. [message]: speaker=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:846
@@ -4418,11 +4402,10 @@ msgstr "该死嘶嘶！"
 #. [message]: speaker=Owaec
 #. crossed the river
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:860
-#, fuzzy
 msgid ""
 "Good, we have safely crossed! And we have gained the service of several "
 "ogres as well."
-msgstr "好的，我们安全地通过了！还得到了几个矮人的协助。"
+msgstr "好，我们安全地渡过了！还得到了几个食人魔的协助。"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
@@ -4446,12 +4429,10 @@ msgstr "好，我们安全地渡过了！"
 msgid "Cursessss! They’ve caught usss!"
 msgstr "该死嘶嘶！亡灵抓住我们了嘶嘶！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:917
-#, fuzzy
 msgid "We are caught as well..."
-msgstr "我們也陷入了困境…"
+msgstr "我們也被抓住了…"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:930
@@ -4492,7 +4473,6 @@ msgstr "佩拉希尔"
 msgid "Bagork"
 msgstr "巴郭克"
 
-# Translated by ollama with model glm4.
 #. [side]: type=Orcish Nightblade, id=Bagork
 #. [side]: type=Orcish Warlord, id=Prok-Bak
 #. [side]
@@ -4509,9 +4489,8 @@ msgstr "巴郭克"
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:82
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:194
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:43
-#, fuzzy
 msgid "Clan Whitefang"
-msgstr "氏族白牙"
+msgstr "白牙氏族"
 
 #. [side]: type=Orcish Warlord, id=Prok-Bak
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:143
@@ -4654,36 +4633,30 @@ msgstr ""
 "永远！自从乌勒克和德法多那些日子以来，我们氏族中没有人帮助过你们这些细长的生"
 "物！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Aleii
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:374
-#, fuzzy
 msgid ""
 "Hsss... orcsss, dwarvesss, humansss. We have traveled far to find thisss "
 "warmth. I have called the vote; the clutch has ssspoken. These waters are "
 "only for Naga. Leave usss be."
 msgstr ""
-"嘿嘿... 奥克族，矮人族，人类。我们长途跋涉寻找这份温暖。我已宣布投票；巢穴已"
-"经发言。这些水域仅属于娜迦。让我们独享吧。"
+"呵嘶嘶…兽人嘶嘶，矮人嘶嘶，人类嘶嘶。我们长途跋涉来寻找这份嘶嘶温暖。我已宣布"
+"投票；群众已经发言了嘶嘶。这片水域仅属于娜迦。让我们独享嘶嘶。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Prok-Bak
 #. Whitefang Orcs, the same clan that attacked Tath at the start of Descent into Darkness
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:379
-#, fuzzy
 msgid ""
 "That’s Whitefang territory you’re squatting in, snake! Show some respect for "
 "the Chief!"
-msgstr "这是白牙领地，蛇！对首领表示尊重吧！"
+msgstr "你现在蹲在的地方是白牙领地，蛇！对酋长表示尊重！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Bagork
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:383
-#, fuzzy
 msgid ""
 "And I bet they haven’t paid tribute either! Dwarves, snakes, humans, I say "
 "we kill ’em all!"
-msgstr "我打赌他们也没缴纳贡品！矮人、蛇、人类，我说咱们全杀了！"
+msgstr "我打赌他们也没缴纳贡品！矮人、蛇、人类，我说咱们把他们全杀了！"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
@@ -4742,13 +4715,11 @@ msgid ""
 "Wesnoth?"
 msgstr "哎，泥腿子！你以为自己在做什么？和韦诺的这些男人打架？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Pelathsil
 #. "Men of Wesnoth aren't dwarves! I am a dwarf lord, not a man friend."
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:444
-#, fuzzy
 msgid "Men o’ Wesnoth ain’t dwarves! I be a dwarf lord, not a man-friend."
-msgstr "韦诺人不是矮人！我是矮人工头，不是人类的伙伴。"
+msgstr "韦诺人不是矮人！俺是矮人领主，不是人类之友。"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Dolburras
@@ -4808,19 +4779,15 @@ msgstr ""
 "丁和百姓死去，我们寻求一个大祭司尚未解释的未知魔法小屋和一些未知力量。格威德"
 "利，你肯定觉得这很奇怪吧？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:506
-#, fuzzy
 msgid ""
 "I don’t know, Owaec. It is odd, but Dacyn’s light and wisdom are well-known "
 "throughout Wesnoth."
 msgstr "我不知道，欧瓦埃克。虽然很奇怪，但达辛的光明与智慧在韦诺是众所周知的。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:510
-#, fuzzy
 msgid "So were his friend Ravan’s, if Dacyn’s story is to be believed."
 msgstr "所以，如果达辛的故事可信的话，他的朋友莱文也是如此。"
 
@@ -4879,15 +4846,13 @@ msgstr ""
 msgid "The only honor here belongs to the Chief!"
 msgstr "唯一的荣誉属于酋长！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:606
-#, fuzzy
 msgid ""
 "Naga, I know little of your kind, yet I do not wish to make enemies of you "
 "so hastily. Can we not come to parley?"
 msgstr ""
-"纳加，我对你们这种生物所知甚少，但我不愿轻易与你们为敌。我们能否进行谈判？"
+"娜迦，我对你们这种生物所知甚少，但我不愿轻易与你们为敌。我们能否进行谈判？"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:610
@@ -5367,30 +5332,24 @@ msgstr "欧戈"
 msgid "Mortic"
 msgstr "莫提克"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Tapok
 #. male Orcish Warlord talking to Mortic, a random-gender Drake Flameheart.
 #. "they" being two other male drakes
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:991
-#, fuzzy
 msgid "Well? Are they ready?"
-msgstr "好吧？准备好了吗？"
+msgstr "哦？他们准备好了吗？"
 
-# Translated by ollama with model glm4.
 #. [event]: race=drake
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:993
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:372
-#, fuzzy
 msgid "Ga’all"
-msgstr "哇哦"
+msgstr "啊哦"
 
-# Translated by ollama with model glm4.
 #. [event]: race=drake
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:994
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:373
-#, fuzzy
 msgid "Verash"
 msgstr "维拉什"
 
@@ -5404,6 +5363,10 @@ msgid ""
 "To our Flight, your only usefulness remains...\n"
 "As tribute to the orcs."
 msgstr ""
+"啊哦，你们的狩猎失败了。\n"
+"维拉什，你的爪子已经老去。\n"
+"对我们飞行队伍而言，你唯一的作用只剩下...\n"
+"作为对兽人的贡品。"
 
 #. [message]: speaker=Verash
 #. "Aspirant" is a drake military rank
@@ -5412,18 +5375,24 @@ msgid ""
 "Aspirant Mortic,\n"
 "As you command."
 msgstr ""
+"有为者莫提克，\n"
+"遵命。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Ogho
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1012
+#, fuzzy
 msgid "C’mon wyrms, get moving!"
-msgstr ""
+msgstr "来吧，龙族，动起来！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Tapok
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1019
+#, fuzzy
 msgid ""
 "Heh heh, quality tribute, as always. Be grateful for our generosity. Chief "
 "only asked for two this time!"
-msgstr ""
+msgstr "嘿嘿，质量贡品，一如既往。要感激我们的慷慨。这次族长只要求了两个！"
 
 #. [message]: speaker=$found_unit.id
 #. speaker is a drake, probably Mortic
@@ -5465,7 +5434,7 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1064
 msgid "No, wait, we just want to-"
-msgstr ""
+msgstr "不，等一下，我们只是想——"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1068
@@ -5485,28 +5454,35 @@ msgid ""
 "Yet our flame still persists.\n"
 "I shall not fall here."
 msgstr ""
+"我是有为者。\n"
+"然而在这些北陆，即使是猎物也露出獠牙，\n"
+"并威胁要征服我们。\n"
+"我们已经与更强大的飞行队伍抗争，\n"
+"玷污了我们的荣誉。\n"
+"但我们的火焰仍持续燃烧。\n"
+"我绝不会在这里倒下。"
 
 #. [message]: speaker=Grug
 #. Grug to Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1159
 msgid "Grug make ogre friendly! Talk ogre Grug make friend."
-msgstr ""
+msgstr "格拉格让食人魔友好！说食人魔格拉格交朋友。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1163
 msgid "I think he’s saying he wants to talk with the wild ogres?"
-msgstr ""
+msgstr "我想他是在说想要和野生食人魔交谈？"
 
 #. [message]: speaker=$found_unit.id
 #. speaker is a hostile ogre
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1211
 msgid "Guuuh... human?"
-msgstr ""
+msgstr "咕…人类？"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1216
 msgid "Err, hello?"
-msgstr ""
+msgstr "呃，你好？"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1221
@@ -5525,13 +5501,13 @@ msgstr "他们看起来不是很友好……"
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1253
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1311
 msgid "Guuuh... who you?"
-msgstr ""
+msgstr "咕…谁你？"
 
 #. [message]: speaker=$found_unit.id
 #. hostile ogre to player's ogre
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1260
 msgid "Uhhhh... who <i><b>you</b></i>?"
-msgstr ""
+msgstr "啊…谁<i><b>你</b></i>？"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1265
@@ -5584,7 +5560,7 @@ msgstr ""
 msgid ""
 "This ruined town still has some valuables! I count enough to be worth $gold "
 "gold pieces."
-msgstr ""
+msgstr "这个废弃小镇还有一些宝贝！我数了一下，值$gold金币。"
 
 #. [message]: speaker=unit
 #. circa 15 gold pieces
@@ -5592,12 +5568,13 @@ msgstr ""
 msgid ""
 "This drake only had $gold gold pieces in his camp. Not much of a dragon "
 "hoard..."
-msgstr ""
+msgstr "这个龙人营地里只有$gold金币。对于一个龙群并不多…"
 
 #. [message]: type=Yeti
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1444
+#, fuzzy
 msgid "GROARRR!!!"
-msgstr ""
+msgstr "嗷嗷嗷！！！"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1455
@@ -5615,12 +5592,14 @@ msgstr "是这个地方了！我们进去吧。"
 msgid "Dark Sanctuary"
 msgstr "黑暗圣殿"
 
+# Translated by ollama with model glm4.
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:19
+#, fuzzy
 msgid ""
 "Sequestered away under ice and stone, the dark places of the world quietly "
 "count the long years, biding their time until once more disturbed."
-msgstr ""
+msgstr "冰封石裹，世界黑暗之处默默数着漫长的岁月，等待时机再次被扰乱。"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:125
@@ -5633,31 +5612,32 @@ msgstr "地精"
 msgid ""
 "Ugh, more ants. I doubt there’s anything of value in here, just more of that "
 "lousy ambrosia."
-msgstr ""
+msgstr "呃，蚂蚁。我怀疑这里没有什么有价值的东西，只有那种糟糕的蜜食。"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:547
-#, fuzzy
 msgid "Study Guard"
-msgstr "皇家卫兵"
+msgstr "书房守卫"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:576
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2920
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:512
 msgid "Cowardly Goblin"
-msgstr ""
+msgstr "懦弱的地精"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:583
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1924
 msgid "Thirsty Goblin"
-msgstr ""
+msgstr "口渴的地精"
 
+# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:588
+#, fuzzy
 msgid "Dushab"
-msgstr ""
+msgstr "杜沙布"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:623
@@ -5738,24 +5718,34 @@ msgstr ""
 msgid "Iliah-Malal? I know that name from the legends..."
 msgstr "伊利阿-玛拉尔？我从传说中知道这个名字……"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:787
+#, fuzzy
 msgid ""
 "All this time... all this time I thought we were questing towards a noble "
 "goal. Searching for a legendary sword, an ancient tome, a holy relic."
 msgstr ""
+"一直以为，我们一直在追求一个高尚的目标。寻找传说中的剑、古老的卷轴、神圣的遗"
+"物。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:791
+#, fuzzy
 msgid ""
 "Instead, our quest brings us to the lair of one of the most evil beings that "
 "ever lived. How can you possibly mean to make use of anything ever possessed "
 "by such an evil? As soldiers of Wesnoth we are honor-bound to fight for the "
 "Light, not the darkness!"
 msgstr ""
+"相反，我们的任务带我们来到了有史以来最邪恶生物之一的巢穴。你怎么可能利用过这"
+"样邪恶的东西？作为韦诺的士兵，我们有义务为光明而战，而不是黑暗！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:795
+#, fuzzy
 msgid ""
 "Do not be so shortsighted. With the power to open portals to the Land of the "
 "Dead, I can pull Mal-Ravanal’s spirit out of this world. Then, the spells "
@@ -5763,65 +5753,97 @@ msgid ""
 "collapse into piles of bones. I am wielding this power for the good of "
 "Irdya, not for your honor’s sake."
 msgstr ""
+"不要如此短视。凭借打开通往死者之地的传送门的力量，我可以将玛尔-拉瓦纳尔的灵魂"
+"从这个世界中抽出。然后，赋予死人生者生命的咒语将会失效，他们令人恐惧的军队将"
+"化为成堆的白骨。我运用这股力量是为了伊迪亚的利益，而不是为了你的荣誉。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:799
+#, fuzzy
 msgid ""
 "Dacyn, I am uneasy about this course of action. I know little of the Land of "
 "the Dead, but everything I have heard suggests-"
 msgstr ""
+"达辛，我对这条行动计划感到不安。我对自己了解甚少的地狱之国知之甚少，但我所听"
+"到的每一件事都表明——"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:803
+#, fuzzy
 msgid ""
 "You would violate the dead’s eternal peace to fight a war, yet you call me "
 "shortsighted?! And while our homeland bleeds, you have the gall to speak of "
 "the good of all life?! Madness! As a mage of the Light, you should know "
 "better!"
 msgstr ""
+"你为了战争而破坏亡灵永恒的安宁，却称我为短视？！在我们国土流血之时，你还敢谈"
+"论一切生命的福祉？！疯狂！作为一个光明法师，你应该更明白！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:807
+#, fuzzy
 msgid ""
 "I have had enough of your second-guessing. You, fool of a horse boy, know "
 "nothing of the mystic arts, yet you mask your ignorance by cowering behind a "
 "pretend morality. If that is what you insist on doing, then by all means "
 "return to Wesnoth and add your corpses to Mal-Ravanal’s ever-growing hordes."
 msgstr ""
+"我已经受够了你的猜疑。你这个愚蠢的马童，对神秘艺术一无所知，却躲在伪善的道德"
+"面具后掩饰你的无知。如果你一定要这么做，那就去韦诺吧，让你的尸体加入玛尔-拉瓦"
+"纳尔不断增长的军队中。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:811
+#, fuzzy
 msgid ""
 "Unlike you, I have the knowledge and power to defeat the undead, and I "
 "intend to use it to destroy Mal-Ravanal. Will you wallow in your "
 "shortsightedness, or do you intend to help me safeguard all that lives?"
 msgstr ""
+"不同于你，我有知识和力量击败亡灵，我打算用它来摧毁玛尔-拉瓦纳尔。你会沉浸在你"
+"的短视中吗？还是你打算帮助我保护所有生命？"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:820
+#, fuzzy
 msgid ""
 "I will help you. We have come this far, and it seems a waste to turn back "
 "now."
-msgstr ""
+msgstr "我会帮你的。我们已走这么远，现在回头似乎很浪费。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:824
+#, fuzzy
 msgid ""
 "By the Clans, I will not!! Would that I had perished in battle against the "
 "undead! Better that than living to see Wesnoth’s high mage succumb to the "
 "temptation of darkness."
 msgstr ""
+"通过氏族，我绝不！！真希望我能战死在对抗亡灵的战斗中！这总比看到韦诺的高级法"
+"师屈服于黑暗的诱惑要强。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:828
+#, fuzzy
 msgid ""
 "Gweddry, if you truly wish to aid this madman, I will guard the outer gates "
 "for you. But I will not enter that evil stronghold. I would sooner perish "
 "than travel one step closer towards Dacyn’s foul amulet."
 msgstr ""
+"格威德利，如果你真心想帮助这个疯子，我会为你守卫外围大门。但我绝不会进入那个"
+"邪恶要塞。我宁愿死去，也不愿靠近达辛那恶心的护身符一步。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:837
+#, fuzzy
 msgid ""
 "Ah, I still remember this place quite clearly. Now that I think of it, Ravan "
 "had always been very interested in the magic of darkness. Apparently, the "
@@ -5829,55 +5851,74 @@ msgid ""
 "the future, at least according to Ravan’s theory. In hindsight, that was all "
 "nonsense."
 msgstr ""
+"哎呀，我仍然很清楚地记得这个地方。现在想想，莱文一直对黑暗魔法非常感兴趣。显"
+"然，光与暗之间的平衡将是未来伊尔迪亚安全的关键，至少根据莱文的理论是这样的。"
+"回顾起来，那全都是胡说八道。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:841
+#, fuzzy
 msgid "The irony seems lost on you."
-msgstr ""
+msgstr "这个讽刺似乎对你来说毫无意义。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:845
+#, fuzzy
 msgid ""
 "Back then this place was full of traps and undead, and it will no doubt be "
 "worse now that the wild beasts have had a chance to move in."
-msgstr ""
+msgstr "那时这个地方充满了陷阱和亡灵，如今野兽有机会进入，无疑会更糟。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:856
+#, fuzzy
 msgid ""
 "Ravan sealed this place before our last meeting. I need a moment to remember "
 "the incantation."
-msgstr ""
+msgstr "莱文在和我们上次见面之前封印了这个地方。我需要一点时间来回忆咒语。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #. the "red star" refers to the Ruby of Fire, and the "red stone" refers to the Amulet of the Veil FYI but these are not to be explicitly mentioned
 #. the "black pool" would be located near or under Weldyn, but again not to be explicitly mentioned
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:866
+#, fuzzy
 msgid ""
 "The red star blazes,\n"
 "The red stone bleeds.\n"
 "The black pool swallows all voices,\n"
 "The darkness between worlds opens its maw."
 msgstr ""
+"红星闪耀，\n"
+"红石滴血。\n"
+"黑池吞没所有声音，\n"
+"世界之间的黑暗张开巨口。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:893
+#, fuzzy
 msgid ""
 "Ugh, spellcasting always gives me the shivers. There’s a reason the more "
 "civilized people of my homeland don’t trifle with magic!"
-msgstr ""
+msgstr "呃，施法总是让我毛骨悚然。这就是我家乡更文明的人不随意玩弄魔法的原因！"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:897
 msgid "For a mage of the Light, the words you speak are dark indeed."
 msgstr "对于一位光明法师，你说的这些话真的很黑暗。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:901
+#, fuzzy
 msgid ""
 "I’m a simple man. I use simple tools and weapons. This magic stuff is givin’ "
 "me the creeps."
-msgstr ""
+msgstr "我是一个普通人。我用简单的工具和武器。这魔法玩意儿让我毛骨悚然。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:911
@@ -5889,18 +5930,22 @@ msgstr ""
 "这个前室只有八个人的位置。我要去取这件法器，格威德利答应陪我，所以剩下六个位"
 "置。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #. the player needs to choose 6 troops
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:930
+#, fuzzy
 msgid ""
 "Gweddry, are you still choosing your troops? I must end my turn in the "
 "antechamber to cycle the gate and enter the sanctuary."
-msgstr ""
+msgstr "格威德利，你还在挑选部队吗？我必须结束我的回合去前厅循环大门进入圣地。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:949
+#, fuzzy
 msgid "I will not aid in this evil quest."
-msgstr ""
+msgstr "我不会帮助这个邪恶的任务。"
 
 #. [message]: speaker=Dacyn
 #. somewhat like an airlock
@@ -5928,66 +5973,86 @@ msgid ""
 "before I cycle the gates."
 msgstr "格威德利，你同意陪我的。在转动大门之前，我们都必须进入这个前室。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1083
+#, fuzzy
 msgid "Cave scary! Grug no like!"
-msgstr ""
+msgstr "洞穴可怕！格拉格不喜欢！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #. the torches were already burning before any of Gweddry's party entered the castle
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1091
+#, fuzzy
 msgid "The torches are lit..."
-msgstr ""
+msgstr "火炬亮起……"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dolburras
 #. "I have seen my fair share of dark caves, but something about this place is making me shake."
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1104
+#, fuzzy
 msgid ""
 "I ha’ seen my fair share o’ dark caves, but summat ’bout this place be "
 "givin’ me the shakes."
-msgstr ""
+msgstr "我看到过不少阴暗的山洞，但这个地方却让我毛骨悚然。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Terraent
 #. at the moment he's seeing the inside of a castle, the lit torches, and a wild wyvern
 #. there's nothing particularly unholy to focus on
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1119
+#, fuzzy
 msgid "May this unholy place be cleansed by the Light!"
-msgstr ""
+msgstr "愿这邪恶之地被光明净化！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1203
 msgid "Hissssss..."
 msgstr "他的嘶嘶……"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. 200, 160, or 130 gold
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1218
+#, fuzzy
 msgid "This wyvern was rich! I count $gold gold in its hoard."
-msgstr ""
+msgstr "这条双头龙真是富饶！我在它的宝藏中数出了$金币。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1223
+#, fuzzy
 msgid "Ho ho, northerners’ gold, now that begins to make this all worth it!"
-msgstr ""
+msgstr "呵呵，北方人的金币，现在这一切才显得值得！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=narrator
 #. a signpost. "Study" as in a room with a reading desk and small library
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1243
+#, fuzzy
 msgid "East: Study and Vaults"
-msgstr ""
+msgstr "东方：学习和地窖"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=narrator
 #. a signpost
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1261
+#, fuzzy
 msgid "West: Laboratory and Experiment Testing"
-msgstr ""
+msgstr "西方：实验室和实验测试"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1312
+#, fuzzy
 msgid ""
 "I have triggered a trap. As long as I stay on this rune I will be safe, but "
 "once I step away, fire spirits will rise from the lava."
 msgstr ""
+"我触发了陷阱。只要我呆在这个符文上，我就安全，但一旦我离开，火灵将从熔岩中升"
+"起。"
 
 #. [message]: speaker=unit
 #. the feeling that they've triggered a trap
@@ -6001,21 +6066,26 @@ msgstr "啊哦……"
 msgid "Oh, nothing happened."
 msgstr "哦，没事发生。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #. a walking corpse of a rat or spider
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1340
+#, fuzzy
 msgid ""
 "That corpse has triggered a trap. When next it moves, fire spirits will rise "
 "from the lava."
-msgstr ""
+msgstr "那具尸体触发了陷阱。当它下一次移动时，火焰精灵将从熔岩中升起。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #. the rune is on the floor in front of the door (using one of the terrains that make the rune occupy most of the hex)
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1392
+#, fuzzy
 msgid ""
 "This gate is locked, and I recognize the petrification trap concealed within "
 "its guardian rune. I should avoid trying to open it."
 msgstr ""
+"这个门是锁着的，我认出了它守护符文中所隐藏的石化陷阱。我应该避免尝试打开它。"
 
 #. [message]: speaker=unit
 #. the rune is on the floor in front of the door (using one of the terrains that make the rune occupy most of the hex)
@@ -6023,44 +6093,57 @@ msgstr ""
 msgid "Looks like this gate is locked. I wonder if this rune opens it?"
 msgstr "看起来这个大门锁住了。我好奇这个符文能否打开它？"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1450
+#, fuzzy
 msgid "That was a petrification rune. It should wear off in a few moments."
-msgstr ""
+msgstr "这是一道石化符文。它将在几分钟后消失。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1457
+#, fuzzy
 msgid ""
 "We are fortunate, that enemy has triggered a petrification rune. Be warned "
 "though, it will only last a few moments."
-msgstr ""
+msgstr "我们很幸运，敌人激活了一个石化符文。但是请注意，它只能持续几秒钟。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. the unit triggers the trap immediately
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1511
+#, fuzzy
 msgid ""
 "Hmm, looks like a magic lamp. I’ve heard stories that these can grant "
 "wishes. Today must be my lucky day!"
 msgstr ""
+"哼，看起来像是个魔法灯。我听说过这些可以许愿的故事。今天肯定是我幸运的一天！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Jinn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1548
+#, fuzzy
 msgid "WHO DARES DISTURB MY SLUMBER?"
-msgstr ""
+msgstr "谁敢打扰我的睡眠？"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. an item on a display rack, ready to be worn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1562
+#, fuzzy
 msgid ""
 "This fine silken cloak would be priceless back in Wesnoth, but is useless to "
 "us here."
-msgstr ""
+msgstr "在这片丝绸斗篷在韦诺肯定是无价之宝，但在这里对我们来说却毫无用处。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. 70, 55, or 45 gold
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1582
+#, fuzzy
 msgid "This chest contains $gold gold!"
-msgstr ""
+msgstr "这个箱子里面有金币！"
 
 #. [message]: speaker=unit
 #. there was a closed chest on this hex, and it's been opened
@@ -6074,21 +6157,27 @@ msgstr "里面全是……厕纸？！？"
 msgid "I can unlock this gate from the inside."
 msgstr "我可以从里面打开这扇门。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Study Guard
 #. the Study Guard is a Deathblade (or Draug on hard difficulty) that's stood immobile in the doorway
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1638
+#, fuzzy
 msgid "Who. Comes?"
-msgstr ""
+msgstr "谁。来？"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1642
+#, fuzzy
 msgid "Err... don’t mind me, I’m just taking a look around."
-msgstr ""
+msgstr "嗯...别介意，我只是随便看看。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Study Guard
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1646
+#, fuzzy
 msgid "Master. Is away. Intruders. Must die."
-msgstr ""
+msgstr "大师不在。入侵者。必须死。"
 
 #. [message]: speaker=unit
 #. a quote from the journal written in SotA, also quoted in DiD
@@ -6128,8 +6217,10 @@ msgstr ""
 msgid "There are a few loose pages on the ground here..."
 msgstr "这里有几页书散落在地上……"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1734
+#, fuzzy
 msgid ""
 "<i>Journal of Ravan - 13 Blackfire, 588 YW.\n"
 "\n"
@@ -6143,9 +6234,18 @@ msgid ""
 "able to answer some of the questions I have been pondering. However, there "
 "seems to be a piece of the puzzle still missing.</i>"
 msgstr ""
+"《莱文日志 - 588YW 黑火月13日。\n"
+"\n"
+"这次探险证明比我所预期的更成功。当达辛在这地方的四周拆除陷阱时，我得以对马威"
+"之后的空间进行广泛的研究。有一个灵魂的世界可以来自我们自己的世界，毫无疑问伊"
+"利亚-马尔拉已经用面纱吊坠与之取得联系了。不时地，我会听到另一边有幽灵低语，但"
+"他们的声音还很微弱。我相信如果我能够以某种方式接近他们，他们将能够回答我一直"
+"在思考的一些问题。然而，似乎还有一片拼图仍然缺失。</i>"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1740
+#, fuzzy
 msgid ""
 "<i>Journal of Ravan - 21 Whitefire, 589 YW.\n"
 "\n"
@@ -6158,6 +6258,13 @@ msgid ""
 "recounting these muddled dreams, yet their words are disjointed, "
 "incomprehensible. What are they trying to tell me?</i>"
 msgstr ""
+"《莱文日志 - 21 白火日，589 年 YW。\n"
+"\n"
+"今夜我梦见了一件事。是梦吗？它更像是一个幻觉。我看到天空中两个球体发出炙热的"
+"光芒，照亮了充满不断变换的肉身异变生物的土地。我看到一颗宝石，不，是一把钥"
+"匙，闪烁着火焰，连接着巨大的深渊的虚无。我看到了黑暗，与光明融合并变形，撕裂"
+"了无形的不可摧毁的核心。我听到了人们述说这些混乱的梦境，然而他们的言语支离破"
+"碎，难以理解。他们试图告诉我什么？》"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1753
@@ -6167,8 +6274,10 @@ msgid ""
 msgstr ""
 "这卷书和一个矮人有点关系，他的名字叫萨嘎……瑟萨格-什么？文字已经褪色了。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1764
+#, fuzzy
 msgid ""
 "<i>Journal of Ravan - 5 Bleeding Moon, 597 YW.\n"
 "\n"
@@ -6180,14 +6289,22 @@ msgid ""
 "Haldric. Then again, maybe that is the game Dacyn wants to play. What a "
 "shame. I had held him in higher regard than that.</i>"
 msgstr ""
+"《莱文日志 - 597 YW血月之五。\n"
+"\n"
+"一切都不顺利。我的研究陷入了僵局，甚至来自另一个平面的灵也不再与我交谈。我也"
+"不能再依靠达辛了。那个愚蠢的人！他决定玩弄政治比帮助我解读这个关键谜题更能发"
+"挥他的能力。好像他能做出任何好事一样，作为那位半破旧的国王哈德里克的顾问。然"
+"后，也许这就是达辛想要的游戏。真遗憾。我曾对他抱有更高的期望。</i>"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. just flavortext, could be any books that are irrelevant to the story
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1778
+#, fuzzy
 msgid ""
 "This shelf appears to be full of accounting ledgers detailing the movement "
 "of funds and goods hundreds of years ago."
-msgstr ""
+msgstr "这个架子看起来装满了详细记录数百年前资金和货物流动的会计账簿。"
 
 #. [message]: speaker=unit
 #. a wooden crate, using the items/box.png image
@@ -6195,33 +6312,43 @@ msgstr ""
 msgid "This box is empty."
 msgstr "这个盒子是空的。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. a wooden crate, using the items/box.png image
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1804
+#, fuzzy
 msgid "Yuck, this box is full of pickled fingers!"
-msgstr ""
+msgstr "呃，这个盒子装满了腌制手指！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. a barrel, using items/barrel.png
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1816
+#, fuzzy
 msgid ""
 "This cask of wine is from nearly 200 years ago! If only I was allowed to "
 "drink while on duty."
-msgstr ""
+msgstr "这桶酒是将近200年前酿造的！要是我能在值班时喝酒就好了。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1830
+#, fuzzy
 msgid ""
 "These three orbs must be ancient, but still pulse with some kind of dark "
 "energy. Just standing near them gives me a splitting headache."
 msgstr ""
+"这三个球体必定是古老的，但仍在某种黑暗能量中跳动。仅仅站在它们附近就让我头痛"
+"欲裂。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1843
+#, fuzzy
 msgid ""
 "I’ve found a key! It must be magical; it started glowing as soon as I "
 "touched it."
-msgstr ""
+msgstr "我找到一把钥匙！它一定是魔法钥匙；我碰一下就发光了。"
 
 #. [message]: speaker=Cowardly Goblin
 #. Cowardly Goblin is male, and appears in just two events. This one, and the end-of-level event.
@@ -6229,58 +6356,74 @@ msgstr ""
 msgid "Aaah, humans! Run away!"
 msgstr "啊，人类！快跑！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1883
+#, fuzzy
 msgid ""
 "I guess there are goblins living here. Well, that explains the lit torches."
-msgstr ""
+msgstr "我猜这里住着哥布林。嗯，这就解释了火炬为什么点着。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Thirsty Goblin
 #. the goblin has moved to a hex with a green potion bottle. After this he drinks it, gets poisoned, and then turns into a walking corpse.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1898
+#, fuzzy
 msgid "Hey, this looks tasty!"
-msgstr ""
+msgstr "嘿，这看起来很美味！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. the player's unit has moved to a hex with a blue potion, drunk it, and become slowed
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1957
+#, fuzzy
 msgid "Ugh, my head hurts. Was this room always spinning?"
-msgstr ""
+msgstr "哎呀，我的头好疼。这个房间是不是一直都是旋转的？"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. the player's unit has moved to a hex with a yellow potion, drunk it, and become poisoned
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1985
+#, fuzzy
 msgid ""
 "Blech, this tastes awful! Whatever used to be in here, it went bad long ago."
-msgstr ""
+msgstr "布莱赫，这味道难闻！不管之前是什么东西，早就变质了。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. the player's unit has moved to a hex with a grey potion, drunk it, and ...
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2008
+#, fuzzy
 msgid "ACK! I’M DYING!"
-msgstr ""
+msgstr "啊克！我要死了！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. the grey potion
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2017
+#, fuzzy
 msgid "Hah, just messing with you, it’s only water."
-msgstr ""
+msgstr "哈哈，只是逗你玩，这只是水而已。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=second_unit
 #. the player's unit is outside the room with all of this in
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2046
+#, fuzzy
 msgid ""
 "Look, a key! But it’s guarded by all those goblins... and there are ghasts "
 "in cages!"
-msgstr ""
+msgstr "看，一把钥匙！但它是被所有那些哥布林守卫的...还有笼子里的食尸鬼！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=second_unit
 #. the player's unit is outside the room with ghasts and goblins in, and there are a lot of campfires in there too
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2051
+#, fuzzy
 msgid ""
 "The goblins’ eyes must be blinded by their fires. I still haven’t been "
 "spotted."
-msgstr ""
+msgstr "地精们的眼睛必须被他们的火焰熏瞎。我还没被发现。"
 
 #. [message]: speaker=unit
 #. rune on the floor that will open floor-to-ceiling gates
@@ -6288,7 +6431,7 @@ msgstr ""
 msgid ""
 "Hmm, it looks like this rune is connected to those cages. I’ll bet I could "
 "get one of them open..."
-msgstr ""
+msgstr "嗯，看起来这个符文连接着那些笼子。我敢打赌我能打开其中一个……"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2077
@@ -6298,8 +6441,9 @@ msgstr "是的，释放一些食尸鬼。"
 #. [message]: speaker=Goblin Leader
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2101
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2184
+#, fuzzy
 msgid "Aaahh!! The monsters have escaped!"
-msgstr ""
+msgstr "哎呀！！怪物逃跑了！"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2112
@@ -6307,62 +6451,83 @@ msgstr ""
 msgid "No, keep them locked up."
 msgstr "不，让它们继续锁着。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #. rune on the floor that will open floor-to-ceiling gates
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2136
+#, fuzzy
 msgid ""
 "Ah, this is the control for the experiment testing cages. Should I open them?"
-msgstr ""
+msgstr "啊，这是测试笼子的控制装置。我应该打开它们吗？"
 
+# Translated by ollama with model glm4.
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2138
+#, fuzzy
 msgid "Yes, release all the ghouls."
-msgstr ""
+msgstr "是，释放所有食尸鬼。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Goblin Leader
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2222
+#, fuzzy
 msgid "Humans! Get them!"
-msgstr ""
+msgstr "人类！抓住他们！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Goblin Leader
 #. death of a wolf rider's mount
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2243
+#, fuzzy
 msgid "Noooo, wolfieeee!!!"
-msgstr ""
+msgstr "不行，狼崽子！！！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2258
+#, fuzzy
 msgid "Look what I found! This key started glowing as soon as I touched it."
-msgstr ""
+msgstr "看看我找到了什么！我一触碰这个钥匙，它就开始发光了。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. although there's no filter on this event, the location is only reachable by a flying unit, presumably a walking corpse bat or walking corpse drake
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2297
+#, fuzzy
 msgid "Ruuuh... Brains..."
-msgstr ""
+msgstr "鲁乌... 脑袋..."
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=narrator
 #. This is an easter egg, and the details don't matter because there's no way to get the staff out of the room.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2303
+#, fuzzy
 msgid ""
 "This legendary magical staff has the power to reshape reality at will! "
 "Unfortunately, this zombie is not intelligent enough to understand the "
 "significance of what it has found, and merely perceives a lifeless room."
 msgstr ""
+"这把传奇魔杖拥有随意重塑现实的力量！不幸的是，这个僵尸智力不够理解它所发现的"
+"意义，仅仅感觉到一个无生命的房间。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2345
+#, fuzzy
 msgid ""
 "The Amulet should be just beyond that gate, within the inner sanctum. We "
 "will have to find a pair of magical keys to open the door."
 msgstr ""
+"护符应该就在那扇门后，位于内室之中。我们得找到一对魔法钥匙才能打开这道门。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2360
+#, fuzzy
 msgid ""
 "Both keys are found! We can now enter the inner sanctum and retrieve the "
 "Amulet."
-msgstr ""
+msgstr "两个钥匙都找到了！我们现在可以进入内室，取回护身符。"
 
 #. [message]: speaker=Gweddry
 #. by this time Owaec is probably fighting orcs
@@ -6370,10 +6535,12 @@ msgstr ""
 msgid "I hope Owaec hasn’t gotten into any trouble outside..."
 msgstr "我希望欧瓦埃克在外面没碰上任何麻烦……"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2417
+#, fuzzy
 msgid "Are we ready to enter the inner sanctum?"
-msgstr ""
+msgstr "我们是否准备好进入内殿？"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2419
@@ -6383,7 +6550,7 @@ msgstr "是的，我准备好了。"
 #. [command]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2426
 msgid "Sanctum Guard"
-msgstr ""
+msgstr "密室守卫"
 
 #. [message]: speaker=Gweddry
 #. looking at it from about 3 indoor hexes away
@@ -6391,22 +6558,26 @@ msgstr ""
 msgid "Is that... the Amulet?"
 msgstr "这是……护身符？"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2466
+#, fuzzy
 msgid ""
 "Yes. We now look upon one of the most powerful artifacts ever to taint "
 "Irdya. But first, we must clear out this room."
 msgstr ""
+"是。我们现在将目光投向曾经玷污艾尔迪亚的最强大的神器之一。但首先，我们必须清"
+"理这个房间。"
 
 #. [message]: speaker=Sanctum Guard
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2470
 msgid "TRESSPASSERS!"
-msgstr ""
+msgstr "入侵者！"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2474
 msgid "Prepare for incoming undead!"
-msgstr ""
+msgstr "准备迎接亡灵！"
 
 #. [event]
 #. [side]: type=Orcish Sovereign, id=Chief Dra-Nak
@@ -6419,13 +6590,15 @@ msgstr ""
 msgid "Chief Dra-Nak"
 msgstr "德拉-纳克酋长"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #. the wyrms being the drakes in S09
 #. Talking about Owaec, who's waiting outside the sanctum, probably on a keep.
 #. Owaec probably hasn't recruited, but the entire recall list is available to him so they're presumably "here".
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2523
+#, fuzzy
 msgid "What do we have here? This is what those wyrms were groveling about?"
-msgstr ""
+msgstr "我们在哪里？这些是那些巨龙低声下气地谈论的事情吗？"
 
 #. [message]: speaker=Chief Dra-Nak
 #. he's a chief from the Whitefangs because he's not the only one, just a particularly powerful one
@@ -6433,51 +6606,69 @@ msgstr ""
 msgid ""
 "I’m Dra-Nak, Chief from the Whitefang clan. What’re you doing so far away "
 "from home, human?"
-msgstr ""
+msgstr "我是德拉-纳克，白牙氏族的酋长。你这么远离家乡是干什么的，人类？"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2532
+#, fuzzy
 msgid ""
 "I am a lord of the Horse Clans, and we are here on Wesnoth business. You "
 "would do well not to bother us."
-msgstr ""
+msgstr "我是马氏族领主，我们在此处理韦诺事务。你们最好别来打扰我们。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2536
+#, fuzzy
 msgid ""
 "Wesnoth business, huh. ...you’re not the first group of deserters I’ve "
 "caught fleeing the undead."
-msgstr ""
+msgstr "韦诺商业，嗯……你不是第一个被我抓住逃跑的亡灵逃兵群体。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2540
+#, fuzzy
 msgid ""
 "I’ll tell you what. I’m a fair orc, I won’t take advantage of your "
 "situation. Maybe I can help you. Let’s make a deal."
 msgstr ""
+"我要告诉你，我是一个公正的兽人，我不会利用你的处境。也许我能帮你。让我们达成"
+"协议吧。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2544
+#, fuzzy
 msgid ""
 "Those necromancers down south are paying me good coin to keep them supplied "
 "with corpses. Hand over, let’s say, eight of your soldiers as tribute, and "
 "you’re free to go about your business. I’ll even give you a cut of the "
 "profit!"
 msgstr ""
+"那些南方的死灵法师用金币雇佣我，让他们有足够的尸体供应。交出，比如，八名你们"
+"的士兵作为贡品，你们就可以自由行事了。我还会分给你们一份利润！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2548
+#, fuzzy
 msgid ""
 "Today I have been called shortsighted, then a coward, and now a deserter?! "
 "My honor will stand no more insult! Begone, fetid orc, lest I mount your "
 "head on a pike! I don’t fear the dead and I don’t fear you."
 msgstr ""
+"今天我被说成是近视眼，然后是胆小鬼，现在又是一个逃兵？！我的荣誉绝不能容忍更"
+"多的侮辱！滚开，臭烘烘的兽人，否则我将把你的头挂上长矛！我不怕死人和你。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #. This is the start of the second night, and around 4 orcs will enter the map this turn, and 3 more next turn.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2553
+#, fuzzy
 msgid "(grinning) I was hoping you’d say that!"
-msgstr ""
+msgstr "（笑着）我就知道你会这么说！"
 
 #. [message]: speaker=Owaec
 #. this is a reminder to the player that Owaec is a leader and can recruit.
@@ -6486,6 +6677,8 @@ msgid ""
 "Gweddry may command the whole of our party, but do not forget that I too can "
 "recruit and recall! I will need soldiers to hold the line against these orcs."
 msgstr ""
+"格威德利可以指挥我们整个队伍，但别忘了，我也可以征募和召回！我需要士兵来抵挡"
+"这些兽人。"
 
 #. [message]
 #. Turn 21 (start of the fourth night) the second wave of orcs arrive and announce their plans.
@@ -6493,7 +6686,7 @@ msgstr ""
 #. There were 7 orcs in the first wave on turns 9 and 10, but the player has probably already handled them.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2640
 msgid "Time to chop some human heads!"
-msgstr ""
+msgstr "是时候砍些人类的脑袋了！"
 
 #. [message]
 #. Turn 33 (start of the sixth night) the next wave of orcs arrive.
