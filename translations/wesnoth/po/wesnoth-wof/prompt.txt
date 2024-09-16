@@ -1,0 +1,195 @@
+I'm translating the turn based strategy game The Battle for Wesnoth. The following is some glossary about drakes:
+
+- Ancestor -
+When capitalized, this refers specifically to an ancestor revered for their heroic deeds.
+Drakes have a powerful sentiment that a heroic Ancestor can reappear, in times of immense need, to offer wisdom or even physically intervene on the behalf of their descendants.
+
+- Aspirant -
+A drake with a rank high enough to command a wing and enter the contention.
+This rank is achieved by completing a series of trials.
+
+- Automaton -
+One of the large steam powered siege machines constructed in the ancient past by dwarvish runesmiths and drakes of the clasher caste.
+
+- Caste Burner -
+The generally highest caste, renowned for their strategic thinking, leadership, passion and concern for other drakes.
+They are also known to be somewhat aloof, prideful, stubborn and vague on details.
+Nearly half of all dominants are of this caste.
+Saying:
+May your fire light the way in darkness.
+
+- Caste Clasher -
+The honorbound protectors of the offspring, Ways, and Secrets of the drakes.
+They can be counted on to put following the Ways of Morogor before all other loyalties, besides the defense of eggs and hatchlings.
+Saying:
+May your ancestors tread beside you.
+
+- Caste Fighter -
+Quick thinking, adaptable tacticians and fearless warriors.
+They somewhat lack foresight and seeing the bigger picture.
+Saying:
+May your blades find their marks in fury.
+
+- Caste Glider -
+Scouts, messengers, stewards of hunting grounds and shamanic tellers of the Spoken Memories.
+Their limited usefulness in fighting off intruders leaves them the lowest status of the castes.
+Saying:
+May your wings catch the winds to soar.
+
+- Contention -
+See "dominant".
+
+- Dominant -
+The leader of a drake flight, chosen through rigorous tests of group hunting ability followed by a contest of military leadership known as the contention.
+
+- Dominant Morogor -
+Revered as the great Ancestor of all drakes by the burner and fighter castes.
+The gliders' Spoken Memory says he was instead a defeated warlord, outcast with his followers to the archipelago that now bears his name.
+
+- Dragon -
+A distantly related group of creatures that share a capacity for flight and the ability to spit fire.
+Generally large, carnivorous, intelligent and prideful.
+Includes drakes and fire dragons.
+
+- Drake -
+A race of lesser dragons. They are bipedal, diurnal and have a high capacity for smithing, organization and strategy.
+
+- Drakish -
+The tongue of the Drakes of Morogor.
+As its structure is alien compared to the tongues spoken by other races, communication between the races can be difficult.
+
+- (Exonym) Caster -
+Also called Hurler.
+Ancient word for human, referring to the human propensity for throwing missile weapons.
+Also may refer to the magical spellcasting talent of humans, which drakes likewise lack.
+
+- (Exonym) Craftling -
+Ancient word for dwarf, referring to their unmatched skill for crafting weapons, tools and even highly complex machines in the distant past.
+
+- (Exonym) Drakekin -
+Ancient word for fire dragon, a creature which drakes feel a deep kinship and reverence for.
+
+- (Exonym) Fleetfoot -
+Ancient word for saurian, referring to their nimbleness.
+
+- (Exonym) Serpent -
+Ancient word for naga, referring to their being a kind of serpent.
+
+- (Exonym) Stonekin -
+Ancient word for troll, referring to their kinship with stone.
+
+- (Exonym) Teller -
+Ancient word for fire guardian and fire wraith.
+Fiery elemental creatures of majestic size, power and wisdom in the distant past.
+They were benevolent mentors to the early drakes.
+Now, they are diminished to small beings huddled near passive volcanoes and other sources of great heat.
+
+- (Exonym) The Faerie -
+Ancient word for the inherently sentient faerie world and all creatures tied to it, such as the elves, woses, nixes and certain elemental creatures.
+Remembered as extremely dangerous foes by the glider and clasher castes.
+
+- (Exonym) The Horde -
+Ancient word for orcs and goblins.
+Remembered as dangerous foes by the glider and clasher castes. But considered mere prey by the prideful burner and aggressive fighter castes.
+
+- (Exonym) The Jotnar -
+Ancient word for an unknown race or faction of creatures with diversely zoomorphic forms and sizes, as well as a dual elemental nature.
+Remembered as dangerous foes by the glider and clasher castes.
+
+- Eyrie -
+A Drake fortress, home to a single flight and containing their primary hatchery and forge.
+
+- Fledgling -
+A young drake, bipedally mobile yet still unable to fly.
+They have left the hatchery but usually do not roam far beyond the eyrie.
+
+- Flight -
+A large group of drakes, lead by a dominant.
+The name relates to the first drake inhabitants of Morogor being outcasts that were made to 'take flight' from a worldwide drake society in ancient times.
+
+- Greatland -
+The drakish word for "continent" (along with "great island").
+Usually used to refer to the Great Continent to the east of Morogor.
+
+- Hatchery -
+Where drake eggs are cared for. Generally overseen and protected by members of the clasher caste. A library is often adjacent, where clashers guard their Secrets.
+
+- Hatchling -
+A newly hatched drake, about two thirds the size of an adult human but clumsy and largely defenseless.
+
+- Hunt -
+An organized, large scale hunt for prey called by a high ranking drake.
+The drake that "calls the hunt" is responsible for setting the end goal as well as the safety of the hunters.
+
+- Intendants -
+Advisors and lieutenants of a dominant, usually one of each caste other than its own.
+
+- Intendant, First -
+Primary advisor to the Dominant.
+Tasked to take temporary command of the flight if ever its dominant is incapacitated.
+
+- Kin -
+Members of a drake’s own flight.
+Also used for drakes formerly of the same flight.
+
+- Kith -
+Members of an allied flight.
+
+- Morogor -
+Also known as the Domain of Morogor.
+Archipelago, located somewhere in the Great Ocean southeast of the Green Isle and west of the "Greatland" (Great Continent).
+
+- Prey -
+Any creature drakes consider food, though generally the most dangerous ones, with "game" more often used to refer to easier prey.
+
+- Reascension -
+Also known as the Reascension from Exile.
+A glider aspiration to return the Drakes of Morogor from their exile. It has two aspects:
+The first is the physical escape from the Morogor archipelago back to the distant continents, made difficult by the vastness of the Great Ocean and a lack of surviving geographical knowledge.
+The second is discovering and overcoming the flaw of character that led to their exile by the 'noble' drakes of the distant west.
+
+- Secret -
+A ceramic tablet on which some of the secret written history and technical knowledge of the drakes is written.
+They are made and guarded by the clasher caste.
+
+- Spoken Memories -
+Also called the "Memories".
+An oral history of the drakes going back into the early times of Irdya, but generally known only to the glider caste.
+The telling and hearing of these stories taps into a vague ancestral memory which all drakes possess.
+
+- Ways of Morogor -
+The truly enormous code of laws that govern Morogor and the highest authority in the land.
+They have accrued for nearly five thousand years and are more and more focused on managing territorial redistribution as Morogor loses ground to the surrounding ocean.
+
+- Winds of Fate -
+Also called the "Wind" and the "Winds".
+Glider belief that destiny is a kind of swirling complex of air currents, which they call Windpaths.
+These Windpaths cannot be seen, but can be felt "under your wings".
+Carefully choosing the right Windpath can deliver one to a desirable outcome, the wrong one leads to ruin.
+Gliders believe there is no escaping the Winds, you are either on one Windpath or another.
+
+- Windpath -
+See 'Winds of Fate'.
+
+- Wing -
+A small attack group of drakes.
+Generally a detachment from a much larger flight, used in warfare or when a hunt has been called.
+
+
+The following is the English text and the Chinese translation of some terms and names, one for each line:
+Wesnoth 韦诺
+Weldyn 维尔帝
+Great River 泰河
+scenerio 场景
+Morogor 莫罗戈
+drake 龙人
+Aspirant 有为者
+Intendant 指挥官
+Dominant 领导者
+Ancestor 祖先
+Gorlack 戈拉克
+Resha 瑞莎
+Isle of Gaall 加尔岛
+Vladnir 维拉德尼尔
+Karron 卡伦
+Please translate this text from English to simplified Chinese, your response should only contain the translated text: 
