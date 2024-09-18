@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-15 16:01+0800\n"
+"PO-Revision-Date: 2024-09-18 10:15+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -8433,7 +8433,7 @@ msgstr ""
 #. Male; he's been canon in many versions of Wesnoth that only had male drakes, thus will surely have been male in any translation that needed to know his gender.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:153
 msgid "Khrakrahs"
-msgstr "卡拉卡莱兹"
+msgstr "柯拉卡拉斯"
 
 #. [side]
 #. neutral side, is only horses (although the user_team_name is vaguer than that)
