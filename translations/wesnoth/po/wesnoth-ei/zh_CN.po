@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-19 13:24+0800\n"
+"PO-Revision-Date: 2024-09-24 10:55+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1999,10 +1999,8 @@ msgstr "朋友们，来吧，让我们加入这些“韦诺人”，向西去寻
 msgid "What about journeying east towards the undead fortress?"
 msgstr "向东前往亡灵要塞如何？"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:908
-#, fuzzy
 msgid ""
 "Oh please, I knew you wouldn’t fall for that! I just wanted something to "
 "keep those skeletons busy while we left."
@@ -2031,9 +2029,8 @@ msgstr ""
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:968
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:858
-#, fuzzy
 msgid "No, it can’t end like this! My sister has died unavenged..."
-msgstr "不，它不能这样结束！我妹妹死得毫无报仇的机会…"
+msgstr "不，它不能这样结束！我妹妹已经死了，没人为她复仇……"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:973
@@ -3002,10 +2999,8 @@ msgstr ""
 "我们的血液有限，流得越多，他们的力量就越强。只有通过使用神殿的力量来摧毁亡"
 "灵，我们才能找到救赎。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1058
-#, fuzzy
 msgid ""
 "Far though this journey may take us, if it is necessary to defeating this "
 "great evil, we have no choice but to make it."
@@ -3022,28 +3017,24 @@ msgstr ""
 "很好。可以在索拉多克附近渡过泰河。我们可以到达那里的驻军，与王冠取得联系，并"
 "为我们的旅程收集补给。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1071
-#, fuzzy
 msgid ""
 "The entire undead army is between us and Soradoc. They even may have already "
 "taken the city itself. We should avoid that battle and cross the Great River "
 "further east, behind the undead lines."
 msgstr ""
 "整个亡灵军队在我们和索拉多克之间。他们甚至可能已经占领了这座城市本身。我们应"
-"该避免那场战斗，并继续向东越过泰河，穿过亡灵战线。"
+"该避免那场战斗，并继续向东越过泰河，到亡灵战线之后。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1075
-#, fuzzy
 msgid ""
 "If undead are attacking Soradoc, that is all the more reason to travel west! "
 "I will not stand by and let my comrades die while I cravenly flee the battle."
 msgstr ""
-"如果亡灵正在攻击索拉德克，那就有更多理由向西行进！我不会袖手旁观，让我的同伴"
-"在胆怯中逃离战斗而死。"
+"如果亡灵正在攻击索拉多克，那就有更多理由向西行进！我不会袖手旁观，让我的同志"
+"们在我胆怯地逃离战斗时死亡。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1079
@@ -3080,10 +3071,8 @@ msgid ""
 "It is our duty to aid the king’s army at Soradoc and cross the river there."
 msgstr "我们有责任协助索拉多克的国王军队，并渡过那里的河流。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Rilaka
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1131
-#, fuzzy
 msgid ""
 "I’m not so sure I can win this fight, but maybe I don’t need to defeat you "
 "myself to be respected... maybe I only need to tell the others to come "
@@ -3092,29 +3081,23 @@ msgstr ""
 "我不确定我能否赢得这场战斗，但也许我并不需要亲自打败你才能得到尊重……也许我只"
 "需要告诉其他人来消灭你就行了！"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1137
-#, fuzzy
 msgid "He’s run off to summon reinforcements! If only we had acted sooner..."
 msgstr "他跑去找增援了！如果我们早点行动就好了……"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1144
-#, fuzzy
 msgid ""
 "Enough of this. We cannot afford to waste time with petty bandits while Mal-"
 "Ravanal ravages Wesnoth. Owaec, come with us or stay here and die, I care "
 "not either way."
 msgstr ""
-"足够了。我们不能浪费时间去对付那些微不足道的强盗，同时玛尔-拉瓦纳尔正在蹂躏韦"
-"诺。欧瓦埃克，跟我们一起走，或者留在这里等死，我无所谓哪种方式。"
+"足够了。玛尔-拉瓦纳尔正在蹂躏韦诺，我们不能浪费时间去对付那些微不足道的强盗。"
+"欧瓦埃克，跟我们一起走，或者留在这里等死，我无所谓哪种方式。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1148
-#, fuzzy
 msgid ""
 "Since we have failed to root out the bandit leader, I am honor-bound to stay "
 "and defend these villagers! If you wish to go, then go, but I shall not aid "
@@ -3123,10 +3106,8 @@ msgstr ""
 "由于我们未能根除匪首，我有责任留下保卫这些村民！如果你们要走，那就走吧，但我"
 "不会帮助你们。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1152
-#, fuzzy
 msgid "I would that I had acted with more haste..."
 msgstr "我希望我行动得更快……"
 
@@ -3324,24 +3305,20 @@ msgstr "非常感谢！终于感觉呼吸正常了。"
 msgid "How did you come to be captured by these undead?"
 msgstr "你是如何被这些亡灵抓住的？"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Dolburras
 #. "Ran into a whole blasted army of them marching from the Swamp of Dread. I think they're headed for Knalga! Someone ought to invade them for a change."
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:390
-#, fuzzy
 msgid ""
 "Ran into a whole blasted army of ’em marchin’ from the Swamp o’ Dread. I "
 "think they be headed for Knalga! Someone oughta invade them for a change."
 msgstr ""
-"遇到一支从恐惧沼泽赶来的该死军队！我想他们要去诺尔加了！真应该有人去侵略他们"
-"一次！"
+"遇到一支从恐惧沼泽赶来的该死的军队！俺寻思他们是前往纳尔迦的！真应该有人去侵"
+"略他们一次！"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:394
-#, fuzzy
 msgid "By the Clans! Do these undead mean to conquer all the world?"
-msgstr "凭各部族！这些亡灵是否要征服整个世界？"
+msgstr "以氏族之名！这些亡灵是否要征服整个世界？"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:398
@@ -7781,28 +7758,24 @@ msgid ""
 "for dusk!"
 msgstr "（眯眼）在这炽烈的阳光下，我什么也看不见。撤退，等到黄昏时分再行动！"
 
-# Translated by ollama with model glm4.
 #. [message]: id=Mortic
 #. to the male orc leader who's ordering the retreat
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:534
-#, fuzzy
 msgid ""
 "The sun strengthens my kin.\n"
 "Daytime is our Domain.\n"
 "We should press the attack."
 msgstr ""
-"太阳增强了我的族人。\n"
-"白天是我们领土。\n"
+"太阳了我的族人。\n"
+"白天是我们领域。\n"
 "我们应该发起进攻。"
 
-# Translated by ollama with model glm4.
 #. [message]: race=orc
 #. The messages in this event give the player a chance to react to the retreat.
 #. By now they should know that enemies retreat during the day, but it's especially important to know now so they can evacuate.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:543
-#, fuzzy
 msgid "You heard me, wyrm! Wait. For. Dusk."
-msgstr "你听到了我的话，龙！等。到。黄昏。"
+msgstr "你听到了我的话，龙！等-到-黄昏。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:584
@@ -7972,10 +7945,8 @@ msgid ""
 "surely fly behind and cut off our retreat!"
 msgstr "快！如果我们不能在河西岸占领阵地，龙人肯定会在后面飞来切断我们的退路！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Mortic
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:867
-#, fuzzy
 msgid ""
 "The sun arises.\n"
 "Second and third Wings,\n"
@@ -7985,11 +7956,9 @@ msgstr ""
 "第二、第三翼，\n"
 "占领西岸。"
 
-# Translated by ollama with model glm4.
 #. [message]
 #. spoken by the leader of either orc side. Lots of drakes appear immediately after this.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:883
-#, fuzzy
 msgid ""
 "We need help over here! Where are the rest of those lousy drakes? They "
 "should be in position by now!"
@@ -8049,10 +8018,8 @@ msgstr "格拉赫！愚蠢的人类……"
 msgid "I am Aspirant no more."
 msgstr "我不再是有为者。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Rakkha
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:997
-#, fuzzy
 msgid "I hate you! Hate... hate... hate you..."
 msgstr "我恨你！恨……恨……恨你……"
 
@@ -8112,7 +8079,6 @@ msgstr "瓦尼基"
 msgid "Vovan"
 msgstr "沃凡"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:463
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:831
@@ -8120,7 +8086,6 @@ msgstr "沃凡"
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:986
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1068
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1235
-#, fuzzy
 msgid "Gaoler"
 msgstr "狱卒"
 
@@ -8212,12 +8177,10 @@ msgid ""
 "little sooner than expected."
 msgstr "无论怎样，把下一批囚犯带来。我比预期的需要他们更早一些。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Vovan
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:615
-#, fuzzy
 msgid "Wait a moment, can we talk about thi-"
-msgstr "等一下，我们可以谈谈这个——"
+msgstr "等一下，我们可以谈谈这——"
 
 #. [message]
 #. Vovan has been turned into a ghoul, and the other prisoner has been too.
@@ -8355,22 +8318,18 @@ msgstr "他们怎么这么多？这是韦诺的尽头了吗？"
 msgid "Don’t worry. I’m sure the Crown has a plan..."
 msgstr "别担心，我肯定王冠有计划……"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Vinreddoc
 #. Vinreddoc is a mage, but with random gender
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:931
-#, fuzzy
 msgid ""
 "Thank you! When the undead overran the academy I thought I was dead for "
 "sure. I just wonder what has happened to my friends..."
 msgstr ""
-"感谢！当亡灵横扫学院时，我肯定觉得自己必死无疑。我只想知道我的朋友们发生了什"
-"么事……"
+"谢谢你！当亡灵横扫学院时，我觉得自己必死无疑。我只想知道我的朋友们发生了什么"
+"事……"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:935
-#, fuzzy
 msgid "Take heart! As long as there is Light, hope always remains."
 msgstr "鼓起勇气！只要有光明，希望就永远存在。"
 
