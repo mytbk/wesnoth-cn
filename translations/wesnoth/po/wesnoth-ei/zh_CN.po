@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-25 22:15+0800\n"
+"PO-Revision-Date: 2024-09-25 22:40+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -8635,12 +8635,10 @@ msgstr ""
 "格威德利、欧瓦埃克和达辛急于与韦诺军队会合，急忙向西推进。当他们穿过曾经是韦"
 "诺繁荣东部省份的一片片废墟中的战场时，他们的心情愈发沉重。"
 
-# Translated by ollama with model qwen2.5.
 #. [leader]: type=Barrow Wight, id=Sir Seoraery
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:113
-#, fuzzy
 msgid "Sir Seoraery"
-msgstr "塞奥拉瑞爵士"
+msgstr "西奥雷里爵士"
 
 #. [leader]: type=Pyre Wight, id=Sir Efran
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:132
@@ -8689,79 +8687,90 @@ msgstr "光明之主……我做了什么得罪天地之事，竟受到如此惩
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:453
 msgid "I fought the undead with everything... I gave everything..."
-msgstr ""
+msgstr "我用尽一切与亡灵作战……我付出了一切…"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:454
 msgid ""
 "... it came from the shadows. A gust of wind, then a claw through my chest..."
-msgstr ""
+msgstr "…它从阴影中出现。一阵风吹过，然后是一只利爪穿透我的胸膛…"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:455
 msgid "... please, find my wife... tell her my story."
-msgstr ""
+msgstr "…请找到我的妻子……告诉她我的故事。"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:456
 msgid "... honor, glory, wealth... none of it saved us in the end."
-msgstr ""
+msgstr "…荣誉，辉煌，财富……最终都没有救得了我们。"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:457
 msgid "... they won’t let me die... why won’t they let me die?"
-msgstr ""
+msgstr "…他们不会让我死……为什么不肯让我死去？"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:458
 msgid ""
 "... they tore the ribs out from my friends... then fashioned them into "
 "arrows."
-msgstr ""
+msgstr "…他们从我的朋友身上扯出了肋骨……然后将它们制成了箭矢。"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:459
 msgid ""
 "... I could not hurt him... my own father... his corpse risen to fight me."
-msgstr ""
+msgstr "…我不能伤害他……我的父亲……他的尸体复活来与我对战。"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:460
-#, fuzzy
 msgid "... Lord Gaelyc, I have failed you."
-msgstr "韦诺，我辜负了你……"
+msgstr "…盖里克领主，我辜负了你。"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:461
+#, fuzzy
 msgid "... the Clans were not prepared... I was not prepared."
-msgstr ""
+msgstr "……氏族没有准备……我没有准备。"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:462
+#, fuzzy
 msgid "... how could we have known? What could we have done?"
-msgstr ""
+msgstr "……我们又怎会知道？又能做些什么呢？"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:463
+#, fuzzy
 msgid "... my family, where is my family?"
-msgstr ""
+msgstr "…我的家人在哪里？我的家人在哪里？"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:464
+#, fuzzy
 msgid "... what good was my lance... against a creature... without flesh?"
-msgstr ""
+msgstr "……我的长枪对那种没有血肉的生物有什么用呢？"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:465
+#, fuzzy
 msgid ""
 "At first I thought he was one of ours... then he waved his hand and my blood "
 "ran cold..."
-msgstr ""
+msgstr "起先我还以为他是我们的人……然后他一挥手，我的血液仿佛都冻住了……"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:466
+#, fuzzy
 msgid "... so cold... so dark..."
-msgstr ""
+msgstr "......如此寒冷……如此黑暗……"
 
 #. [message]: speaker=unit
 #. Player's unit has just been ambushed. Some other nearby corpses have awoken too, but the player will find that out during the enemy turn.
@@ -8814,7 +8823,7 @@ msgstr "我们还要杀更多可憎的东西！！"
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:751
 msgid "Lord Alric’s Palace"
-msgstr ""
+msgstr "阿尔里克领主的宫殿"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:752
@@ -8824,12 +8833,12 @@ msgstr "埃弗兰爵士的城堡"
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:753
 msgid "Lord Gaelyc’s Citadel"
-msgstr ""
+msgstr "盖里克领主的要塞"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:754
 msgid "Sir Seoraery’s Keep"
-msgstr ""
+msgstr "西奥雷里爵士的城堡主楼"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:755
@@ -8852,11 +8861,13 @@ msgstr ""
 "终于我们到达了骏马平原，我的人民的美丽家园！在这里，我们终于可以与战友们重"
 "聚，彻底地消灭亡灵。"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #. Shouted to the landscape, expecting to find living comrades. What will answer is walking corpses and ghosts.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:850
+#, fuzzy
 msgid "Hail, Clansmen! Come and greet one of your own!"
-msgstr ""
+msgstr "喂，同胞们！来见见你们的一员吧！"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:854
@@ -8868,7 +8879,7 @@ msgstr "堕落的氏族成员"
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:874
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:824
 msgid "No."
-msgstr ""
+msgstr "不。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:878
@@ -8877,6 +8888,8 @@ msgid ""
 "be?! How can Mal-Ravanal have already advanced so far into the heartland of "
 "Wesnoth?"
 msgstr ""
+"不，不！为什么这里有沼泽？为什么会有亡灵在这里？这怎么可能呢？！玛尔-拉瓦纳尔"
+"怎么会已经走了这么远深入到韦诺腹地了？"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:882
@@ -8885,11 +8898,13 @@ msgid ""
 "dammed the river to drown the plains. They must like the swamp, filled with "
 "death and decay..."
 msgstr ""
+"对不起欧瓦埃克。亡灵大军肯定已经击败了氏族战士，并筑坝蓄水淹没了平原。他们肯"
+"定喜欢这沼泽，充斥着死亡与腐烂…"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:886
 msgid "My home... my people... how could this happen..."
-msgstr ""
+msgstr "我的家……我的人民……这是怎么发生的……"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:896
@@ -8913,36 +8928,36 @@ msgstr ""
 #. Dacyn is bleeding and about to take damage from an unknown source
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:910
 msgid "Are you even listening?!?"
-msgstr ""
+msgstr "你在听吗？！？"
 
 #. [message]: speaker=Gweddry
 #. Dacyn is bleeding and taking damage, from an unknown source
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:927
 msgid "Dacyn, what’s wrong? Are you all right?"
-msgstr ""
+msgstr "达辛，怎么了？你还好吗？"
 
 #. [message]: speaker=Dacyn
 #. Dacyn steps away from the initial encampment, and is about take a lot of damage
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:939
 msgid "...I can’t-"
-msgstr ""
+msgstr "…我不能—"
 
 #. [message]: speaker=Dacyn
 #. Dacyn stepped away from the castle, the six hexes around him have changed to chasms and he's down to 15 hp.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:986
 msgid "I’ve lost control of the Amulet! I must-"
-msgstr ""
+msgstr "我失去对护身符的控制了！我必须—"
 
 #. [message]
 #. up to 6 ghosts or wraiths come out of the chasms, depending on difficulty and how many auto-recalled loyals the player has
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1010
 msgid "<span size='small' font-style='italic'>And most importantly...</span>"
-msgstr ""
+msgstr "<span size='small' font-style='italic'>而且最重要的是……</span>"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1017
 msgid "Lord Alric"
-msgstr ""
+msgstr "阿尔里克领主"
 
 #. [message]: speaker=Lord Alric
 #. speaker is a wraith, he's emerged from the chasms around Dacyn
