@@ -2197,19 +2197,27 @@ msgid ""
 "behind..."
 msgstr "在其光滑月光照耀的海洋上方掠过，他们的翅膀波浪在后荡漾……"
 
+# Translated by ollama with model glm4.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:36
+#, fuzzy
 msgid "So forth the journey persisted."
-msgstr ""
+msgstr "如此，旅程继续进行。"
 
+# Translated by ollama with model glm4.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:39
+#, fuzzy
 msgid ""
 "To spot the petty shoals, Resha formed her gliders into a forward line "
 "spanning several horizons. Even so, the shoals nigh slipped past their north "
 "wing unnoticed. At long last, the flight set down on them."
 msgstr ""
+"为了捕捉那些小群鱼群，瑞莎将她的滑翔者编成一条横跨数个地平线的正面防线。即便"
+"如此，鱼群几乎没被注意到就悄悄地从他们的北翼溜走了。最后，队伍终于降落在了它"
+"们身上。"
 
+# Translated by ollama with model glm4.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:52
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:33
@@ -2218,8 +2226,9 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:41
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:44
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:43
+#, fuzzy
 msgid "Flight Gorlack"
-msgstr ""
+msgstr "飞行戈拉克"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:74
@@ -2227,27 +2236,35 @@ msgstr ""
 msgid "Merfolk"
 msgstr "人鱼"
 
+# Translated by ollama with model glm4.
 #. [leader]: id=Nemas, type=Merman Warrior
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:77
+#, fuzzy
 msgid "Nemas"
-msgstr ""
+msgstr "奈玛斯"
 
+# Translated by ollama with model glm4.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:94
+#, fuzzy
 msgid "Serpents"
-msgstr ""
+msgstr "蟒蛇"
 
+# Translated by ollama with model glm4.
 #. [leader]: id=Shussek, type=Naga Warrior
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:97
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:470
+#, fuzzy
 msgid "Shussek"
-msgstr ""
+msgstr "舒塞克"
 
+# Translated by ollama with model glm4.
 #. [leader]: id=Poseira, type=Merman Spearman
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:118
+#, fuzzy
 msgid "Poseira"
-msgstr ""
+msgstr "波塞里亚"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:152
@@ -2333,40 +2350,61 @@ msgstr ""
 "人鱼骚扰我们很久了。\n"
 "现在他们阻碍我们穿越他们的海洋领地。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:244
+#, fuzzy
 msgid ""
 "Without dominion over these shoals, we cannot reprovision.\n"
 "\n"
 "Yet the flight is direly weary from the journey.\n"
 "We should avoid conflict."
 msgstr ""
+"无法统治这些群岛，我们无法补充物资。\n"
+"\n"
+"然而，整个编队因长途跋涉而极度疲惫。\n"
+"我们应该避免冲突。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:251
+#, fuzzy
 msgid ""
 "We outmatch them.\n"
 "We shall overcome them as so we always have."
 msgstr ""
+"我们战胜他们。\n"
+"正如我们一贯所为，我们将克服他们。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:258
+#, fuzzy
 msgid ""
 "If that is your will.\n"
 "Yet pray first recall the folly of Dominant Morogor at the Battle of the "
 "Crystal Sea."
 msgstr ""
+"如果这是你的意愿。\n"
+"然而，请首先回忆莫罗戈领导者在大水晶海战役中的愚蠢之举。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:263
+#, fuzzy
 msgid ""
 "... You speak true, Resha.\n"
 "\n"
 "We must repeat not the ancient mistakes."
 msgstr ""
+"... 你说得对，瑞莎。\n"
+"\n"
+"我们必须不再重蹈古人的错误。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:269
+#, fuzzy
 msgid ""
 "I shall allow a sojourn of three days.\n"
 "The whole of the flight will rest.\n"
@@ -2377,19 +2415,33 @@ msgid ""
 "For from those shall we, all at once, carry away <i>their</i> provisions "
 "with our rested flight."
 msgstr ""
+"我将允许停留三天。\n"
+"整个飞翼都将休息。\n"
+"除了我们中最强壮的翅膀者...\n"
+"\n"
+"只要有机会，我们就骚扰海妖。\n"
+"到了第三天结束时，我们必须控制他们的所有定居点。\n"
+"因为正是从那里，我们将一次性地带走他们<i>的</i>补给，带着我们休息后的飞行队"
+"伍。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:281
+#, fuzzy
 msgid "We might also forge a truce with the serpents."
-msgstr ""
+msgstr "我们或许能与巨蟒达成休战协议。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:285
+#, fuzzy
 msgid "A truce with prey..."
-msgstr ""
+msgstr "一项与猎物的休战…"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:291
+#, fuzzy
 msgid ""
 "Grant me your trust, for alien possibilities exist in this wider world.\n"
 "\n"
@@ -2399,155 +2451,216 @@ msgid ""
 "Otherwise, having not summoned us here, they will assume us allies of the "
 "merfolk."
 msgstr ""
+"请将你的信任交给我，在这个更广阔的世界中存在着异域的可能性。\n"
+"\n"
+"如果我们不消灭这些蛇类，我或许能将他们的首领转为我们的一边。\n"
+"然而，我必须足够接近才能抓住它所说出的奇异言语。\n"
+"\n"
+"否则，他们没有召唤我们到这里，他们会认为我们是人鱼族的盟友。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:300
 msgid "I shall consider this."
 msgstr "我会考虑这个的。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:310
+#, fuzzy
 msgid "My liege, permission to engage the drakes?"
-msgstr ""
+msgstr "我主，请问是否允许与龙人交战？"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:314
+#, fuzzy
 msgid "Permission denied. Stay on your keep and let your forces engage them."
-msgstr ""
+msgstr "权限拒绝。留在你的堡垒里，让你的部队去应对他们。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:320
+#, fuzzy
 msgid ""
 "With all due respect, sir, I am no coward. My father always led from the "
 "front and his fighters respected him for it."
-msgstr ""
+msgstr "尊敬的先生，我并非懦夫。我的父亲总是身先士卒，他的战士们因此而尊敬他。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:324
+#, fuzzy
 msgid ""
 "Remain at your post, Nemas, that is an order.\n"
 "\n"
 "I have something special planned to turn the tides in our favor."
 msgstr ""
+"留在你的岗位上，内马斯，这是命令。\n"
+"\n"
+"我有一项特别的计划要扭转局势，对我们有利。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:331
+#, fuzzy
 msgid ""
 "Strange waves circle the northernmost shoals.\n"
 "I fear the northern mermish plan to unleash monsters from the deep."
 msgstr ""
+"奇异波浪环绕在最北端的浅滩。\n"
+"我担心北方美人鱼计划从深处召唤怪物。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:336
+#, fuzzy
 msgid "Slaying their leader will halt their doing so."
-msgstr ""
+msgstr "消灭他们的领导者将阻止他们这样做。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:340
+#, fuzzy
 msgid ""
 "That might spread us too thin.\n"
 "I must advise against it."
 msgstr ""
+"这可能会使我们力量分散。\n"
+"我必须反对这样做。"
 
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:354
 msgid "Advance!"
 msgstr "前进！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:358
+#, fuzzy
 msgid "Nemas, you are violating a direct order! Return to your keep at once!"
-msgstr ""
+msgstr "尼玛斯，你违反了直接命令！立即返回你的领地！"
 
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:366
 msgid "Release the Kraken!"
 msgstr "释放海怪！"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:384
+#, fuzzy
 msgid "Slimysuckers"
-msgstr ""
+msgstr "瘦溜虫"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:385
+#, fuzzy
 msgid "Glarbelblarg!"
-msgstr ""
+msgstr "格拉贝尔布拉格！"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:390
+#, fuzzy
 msgid "Creepytentacles"
-msgstr ""
+msgstr "恐怖触手"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:391
+#, fuzzy
 msgid "Shluckplugle!"
-msgstr ""
+msgstr "舒拉克普拉格！"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:396
+#, fuzzy
 msgid "Largeeyes"
-msgstr ""
+msgstr "大眼"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:397
+#, fuzzy
 msgid "Glarpglup!"
-msgstr ""
+msgstr "格拉普鲁普！"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:402
+#, fuzzy
 msgid "Stinkinink"
-msgstr ""
+msgstr "臭泥坑"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:403
+#, fuzzy
 msgid "(<i>burp</i>)"
-msgstr ""
+msgstr "(呼噜)"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:434
+#, fuzzy
 msgid "Behold your doom!"
-msgstr ""
+msgstr "瞧，你的末日！"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:452
+#, fuzzy
 msgid "Sharpspikes"
-msgstr ""
+msgstr "锐刺"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:453
+#, fuzzy
 msgid "Graarrrrrr!"
-msgstr ""
+msgstr "格拉尔！"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:458
+#, fuzzy
 msgid "Shinyscales"
-msgstr ""
+msgstr "闪鳞"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:459
+#, fuzzy
 msgid "Roarrrrrr!"
-msgstr ""
+msgstr "咆哮！"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:464
+#, fuzzy
 msgid "Longtooth"
-msgstr ""
+msgstr "长齿"
 
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:465
 msgid "Hissssss!"
 msgstr "他的嘶嘶！"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:470
+#, fuzzy
 msgid "Razorfin"
-msgstr ""
+msgstr "剃牙鳍"
 
+# Translated by ollama with model glm4.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:471
+#, fuzzy
 msgid "(<i>cough</i>) ...rawr"
-msgstr ""
+msgstr "（<i>咳嗽</i>）...哇呜"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:528
@@ -2570,20 +2683,24 @@ msgstr "……是的。"
 msgid "And then you take this reef from us? Ssssss!"
 msgstr "然后你们要从我们这里夺走这片礁石？嘶嘶！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:548
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:586
+#, fuzzy
 msgid ""
 "We seek a right to respite here for those of our kind traveling past these "
 "isles."
-msgstr ""
+msgstr "我们在此寻求旅经这些岛屿的同类休息的权利。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:554
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:592
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:481
+#, fuzzy
 msgid "What you say?"
-msgstr ""
+msgstr "你说了什么？"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:558
@@ -2592,10 +2709,12 @@ msgid ""
 "...... We have no need of your reef. We seek only the land above the sea."
 msgstr "……我们不需要你们的礁石。我们只是在寻找海上的陆地。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:564
+#, fuzzy
 msgid "You have a deal, sky monster. Merfolk will float dead on the waves!"
-msgstr ""
+msgstr "你有交易，天空怪物。美人鱼将在波浪上漂浮着死去！"
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:572
@@ -2635,62 +2754,85 @@ msgstr ""
 "\n"
 "起飞！"
 
+# Translated by ollama with model glm4.
 #. [scenario]: id=05_Threshold
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:5
+#, fuzzy
 msgid "Threshold"
-msgstr ""
+msgstr "阈值"
 
+# Translated by ollama with model glm4.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:19
+#, fuzzy
 msgid ""
 "Gliders were dispatched back to Morogor with exacting details of the petty "
 "atoll’s location. The flight resumed its journey east."
 msgstr ""
+"滑翔者被派遣回莫罗戈，带回了关于该小环礁确切位置的详细资料。编队继续向东行"
+"进。"
 
+# Translated by ollama with model glm4.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:22
+#, fuzzy
 msgid ""
 "The familiar rhythm of the long journey began anew. The aching of wings "
 "slowly returned."
-msgstr ""
+msgstr "熟悉的漫长旅程的节奏再次开始。翅膀的疼痛逐渐回归。"
 
+# Translated by ollama with model glm4.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:25
+#, fuzzy
 msgid ""
 "Then Gorlack, scouting far ahead with the forward wing, sighted it. Land as "
 "great as the ocean. The land without end."
 msgstr ""
+"然后戈拉克，带领前翼在远处侦察，发现了它。一片土地如同海洋般广阔。无尽之土"
+"地。"
 
+# Translated by ollama with model glm4.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:29
+#, fuzzy
 msgid ""
 "Resha persuaded Gorlack to make first landfall upon a nearby cluster of "
 "three isles. Here a narrow sea warded against the unknown perils of the "
 "Greatland."
 msgstr ""
+"瑞莎说服戈拉克先在附近三个岛屿群降落。这里狭窄的海域阻挡了大陆的未知危险。"
 
+# Translated by ollama with model glm4.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:42
+#, fuzzy
 msgid "Forward Wing"
-msgstr ""
+msgstr "前翼"
 
+# Translated by ollama with model glm4.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:68
+#, fuzzy
 msgid "Haldric Creatures"
-msgstr ""
+msgstr "哈德里奇生物"
 
+# Translated by ollama with model glm4.
 #. [leader]: id=Rhynnin, type=Lieutenant
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:75
+#, fuzzy
 msgid "Rhynnin"
-msgstr ""
+msgstr "瑞宁"
 
+# Translated by ollama with model glm4.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:84
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:104
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:132
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:165
+#, fuzzy
 msgid "Elyn"
-msgstr ""
+msgstr "埃琳"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:95
@@ -2722,83 +2864,116 @@ msgstr "风暴谷"
 msgid "Southbay"
 msgstr "南湾"
 
+# Translated by ollama with model glm4.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:202
+#, fuzzy
 msgid "Hatchlings"
-msgstr ""
+msgstr "孵化幼龙"
 
+# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:251
+#, fuzzy
 msgid "Oxepotex"
-msgstr ""
+msgstr "奥克佩特克斯"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Oxepotex
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:259
+#, fuzzy
 msgid "I am Oxepotex! Massster tamer of beassstsss big and sssmall."
-msgstr ""
+msgstr "我是Oxepotex！强大的巨兽驯服者，大小通吃。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:264
+#, fuzzy
 msgid ""
 "Sssettle down, Oxe.\n"
 "\n"
 "And get to work feeding your petsss!"
 msgstr ""
+"安静下来，奥克斯！\n"
+"\n"
+"去给你的宠物们喂食吧！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:292
+#, fuzzy
 msgid "I hear..."
-msgstr ""
+msgstr "我听说…"
 
+# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:294
+#, fuzzy
 msgid "Tidbit"
-msgstr ""
+msgstr "小贴士"
 
+# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:295
+#, fuzzy
 msgid "Morsel"
-msgstr ""
+msgstr "碎片"
 
+# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:296
+#, fuzzy
 msgid "Nibble"
-msgstr ""
+msgstr "舐"
 
+# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:297
+#, fuzzy
 msgid "Smidge"
-msgstr ""
+msgstr "微德吉"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:300
+#, fuzzy
 msgid "Vermin!"
-msgstr ""
+msgstr "害虫！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Tidbit
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:304
+#, fuzzy
 msgid "<i>Reeeeee!</i>"
-msgstr ""
+msgstr "《哇啦啦！》"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:308
+#, fuzzy
 msgid "I shall..."
-msgstr ""
+msgstr "我将…"
 
+# Translated by ollama with model glm4.
 #. [option]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:313
+#, fuzzy
 msgid "eat them."
-msgstr ""
+msgstr "吃掉他们。"
 
+# Translated by ollama with model glm4.
 #. [option]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:336
+#, fuzzy
 msgid "pet them."
-msgstr ""
+msgstr "抚摸它们。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Tidbit
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:340
+#, fuzzy
 msgid "<i>squeak</i>"
-msgstr ""
+msgstr "嘶嘶"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:350
@@ -2811,16 +2986,19 @@ msgstr ""
 "\n"
 "<b>鼠之首领</b>"
 
+# Translated by ollama with model glm4.
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:412
+#, fuzzy
 msgid "Kill Rhynnin"
-msgstr ""
+msgstr "消灭瑞尼恩"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:421
 msgid "Capture all villages"
 msgstr "占领所有村庄"
 
+# Translated by ollama with model glm4.
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:433
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:140
@@ -2829,8 +3007,9 @@ msgstr "占领所有村庄"
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:95
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:375
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:300
+#, fuzzy
 msgid "Death of Arinexis"
-msgstr ""
+msgstr "阿瑞尼克斯之死"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:442
@@ -2856,8 +3035,10 @@ msgid ""
 "not"
 msgstr "人类和人鱼会尝试重新占领村庄，但野生动物不会"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:467
+#, fuzzy
 msgid ""
 "It is here I shall plant my eyrie.\n"
 "\n"
@@ -2865,23 +3046,36 @@ msgid ""
 "From our long shameful exile adrift on sinking isles.\n"
 "Reascended to claim our forgotten birthright of this greater world."
 msgstr ""
+"此处我将筑起我的巢穴。\n"
+"\n"
+"这是我们人民通过的大门。\n"
+"从我们长久的可耻流亡，漂泊在沉没的小岛上。\n"
+"重获新生，来主张我们被遗忘的在这更大世界中的出生权。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:475
+#, fuzzy
 msgid ""
 "The game looks sparser than these isles should bear...\n"
 "\n"
 "Some orcs may have drifted to here as well."
 msgstr ""
+"游戏看起来比这些岛屿应有的更稀疏...\n"
+"或许也有一些兽人漂到了这里。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:481
+#, fuzzy
 msgid ""
 "Then we shall seize their settlements to procure our flight’s sustenance."
-msgstr ""
+msgstr "然后我们将夺取他们的定居点来保证我们队伍的生计。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:485
+#, fuzzy
 msgid ""
 "There is some commotion below us...\n"
 "\n"
@@ -2889,9 +3083,14 @@ msgid ""
 "There are hatchlings just below.\n"
 "They look to be in dire need of aid!"
 msgstr ""
+"我们下面有些骚动……\n"
+"\n"
+"幼龙！就在下面，有一些幼龙看起来急需帮助！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Rhynnin
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:501
+#, fuzzy
 msgid ""
 "Excellent, we have them surrounded once more. This time do not allow any to "
 "slip through; the King will have every one of their green heads for his "
@@ -2900,88 +3099,127 @@ msgid ""
 "When you are done here, advance to the interior villages and trample the "
 "eggs. These little devils will cause Fort Elense no more trouble."
 msgstr ""
+"出色，我们又一次将他们包围了。这次不要让任何一个溜走；国王将会把他们的每一个"
+"绿头都收入他的披风。\n"
+"\n"
+"当你完成这里的工作后，前往内地村庄踩碎那些蛋。这些小恶魔不会再给艾尔森堡垒带"
+"来麻烦了。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:507
+#, fuzzy
 msgid "Another herd of those orc creatures..."
-msgstr ""
+msgstr "另一群兽人生物..."
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #. At this time, the drakes mistakenly believe humans call their race ‘haldric’ but this is actually the name of their king.
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:512
+#, fuzzy
 msgid ""
 "Nay, their weaponry is not crude enough.\n"
 "Those are haldric, creatures of much higher quality."
 msgstr ""
+"否，他们的武器还不够粗糙。\n"
+"那些是哈德里克，品质更高的生物。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:517
+#, fuzzy
 msgid ""
 "Whilst the haldric speak with many unfamiliar words, their menacing tone is "
 "clear.\n"
 "Those hatchlings will be slain if our intervention is not swift."
 msgstr ""
+"虽然哈德里克人说着许多不熟悉的词汇，但其威胁的语气却十分明显。如果我们的干预"
+"不及时，那些幼龙将会被消灭。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:578
+#, fuzzy
 msgid ""
 "He returns! Noble Shek’kahan returns from ssspirit realm to sssave usssss! "
 "(<i>chirping sob</i>)"
-msgstr ""
+msgstr "他回来了！尊贵的沙克·卡悍从灵界归来拯救我们！（<i>啜泣声</i>）"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:582
+#, fuzzy
 msgid ""
 "Resha.\n"
 "\n"
 "These... are <b>not</b> hatchlings."
 msgstr ""
+"瑞莎。\n"
+"这些都是<b>不是</b>孵化幼龙。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:588
+#, fuzzy
 msgid ""
 "By the Winds, they are not.\n"
 "Their resemblance is so strikingly of hatchlings..."
 msgstr ""
+"凭风，他们并非如此。\n"
+"它们的幼雏特征非常明显……"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Arinexis
 #. This "rapid clicking" is either a sound made by the saurian tongue or by a non-mammalian vocal organ like the avian syrinx.
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:596
+#, fuzzy
 msgid ""
 "Ssso these are Fire Dragons, eh Zedrix?\n"
 "\n"
 "Hail, dragons! (<i>rapid clicking</i>) Down here!"
-msgstr ""
+msgstr "嗨，火龙！（《快速点击》）在这儿！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:602
+#, fuzzy
 msgid "They are receiving us."
-msgstr ""
+msgstr "他们正在接待我们。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:608
+#, fuzzy
 msgid ""
 "Hail-loooo! Dragons, can you ssspeak? Zedrix, you sssaid dragons can "
 "ssssspeak!"
-msgstr ""
+msgstr "嗨——啦——！龙人们，你们能说话吗？Zedrix，你说过龙人可以说话的！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:612
+#, fuzzy
 msgid ""
 "Little ones!\n"
 "\n"
 "You will do as I command!"
 msgstr ""
+"小家伙们！\n"
+"你将按我的命令行事！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:620
+#, fuzzy
 msgid ""
 "By every sssign upon firmament, we hear you Shek’kahan! You are our "
 "moonlight!"
-msgstr ""
+msgstr "凭每一片星辰，我们呼唤你沙克·卡悍！你是我们的月光！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Elyn
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:639
+#, fuzzy
 msgid ""
 "Rhynnin has fallen, just as I feared he would. So eager to serve his King "
 "and so very proud of his quest here; he underestimated the treachery of this "
@@ -2991,9 +3229,16 @@ msgid ""
 "the eastern detachment that we shall try to reunite with them along the "
 "isle’s southern shore."
 msgstr ""
+"瑞宁已经失败了，正如我所预料的那样。他如此渴望为他的国王服务，对这次探险感到"
+"无比自豪；但他低估了这个被诅咒的地方的背叛和选择在这里庇护的奇怪敌人。\n"
+"\n"
+"兄弟们，我现在负责这个远征队。不再有孤胆英雄的行为。通知东部的部队，我们将尝"
+"试在岛屿南岸与他们重新汇合。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:645
+#, fuzzy
 msgid ""
 "The haldric creatures have twice before seized an isle of Morogor.\n"
 "To have done so, they must possess a nigh drakelike cunning.\n"
@@ -3004,14 +3249,24 @@ msgid ""
 "The arrival of our flight would likely startle such desperate action.\n"
 "We would be wise to secure all settlements before then."
 msgstr ""
+"龙人生物以前两次占领了莫罗戈的一座岛屿。为了做到这一点，他们必须拥有近似龙类"
+"的狡猾智慧。如果他们感觉到失败的临近……\n"
+"\n"
+"他们可能会将他们的定居点付之一炬，以阻止我们获取那里的物资仓库。我们飞行队的"
+"到来很可能会引发这种绝望的行动。在我们到达之前，我们明智的做法是确保所有定居"
+"点的安全。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:665
+#, fuzzy
 msgid "Any lassst words, brute?"
-msgstr ""
+msgstr "任何最后的单词，粗鲁的家伙？"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Elyn
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:671
+#, fuzzy
 msgid ""
 "...you have only bought yourselves a little time...\n"
 "\n"
@@ -3020,41 +3275,63 @@ msgid ""
 "\n"
 "...you will never escape the King’s Justice..."
 msgstr ""
+"...你们只给自己买来了短暂的喘息时间...\n"
+"\n"
+"...对于对艾尔森要塞的卑鄙攻击，你们这些蜥蜴人绝不能饶恕...\n"
+"\n"
+"...你永远无法逃脱国王的正义审判..."
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:679
+#, fuzzy
 msgid ""
 "Your king’s <b>jussstice</b>?! Your king murdered my brood sssisssters "
 "unprovoked! Your Fort Elense sssitsss over their bones!"
 msgstr ""
+"你的君王的<b>正义</b>？！你无缘无故杀害了我的妹妹们！你们的艾尔森要塞建立在它"
+"们的骨头上！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Elyn
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:685
+#, fuzzy
 msgid ""
 "...the King did as he needed to, and may the Sky Father favor him for it...\n"
 "\n"
 "...the elves would never have granted us sanctuary if he refused to do the "
 "deeds they asked of him..."
 msgstr ""
+"...国王做了他必须做的事，愿天空之父因此保佑他...\n"
+"...如果他不履行精灵们请求他做的事情，他们绝不会给我们庇护..."
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Elyn
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:693
+#, fuzzy
 msgid ""
 "...our every action in this land is justified...\n"
 "\n"
 "...for we are only refugees here; doing what we must to survive..."
 msgstr ""
+"我们在这片土地上的一切行为都是合理的...\n"
+"\n"
+"因为我们只是难民；我们必须生存而做的事情..."
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:699
+#, fuzzy
 msgid "Ssso let that be your epitaph."
-msgstr ""
+msgstr "SSS因此，这就是你的墓志铭。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=narrator
 #. This text is partially cyphered by a Silver Mage or is written in an older dialect used for formal writing within the Silver Order.
 #. Basically, it serves as a small puzzle for players to decypher.
 #. It uses some Old English spelling where the "Þ" and "þ" characters mean "th", the word "iland" means "island" and the word "gosts" means "ghosts".
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:716
+#, fuzzy
 msgid ""
 "Log 72\n"
 "\n"
@@ -3081,54 +3358,94 @@ msgid ""
 "þe secrecy of þe Silver Order be damned. May þe sea carry þis book back to "
 "Fort Elense so someone will know what has been discovered here."
 msgstr ""
+"日志72\n"
+"\n"
+"我发现了另一个水精灵。它就在三姐妹湖深处，自从Haldric摧毁了汲取它的精灵幽灵已"
+"有三年时间，现在在北岸已经形成了一个漩涡。这就像Seeker Perþ在Alduin西边发现，"
+"在被一只幻影驱走他的船之前。\n"
+"\n"
+"的确，整个大洲周围每二十里就有一个水精灵。一切正如Seeker Oþila所预测的那样。"
+"我们本来不该把她留在了绿岛上。没有她的工作，可能要几个世纪我们银色秩序的人才"
+"能知道这个大陆上人类面临的问题。比我们所想象的还要强大的是仙界世界。\n"
+"\n"
+"——有些不对劲。我接到了西北角守望塔的警告信号，并且从南岛上升起了烟雾。Rhynnin"
+"的探险队正在遭受攻击，我感觉这不仅仅是蜥蜴人的攻击。我必须去援助。\n"
+"\n"
+"我没有时间解码这个日志，也不能冒险带着我的日志本去，可能会被未知敌人俘虏。然"
+"而我不会销毁它，银色秩序的秘密见鬼去吧。愿大海将这本书带回Fort Elense，这样就"
+"有其他人会知道这里发现了什么。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:749
+#, fuzzy
 msgid "Beware the great maelstrom off the north coast."
-msgstr ""
+msgstr "谨防北部海岸的巨大旋涡。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:753
+#, fuzzy
 msgid "The tides are of no consequence to us, Resha."
-msgstr ""
+msgstr "潮汐对我们来说无关紧要，瑞莎。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:757
+#, fuzzy
 msgid ""
 "Long ago, such maelstroms were strongholds of an ancient foe.\n"
 "I fear a thing most foul may lurk within there, even now.\n"
 "We would do well to keep our distance from it."
 msgstr ""
+"很久以前，这些漩涡是古老敌人的堡垒。\n"
+"我担心最恶心的东西可能还在里面潜伏着，甚至现在。\n"
+"我们最好还是保持距离。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:763
+#, fuzzy
 msgid ""
 "I shall keep that in mind.\n"
 "Carry on with your duty."
 msgstr ""
+"我会牢记在心。\n"
+"继续执行你的职责。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:778
+#, fuzzy
 msgid ""
 "A powerful maelstrom, surrounded by paradoxically calm waters. The swirling "
 "current seems to come entirely from deep below the sandy seabed. It emanates "
 "a faint melodic humming."
 msgstr ""
+"一个强大的旋涡，周围是平静的水域。旋转的潮流似乎完全来自沙质海底深处。它散发"
+"出微弱的旋律般的嗡嗡声。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:782
+#, fuzzy
 msgid ""
 "The humming grows slowly louder as a cold mist begins to billow out. The "
 "mist somehow moves against the wind."
-msgstr ""
+msgstr "嗡嗡声慢慢变响，一股冷雾开始涌动。这股雾似乎逆着风而行。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:786
+#, fuzzy
 msgid ""
 "Fly away from it!\n"
 "\n"
 "Fly!"
 msgstr ""
+"飞离它！\n"
+"\n"
+"飞！"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:804
