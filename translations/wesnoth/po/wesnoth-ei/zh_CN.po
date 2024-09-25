@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-24 10:55+0800\n"
+"PO-Revision-Date: 2024-09-25 22:15+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -8147,16 +8147,14 @@ msgstr "每群战俘将会轮流沿北边和南边的路线到达。"
 msgid "Bats prefer to fly towards the nearest enemy."
 msgstr "蝙蝠倾向于飞向最近的敌人。"
 
-# Translated by ollama with model glm4.
 #. [message]: id=Owaec,Terraent
 #. TODO for 1.19? There's a cut-scene running up to this, but it's unclear what's happened until I read the WML and found that player's full starting roster is exactly one *horseman* for this scenario.
 #. The fastest-moving of the player's units has been trying to catch up with a bat, but the bat has flow over the river to the Mal-Yrna / Mal-Mana.
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:593
-#, fuzzy
 msgid ""
 "Alas, I have failed in my mission! The undead scout has already reported "
 "back to its mistress."
-msgstr "唉，我任务失败了！亡灵侦察兵已经向女主人报告了。"
+msgstr "唉，我的任务失败了！亡灵侦察兵已经回去向女主人报告了。"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Mal-Yrna
@@ -8336,34 +8334,36 @@ msgstr "鼓起勇气！只要有光明，希望就永远存在。"
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:952
 msgid "Ugzush"
-msgstr ""
+msgstr "乌兹什"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:969
 msgid "Hibro"
-msgstr ""
+msgstr "希布罗"
 
+# Translated by ollama with model qwen2.5:3b.
 #. [message]: speaker=Hibro
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:996
+#, fuzzy
 msgid "I’ll take you all on! As soon as I get out of these chains..."
-msgstr ""
+msgstr "我全都要跟你去！一旦我从这些束缚中解脱出来……"
 
 #. [message]: speaker=Gaoler_Orcs
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1000
 msgid "Silence. Orcs. March."
-msgstr ""
+msgstr "安静。兽人。前进。"
 
 #. [message]: speaker=Ugzush
 #. he's just been rescued
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1014
 msgid ""
 "Cruddy undead think they can chain me up! I’ll grind their bones into dust!"
-msgstr ""
+msgstr "脏兮兮的亡灵以为他们可以锁住我！我会把他们的骨头磨成尘土！"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1031
 msgid "Syner"
-msgstr ""
+msgstr "西纳"
 
 #. [message]: speaker=Gaennell
 #. this Dark Adept is a prisoner too
@@ -8371,7 +8371,7 @@ msgstr ""
 msgid ""
 "I swear, it was an accident! Please, if you’ll just let me talk to Mel "
 "Guthrak, I’m sure this can all be straightened out."
-msgstr ""
+msgstr "我发誓，这是意外！请让我和梅尔·古斯拉克谈谈，我相信这一切都能解决。"
 
 #. [message]: speaker=Syner
 #. to Gaennell
@@ -8380,12 +8380,14 @@ msgid ""
 "Your time is done, necromancer. If I have one small comfort, it’s that I’ll "
 "get to watch you die alongside me."
 msgstr ""
+"你的时间到此结束了，死灵法师。如果我能有一丝安慰的话，那就是能看着你和我一起"
+"死。"
 
 #. [message]: speaker=Syner
 #. speaking of Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1098
 msgid "I’m free! Now I’ll have the pleasure of killing this dark adept myself."
-msgstr ""
+msgstr "我自由了！现在我可以亲自享受杀掉这个黑暗狂徒的乐趣了。"
 
 #. [message]: speaker=Terraent
 #. speaking to Syner about Gaennell
@@ -8393,19 +8395,21 @@ msgstr ""
 msgid ""
 "Stay your hand, man of Wesnoth! A killing in cold blood is no justice and "
 "revenge will bring you no peace."
-msgstr ""
+msgstr "韦诺人，请手下留情！冷血杀人不算正义，复仇也不会给你带来安宁。"
 
 #. [message]: speaker=Syner
 #. speaking of Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1116
 msgid "Are you mad? That woman is a necromancer!"
-msgstr ""
+msgstr "你疯了吗？那个女人是死灵法师！ "
 
+# Translated by ollama with model qwen2.5:3b.
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1120
+#, fuzzy
 msgid ""
 "...you might as well. They think I’m a traitor. I’m as good as dead already."
-msgstr ""
+msgstr "你 Might as well. 他们以为我是叛徒。 我已经死了 。"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1124
@@ -8414,39 +8418,41 @@ msgid ""
 "dark arts and join me to protect all that yet remains holy in this good "
 "world."
 msgstr ""
+"然后由你决定。逃走并独自面对这个世界，或者放弃你的黑暗艺术，并加入我保护这个"
+"美好世界上尚存的一切神圣之物。"
 
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1136
 msgid "Okay. No more necromancy. I’ll join you."
-msgstr ""
+msgstr "好吧。不再使用死灵术。我会加入你。"
 
 #. [message]: speaker=Owaec
 #. speaking to Syner, who has just killed Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1181
 msgid "And so justice has been served! Such is the fate of all evildoers."
-msgstr ""
+msgstr "于是正义得到了伸张！这就是所有作恶者的命运。"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1201
 msgid "Scyla"
-msgstr ""
+msgstr "希拉"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1218
 msgid "Mame"
-msgstr ""
+msgstr "玛米"
 
 #. [message]: speaker=Gaoler_Merfolk
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1247
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1269
 msgid "March. Faster."
-msgstr ""
+msgstr "走。快点。"
 
 #. [message]: speaker=Mame
 #. a Mermaid Priestess as prisoner, the line ends with the jailer hitting her
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1252
 msgid "We’re going as fast as we can! Maybe if you’d let us swim-"
-msgstr ""
+msgstr "我们正在尽可能快地前进！也许你可以让我们游泳的—"
 
 #. [message]: speaker=Mame
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1282
@@ -8455,6 +8461,8 @@ msgid ""
 "heart when I meet one. Should I ever find my way home to the coast, I will "
 "be sure to tell my kinsmen of your actions here."
 msgstr ""
+"谢谢陌生人！我不认识这些土地，但是我遇见有善心的人时，是能认出来的。如果我能"
+"找到回到海岸的家的路，一定会告诉族人们你们所做的事。"
 
 #. [message]: id=Owaec,Terraent
 #. "we" being the speaker and the prisoners that they've rescued
@@ -8465,21 +8473,22 @@ msgstr "现在我们来找你了，死灵法师！"
 #. [message]: speaker=Mal-Yrna
 #. each bat-summoning event is triggered by the player rescuing prisoners
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1342
+#, fuzzy
 msgid ""
 "Of course, just because I said I wouldn’t summon bats doesn’t mean I can’t..."
-msgstr ""
+msgstr "当然，我说我不召唤蝙蝠，并不代表我不能……"
 
 #. [message]: speaker=Mal-Yrna
 #. each bat-summoning event is triggered by the player rescuing prisoners
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1350
 msgid "My prisoners!! You’ll pay for that..."
-msgstr ""
+msgstr "我的俘虏！！你会为那件事付出代价"
 
 #. [message]: speaker=Mal-Yrna
 #. this is a common misquote from the wizard of oz, she's talking to her bats
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1360
 msgid "Fly, my pretties, fly!"
-msgstr ""
+msgstr "飞吧，我的小可爱，飞吧！"
 
 #. [message]: speaker=Mal-Yrna
 #. to Terraent. She's summoning bats.
@@ -8492,90 +8501,122 @@ msgstr "不要再来了！不要考验我，韦诺的圣骑士……"
 #. The text is an allusion to drowned plains, which the next scenario will reveal to be the current state of the Horse Clans' beloved plains.
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1396
 msgid "Not again! Do not test me, lord of the swamps..."
-msgstr ""
+msgstr "又来了！不要考验我，沼泽之主……"
 
 #. [message]: speaker=Mal-Yrna
 #. More prisoners rescued, more bats get summoned.
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1420
 msgid "You are starting to become rather irritating."
-msgstr ""
+msgstr "你开始变得有点让人生气了。"
 
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1442
 msgid "Enough! My bats will feast on your blood!"
-msgstr ""
+msgstr "够了！我的蝙蝠要享用你的血液！"
 
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1465
 msgid "Why won’t you just die?!"
 msgstr "你怎么不去死？！"
 
+# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Gweddry
 #. victory event, and the rest of the player's units catch up
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1549
+#, fuzzy
 msgid ""
 "Hail, Terraent! We feared the worst when you did not return, yet here I find "
 "you alive and well!"
 msgstr ""
+" hail, 特拉恩特！你没有回来，我们生怕你遇到什么不测，没想到你现在却好好的！"
 
+# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Gweddry
 #. victory event, and the rest of the player's units catch up
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1557
+#, fuzzy
 msgid ""
 "Hail, Owaec! We feared the worst when you did not return, yet here I find "
 "you alive and well!"
-msgstr ""
+msgstr " hail 欧瓦埃克！你没有回来，我们担心你遭遇了不测，没想到你现在好好的！"
 
+# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1570
+#, fuzzy
 msgid ""
 "Indeed! The Light blessed me with an opportunity to save many souls and I "
 "could not decline! Now the crossing is clear, and we may return to see what "
 "has become of our homeland."
 msgstr ""
+" indeed！光明赐予我一个拯救众多灵魂的机会，我无法拒绝！现在渡口已经安全，我们"
+"可以返回去看看我们的故乡变成了什么样子。"
 
+# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1577
+#, fuzzy
 msgid ""
 "Huzzah! Today has been a great victory! I have rescued a great many "
 "prisoners and defeated a foul necromancer! Now the crossing is clear, and we "
 "may return to see what has become of our homeland."
 msgstr ""
+"胡扎！今天是一场伟大的胜利！我救出了许多战俘，还击败了一个可恶的死灵法师！现"
+"在渡河通道已经畅通，我们可以返回去看看我们的故乡发生了什么变化。"
 
+# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1584
+#, fuzzy
 msgid "You’re too late! Wesnoth is... already..."
-msgstr ""
+msgstr "你来晚了！韦诺已经..."
 
+# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1635
+#, fuzzy
 msgid ""
 "Hail, Terraent! We feared the worst when you did not return, yet here I find "
 "you alive and well! But who is this you are fighting?"
 msgstr ""
+" Hale, 特拉恩特！你没有回来时我们最怕你遇到什么危险，可如今却发现你还好好的活"
+"着！那你现在在和谁战斗？"
 
+# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1642
+#, fuzzy
 msgid ""
 "Hail, Owaec! We feared the worst when you did not return, yet here I find "
 "you alive and well! But who is this you are fighting?"
 msgstr ""
+"哈喽，欧瓦埃克！你没有回来时我们最怕你遇到了不测，没想到你竟好好的活着！可是"
+"你 why 你在和谁战斗？（注：最后一句\"可是你 why 你在和谁战斗？\"中的 \"why\" "
+"在原文中应该是疑问词，但为了保持与前面翻译的一致性，保留了英文形式。）"
 
+# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Mal-Yrna
 #. she dispatches a messenger bat after this, leading to Dacyn saying all is lost
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1649
+#, fuzzy
 msgid ""
 "Can it be? Dacyn the mage? We thought you perished in the wild northlands, "
 "but now I find you alive and isolated from Wesnoth! I must inform Mal-"
 "Ravanal!"
 msgstr ""
+"难道是达辛法师？我们以为你已在北境 perish 了，但现在我发现你还活着并且与韦诺"
+"隔绝！我必须告诉玛尔-拉瓦纳尔！"
 
+# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1675
+#, fuzzy
 msgid ""
 "Even if we triumph at this crossing, Mal-Ravanal will surely find and "
 "destroy us before we can reunite with Wesnoth..."
 msgstr ""
+"即使我们在这个渡口获胜，玛尔-拉瓦纳尔肯定会在我们与韦诺会合之前找到并消灭我"
+"们……"
 
 #. [scenario]: id=14_The_Drowned_Plains
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:23
@@ -8594,15 +8635,17 @@ msgstr ""
 "格威德利、欧瓦埃克和达辛急于与韦诺军队会合，急忙向西推进。当他们穿过曾经是韦"
 "诺繁荣东部省份的一片片废墟中的战场时，他们的心情愈发沉重。"
 
+# Translated by ollama with model qwen2.5.
 #. [leader]: type=Barrow Wight, id=Sir Seoraery
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:113
+#, fuzzy
 msgid "Sir Seoraery"
-msgstr ""
+msgstr "塞奥拉瑞爵士"
 
 #. [leader]: type=Pyre Wight, id=Sir Efran
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:132
 msgid "Sir Efran"
-msgstr ""
+msgstr "埃弗兰爵士"
 
 #. [leader]: type=Skeletal Dragon, id=Khrakrahs
 #. Date of death unknown, seen alive in 40 YW during the Sceptre of Fire campaign.
@@ -8625,19 +8668,23 @@ msgstr "……我辜负了你们所有人……"
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:450
 msgid "... my daughter... what has happened to my daughter?"
-msgstr ""
+msgstr "…我的女儿…我的女儿怎么了？"
 
+# Translated by ollama with model qwen2.5.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:451
+#, fuzzy
 msgid ""
 "... they don’t know pain... they don’t know fatigue... there was nothing we "
 "could have done..."
-msgstr ""
+msgstr "他们不知疼痛……他们不知疲倦……我们别无选择……"
 
+# Translated by ollama with model qwen2.5.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:452
+#, fuzzy
 msgid "Lords of Light... what affront did I commit to deserve this fate..."
-msgstr ""
+msgstr "光明之主……我做了什么得罪天地之事，竟受到如此惩罚……"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:453
@@ -8772,7 +8819,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:752
 msgid "Sir Efran’s Castle"
-msgstr ""
+msgstr "埃弗兰爵士的城堡"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:753
