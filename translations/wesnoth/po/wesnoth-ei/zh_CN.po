@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-25 22:40+0800\n"
+"PO-Revision-Date: 2024-09-26 23:26+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -7918,13 +7918,11 @@ msgstr ""
 "现在，我们收回我们的巢穴，\n"
 "以及我们飞行的力量。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=$found_unit.id
 #. Speaker is an orc, and Mortic is flying towards them. "What? Hey!" *gets killed by Mortic*
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:804
-#, fuzzy
 msgid "Wha- hey!"
-msgstr "哇嘿！"
+msgstr "哇—嘿！"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Mortic
@@ -8473,7 +8471,6 @@ msgstr "现在我们来找你了，死灵法师！"
 #. [message]: speaker=Mal-Yrna
 #. each bat-summoning event is triggered by the player rescuing prisoners
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1342
-#, fuzzy
 msgid ""
 "Of course, just because I said I wouldn’t summon bats doesn’t mean I can’t..."
 msgstr "当然，我说我不召唤蝙蝠，并不代表我不能……"
@@ -8564,12 +8561,10 @@ msgstr ""
 "胡扎！今天是一场伟大的胜利！我救出了许多战俘，还击败了一个可恶的死灵法师！现"
 "在渡河通道已经畅通，我们可以返回去看看我们的故乡发生了什么变化。"
 
-# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1584
-#, fuzzy
 msgid "You’re too late! Wesnoth is... already..."
-msgstr "你来晚了！韦诺已经..."
+msgstr "你来晚了！韦诺…已经……"
 
 # Translated by ollama with model qwen2.5.
 #. [message]: speaker=Dacyn
@@ -8765,12 +8760,10 @@ msgid ""
 "ran cold..."
 msgstr "起先我还以为他是我们的人……然后他一挥手，我的血液仿佛都冻住了……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:466
-#, fuzzy
 msgid "... so cold... so dark..."
-msgstr "......如此寒冷……如此黑暗……"
+msgstr ".....如此寒冷…如此黑暗……"
 
 #. [message]: speaker=unit
 #. Player's unit has just been ambushed. Some other nearby corpses have awoken too, but the player will find that out during the enemy turn.
@@ -8975,10 +8968,8 @@ msgstr "阿尔里克领主"
 msgid "Owaec, my son..."
 msgstr "欧瓦埃克，我的儿子……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Lord Alric
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1027
-#, fuzzy
 msgid "Why did you abandon us? I am dead... thanks to you..."
 msgstr "你为什么要抛弃我们？我死了……都是因为你……"
 
@@ -9296,13 +9287,11 @@ msgstr "我们需要……增援……派一名信使……"
 msgid "I’m not your enemy!"
 msgstr "我不是你的敌人！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Sir Seoraery
 #. he's talking of a memory, not the current situation
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1600
-#, fuzzy
 msgid "...must... hold... the line."
-msgstr "必须...守住...防线。"
+msgstr "...必须...守住...防线。"
 
 #. [message]: speaker=Sir Efran
 #. he's talking of a memory, not the current situation
@@ -9474,13 +9463,11 @@ msgstr "......我可能会死去……但是氏族……永远不会灭亡。"
 msgid "... Necromancer... Wesnoth will defeat you... in the end."
 msgstr "...死灵法师...韦诺将会在最终击败你。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Khrakrahs
 #. last breath
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2010
-#, fuzzy
 msgid "I am... ...<i>cold</i>."
-msgstr "我………<i>寒冷</i>。"
+msgstr "我………<i>冷</i>。"
 
 #. [message]: speaker=Gweddry
 #. spoken at the start of a new turn after killing the first undead leader
@@ -10029,10 +10016,8 @@ msgstr ""
 "无论如何我们都要面对他们的整支大军。（咳）（咳）唯一的区别在于玛尔-拉瓦纳尔是"
 "躲在阵后指挥，还是站在阵前洋洋自得。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:956
-#, fuzzy
 msgid ""
 "Two risky plans. But the armies surrounding Weldyn grow each day, and we are "
 "hard-pressed for options."
@@ -10094,10 +10079,8 @@ msgstr "最后时刻"
 msgid "Mal-Xakralan"
 msgstr "玛尔-夏克拉兰"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [unit]: type=Death Knight, id=Nalu-alvan
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:708
-#, fuzzy
 msgid "Nalu-alvan"
 msgstr "纳鲁-阿尔万"
 
@@ -10135,13 +10118,11 @@ msgstr ""
 "格威德利，你还记得我吗？还记得在东界丘陵，你无情地斩杀了我的无辜兄弟吗？我会"
 "为他报仇的。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=sibling_corpse
 #. Mal-Skraat or Mal-Kallat is still alive, this is their dead brother/sister reanimated as a Soulless
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:872
-#, fuzzy
 msgid "Rev... enge..."
-msgstr "重生……"
+msgstr "复…仇…"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [event]
@@ -10251,28 +10232,24 @@ msgid ""
 "battle!"
 msgstr "事情就是这样，似乎到了世界末日。准备战斗吧！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1134
-#, fuzzy
 msgid ""
 "So it is true, Owaec and Gweddry survived! When your forces had not returned "
 "to Wesnoth by winter I feared the worst. I am relieved to see you alive and "
 "well! This is the first good news I’ve heard of the war in quite some time."
 msgstr ""
 "果然，欧瓦埃克和格威德利活下来了！当你们的部队在冬天没有返回韦诺时，我担心最"
-"坏的情况会发生。看到你们安然无恙真是太令人欣慰了！这是我很久以来第一次听到关"
+"坏的事情会发生。看到你们安然无恙真是太令人欣慰了！这是我很久以来第一次听到关"
 "于战争的好消息。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1138
-#, fuzzy
 msgid ""
 "I’m afraid my Soradoc company was nearly wiped out in the massacre at the "
 "Plains, but the few of us who remain place ourselves at your service!"
 msgstr ""
-"我恐怕我的索拉多克小队在平原的大屠杀中几乎全军覆没，但剩下的我们愿意为您效"
+"我恐怕我的索拉多克小队在平原的大屠杀中几乎全军覆没，但我们剩下的人愿意为您效"
 "劳！"
 
 #. [message]: speaker=Addogin
@@ -12714,7 +12691,7 @@ msgstr "获得 +1 远程伤害。"
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Eastern_Invasion/utils/character-definitions.cfg:16
 msgid "loyal"
-msgstr ""
+msgstr "忠诚"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Eastern_Invasion/utils/character-definitions.cfg:17
@@ -12852,7 +12829,7 @@ msgstr ""
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:243
 msgid "Alas, I fall..."
-msgstr ""
+msgstr "唉，我倒下了……"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:255
@@ -12927,13 +12904,13 @@ msgstr ""
 #. [message]: speaker=Mal-Mana
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:372
 msgid "My beautiful bats, why didn’t you protect me..."
-msgstr ""
+msgstr "我漂亮的蝙蝠，为什么你不保护我……"
 
 #. [message]: speaker=Mal-Talar
 #. death of a male Necromancer. Mal-Talar survived in S01 but the player has now killed him.
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:389
 msgid "No! Once again you escape me..."
-msgstr ""
+msgstr "不！再一次你从我手上逃脱了……"
 
 #. [message]: speaker=Mal-Talar
 #. death of a male Necromancer. Mal-Talar died in S01 and the player has now killed his renamed clone too.
@@ -12974,12 +12951,12 @@ msgstr "为了国王和国家！"
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:86
 msgid "So much death, so much destruction... this has to end, now!"
-msgstr ""
+msgstr "这么多的死亡，这么多的破坏……这必须结束了，现在！"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:105
 msgid "I shall avenge my fallen people!"
-msgstr ""
+msgstr "我要为我倒下的人民复仇！"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:121
@@ -13103,7 +13080,7 @@ msgstr ""
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:421
 msgid "What?! How could this happen?!"
-msgstr ""
+msgstr "什么？！这是怎么发生的？！"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:480
@@ -13113,7 +13090,7 @@ msgstr "结束了？我们赢了？"
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:494
 msgid "A-ha haha! You really thought you had a chance there, didn’t you?"
-msgstr ""
+msgstr "啊—哈哈哈！你真的觉得你在那里有机会，是吗？"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:498
@@ -13164,13 +13141,13 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:651
 msgid "It is done."
-msgstr ""
+msgstr "结束了。"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:747
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:748
 msgid "Fallen Soul"
-msgstr ""
+msgstr "堕落的灵魂"
 
 #. [message]: speaker=spirit
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:763
