@@ -9,7 +9,7 @@
 
 本项目各分支对应相应的韦诺之战分支。目前本项目重点翻译韦诺之战 1.18 版本，因此建议大家在 1.18 分支上做翻译。
 
-对于文字翻译，请克隆此版本库，并翻译 translations/wesnoth/po/ 的子目录下的 .po 文件，推荐使用 [Poedit](https://poedit.net/) 翻译。
+当前正在进行文字翻译，对应 translations/wesnoth/po/ 的子目录下的 .po 文件。当前的工作流程是先用AI机翻，然后人工校对。机翻采用基于 ollama 的工具 [ollama-translate](https://codeberg.org/vimacs/ollama-translate). 推荐使用 [Poedit](https://poedit.net/) 编辑 .po 文件。
 
 翻译进度参见此[翻译统计信息](https://gettext.wesnoth.org/?view=langs&version=branch&lang=zh_CN)页面。
 
