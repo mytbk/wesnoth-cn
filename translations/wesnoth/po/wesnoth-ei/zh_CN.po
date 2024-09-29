@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-27 10:26+0800\n"
+"PO-Revision-Date: 2024-09-29 13:08+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2502,19 +2502,15 @@ msgstr ""
 "你期待别的吗？欧瓦埃克要么已经逃离，要么已经死亡，现在亡灵大军正向维尔帝河进"
 "发。他们必须在国王集结军队之前攻占韦诺。"
 
-# Translated by ollama with model glm4
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:332
-#, fuzzy
 msgid "Raraery"
-msgstr "稀有之地"
+msgstr "拉雷利"
 
-# Translated by ollama with model glm4
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:350
-#, fuzzy
 msgid "Raetharvan"
-msgstr "雷瑟瓦尔文"
+msgstr "雷萨尔万"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:366
@@ -2612,22 +2608,18 @@ msgstr ""
 "你忘了作为王室顾问，我有很多技能。当我们的队伍进驻村庄时，我可以让强盗暴露出"
 "来。但是，我需要全神贯注在这魔法之上，我将无法在战斗中助拳。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:420
-#, fuzzy
 msgid ""
 "Naw, wizard, you go help fight. We don’t need no fancy magic for this. I’ve "
 "dealt with plenty o’ thugs before. Maybe if you <i>untie me</i> I’ll help "
 "you find ’em, eh?"
 msgstr ""
-"嗯，法师，你去帮忙战斗。我们不需要什么花哨的魔法。我以前对付过很多恶棍了。也"
-"许如果你能<i>解开我的束缚</i>，我会帮你找到他们，怎么样？"
+"嗯，巫师，你去帮忙战斗。们不需要什么花哨的魔法。我以前对付过很多暴徒了。也许"
+"如果你能<i>解开我的束缚</i>，我会帮你找到他们，怎么样？"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:424
-#, fuzzy
 msgid ""
 "Do you promise you won’t simply flee if we set you free? This is a battle "
 "for all of Wesnoth. If we fail, it will spell doom not just for us, but also "
@@ -2636,23 +2628,19 @@ msgstr ""
 "你承诺我们释放你时，不会只是逃跑吗？这是整个韦诺的战斗。如果我们失败，不仅对"
 "我们，对你和你那小队雇佣兵也是灭顶之灾。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:428
-#, fuzzy
 msgid ""
 "Eh, there’s always a necromancer or warlord o’ some kind one way or another. "
 "Me and my boys woulda been fine."
-msgstr "哎，总是有死灵法师或者某种类型的军阀。我和我的伙伴们本来没问题。"
+msgstr "呃，总是有死灵法师或者某种类型的军阀。我和我的伙伴们本来没问题。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:432
-#, fuzzy
 msgid ""
 "But yeah, sure, I ain’t runnin’. Just sayin’, as soon as this invasion "
 "business is done, I’m outta here."
-msgstr "但是，是的，我不会逃跑的。就这样说吧，等这场侵略结束，我就离开这里。"
+msgstr "但是，当然，我不会逃跑的。就这样说吧，等这场入侵结束，我就离开这里。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:436
@@ -2667,17 +2655,13 @@ msgid ""
 "your spell!"
 msgstr "很好。欧瓦埃克，我们会帮助你驱逐这些强盗。达辛，施展魔咒吧！"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:530
-#, fuzzy
 msgid "Pull aside that old rug, will ya? I think I see somethin’..."
 msgstr "拉开那块旧地毯，行吗？我觉得我看到了点东西……"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:547
-#, fuzzy
 msgid "Check under the floorboards! There’s always somethin’ there."
 msgstr "检查地板下！那里总有什么东西。"
 
@@ -2691,15 +2675,13 @@ msgstr "嘘！你听到了吗？"
 msgid "Lemme take a closer look..."
 msgstr "让我仔细看看…"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:604
-#, fuzzy
 msgid ""
 "Every outlaw posse got a leader. Tear up enough cellars and he’ll turn up, "
 "then take him out and the rest’ll run for the hills."
 msgstr ""
-"每个流氓团伙都有一个头目。拆毁足够的地下室，他就会出现，然后抓住他，其他人就"
+"每个亡命徒团伙都有一个头目。拆毁足够的地窖，他就会出现，然后抓住他，其他人就"
 "会逃跑到山上。"
 
 #. [message]: speaker=Dacyn
@@ -2713,7 +2695,7 @@ msgstr "就像你的雇佣军那样吗？"
 msgid ""
 "I believe there is a leader behind these outlaws. Kill him and we will face "
 "no further resistance."
-msgstr "我相信这些强盗背后有个首领。只要干掉他，就不会再有人阻碍我们。"
+msgstr "我相信这些亡命徒背后有个首领。只要干掉他，就不会再有人阻碍我们。"
 
 #. [unit]: type=Rogue, id=Shodrano
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:635
@@ -2898,11 +2880,9 @@ msgstr ""
 "莱文对此事默不作声，我以为是这样，但这件事的打击肯定比我意识到的要大。我们很"
 "久没有联系，有好几年我都没看到那个曾经亲密的朋友。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Dacyn
 #. Happened in 593 YW, it's now 626 YW. The Listra is a river.
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1020
-#, fuzzy
 msgid ""
 "One day, I received a message. Ravan was calling me north across the Great "
 "River and past the Listra, to an ancient sanctuary that we had once explored "
@@ -2911,15 +2891,13 @@ msgid ""
 "now, in hindsight, but I made the long journey north in the darkness of "
 "winter to the sanctuary and its hidden chambers."
 msgstr ""
-"一天，我收到一条消息。拉凡在泰河以北召唤我，越过利斯特拉，到一个我们年轻时曾"
-"一同探索过的古老圣所。当时，我还认为拉凡是我的朋友，是一位受人尊敬的光明法"
+"一天，我收到一条消息。莱文叫我渡过泰河以北，越过利斯特拉，到一个我们年轻时曾"
+"一同探索过的古老圣殿。当时，我还认为莱文是我的朋友，是一位受人尊敬的光明法"
 "师，所以我答应了。现在回想起来似乎很愚蠢，但我还是在冬夜的黑暗中长途跋涉，来"
-"到了圣所及其隐藏的密室。"
+"到了圣殿及其隐藏的密室。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1024
-#, fuzzy
 msgid ""
 "Even now, that dreadful scene is burned into my memory. At a mere glance, I "
 "could already sense the taint of black magic on that cloaked form. Ravan’s "
@@ -2930,16 +2908,14 @@ msgid ""
 "I knew I was obliged to do whatever was necessary to excise this evil from "
 "the world."
 msgstr ""
-"现在，那个可怕的场景仍然烙印在我的记忆中。只需一瞥，我就能感受到那身长袍上的"
-"邪恶魔法气息。拉文的明亮光环被无坚不摧的黑暗笼罩，浓重、强大且充满恐惧。在我"
-"还没来得及整理自己的思绪时，沙哑而可怖的声音在我周围响起，一股股恶毒咒语的无"
-"序噪音撕扯着我的身体和灵魂。那一刻，我知道我有责任做任何必要的事情来消灭这个"
-"邪恶势力。"
+"即使是现在，那个可怕的场景仍然在我的记忆中留下烙印。只需一瞥，我就能感受到那"
+"身长袍上的邪恶魔法气息。莱文曾经的明亮光环被无法穿透的黑暗笼罩，浓重、强大且"
+"充满恐怖。在我还没来得及整理自己的思绪时，沙哑而可怖的声音在我周围响起，一股"
+"股恶毒咒语的无序噪音撕扯着我的身体和灵魂。那一刻，我知道我有责任做任何必要的"
+"事情来消灭这个邪恶势力。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1028
-#, fuzzy
 msgid ""
 "Before the incantation could finish, I summoned the utmost of my power and "
 "rended Ravan’s physical body. Yet even as I witnessed flesh and blood burn "
@@ -2948,10 +2924,10 @@ msgid ""
 "inconvenience to one so skilled in the mystic arts, and that Ravan’s spirit "
 "would return one day..."
 msgstr ""
-"在咒语完成之前，我唤出了我的极限力量，撕裂了拉瓦纳的身体。然而，就在我看到血"
-"肉燃烧成灰烬时，一个阴影从灰白色的骨头中升起，弥漫在整个圣所之中。那时我知"
-"道，对于如此精通神秘艺术的人来说，死亡不过是一个小小的麻烦，而拉瓦纳的灵魂终"
-"将有一天回归..."
+"在咒语完成之前，我唤出了我的极限力量，撕裂了莱文的身体。然而，就在我看到血肉"
+"燃烧成灰烬时，一个阴影从灰白色的骨头中升起，弥漫在整个圣殿之中。那时我知道，"
+"对于如此精通秘术的人来说，死亡不过是一个小小的麻烦，而莱文的灵魂终将有一天回"
+"归……"
 
 #. [message]: speaker=Gweddry
 #. "it" means the spirit of Mal-Ravanal; the Sylph prophesied about it sometime between 36 and 42 years ago.
@@ -2959,29 +2935,25 @@ msgstr ""
 msgid ""
 "As it has now, to finally fulfill the prophecy that the Sylph spoke of all "
 "those years ago."
-msgstr "就像它现在，终于要实现当年那个风仙子所说的预言了。"
+msgstr "就像它现在这样，终于要实现当年那个风仙子所说的预言了。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1046
-#, fuzzy
 msgid ""
 "Yes. But hope is not yet lost. After pondering the matter once more, I have "
 "come to a conclusion. I do not have the power to defeat Mal-Ravanal as I am "
 "now. We must travel north, away from Wesnoth, back to the sanctuary where I "
 "had defeated Ravan once before."
 msgstr ""
-"是的。但希望尚未消失。再次深思熟虑后，我得出结论。以我现在之力无法击败马尔-拉"
-"瓦纳尔。我们必须向北旅行，远离韦诺，回到我曾击败拉瓦恩的那座圣所。"
+"是的。但希望尚未消失。再次深思熟虑后，我得出结论。以我现在的力量无法击败玛尔-"
+"拉瓦纳尔。我们必须向北旅行，离开韦诺，回到我曾击败莱文的那座圣殿。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1050
-#, fuzzy
 msgid ""
 "And leave our countrymen to fend for themselves in a time of war? This does "
 "not sit right with me."
-msgstr "难道在战争时期把我们的同胞留给自己应对？这让我感到很不舒服。"
+msgstr "然后让我们的同胞在战争时期自生自灭？这让我感到很不舒服。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1054
@@ -3002,15 +2974,13 @@ msgid ""
 "great evil, we have no choice but to make it."
 msgstr "纵然这次旅行路途遥远，若为了战胜这股巨大邪恶，我们别无选择，只能前行。"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1067
-#, fuzzy
 msgid ""
 "Very well. The Great River can be crossed near Soradoc. We could reach the "
 "garrison there, contact the Crown, and gather supplies for our journey."
 msgstr ""
-"很好。可以在索拉多克附近渡过泰河。我们可以到达那里的驻军，与王冠取得联系，并"
+"很好。可以在索拉多克附近渡过泰河。我们可以到达那里的驻军，与王国取得联系，并"
 "为我们的旅程收集补给。"
 
 #. [message]: speaker=Dacyn
