@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-29 13:08+0800\n"
+"PO-Revision-Date: 2024-09-30 10:22+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3279,7 +3279,7 @@ msgid ""
 "think they be headed for Knalga! Someone oughta invade them for a change."
 msgstr ""
 "遇到一支从恐惧沼泽赶来的该死的军队！俺寻思他们是前往纳尔迦的！真应该有人去侵"
-"略他们一次！"
+"略他们一次。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:394
@@ -3335,40 +3335,32 @@ msgid ""
 "us be off."
 msgstr "如果我们打算拯救韦诺，我们必须向山脉进发。让我们出发吧。"
 
-# Translated by ollama with model glm4
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:640
-#, fuzzy
 msgid "Mel Wylyn"
-msgstr "梅尔-伍林"
+msgstr "梅尔·威林"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Mal-un-Karad
 #. male Necromancer to female Dark Sorcerer
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:648
-#, fuzzy
 msgid "What took you so long? We were supposed to change shifts days ago!"
 msgstr "你干嘛去了这么久？我们几天前就该换班了！"
 
-# Translated by ollama with model glm4
 #. [message]: speaker=Mel Wylyn
 #. female Dark Sorcerer to male Necromancer
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:653
-#, fuzzy
 msgid ""
 "Aw, I’ve missed out on the fun! But look at it this way, now they stand no "
 "chance against the two of us."
-msgstr "哎呀，我错过了乐趣！但换个角度看，现在他们对我们两人毫无机会。"
+msgstr "哎呀，我错过了乐趣！但从这个角度看，现在他们对我们两人毫无机会。"
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:10
 msgid "Soradoc"
 msgstr "索拉多克"
 
-# Translated by ollama with model glm4
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:24
-#, fuzzy
 msgid ""
 "Established by the Crown and administered by the Horse Clans, Soradoc "
 "controlled the strategic confluence of the Great River and the River Weldyn. "
@@ -3376,9 +3368,9 @@ msgid ""
 "prosperous and well-fortified border town. Gweddry and his band approached "
 "cautiously, hoping to reunite with Wesnoth’s armies."
 msgstr ""
-"建立于皇权之下，由马族部落管理，索拉多克控制着泰河与维尔帝河的战略交汇处。自"
-"韦诺初期建立以来，它已发展成为繁荣且防御坚固的边境城镇。格威德利及其一行人小"
-"心翼翼地接近，希望与韦诺的军队重新团聚。"
+"由王国建立，由马背氏族管理，索拉多克控制着泰河与维尔帝河的战略交汇处。自韦诺"
+"初期建立以来，它已发展成为繁荣且防御坚固的边境城镇。格威德利及其一行人小心翼"
+"翼地接近，希望与韦诺的军队重新团聚。"
 
 #. [side]: type=Lancer, id=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:60
@@ -3531,12 +3523,10 @@ msgstr ""
 "我们应尽快向北前进。如果我们无法救索拉多克，至少能绕过亡灵逃离，尽管他们肯定"
 "会跟踪我们。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Naken-alvak
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:606
-#, fuzzy
 msgid "Intruders... living men... from the southeast..."
-msgstr "入侵者...活人...来自东南方向..."
+msgstr "入侵者…活人…来自东南方向…"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Mal-Talar
@@ -7178,10 +7168,8 @@ msgid ""
 "break loose."
 msgstr "这是牢房之一！我一打开这个，所有地狱中的人都会逃脱。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1291
-#, fuzzy
 msgid ""
 "I’m already well-equipped, but we’ll have to pay upkeep to arm and armor "
 "each prisoner I free. I hope we’ll have enough gold left over for the next "
@@ -7190,36 +7178,28 @@ msgstr ""
 "我已经装备齐全，但我们必须为每个我释放的囚犯支付装备和装甲的维护费。我希望我"
 "们还能剩下足够的金币用于下一场战斗！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. prompt to the player
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1325
-#, fuzzy
 msgid "Open the cell?"
-msgstr "打开格子？"
+msgstr "打开牢房？"
 
-# Translated by ollama with model glm4.
 #. [option]
 #. choice when prompted "open the cell?"
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1328
-#, fuzzy
 msgid "Yes! <i>(freed units will incur upkeep)</i>"
 msgstr "是的！<i>（释放的单位将产生维护费用）</i>"
 
-# Translated by ollama with model glm4.
 #. [option]
 #. choice when prompted "open the cell?"
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1359
-#, fuzzy
 msgid "Not yet..."
-msgstr "还不到时候..."
+msgstr "还不到时候……"
 
-# Translated by ollama with model glm4.
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1366
-#, fuzzy
 msgid "Huzzah, we’re free at last!"
-msgstr "呼哈，我们终于自由了！"
+msgstr "万岁，我们终于自由了！"
 
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1367
@@ -7231,11 +7211,9 @@ msgstr "太好了，我们得救了！"
 msgid "Yes! Get us out of here!"
 msgstr "是！带我们离开这里吧！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Ga'all
 #. Ga'all and Verash are drakes from S10
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1373
-#, fuzzy
 msgid ""
 "I am free!\n"
 "Never again shall I be prisoner!"
@@ -7243,11 +7221,9 @@ msgstr ""
 "我自由了！\n"
 "我再也不会做囚犯了！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Verash
 #. Ga'all and Verash are drakes from S10, this is followed by Verash killing Ga'all
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1379
-#, fuzzy
 msgid ""
 "You disobey the Aspirant.\n"
 "For your treachery,\n"
@@ -7272,19 +7248,15 @@ msgstr "移动格威德利，达辛或欧瓦埃克至西面出口"
 msgid "Release the remaining prisoners"
 msgstr "释放剩下的囚犯"
 
-# Translated by ollama with model glm4.
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1473
-#, fuzzy
 msgid "Save as much gold as possible for the next scenario!"
-msgstr "尽可能多保存一些金币为下一个场景！"
+msgstr "尽可能为下一个场景多保存一些金币！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #. shouted to the two leaders who are positioned outside the orcs' caves, happens 2 turns after the main escape starts
 #. combined with removing shroud to reveal that those two leaders recruited last turn (and have full castles on normal or hard)
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1521
-#, fuzzy
 msgid "The prisoners are escaping! Get in here and stop them!"
 msgstr "囚犯们正在逃跑！进来阻止他们！"
 
