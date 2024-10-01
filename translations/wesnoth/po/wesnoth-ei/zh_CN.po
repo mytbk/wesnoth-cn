@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-30 10:22+0800\n"
+"PO-Revision-Date: 2024-10-01 22:35+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -5740,12 +5740,10 @@ msgid ""
 "the incantation."
 msgstr "莱文在和我们上次见面之前封印了这个地方。我需要一点时间来回忆咒语。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #. the "red star" refers to the Ruby of Fire, and the "red stone" refers to the Amulet of the Veil FYI but these are not to be explicitly mentioned
 #. the "black pool" would be located near or under Weldyn, but again not to be explicitly mentioned
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:866
-#, fuzzy
 msgid ""
 "The red star blazes,\n"
 "The red stone bleeds.\n"
@@ -5771,10 +5769,8 @@ msgstr "呃，施法总是让我毛骨悚然。这就是我家乡更文明的人
 msgid "For a mage of the Light, the words you speak are dark indeed."
 msgstr "对于一位光明法师，你说的这些话真的很黑暗。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:901
-#, fuzzy
 msgid ""
 "I’m a simple man. I use simple tools and weapons. This magic stuff is givin’ "
 "me the creeps."
@@ -5800,10 +5796,8 @@ msgid ""
 "antechamber to cycle the gate and enter the sanctuary."
 msgstr "格威德利，你还在挑选部队吗？我必须结束我的回合去前厅循环大门进入圣地。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:949
-#, fuzzy
 msgid "I will not aid in this evil quest."
 msgstr "我不会帮助这个邪恶的任务。"
 
@@ -5833,20 +5827,16 @@ msgid ""
 "before I cycle the gates."
 msgstr "格威德利，你同意陪我的。在转动大门之前，我们都必须进入这个前室。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1083
-#, fuzzy
 msgid "Cave scary! Grug no like!"
 msgstr "洞穴可怕！格拉格不喜欢！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #. the torches were already burning before any of Gweddry's party entered the castle
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1091
-#, fuzzy
 msgid "The torches are lit..."
-msgstr "火炬亮起……"
+msgstr "火炬是亮的……"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Dolburras
@@ -5858,12 +5848,10 @@ msgid ""
 "givin’ me the shakes."
 msgstr "我看到过不少阴暗的山洞，但这个地方却让我毛骨悚然。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Terraent
 #. at the moment he's seeing the inside of a castle, the lit torches, and a wild wyvern
 #. there's nothing particularly unholy to focus on
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1119
-#, fuzzy
 msgid "May this unholy place be cleansed by the Light!"
 msgstr "愿这邪恶之地被光明净化！"
 
@@ -5997,19 +5985,17 @@ msgid ""
 "us here."
 msgstr "在这片丝绸斗篷在韦诺肯定是无价之宝，但在这里对我们来说却毫无用处。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. 70, 55, or 45 gold
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1582
-#, fuzzy
 msgid "This chest contains $gold gold!"
-msgstr "这个箱子里面有金币！"
+msgstr "这个箱子里面有$gold金币！"
 
 #. [message]: speaker=unit
 #. there was a closed chest on this hex, and it's been opened
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1602
 msgid "It’s full of... toilet paper?!?"
-msgstr "里面全是……厕纸？！？"
+msgstr "里面全是…厕纸…？！？"
 
 #. [message]: speaker=unit
 #. and the unit immediately does that, changing a closed-gate terrain to open-gate
@@ -6017,27 +6003,21 @@ msgstr "里面全是……厕纸？！？"
 msgid "I can unlock this gate from the inside."
 msgstr "我可以从里面打开这扇门。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Study Guard
 #. the Study Guard is a Deathblade (or Draug on hard difficulty) that's stood immobile in the doorway
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1638
-#, fuzzy
 msgid "Who. Comes?"
 msgstr "谁。来？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1642
-#, fuzzy
 msgid "Err... don’t mind me, I’m just taking a look around."
-msgstr "嗯...别介意，我只是随便看看。"
+msgstr "呃…别介意，我只是随便看看。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Study Guard
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1646
-#, fuzzy
 msgid "Master. Is away. Intruders. Must die."
-msgstr "大师不在。入侵者。必须死。"
+msgstr "大师。不在。入侵者。必须死。"
 
 #. [message]: speaker=unit
 #. a quote from the journal written in SotA, also quoted in DiD
@@ -10519,7 +10499,7 @@ msgstr "我同意。达辛，马上送出这个消息。"
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2105
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2168
 msgid "defeat Mal-Ravanal in pitched battle. <i>(challenging)</i>"
-msgstr ""
+msgstr "在激战中击败玛尔-拉瓦纳尔。<i>（挑战）</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2055
@@ -10634,12 +10614,12 @@ msgstr "向玛尔-拉瓦纳尔提出决斗。 <i>（正常）</i>"
 #. both Gweddry and Owaec are dead, so this goes from "challenging" to "very hard"
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2223
 msgid "defeat Mal-Ravanal in pitched battle. <i>(very hard)</i>"
-msgstr ""
+msgstr "在激战中击败玛尔-拉瓦纳尔。<i>（非常难）</i>"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2227
 msgid "This is an unwise decision, but I will aid our armies as best I can."
-msgstr ""
+msgstr "这是一个不明智的决定，但是我会尽我所能地帮助我们的军队。"
 
 #. [scenario]: id=17a_The_Duel
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:4
@@ -11175,14 +11155,14 @@ msgid ""
 "penalty of death, and are hereby exiled from Wesnoth. Be grateful for Our "
 "mercy."
 msgstr ""
-"格拉格，一个死灵法师食人魔对我们来说是完全不认识的事物，但你知道韦诺绝不会容"
-"忍你这种人。你应该交出那根被诅咒的棍子，让它被摧毁，你应该放弃练习所有的魔"
-"法，否则将被判处死刑，并且你因此被驱逐出韦诺。请感谢我们的慈悲。"
+"格拉格，一个死灵法师食人魔对我们来说是全新的事物，但你知道韦诺绝不会容忍你这"
+"种人。你应该交出那根被诅咒的棍子，让它被摧毁，你应该放弃练习所有的魔法，否则"
+"将被判处死刑，并且你因此被驱逐出韦诺。请感谢我们的慈悲。"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:288
 msgid "Guh... Grug say no magic yes ok."
-msgstr ""
+msgstr "格…格拉格说没魔法是好。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:297
@@ -12237,7 +12217,7 @@ msgstr ""
 #. In the liberty textdomain exists a male unit with that name
 #: data/campaigns/Eastern_Invasion/units/Human_Shadow_Mage.cfg:6
 msgid "female^Shadow Mage"
-msgstr ""
+msgstr "暗影法师"
 
 #. [unit_type]: id=Shadow Mage, race=human, gender=female
 #: data/campaigns/Eastern_Invasion/units/Human_Shadow_Mage.cfg:23
@@ -13024,7 +13004,7 @@ msgstr "这-这是什么？！"
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:568
 msgid "Do you even know where that gate you’re opening leads to?"
-msgstr ""
+msgstr "你知道你打开的那扇大门通向哪里吗？"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:585
@@ -13134,7 +13114,7 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:836
 msgid "But no longer. My will is my own."
-msgstr ""
+msgstr "但不再是了。我的意志是我自己的。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:840
@@ -13331,7 +13311,7 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:737
 msgid "ring"
-msgstr ""
+msgstr "指环"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:738
 msgid "Ring of Invisibility"
@@ -13414,7 +13394,7 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1039
 msgid "Elixir of Water Breathing"
-msgstr ""
+msgstr "水下呼吸药水"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1040
 msgid ""
@@ -13430,7 +13410,7 @@ msgstr ""
 #. [trait]: id=TRAIT_waterbreathing
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1072
 msgid "waterbreathing"
-msgstr ""
+msgstr "水下呼吸"
 
 #. [trait]: id=TRAIT_waterbreathing
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1073
@@ -13588,12 +13568,12 @@ msgstr ""
 #. [trait]: id=mercenary
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:125
 msgid "mercenary"
-msgstr ""
+msgstr "雇佣兵"
 
 #. [trait]: id=mercenary
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:126
 msgid "female^mercenary"
-msgstr ""
+msgstr "雇佣兵"
 
 #. [trait]: id=mercenary
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:127
@@ -13601,6 +13581,8 @@ msgid ""
 "<span color='#00FF00'>+30%</span> base damage when gold is positive.\n"
 "<span color='#FF0000'>-30%</span> base damage when gold is 0 or negative."
 msgstr ""
+"当金币数为正数时 <span color='#00FF00'>+30%</span> 基础伤害。\n"
+"当金币数为0或者是负数时 <span color='#FF0000'>-30%</span> 基础伤害。"
 
 #. [trait]: id=survivor
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:156
