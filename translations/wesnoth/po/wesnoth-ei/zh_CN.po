@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-10-02 14:53+0800\n"
+"PO-Revision-Date: 2024-10-02 15:23+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -4038,10 +4038,8 @@ msgstr "击败伊兹亚赫"
 msgid "Reach the north shore before Grug dies"
 msgstr "在格拉格死亡之前到达北岸"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:250
-#, fuzzy
 msgid ""
 "And so we come to the Great River, northern border of Wesnoth. It will take "
 "some time for our men to cross; the undead will doubtless send their forces "
@@ -4050,39 +4048,33 @@ msgstr ""
 "于是，我们来到了泰河，韦诺的北部边境。我军过河需要一段时间；亡灵无疑会派遣他"
 "们的军队来骚扰我们。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #. the player killed all four undead leaders during S06b
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:258
-#, fuzzy
 msgid ""
 "And so we come to the Great River, northern border of Wesnoth. It will take "
 "some time for our men to cross, but fortunately we are not being pursued."
 msgstr ""
-"因此我们来到了泰河，韦诺的北部边界。我们的队伍需要一些时间才能渡过，但幸运的"
-"是，我们没有遭到追击。"
+"于是，我们来到了泰河，韦诺的北部边境。我军过河需要一段时间，但幸运的是，我们"
+"没有遭到追击。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #. This is the first time the protagonists have seen ogres; the routes through the campaign go through exactly one of S07a or S07b.
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:270
-#, fuzzy
 msgid ""
 "Lo, on yonder shore lies a camp of ogres! I’ve heard them to be dimwitted, "
 "but friendly enough."
-msgstr "哇，那边岸边有个哥布林营地！听说它们有点笨，但还算友好。"
+msgstr "瞧，那边岸边有个食人魔营地！听说它们有点笨，但足够友好。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:275
-#, fuzzy
 msgid ""
 "<span size='small'><i>Not unlike yourself?</i></span> Ogres have served the "
 "Crown in the past. Perhaps these ones can help us, either willingly or as "
 "slaves. But those saurians will definitely attack before that happens."
 msgstr ""
-"<span size='small'><i>不像你吗？</i></span>过去奥格们曾为皇室服务。也许这些可"
-"以自愿或者作为奴隶帮助我们。但那些蜥蜴人肯定会在那之前攻击。"
+"<span size='small'><i>不像你吗？</i></span>过去食人魔们曾为王国服务。也许这些"
+"可以帮助我们，或者自愿或者作为奴隶。但在此之前，那些蜥蜴人肯定会攻击。"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:279
@@ -10153,36 +10145,24 @@ msgstr ""
 msgid "For my fallen brothers at Soradoc and the Plains!"
 msgstr "为了在索拉多克和平原阵亡的兄弟们！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1292
-#, fuzzy
 msgid ""
 "My legacy will not be one of failure! With all the might of the throne of "
 "Wesnoth, I will strike you down!"
-msgstr ""
-"我的legacy不会是以失败而告终！我将动用韦诺王座的所有力量把你击倒！\n"
-"注：此处“legacy”可译为“遗志”或“功业”，根据上下文更倾向于表达一种决心和历史使"
-"命，因此也可以翻译为：\n"
-"我的遗志不会是以失败而告终！我将动用韦诺王座的所有力量把你击倒！\n"
-"\n"
-"如果要严格按原文直译且保持流畅度，建议使用：\n"
-"我的遗志绝不会是失败！凭借韦诺王座的一切力量，我必将击败你！"
+msgstr "我的遗志绝不会是失败！凭借韦诺王座的一切力量，我必将击败你！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=$found_unit.id
 #. one of the AI generals when the player takes their village
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1319
-#, fuzzy
 msgid ""
 "Sire, you are of course welcome to capture any of my villages if you need "
 "them, but please know that it will make it more difficult to heal my injured "
 "soldiers."
 msgstr ""
-"阁下，您当然可以占领我任何的村庄以满足您的需要，但请知悉这会让治疗我受伤士兵"
-"变得更加困难。"
+"阁下，如果你需要的话，当然可以占领我的任何村庄，但请知悉这会让治疗我的受伤士"
+"兵变得更加困难。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #. "light of dawn" is merely because it's that time of day
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1342
@@ -10216,20 +10196,16 @@ msgstr ""
 msgid "Not if I stop you first! I defeated you before, and I will do so again!"
 msgstr "如果我先阻止你，就不会！我以前打败过你，我还会再次打败你！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1391
-#, fuzzy
 msgid ""
 "Ah Dacyn, picked up a few tricks, have we? But your understanding is a bit "
 "shallow. Observe how it is done."
 msgstr ""
-"达辛啊，你学了几手新招式吗？但你的理解还显得有些肤浅。看看这是如何做的。"
+"啊达辛，学了几手新招式，是吗？但你的理解还显得有些肤浅。看看是怎么做的。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1395
-#, fuzzy
 msgid ""
 "Bleed black, the fabric of firmament.\n"
 "Open wide, the maw of the darkness between worlds.\n"
@@ -10241,57 +10217,44 @@ msgstr ""
 "吞没白昼，吞噬骄阳，\n"
 "留下无尽长夜永恒。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1476
-#, fuzzy
 msgid "Dark scary! Not like!"
 msgstr "黑暗可怕！不像这样！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1480
-#, fuzzy
 msgid "What manner o’ dark sorcery be this?"
 msgstr "这是何种黑暗魔法？"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gweddry
 #. as well as changing the time-of-day schedule, fog of war has just been enabled
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1491
-#, fuzzy
 msgid ""
 "I’m nearly blind in this fog, but I think the undead have been reinforced!"
-msgstr "在这雾中我几乎看不清，但我觉得亡灵部队得到了增援！"
+msgstr "在这雾中我几乎看不见，但我觉得亡灵部队得到了增援！"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1503
-#, fuzzy
 msgid ""
 "This cursed fog has clouded my sight, but I think I hear the sounds of "
 "reinforcing undead!"
-msgstr "这诅咒的雾气模糊了我的视线，但我似乎听到了增援亡灵部队的声音！"
+msgstr "这该死的雾气模糊了我的视线，但我似乎听到了增援的亡灵部队的声音！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1510
-#, fuzzy
 msgid "Look sharp; they’re reinforcing under the cover of fog."
 msgstr "保持警惕；他们在雾气的掩护下增派了援军。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1518
-#, fuzzy
 msgid "By the light of all that is holy, we must not fail!"
-msgstr "以所有圣洁之名，我们决不能失败！"
+msgstr "以所有圣洁之光，我们决不能失败！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #. speaker is one of the voices from the amulet, speaking to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1542
-#, fuzzy
 msgid ""
 "<span size='small' font-style='italic'>You see? Mal-Ravanal has grown too "
 "powerful. Wesnoth is helpless!</span>"
@@ -10299,16 +10262,14 @@ msgstr ""
 "<span size='small' font-style=' italic'>你看？玛尔-拉瓦纳尔变得太过强大了。韦"
 "诺无能为力！</span>"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #. speaker is one of the voices from the amulet, speaking to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1549
-#, fuzzy
 msgid ""
 "<span size='small' font-style='italic'>Use the Amulet. There is no other "
 "way! Use us!</span>"
 msgstr ""
-"<span size='small' font-style='italic'>使用护身符！别无他法了！用我们吧！</"
+"<span size='small' font-style='italic'>使用护身符。别无他法！用我们吧！</"
 "span>"
 
 #. [message]: speaker=Dacyn
@@ -10320,35 +10281,27 @@ msgid ""
 msgstr ""
 "我必须……击败莱文！我必须强大到可以独自站立……我必须独自发挥这种完整的力量！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1613
-#, fuzzy
 msgid "Careful! They’re regrouping for another wave."
-msgstr "小心！他们正在重新集结，准备发起下一波攻势。"
+msgstr "小心！他们正在重新集结，准备下一波进攻。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1654
-#, fuzzy
 msgid ""
 "The first rays of the blessed dawn pierce through the fog! The lich’s foul "
 "spell begins to fail!"
 msgstr "神圣黎明的第一缕光芒穿透了雾气！巫妖的污秽咒语开始失效！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1666
-#, fuzzy
 msgid ""
 "Take heart, for victory is near at hand! The first rays of sunlight have "
 "pierced through Mal-Ravanal’s night fog."
-msgstr "振作起来，胜利近在咫尺！玛尔-拉瓦纳尔的夜雾中已透出第一缕阳光。"
+msgstr "振作起来，胜利近在咫尺！第一缕阳光已经穿透了玛尔-拉瓦纳尔的夜雾。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1678
-#, fuzzy
 msgid ""
 "Look, the first rays of sunlight have pierced through the fog! Mal-Ravanal’s "
 "spell has begun to fail. I only wish Owaec were here to see it..."
@@ -10356,55 +10309,44 @@ msgstr ""
 "看，第一缕阳光穿透了雾气！玛尔-拉瓦纳尔的法术已经开始失效了。但愿欧瓦埃克能在"
 "这里看到这一幕……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #. Gweddry and Owaec are dead during this scenario, and Terraent isn't here either
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1685
-#, fuzzy
 msgid ""
 "The sun has pierced through the night’s fog; Mal-Ravanal’s spell begins to "
 "wane. I need neither Gweddry nor Owaec. I will finish this battle on my own."
 msgstr ""
-"太阳穿透了夜雾，玛尔-拉瓦纳尔的魔法开始消退。我既不需要格威德利也不需要欧瓦埃"
+"太阳穿透了夜雾；玛尔-拉瓦纳尔的魔法开始消退。我既不需要格威德利也不需要欧瓦埃"
 "克，我会独自完成这场战斗。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #. any undead unit from side 5 (except the leader) that was within 3 hexes of a living unit has died
 #. followed immediately after this line by similar for sides 6 and 7.
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1723
-#, fuzzy
 msgid ""
 "Mal-Ravanal’s necromancers have overexerted themselves. They are struggling "
 "to maintain all their minions."
-msgstr "玛尔-拉瓦纳尔的死灵法师们已经过度劳累，他们正努力维持所有仆从的状态。"
+msgstr ""
+"玛尔-拉瓦纳尔的死灵法师们已经过度劳累，他们正努力地维持他们所有的仆从。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1764
-#, fuzzy
 msgid "The undead are falling back! Thank the Light; it’s finally over."
 msgstr "亡灵在撤退！感谢光明；终于结束了。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1776
-#, fuzzy
 msgid "Gweddry has not died in vain; the undead resolve is broken!"
 msgstr "格威德利的牺牲没有白费；亡灵的斗志已经瓦解！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1782
-#, fuzzy
 msgid "At last, the undead end their assault."
 msgstr "最后，亡灵结束了他们的进攻。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #. the scenario doesn't let the player move Konrad away from his castle
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1818
-#, fuzzy
 msgid "I will not abandon my post!"
 msgstr "我不会放弃我的岗位！"
 
