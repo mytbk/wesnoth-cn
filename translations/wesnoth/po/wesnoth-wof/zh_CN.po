@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-10-06 17:06+0800\n"
+"PO-Revision-Date: 2024-10-07 22:11+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -11054,10 +11054,8 @@ msgstr "火焰粉尘……足以让我们身后的洞穴崩塌……"
 msgid "... a <b>cave</b>."
 msgstr "…一个<b>洞穴</b>。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:385
-#, fuzzy
 msgid ""
 "Gorlack, you know we must brave it...\n"
 "\n"
@@ -11072,7 +11070,7 @@ msgstr ""
 "我们会一起去做的。\n"
 "一起。\n"
 "\n"
-"是你让我从那个山洞里活着出来的。\n"
+"是你让我从<b><i>那个</i></b>山洞里活着出来的。\n"
 "我向你发誓，戈拉克，现在轮到我来回报你了。"
 
 # Translated by ollama with model qwen2.5:14b.
@@ -11095,10 +11093,8 @@ msgstr ""
 "\n"
 "他们的目标一定是拖延时间，直到其他人的到来。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:419
-#, fuzzy
 msgid ""
 "I need a few to hold a line across the mouth.\n"
 "\n"
@@ -11106,7 +11102,7 @@ msgid ""
 msgstr ""
 "我需要几个人守住入口。\n"
 "\n"
-"其余的人进洞里去！"
+"其余的人，进洞里去！"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=narrator
@@ -11167,12 +11163,10 @@ msgstr ""
 msgid "Is that you again, Khrakrahs?"
 msgstr "那又是你吗，柯拉卡拉斯？"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:555
-#, fuzzy
 msgid "It is to his ssstronger brother, Shek’kahan, that you ssspeak!"
-msgstr "你是在对更强的哥哥沙克•卡悍说话！"
+msgstr "你是在对他的更强嘶嘶的哥哥沙克•卡悍说话嘶嘶！"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Avatar of Nova
@@ -11376,12 +11370,12 @@ msgstr "迎接你的毁灭。"
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:689
 msgid "Your chance for clemency has expired."
-msgstr ""
+msgstr "你的宽恕机会已经过期。"
 
 #. [message]: race=drake
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:718
 msgid "Such a sickly looking creature."
-msgstr ""
+msgstr "如此的一个病态生物。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:722
@@ -11389,51 +11383,72 @@ msgid ""
 "That is a ssskeletoid — humans’ true and ssstrongessst form. Every human "
 "that dies sssomeday rises again as one of those."
 msgstr ""
+"那是一具类骨骼生物——人类真实且最强嘶嘶的形式。每一个某天死去的人类会复活为那"
+"些生物中的一个嘶嘶。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:726
 msgid ""
 "Unlesss you burn, crush or eat the bones firssssst. Never leave the bones!"
-msgstr ""
+msgstr "除非你先把骨头烧掉、压碎或吃掉嘶嘶。永远不要留下骨头！"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:743
+#, fuzzy
 msgid "Nay. Gorlack, I shall not depart this cave before you!"
-msgstr ""
+msgstr "不，戈拉克，没有你我绝不离开这个洞穴！"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:757
+#, fuzzy
 msgid ""
 "Those two saurians do not keep pace...\n"
 "\n"
 "Yet I shall not forsake them to such a place as this."
 msgstr ""
+"那两个蜥人跟不上了……\n"
+"\n"
+"然而我不会将他们遗弃在这种地方。"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:802
+#, fuzzy
 msgid ""
 "Go on, my friend.\n"
 "I shall make sure none follow.\n"
 "\n"
 "Leave this cave behind."
 msgstr ""
+"继续吧，我的朋友。\n"
+"我会确保没有人会跟随。\n"
+"\n"
+"离开这个洞穴。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:811
 msgid "Nay, there is no time, we leave now."
-msgstr ""
+msgstr "不，没有时间了，我们现在离开。"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:815
+#, fuzzy
 msgid "Tell Karron I always regretted taking her place."
-msgstr ""
+msgstr "告诉卡伦，我总是后悔取代了她的位置。"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:821
+#, fuzzy
 msgid ""
 "Resha, we leave this cave together.\n"
 "Just like we did the first one."
 msgstr ""
+"瑞莎，我们一起离开这个洞穴。\n"
+"就像我们第一次做的那样。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:826
@@ -11463,17 +11478,17 @@ msgstr "我杀了你……"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:64
 msgid "Allies"
-msgstr ""
+msgstr "盟友"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:83
 msgid "Gorlack must reach the beacon at the northern volcano"
-msgstr ""
+msgstr "戈拉克必须到达北方火山处的信标"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:87
 msgid "From there, make your final stand"
-msgstr ""
+msgstr "从那里，进行最后的抵抗"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:106
@@ -11484,10 +11499,12 @@ msgstr "现在是冬天，夜晚会变长"
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:120
 msgid "Klanir"
-msgstr ""
+msgstr "克拉尼尔"
 
+# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Klanir
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:139
+#, fuzzy
 msgid ""
 "Dominant Gorlack, I bring ill tidings of the hunt.\n"
 "\n"
@@ -11500,26 +11517,34 @@ msgid ""
 "\n"
 "Our flight was scattered east, deep into the Greatland."
 msgstr ""
+"领导者戈拉克，我带来关于猎杀的坏消息。\n"
+"\n"
+"卡伦飞行队在草原地带被一群人类摧毁了。\n"
+"最后接到的消息是领导者卡伦正在努力撤退到你的鹰巢。\n"
+"在我方英勇尝试援救陷入险境的卡伦飞行队时…\n"
+"我的领导者瓦尔德尼尔不幸被我们的猎物杀害。\n"
+"\n"
+"我们的一支队伍向东分散，深入到了大洲。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:150
 msgid ".................."
-msgstr ""
+msgstr "………………"
 
 #. [message]: speaker=Klanir
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:156
 msgid "I must relay what I know to Dominant Karron, should she still live."
-msgstr ""
+msgstr "我必须将我知道的事情转告给领导者卡伦，如果她还活着的话。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:160
 msgid "Glider, take care."
-msgstr ""
+msgstr "滑行者，小心。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:175
 msgid "Cold ssseason has arrived. Many moons of cold are now upon usssss."
-msgstr ""
+msgstr "寒冷的季节来临了嘶嘶。现在我们面临许多寒冷之月嘶嘶。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:179
@@ -11529,6 +11554,10 @@ msgid ""
 "\n"
 "May it provide the safety for our weary flight that I have failed to."
 msgstr ""
+"我们会把营地设在那里…\n"
+"在那里伤痕累累的土地流出温暖的岩浆…\n"
+"\n"
+"愿它能为我们疲惫的飞行队伍提供我未能提供的安全。"
 
 #. [message]: speaker=narrator
 #. "Back next spring." As in the season after winter and before summer.
