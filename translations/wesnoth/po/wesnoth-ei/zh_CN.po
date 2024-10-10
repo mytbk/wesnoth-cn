@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-10-02 15:23+0800\n"
+"PO-Revision-Date: 2024-10-10 15:26+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2723,8 +2723,8 @@ msgid ""
 "Huzzah!! At last, these villagers are liberated! Gweddry, thank you for your "
 "aid. I place my Clansmen and myself at your service."
 msgstr ""
-"哇哈哈！！终于，这些村民获得了自由！格威德利，感谢你的帮助。我让我的氏族和我"
-"自己都为你服务。"
+"万岁！！终于，这些村民获得了自由！格威德利，感谢你的帮助。我让我的氏族和我自"
+"己都为你服务。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:704
@@ -2774,8 +2774,8 @@ msgid ""
 "Gweddry, thank you for your aid. I place my Clansmen and myself at your "
 "service."
 msgstr ""
-"哇哈哈！！愿这些是在我们的蹄下倒下的第一批亡灵！格威德利，感谢你的帮助。我让"
-"我的氏族和我自己都为你服务。"
+"万岁！！愿这些是在我们的蹄下倒下的第一批亡灵！格威德利，感谢你的帮助。我让我"
+"的氏族和我自己都为你服务。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:877
@@ -6821,31 +6821,27 @@ msgstr "逃出的囚犯们死亡"
 msgid "The door won’t open from this side."
 msgstr "这扇门不能从这边打开。"
 
-# Translated by ollama with model glm4.
 #. [message]: role=escapee sidekick 1
 #. The speaker is male. The deserter, "escapee sidekick 2", will always be male.
 #. The other escapees, including the speaker, are 3 random units from the player's recall list.
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:790
-#, fuzzy
 msgid ""
 "$deserter_name, I don’t recognize you, and you look like you’ve been locked "
 "up longer than the rest of us. How did you get here?"
 msgstr ""
-"$退出者名字，我不认识你，而且看起来你被关押的时间比我们其他人都要长。你是怎么"
-"到这里的？"
+"$deserter_name，我不认识你，而且看起来你被关押的时间比我们其他人都要长。你是"
+"怎么到这里的？"
 
-# Translated by ollama with model glm4.
 #. [message]: role=escapee sidekick 1
 #. The speaker is female. The deserter, "escapee sidekick 2", will always be male.
 #. The other escapees, including the speaker, are 3 random units from the player's recall list.
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:793
-#, fuzzy
 msgid ""
 "female^$deserter_name, I don’t recognize you, and you look like you’ve been "
 "locked up longer than the rest of us. How did you get here?"
 msgstr ""
-"女逃兵，我不认识你，而且你看起来被关押的时间比我们其他人都要长。你是怎么到这"
-"里的？"
+"$deserter_name，我不认识你，而且看起来你被关押的时间比我们其他人都要长。你是"
+"怎么到这里的？"
 
 # Translated by ollama with model glm4.
 #. [message]: role=escapee sidekick 2
@@ -6859,21 +6855,17 @@ msgstr ""
 "当亡灵烧毁泰时，我……迷失了。我在北方有家人，但在一些兽人抓走我之前，我甚至还"
 "没来得及过河。他们带我和其他许多奴隶沿着河流向东行军，直到我们到达这里。"
 
-# Translated by ollama with model glm4.
 #. [message]: role=escapee leader
 #. The speaker is male
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:803
-#, fuzzy
 msgid "(scowling) A deserter. We should lock you back in your cell."
-msgstr "（皱眉）逃兵。我们应将你重新锁回你的牢房中。"
+msgstr "（皱眉）一个逃兵。我们应将你重新锁回你的牢房。"
 
-# Translated by ollama with model glm4.
 #. [message]: role=escapee leader
 #. The speaker is female
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:805
-#, fuzzy
 msgid "female^(scowling) A deserter. We should lock you back in your cell."
-msgstr "女性（皱眉）一个逃兵。我们应该把你重新锁回你的牢房。"
+msgstr "（皱眉）一个逃兵。我们应将你重新锁回你的牢房。"
 
 # Translated by ollama with model glm4.
 #. [message]: role=escapee sidekick 2
@@ -7035,17 +7027,15 @@ msgstr ""
 "龙人，肯定能看出这个兽人并不关心你们的最佳利益吧？他在削减你们的人数来资助他"
 "的帝国，而你们的领导者却在一旁袖手旁观！"
 
-# Translated by ollama with model glm4.
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1118
-#, fuzzy
 msgid ""
 "I follow the Ways of our Flight.\n"
 "Mortic is Aspirant.\n"
 "I serve his will."
 msgstr ""
-"我遵循我们飞行之道。\n"
-"莫蒂克是有为者。\n"
+"我遵循我们的飞行之道。\n"
+"莫提克是有为者。\n"
 "我服从他的意志。"
 
 # Translated by ollama with model glm4.
@@ -7342,11 +7332,9 @@ msgstr "哟！我成功了。"
 msgid "Where are you going?! Come back!"
 msgstr "你去哪儿？！回来！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. One of the main heroes gets outside, triggering the victory condition
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1757
-#, fuzzy
 msgid "I’ve reached the exit! We’ll have to make a run for it!"
 msgstr "我已经到达出口！我们必须赶紧跑！"
 
@@ -7718,52 +7706,44 @@ msgstr ""
 "至少你们三位指挥官是安全的。从这里开始，你们必须迅速行动，全力以赴，拯救韦诺"
 "的所有人！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #. either got everyone across or left behind at most one L2 or L3 unit
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:709
-#, fuzzy
 msgid ""
 "Huzzah, we have escaped the northerners! A true Clansman would never "
 "willingly leave his companions behind, and so have we clutched victory from "
 "the jaws of defeat!"
 msgstr ""
-"呼喊，我们逃过了北方人！真正的氏族成员绝不会故意丢下同伴，所以我们紧紧抓住胜"
+"万岁，我们逃离了北方人！真正的氏族成员绝不愿意丢下同伴，所以我们紧紧抓住胜"
 "利，从失败的口中夺回！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:726
-#, fuzzy
 msgid ""
 "Yes, yes, (cough)(cough) that’s all well and good. With the bridge "
 "destroyed, the orcs cannot (cough) cross, but what of the drakes?"
 msgstr ""
-"是的，是的，（咳嗽）（咳嗽）这都很好。桥梁被毁，兽人不能（咳嗽）通过，但龙人"
-"怎么办呢？"
+"是的，是的，（咳）（咳）这都很好。桥梁被毁，兽人不能（咳）通过，但龙人呢？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:733
-#, fuzzy
 msgid ""
 "(cough) And with the drakes defeated, (cough)(cough) no enemies will be able "
 "to pursue us. Now, it is finally time for us to once again travel toward "
 "Weldyn."
 msgstr ""
-"(咳嗽) 打败了龙人，（咳嗽）（咳嗽）没有敌人会追击我们。现在，终于是我们再次向"
-"维尔帝旅行的时刻了。"
+"(咳) 打败了龙人，（咳）（咳）没有敌人能够追击我们。现在，终于是我们再次走向维"
+"尔帝的时刻了。"
 
-# Translated by ollama with model glm4.
 #. [message]: race=orc
 #. Spoken to Mortic, but at this point it's possible that all the orc leaders are dead, in which case it doesn't get said.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:751
-#, fuzzy
 msgid ""
 "Useless pathetic ugly weakling wyrms! Fly across and chase after them, or "
 "we’ll sell you <i>all</i> to the necromancers!"
 msgstr ""
-"无用可悲丑陋的弱者巨蟒！飞过去追赶它们，否则我们就把你全部卖给死灵法师！"
+"无用可悲丑陋的弱者巨龙！飞过去追赶它们，否则我们就把你们<i>全部</i>卖给死灵法"
+"师！"
 
 #. [message]: speaker=Mortic
 #. to his fellow drakes, and any surviving orcs
@@ -7785,25 +7765,23 @@ msgid ""
 "His armies weakened,\n"
 "His prey fled."
 msgstr ""
-"德拉-纳克弱了。\n"
+"德拉-纳克虚了。\n"
 "他的军队弱了。\n"
 "他的猎物跑了。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Mortic
 #. to his fellow drakes, and any surviving orcs
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:778
-#, fuzzy
 msgid ""
 "Long has our Honor been stained.\n"
 "No longer shall it be.\n"
 "Now we reclaim our Aerie,\n"
 "And the strength of our Flight."
 msgstr ""
-"我们荣耀的污名已久。\n"
-"它将不再如此。\n"
-"现在，我们收回我们的巢穴，\n"
-"以及我们飞行的力量。"
+"我们的荣耀的久遭玷污。\n"
+"不再应该如此。\n"
+"现在我们收回巢穴，\n"
+"和我们飞行队伍的力量。"
 
 #. [message]: speaker=$found_unit.id
 #. Speaker is an orc, and Mortic is flying towards them. "What? Hey!" *gets killed by Mortic*
@@ -7811,20 +7789,19 @@ msgstr ""
 msgid "Wha- hey!"
 msgstr "哇—嘿！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Mortic
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:823
-#, fuzzy
 msgid ""
 "The Hunt is called!\n"
 "The orcs our prey!\n"
 "Flight of Mortic, we fight!"
-msgstr "狩猎令！兽人为猎物！莫蒂克之逃，我们战斗！"
+msgstr ""
+"狩猎开始！\n"
+"兽人是咱们的猎物！\n"
+"莫提克的飞行队伍，我们战斗！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:860
-#, fuzzy
 msgid ""
 "Hurry! If we cannot secure a position on the west bank, the drakes will "
 "surely fly behind and cut off our retreat!"
@@ -7890,12 +7867,10 @@ msgstr ""
 "(咳嗽)(咳嗽) 是的，是的，非常好，做得好。(咳嗽) 现在，终于是我们该看看在我们"
 "不在的时候韦诺发生了什么了。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Varrak-Klar
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:962
-#, fuzzy
 msgid "Graahh! Stupid humans..."
-msgstr "格拉赫！愚蠢的人类……"
+msgstr "呱啦！愚蠢的人类……"
 
 #. [message]: speaker=Mortic
 #. Aspirant is a drake military rank
@@ -8185,13 +8160,11 @@ msgstr "图内罗伊尔"
 msgid "How are there so many of them? Is this the end of all Wesnoth?"
 msgstr "他们怎么这么多？这是整个韦诺的终结了吗？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Tunreoryr
 #. spoken between two prisoners
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:917
-#, fuzzy
 msgid "Don’t worry. I’m sure the Crown has a plan..."
-msgstr "别担心，我肯定王冠有计划……"
+msgstr "别担心，我相信王国有计划……"
 
 #. [message]: speaker=Vinreddoc
 #. Vinreddoc is a mage, but with random gender
@@ -8481,10 +8454,8 @@ msgstr ""
 "难道是达辛法师？我们以为你已在北境 perish 了，但现在我发现你还活着并且与韦诺"
 "隔绝！我必须告诉玛尔-拉瓦纳尔！"
 
-# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1675
-#, fuzzy
 msgid ""
 "Even if we triumph at this crossing, Mal-Ravanal will surely find and "
 "destroy us before we can reunite with Wesnoth..."
@@ -8853,13 +8824,11 @@ msgstr "你为什么要抛弃我们？我死了……都是因为你……"
 msgid "No, it’s not true! You’re not dead! I don’t believe you!"
 msgstr "不，这不是真的！你还没有死！我无法相信这是事实！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gweddry
 #. Owaec rides off to the south, into the shroud, and disappears
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1036
-#, fuzzy
 msgid "Owaec, wait!"
-msgstr "欧瓦埃克，等一下！"
+msgstr "欧瓦埃克，等等！"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1055
@@ -9215,13 +9184,11 @@ msgstr ""
 "即使是活着的龙也不过是血肉之躯，这个脆弱的仿制品甚至连这也没有。将它砸得粉"
 "碎。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=unit
 #. undead dragon, again talking to a memory rather than anyone currently on the map
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1750
-#, fuzzy
 msgid "... I warned you... Ravanal... now <b>burn</b>."
-msgstr "……我警告过你……拉瓦纳尔……现在你就<b>燃烧</b>吧。"
+msgstr "……我警告过你……拉瓦纳尔……现在<b>燃烧</b>吧。"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=second_unit
@@ -9273,23 +9240,19 @@ msgid ""
 msgstr ""
 "我面对过的恐怖远不止你这个蜥蜴！凭借虔诚和圣洁的光辉，这个地方将再次被净化。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=second_unit
 #. speaker is an undead horseman, who's fighting Gaennell. Unclear whether this is to a memory, or because Gaennell is a Shadow Mage
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1914
-#, fuzzy
 msgid "... Necromancer... you are a blight..."
-msgstr "...死灵法师...你是一个灾祸..."
+msgstr "…死灵法师……你是一个祸害……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gaennell
 #. to an undead horseman in an [event]name=attack
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1919
-#, fuzzy
 msgid ""
 "Not sure what you’d call me anymore, but definitely not more of a blight "
 "than you."
-msgstr "不知道该叫我什么了，但肯定不会比我更像灾祸。"
+msgstr "不知道你该叫我什么了，但肯定不会比你更像祸害。"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=second_unit
@@ -9324,13 +9287,11 @@ msgstr "请替我照看我的儿子。"
 msgid "... I may die... but the Clans... will never fall."
 msgstr "......我可能会死去……但是氏族……永远不会灭亡。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Sir Efran
 #. last breath, but still talking to a memory rather than the unit currently fighting him
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1997
-#, fuzzy
 msgid "... Necromancer... Wesnoth will defeat you... in the end."
-msgstr "...死灵法师...韦诺将会在最终击败你。"
+msgstr "……死灵法师……韦诺最终……将会击败你。"
 
 #. [message]: speaker=Khrakrahs
 #. last breath
@@ -10374,15 +10335,13 @@ msgstr "<i> 德法多大师，韦诺的贤者，王座的复原者。</i>"
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1857
 msgid "My predecessor, ‘the Great’. I intend to be greater."
-msgstr "我的前任，“大师”。我要变得更伟大。"
+msgstr "我的前辈，“大师”。我要变得更伟大。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mel Guthrak
 #. last breath of Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1870
-#, fuzzy
 msgid "Wha- but how?"
-msgstr "哇——但是怎么可能？"
+msgstr "哇—但是怎么可能？"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gaennell
@@ -10402,10 +10361,8 @@ msgstr "多谢摆脱……"
 msgid "Impressive tactics! I’ll begin redeploying towards other threats."
 msgstr "出色的战术！我将开始重新部署以应对其他威胁。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Nakeg-alvan
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1890
-#, fuzzy
 msgid "You waste... your effort..."
 msgstr "你浪费了……你的努力……"
 
@@ -11799,10 +11756,8 @@ msgstr "污秽的…"
 msgid "Stinking..."
 msgstr "臭气熏天……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:555
-#, fuzzy
 msgid "TRAITORS!!!"
 msgstr "叛徒！！！"
 
@@ -12241,12 +12196,10 @@ msgstr "感谢光明，我做到了！请不要追我……"
 msgid "Yes, YES! Get me out of here."
 msgstr "是的，是的！带我离开这里。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1370
-#, fuzzy
 msgid "Ha ha, you’ll never catch me now!"
-msgstr "哈哈，你休想再抓到我！"
+msgstr "哈哈，你没法抓住我了！"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [event]
@@ -12322,11 +12275,9 @@ msgstr ""
 msgid "And when I’m ready, we will march across the world and make it ours."
 msgstr "等到我准备好了，我们就将横扫世界，让它成为我们的天下。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Chief Dra-Nak
 #. the chief's last breath
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1600
-#, fuzzy
 msgid "FILTHY... Rotten... ...traitors... ..."
 msgstr "污秽的……腐烂的……叛徒……"
 
@@ -13341,14 +13292,12 @@ msgid ""
 "And so, I give... the last thing I have to give... in service of the Light..."
 msgstr "于是，我奉献……我所能奉献的最后一样东西……为了光明……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:211
-#, fuzzy
 msgid ""
 "You shall be gravely missed, paladin of the Light! May you long live on in "
 "song and tale."
-msgstr "你将被深深怀念，光明的 Paladin！愿你在歌谣和传说中长存。"
+msgstr "你将被深深怀念，光明之圣骑士！愿你在歌谣和传说中长存。"
 
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:224
@@ -13393,10 +13342,8 @@ msgid ""
 "dentist..."
 msgstr "哎呀！这些亡灵真烦人！我真该听妈妈的话，去当牙医……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:313
-#, fuzzy
 msgid "Alas, I perish! The kingdom is lost without its king."
 msgstr "唉，我死了！没有国王，国家就完了。"
 
