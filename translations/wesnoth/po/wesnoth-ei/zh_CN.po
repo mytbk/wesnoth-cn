@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-10-10 15:26+0800\n"
+"PO-Revision-Date: 2024-10-10 20:22+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -6169,13 +6169,11 @@ msgstr "我找到一把钥匙！它一定是魔法钥匙；我碰一下就发光
 msgid "Aaah, humans! Run away!"
 msgstr "啊，人类！快跑！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1883
-#, fuzzy
 msgid ""
 "I guess there are goblins living here. Well, that explains the lit torches."
-msgstr "我猜这里住着哥布林。嗯，这就解释了火炬为什么点着。"
+msgstr "我猜这里住着地精。嗯，这就解释了这些点着的火炬。"
 
 #. [message]: speaker=Thirsty Goblin
 #. the goblin has moved to a hex with a green potion bottle. After this he drinks it, gets poisoned, and then turns into a walking corpse.
@@ -6198,31 +6196,25 @@ msgid ""
 "Blech, this tastes awful! Whatever used to be in here, it went bad long ago."
 msgstr "布莱赫，这味道难闻！不管之前是什么东西，早就变质了。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. the player's unit has moved to a hex with a grey potion, drunk it, and ...
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2008
-#, fuzzy
 msgid "ACK! I’M DYING!"
-msgstr "啊克！我要死了！"
+msgstr "啊！我要死了！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. the grey potion
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2017
-#, fuzzy
 msgid "Hah, just messing with you, it’s only water."
-msgstr "哈哈，只是逗你玩，这只是水而已。"
+msgstr "哈，只是逗你玩，这只是水而已。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=second_unit
 #. the player's unit is outside the room with all of this in
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2046
-#, fuzzy
 msgid ""
 "Look, a key! But it’s guarded by all those goblins... and there are ghasts "
 "in cages!"
-msgstr "看，一把钥匙！但它是被所有那些哥布林守卫的...还有笼子里的食尸鬼！"
+msgstr "看，一把钥匙！但它被所有那些地精守卫着……并且还有食尸妖鬼在笼子里！"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=second_unit
@@ -6250,9 +6242,8 @@ msgstr "是的，释放一些食尸鬼。"
 #. [message]: speaker=Goblin Leader
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2101
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2184
-#, fuzzy
 msgid "Aaahh!! The monsters have escaped!"
-msgstr "哎呀！！怪物逃跑了！"
+msgstr "啊啊！！怪物逃跑了！"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2112
@@ -6269,17 +6260,13 @@ msgid ""
 "Ah, this is the control for the experiment testing cages. Should I open them?"
 msgstr "啊，这是测试笼子的控制装置。我应该打开它们吗？"
 
-# Translated by ollama with model glm4.
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2138
-#, fuzzy
 msgid "Yes, release all the ghouls."
 msgstr "是，释放所有食尸鬼。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Goblin Leader
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2222
-#, fuzzy
 msgid "Humans! Get them!"
 msgstr "人类！抓住他们！"
 
@@ -6344,10 +6331,8 @@ msgstr "两个钥匙都找到了！我们现在可以进入内室，取回护身
 msgid "I hope Owaec hasn’t gotten into any trouble outside..."
 msgstr "我希望欧瓦埃克在外面没碰上任何麻烦……"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2417
-#, fuzzy
 msgid "Are we ready to enter the inner sanctum?"
 msgstr "我们是否准备好进入内殿？"
 
@@ -6506,14 +6491,12 @@ msgstr "是时候砍些人类的脑袋了！"
 msgid "Keep attacking, hit ’em while the sun’s down!"
 msgstr "继续进攻，趁日落时分打击他们！"
 
-# Translated by ollama with model glm4.
 #. [message]
 #. Turn 45 (start of the eigth night) the next wave of orcs arrive.
 #. The latest group is 7 orcs, with more a turn behind them.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2668
-#, fuzzy
 msgid "Chief’s orders, let’s get them!"
-msgstr "首领的命令，让他们滚蛋！"
+msgstr "酋长的命令，抓住他们！"
 
 # Translated by ollama with model glm4.
 #. [message]
@@ -6553,20 +6536,18 @@ msgstr ""
 "为何，我深深地被你的深情所感动。我确信在那场让成千上万的人遭受屠杀、韦诺失去"
 "有生以来最大战争胜利的时候，这会给予极大的安慰。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #. there's a short pause between the "deep show of affection" message and this one
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2792
-#, fuzzy
 msgid ""
 "No, Gweddry, I am not sure. But I know of no other way to defeat Mal-"
 "Ravanal. I have tried once before. Even as a mage, Ravan’s powers near "
 "outmatched my own. As the lich Mal-Ravanal, perhaps only Delfador the Great "
 "could have stood a chance."
 msgstr ""
-"不，格威德利，我不确定。但我知道没有其他办法能打败玛尔-拉瓦纳尔。我之前尝试过"
-"一次。即使是作为一个法师，莱文的魔力也几乎超过了我自己的。作为巫妖玛尔-拉瓦纳"
-"尔，或许只有伟大的德尔法多才有机会。"
+"不，格威德利，我不确定。但我不知道其他能击败玛尔-拉瓦纳尔的办法。我之前尝试过"
+"一次。即使是作为一个法师，莱文的力量也几乎超过了我。作为巫妖玛尔-拉瓦纳尔，或"
+"许只有德法多大师才有机会。"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
@@ -6678,16 +6659,14 @@ msgstr ""
 "至于你们人类，最好是说服外面的朋友们投降。否则，我们从那个受伤的老人开始，把"
 "你们全部屠杀。我之前给你们机会公平行事，但现在我们按我的方式办事。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2970
-#, fuzzy
 msgid ""
 "<span size='small'><i>I don’t know what these orcs want with us, but we "
 "can’t hope to escape with Dacyn so badly hurt.</i></span>"
 msgstr ""
-"<span size='小'>&lt;i&gt;我不知道这些兽人想要对我们做什么，但我们无法指望在达"
-"辛这么严重受伤的情况下逃脱。&lt;/i&gt;</span>"
+"<span size='small'><i>我不知道这些兽人想要对我们做什么，但我们无法指望在达辛"
+"受伤这么严重的情况下逃脱。</i></span>"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2974
@@ -6899,32 +6878,26 @@ msgstr "啊！离我远点！"
 msgid "This tunnel seems to go deeper into the caves. We can’t go that way."
 msgstr "这隧道似乎通向洞穴深处。我们不能往那边走。"
 
-# Translated by ollama with model glm4.
 #. [message]: role=escapee sidekick 0
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:876
-#, fuzzy
 msgid ""
 "How do we know these caves aren’t all dead ends? We might be stuck wandering "
 "until we die of thirst!"
-msgstr "我们怎么知道这些洞穴没有死胡同？我们可能会被困着到处乱逛直到渴死！"
+msgstr "我们怎么知道这些洞穴不全是死胡同？我们可能会被困着到处乱逛直到渴死！"
 
-# Translated by ollama with model glm4.
 #. [message]: role=escapee leader
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:880
-#, fuzzy
 msgid "You’re welcome to go back to your cell."
-msgstr "欢迎回到您的牢房。"
+msgstr "你可以回到你的牢房。"
 
-# Translated by ollama with model glm4.
 #. [message]: role=escapee sidekick 2
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:898
-#, fuzzy
 msgid ""
 "Even if we do find your commanders and escape, maybe we should consider "
 "staying in the north? It’s tranquil, and quiet.... and there’s no undead..."
 msgstr ""
-"即使我们找到你的指挥官并逃脱，也许我们应该考虑留在北方？那里很宁静、安静……而"
-"且没有亡灵……"
+"即使我们找到了你的指挥官并逃脱，也许我们应该考虑留在北方？那里安宁清净……而且"
+"没有亡灵……"
 
 # Translated by ollama with model glm4.
 #. [message]: role=escapee sidekick 0
@@ -6943,34 +6916,28 @@ msgid ""
 msgstr ""
 "让我们先集中精力逃离兽人，然后再考虑未来。现在安静点，我闻到前方有异味。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:924
-#, fuzzy
 msgid ""
 "Ugh, here’s where that wretched stench is coming from. This must be the "
 "orcish storeroom, full of their discarded gear and trash. At least we can "
 "find ourselves some proper weapons."
 msgstr ""
-"呃，难闻的臭味就是从这传来的。这肯定是个兽人储藏室，里面装满了他们丢弃的工具"
+"呃，难闻的臭味就是从这传来的。这肯定是个兽人储藏室，里面装满了他们丢弃的物品"
 "和垃圾。至少我们能找到一些合适的武器。"
 
-# Translated by ollama with model glm4.
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:932
-#, fuzzy
 msgid "<span color='#00FF00' size='x-small'>weapons restored</span>"
-msgstr "<span color='#00FF00' size='x-small'>武器恢复</span>"
+msgstr "<span color='#00FF00' size='x-small'>武器被恢复</span>"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:953
-#, fuzzy
 msgid ""
 "And look, our captured equipment and provisions are here too! I’ve recovered "
 "supplies worth $gold_amount_S11 gold."
 msgstr ""
-"看，我们的战利品和补给也在这里！我已找回价值$gold_amount_S11金币的物资。"
+"看，我们的战利品和补给也在这里！我已找回了价值$gold_amount_S11金币的物资。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:987
@@ -7014,18 +6981,16 @@ msgstr ""
 "你一直是个难以捕获的猎物，但值得付出的代价！人类的尸体可能不如矮人或龙人的贡"
 "品卖得好，但有了你们这么多，我还能拿到一大笔赏金。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #. The nearest guards are orcs, but there are drakes guarding the edge of the room.
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1114
-#, fuzzy
 msgid ""
 "Drakes, surely you can see that this orc does not have your best interests "
 "at heart? He is bleeding your numbers to fund his empire while your leader "
 "stands by and does nothing!"
 msgstr ""
-"龙人，肯定能看出这个兽人并不关心你们的最佳利益吧？他在削减你们的人数来资助他"
-"的帝国，而你们的领导者却在一旁袖手旁观！"
+"龙人，你们肯定能看出这个兽人并不关心你们的最佳利益吧？他在削减你们的人数来资"
+"助他的帝国，而你们的领导者却在一旁袖手旁观！"
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1118
@@ -7038,10 +7003,8 @@ msgstr ""
 "莫提克是有为者。\n"
 "我服从他的意志。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1146
-#, fuzzy
 msgid ""
 "You Wesnothians still don’t get it? These weaklings <i>need</i> me! Before I "
 "came, this place was a wasteland, with drake, dwarf, and naga fighting over "
@@ -7050,27 +7013,26 @@ msgstr ""
 "你们韦诺人还是不明白？这些弱者<i>需要</i>我！在我来之前，这里是个荒地，龙人、"
 "矮人和娜迦在争夺残羹剩饭，还在雪中流血。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1150
-#, fuzzy
 msgid ""
 "I united them all under my banner, bringing <i>peace</i> and <i>order</i> to "
 "these mountains! And once I sell you off, we will have enough money and "
 "power to rival even the great tribes of the north. I will usher in a new "
 "golden age for my people!"
 msgstr ""
-"我统一了所有人，在旗下带来了和平与秩序！一旦我将你们出售，我们将有足够的金钱"
-"和力量去与北方的强大部落相抗衡。我将为我的子民开启一个全新的黄金时代！"
+"我统一了所有人在我的旗下，给这些山带来了<i>和平</i>与<i>秩序</i>！一旦我将你"
+"们出售，我们将有足够的金钱和力量，甚至可以与北方的强大部落相抗衡。我将为我的"
+"子民开启一个全新的黄金时代！"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1154
-#, fuzzy
 msgid ""
 "You murder your allies and call it peace? Bah, this place will only know "
 "peace once you are dead!"
-msgstr "你杀了自己的盟友，还叫它和平？呸！这个地方只有当你死掉后才能知道和平！"
+msgstr ""
+"你谋杀了自己的盟友，还叫它和平？呸！这个地方只有当你死掉之后才能知道和平！"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
@@ -7844,28 +7806,24 @@ msgid ""
 "I can hardly believe it! We didn’t need to destroy the bridge after all."
 msgstr "我几乎不能相信！我们不用摧毁这座桥。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:931
-#, fuzzy
 msgid ""
 "Huzzah, a glorious victory in the name of the Clans! Man will never flee "
 "from orc and drake; we have taught these northerners not to trifle with "
 "Wesnoth!"
 msgstr ""
-"哇哈哈，为氏族之名取得辉煌胜利！人类永远不会逃避兽人和龙人；我们已教导这些北"
-"方人不要轻视韦诺！"
+"万岁，以氏族之名的一场辉煌的胜利！人类永远不会逃避兽人和龙人；我们教育了这些"
+"北方人不要轻视韦诺！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:935
-#, fuzzy
 msgid ""
 "(cough)(cough) Yes, yes, very well, well done. (cough) Now, it is finally "
 "time for us to see what has become of Wesnoth in our absence."
 msgstr ""
-"(咳嗽)(咳嗽) 是的，是的，非常好，做得好。(咳嗽) 现在，终于是我们该看看在我们"
-"不在的时候韦诺发生了什么了。"
+"（咳）（咳） 是的，是的，非常好，做得好。（咳）现在，终于是时候看看我们不在的"
+"时候韦诺发生什么了。"
 
 #. [message]: speaker=Varrak-Klar
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:962
@@ -8389,29 +8347,25 @@ msgid ""
 "you alive and well!"
 msgstr " hail 欧瓦埃克！你没有回来，我们担心你遭遇了不测，没想到你现在好好的！"
 
-# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1570
-#, fuzzy
 msgid ""
 "Indeed! The Light blessed me with an opportunity to save many souls and I "
 "could not decline! Now the crossing is clear, and we may return to see what "
 "has become of our homeland."
 msgstr ""
-" indeed！光明赐予我一个拯救众多灵魂的机会，我无法拒绝！现在渡口已经安全，我们"
-"可以返回去看看我们的故乡变成了什么样子。"
+"确实！光明赐予我一个拯救众多灵魂的机会，我无法拒绝！现在渡口已经畅通无阻，我"
+"们可以返回去看看我们的故乡变成了什么样子。"
 
-# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1577
-#, fuzzy
 msgid ""
 "Huzzah! Today has been a great victory! I have rescued a great many "
 "prisoners and defeated a foul necromancer! Now the crossing is clear, and we "
 "may return to see what has become of our homeland."
 msgstr ""
-"胡扎！今天是一场伟大的胜利！我救出了许多战俘，还击败了一个可恶的死灵法师！现"
-"在渡河通道已经畅通，我们可以返回去看看我们的故乡发生了什么变化。"
+"万岁！今天是一场伟大的胜利！我救出了许多战俘，还击败了一个可恶的死灵法师！现"
+"在渡口已经畅通无阻，我们可以返回去看看我们的故乡变成了什么样子。"
 
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1584
@@ -8441,17 +8395,15 @@ msgstr ""
 "你 why 你在和谁战斗？（注：最后一句\"可是你 why 你在和谁战斗？\"中的 \"why\" "
 "在原文中应该是疑问词，但为了保持与前面翻译的一致性，保留了英文形式。）"
 
-# Translated by ollama with model qwen2.5.
 #. [message]: speaker=Mal-Yrna
 #. she dispatches a messenger bat after this, leading to Dacyn saying all is lost
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1649
-#, fuzzy
 msgid ""
 "Can it be? Dacyn the mage? We thought you perished in the wild northlands, "
 "but now I find you alive and isolated from Wesnoth! I must inform Mal-"
 "Ravanal!"
 msgstr ""
-"难道是达辛法师？我们以为你已在北境 perish 了，但现在我发现你还活着并且与韦诺"
+"难道是？达辛法师？我们以为你死在荒凉的北陆了，但现在我发现你还活着并且与韦诺"
 "隔绝！我必须告诉玛尔-拉瓦纳尔！"
 
 #. [message]: speaker=Dacyn
@@ -8569,40 +8521,32 @@ msgstr "…我不能伤害他……我的父亲……他的尸体复活来与我
 msgid "... Lord Gaelyc, I have failed you."
 msgstr "…盖里克领主，我辜负了你。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:461
-#, fuzzy
 msgid "... the Clans were not prepared... I was not prepared."
-msgstr "……氏族没有准备……我没有准备。"
+msgstr "…氏族没有准备……我没有准备。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:462
-#, fuzzy
 msgid "... how could we have known? What could we have done?"
-msgstr "……我们又怎会知道？又能做些什么呢？"
+msgstr "…我们又怎会知道？我们又能做些什么？"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:463
 msgid "... my family, where is my family?"
 msgstr "…我的家人，我的家人在哪里？"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:464
-#, fuzzy
 msgid "... what good was my lance... against a creature... without flesh?"
-msgstr "……我的长枪对那种没有血肉的生物有什么用呢？"
+msgstr "…我的长枪有什么用……对一种生物……没有血肉的生物？"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:465
-#, fuzzy
 msgid ""
 "At first I thought he was one of ours... then he waved his hand and my blood "
 "ran cold..."
-msgstr "起先我还以为他是我们的人……然后他一挥手，我的血液仿佛都冻住了……"
+msgstr "开始我还以为他是我们的人……然后他一挥手，我的血液就凉了……"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:466
@@ -8817,12 +8761,10 @@ msgstr "欧瓦埃克，我的儿子……"
 msgid "Why did you abandon us? I am dead... thanks to you..."
 msgstr "你为什么要抛弃我们？我死了……都是因为你……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1031
-#, fuzzy
 msgid "No, it’s not true! You’re not dead! I don’t believe you!"
-msgstr "不，这不是真的！你还没有死！我无法相信这是事实！"
+msgstr "不，这不是真的！你没有死！我不相信你！"
 
 #. [message]: speaker=Gweddry
 #. Owaec rides off to the south, into the shroud, and disappears
@@ -13838,9 +13780,7 @@ msgstr "拿走它。"
 msgid "Leave it."
 msgstr "留下它。"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:117
-#, fuzzy
 msgid ""
 "<span size='small'><i>  This item is reusable if its wielder dies, and can "
 "be dropped by right clicking.</i></span>\n"
@@ -13848,14 +13788,12 @@ msgid ""
 "i></span>\n"
 "<b></b>"
 msgstr ""
-"<span size='small'><i>此物品可在持有者死亡后重复使用，可以通过右键点击将其放"
-"下。</i></span>\n"
-"<span size='small'><i>拾取物品会消耗你的移动和攻击次数。</i></span>\n"
+"<span size='small'><i>此道具可在持有者死亡后重复使用，并且可以通过右键点击将"
+"其放下。</i></span>\n"
+"<span size='small'><i>捡起道具会消耗你的移动和攻击次数。</i></span>\n"
 "<b></b>"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:122
-#, fuzzy
 msgid ""
 "<span size='small'><i>This item can <b>NOT</b> be dropped, and can <b>NOT</"
 "b> be reused if its user dies.</i></span>\n"
@@ -13863,9 +13801,9 @@ msgid ""
 "i></span>\n"
 "<b></b>"
 msgstr ""
-"<span size='small'><i>此物品<strong>不能</strong>被丢弃，并且其持有者死亡后"
-"<strong>不能再使用</strong>。</i></span>\n"
-"<span size='small'><i>  拾取物品会消耗你的移动和攻击机会。</i></span>\n"
+"<span size='small'><i>此道具<strong>不能</strong>被丢弃，并且其持有者死亡后"
+"<b>不</b>能再使用。</i></span>\n"
+"<span size='small'><i>捡起道具会消耗你的移动和攻击次数。</i></span>\n"
 "<b></b>"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:136
