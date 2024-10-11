@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-10-10 20:22+0800\n"
+"PO-Revision-Date: 2024-10-11 10:45+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3440,44 +3440,38 @@ msgstr "保护雅尼克直到你移动任何单位至北方的路径（下一场
 msgid "The air is filled with smoke. I fear the town is already lost."
 msgstr "空气充满了浓烟。我担心这座小镇已经沦陷了。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:559
-#, fuzzy
 msgid ""
 "Madness! How can the city have fallen? The garrison is stout-hearted and "
 "loyal to a fault. I know many of them personally! They would hold the city "
 "to their dying breaths."
 msgstr ""
-"疯狂！这座城市怎么可能会陷落？驻军勇猛忠诚，过分到有点固执。我认识他们中的很"
-"多人！他们一定会拼尽全力守卫这座城市到生命的最后一息。"
+"疯狂！这座城市怎么可能已经沦陷？驻军勇猛忠诚，过分到有点固执。我认识他们中的"
+"很多人！他们一定会拼尽全力守卫这座城市直到生命的最后一息。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:563
-#, fuzzy
 msgid ""
 "Were you expecting a victory parade? Soradoc will be the first of many if we "
 "cannot accomplish our goal."
 msgstr ""
-"你期待着胜利的阅兵吗？如果我们无法完成目标，索拉多克将是众多中的第一个。"
+"你期待着胜利的阅兵吗？如果我们无法完成目标，索拉多克将是众多城市中的第一个。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:567
 msgid "Wait, look, the flag of Wesnoth still flies over the western barracks!"
 msgstr "等等，看，韦诺的旗帜仍然飘扬在西部兵营之上！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:577
-#, fuzzy
 msgid ""
 "Are you our reinforcements? Weldyn promised us aid days ago! The undead "
 "already control most of the city. We’re hiding our wounded in the temple, "
 "but if we lose the western quarter as well, I fear that no one will escape."
 msgstr ""
-"你是我们的援军吗？维尔帝几天前答应我们支援！亡灵已经控制了这座城市的绝大部"
-"分。我们在寺庙里藏匿着受伤的人，但如果再失去西部街区，我担心没有人能逃脱。"
+"你是我们的援军吗？维尔帝几天前答应 给我们支援！亡灵已经控制了这座城市的绝大部"
+"分。我们把受伤的人藏在寺庙里，但如果再失去西区，我担心没有人能逃脱。"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
@@ -3491,30 +3485,24 @@ msgstr ""
 "诸氏族中，有些尚存活！若要救出守军，我们必须迅速行动！如果我们能击败这股亡灵"
 "潮，他们或许还有时间撤退。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:585
-#, fuzzy
 msgid ""
 "I agree, but... there are many powerful undead besieging the city. Do we "
 "have the strength to defeat them all?"
 msgstr "我同意，但……有许多强大的亡灵围攻这座城市。我们是否有力量击败他们全部？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:589
-#, fuzzy
 msgid ""
 "Maybe, maybe not. Remember that our true goal lies far to the north. Nothing "
 "we do here today will more than inconvenience Mal-Ravanal."
 msgstr ""
-"也许，也许不。记住，我们的真正目标远在北方。今天我们所做的一切，不会让玛尔-拉"
-"瓦纳尔感到更加不便。"
+"也许，也许不。记住，我们的真正目标远在北方。今天我们所做的一切，都不会给玛尔-"
+"拉瓦纳尔造成更多麻烦。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:597
-#, fuzzy
 msgid ""
 "We should proceed north as quickly as we can. If we cannot save Soradoc, we "
 "can at least slip past the undead and escape, though they will certainly "
@@ -3545,15 +3533,14 @@ msgstr "啊，就是那个边境前哨站逃走的卫戍部队。他们这次不
 msgid "And see who is among them! I shall inform Mal-Ravanal at once."
 msgstr "看到他们中谁在！我将立即通知玛尔-拉瓦纳尔。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:673
-#, fuzzy
 msgid ""
 "Dacyn, is that you again? So this is where you ran off to. I would recognize "
 "your nauseating aura anywhere."
 msgstr ""
-"达辛，又是你吗？原来是你跑来这里了。我无论在哪里都能认出你那令人作呕的气息。"
+"达辛，又是你吗？所以这就是你逃走去的地方了。我在哪里都能认出你那令人作呕的气"
+"息。"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Mal-Ravanal
@@ -3641,10 +3628,8 @@ msgstr ""
 "...我很乐意为同族朋友的友提供一切，但如您所见，我和我剩余的守备队状况不佳，难"
 "以帮助他人。然而，如果遇到任何新援军或有兴趣的物品，我会把它们送到您那里。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:803
-#, fuzzy
 msgid "Acceptable."
 msgstr "可以。"
 
@@ -3748,9 +3733,8 @@ msgstr ""
 # Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:894
-#, fuzzy
 msgid "Farewell friend! May you find fairer fields unfouled by undead."
-msgstr "再见了，朋友！愿你找到更美好的土地，不受亡灵的污染。"
+msgstr "永别了朋友！愿你找到更美好的土地，不受亡灵的污染。"
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:908
@@ -3775,23 +3759,20 @@ msgid ""
 "might still have been saved."
 msgstr "然而，驻军已被歼灭。如果当时我们行动更迅速些，他们或许仍能得救。"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:930
-#, fuzzy
 msgid ""
 "With all enemy leaders still alive, we are sure to be destroyed when we "
 "attempt to cross the river..."
-msgstr "所有敌方首领都活着，我们尝试过河肯定会毁灭……"
+msgstr "所有敌方首领都还活着，我们尝试过河时肯定会被毁灭……"
 
 # Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:932
-#, fuzzy
 msgid ""
 "With three enemy leaders still alive, we are sure to be destroyed when we "
 "attempt to cross the river..."
-msgstr "三名敌方首领还活着，我们试图渡河时肯定会被消灭……"
+msgstr "三位敌方首领还活着，我们尝试过河时肯定会被毁灭……"
 
 # Translated by ollama with model glm4.
 #. [event]
@@ -10011,19 +9992,15 @@ msgstr ""
 "我恐怕我的索拉多克小队在平原的大屠杀中几乎全军覆没，但我们剩下的人愿意为您效"
 "劳！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1242
-#, fuzzy
 msgid ""
 "So this is Weldyn? Didn’t know cities got this big. Never thought I’d end up "
 "fightin’ here, of all places."
 msgstr "这就是维尔帝吗？没想到城市会这么大。从来也没想到我会在这地方战斗。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1254
-#, fuzzy
 msgid ""
 "Gaennell, you traitor! <b>I</b> am your master, not some petty king of men. "
 "Return to me and face your punishment."
@@ -10031,22 +10008,18 @@ msgstr ""
 "盖内尔，你这个叛徒！<b>我</b>才是你的主人，而不是什么人类的凡俗国王。回到我身"
 "边，接受应有的惩罚。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1258
-#, fuzzy
 msgid ""
 "You tried to have me killed over a petty accident! I’m not going to grovel "
 "at your feet and suffer your abuse any more."
 msgstr ""
-"你竟然为了一个小小的意外要置我于死地！我不会再匍匐在你的脚下忍受你的虐待了。"
+"你为了一场小事故就想杀了我！我再也不会在你脚下卑躬屈膝，忍受你的虐待了。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1270
-#, fuzzy
 msgid "For my fallen brothers at Soradoc and the Plains!"
-msgstr "为了在索拉多克和平原阵亡的兄弟们！"
+msgstr "为了在索拉多克和平原倒下的兄弟们！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1292
@@ -10647,32 +10620,26 @@ msgstr ""
 msgid "Defeat Mal-Ravanal"
 msgstr "击败玛尔-拉瓦纳尔"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:169
-#, fuzzy
 msgid "Dacyn, I’m surprised you came. I remember you being smarter than that!"
-msgstr "达辛，没想到你会来，我记得你比这更聪明！"
+msgstr "达辛，没想到你会来。我记得你是更聪明的！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:173
-#, fuzzy
 msgid ""
 "I and I alone will put an end to your foul machinations! You have grown "
 "strong in the darkness, but I have become stronger (cough)(cough) still!"
 msgstr ""
-"唯有我能终结你的邪恶阴谋！你在黑暗中变得强大，但我也变得更加强大（咳嗽）（咳"
-"嗽）！"
+"我，并且只有我，会终结你的邪恶阴谋！你在黑暗中变得强大，但我也变强了（咳）"
+"（咳）！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:177
-#, fuzzy
 msgid ""
 "A-ha haha! And how exactly do you plan to do that? Come now, you must know "
 "that you’re outmatched."
-msgstr "啊哈 哈哈！你打算怎么做到呢？来吧，你应该知道你们处于劣势。"
+msgstr "啊哈哈哈！你打算怎么做呢？来吧，你应该知道你们处于劣势。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:191
