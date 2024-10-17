@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-10-15 18:31+0800\n"
+"PO-Revision-Date: 2024-10-17 12:15+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -4335,22 +4335,18 @@ msgid ""
 "starting gold."
 msgstr "接下来4个场景可以带走100%的金币，但是很少村庄，并且0起始金币。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:308
-#, fuzzy
 msgid ""
 "Farmland, in these remote reaches? Our supply situation has become rather "
 "dire since abandoning the outposts, so we are fortunate to have found such a "
 "fertile valley."
 msgstr ""
-"农田，在这片偏远之地？自从放弃哨站以来，我们的补给情况已经变得相当严峻，所以"
+"农田，在这片偏远之地？自从放弃哨所以来，我们的补给情况已经变得相当严峻，所以"
 "我们很幸运地找到了这样一个肥沃的山谷。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:312
-#, fuzzy
 msgid ""
 "Huh, maybe throwin’ in my lot with you ain’t so bad after all. This place "
 "would make for a good retirement."
@@ -4728,42 +4724,34 @@ msgstr ""
 "我们做得不错。我们的部队已经收集了$gold金币——足够这个冬天了，并且我们还有时间"
 "收集更多。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:742
-#, fuzzy
 msgid ""
 "Gweddry, I urge you to gather at least 300 gold before we head further "
 "north. We cannot afford to tarry here while Wesnoth contends against Mal-"
 "Ravanal."
 msgstr ""
-"格威德利，我敦促你在我们继续北上之前至少聚集300金币。我们不能在此逗留，当韦诺"
-"对抗玛尔-拉瓦纳尔时。"
+"格威德利，我催促你在我们继续北上之前至少收集300金币。在韦诺对抗玛尔-拉瓦纳尔"
+"时，我们在这里逗留不起。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:764
-#, fuzzy
 msgid ""
 "I’ve finished gathering the supplies from all our captured farms! We should "
 "have plenty for our journey ahead."
-msgstr "我已经收集了所有被我们占领的农场的物资！我们接下来的旅程应该足够了。"
+msgstr "我已经完成收集了所有我们占领的农场的物资！我们接下来的旅程应该足够了。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:768
-#, fuzzy
 msgid ""
 "Let us forge onward. We have almost reached our destination, and will soon "
 "have the power to save Wesnoth from Mal-Ravanal."
 msgstr ""
-"让我们继续前进。我们即将到达目的地，很快将拥有拯救韦诺免受玛尔-拉瓦纳尔之害的"
-"力量。"
+"我们继续前进。我们即将到达目的地，很快将拥有从玛尔-拉瓦纳尔手中拯救韦诺的力"
+"量。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:776
-#, fuzzy
 msgid ""
 "I’ve tried my best, but I still haven’t been able to gather very much gold. "
 "The farms we’ve captured simply don’t have enough supplies to sustain us for "
@@ -5171,10 +5159,8 @@ msgstr ""
 "有为者莫提克，\n"
 "遵命。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Ogho
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1012
-#, fuzzy
 msgid "C’mon wyrms, get moving!"
 msgstr "来吧，龙族，动起来！"
 
@@ -5664,10 +5650,8 @@ msgid ""
 "worse now that the wild beasts have had a chance to move in."
 msgstr "那时这个地方充满了陷阱和亡灵，如今野兽有机会进入，无疑会更糟。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:856
-#, fuzzy
 msgid ""
 "Ravan sealed this place before our last meeting. I need a moment to remember "
 "the incantation."
@@ -5790,20 +5774,16 @@ msgstr "愿这邪恶之地被光明净化！"
 msgid "Hissssss..."
 msgstr "他的嘶嘶……"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. 200, 160, or 130 gold
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1218
-#, fuzzy
 msgid "This wyvern was rich! I count $gold gold in its hoard."
-msgstr "这条双头龙真是富饶！我在它的宝藏中数出了$金币。"
+msgstr "这条双足飞龙真是有钱！我在它的宝藏中数出了$gold金币。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1223
-#, fuzzy
 msgid "Ho ho, northerners’ gold, now that begins to make this all worth it!"
-msgstr "呵呵，北方人的金币，现在这一切才显得值得！"
+msgstr "嚯嚯，北方人的金币，现在这一切才显得值得！"
 
 #. [message]: speaker=narrator
 #. a signpost. "Study" as in a room with a reading desk and small library
@@ -5846,11 +5826,9 @@ msgid ""
 "from the lava."
 msgstr "那具尸体触发了一个陷阱。当它下一次移动时，火灵将从熔岩中升起。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #. the rune is on the floor in front of the door (using one of the terrains that make the rune occupy most of the hex)
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1392
-#, fuzzy
 msgid ""
 "This gate is locked, and I recognize the petrification trap concealed within "
 "its guardian rune. I should avoid trying to open it."
@@ -5863,45 +5841,35 @@ msgstr ""
 msgid "Looks like this gate is locked. I wonder if this rune opens it?"
 msgstr "看起来这个大门锁住了。我好奇这个符文能否打开它？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1450
-#, fuzzy
 msgid "That was a petrification rune. It should wear off in a few moments."
 msgstr "这是一道石化符文。它将在几分钟后消失。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1457
-#, fuzzy
 msgid ""
 "We are fortunate, that enemy has triggered a petrification rune. Be warned "
 "though, it will only last a few moments."
-msgstr "我们很幸运，敌人激活了一个石化符文。但是请注意，它只能持续几秒钟。"
+msgstr "我们很幸运，敌人激活了一个石化符文。但是请注意，它只能持续一会儿。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. the unit triggers the trap immediately
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1511
-#, fuzzy
 msgid ""
 "Hmm, looks like a magic lamp. I’ve heard stories that these can grant "
 "wishes. Today must be my lucky day!"
 msgstr ""
-"哼，看起来像是个魔法灯。我听说过这些可以许愿的故事。今天肯定是我幸运的一天！"
+"嗯，看起来像是个魔法灯。我听说过这些可以许愿的故事。今天肯定是我幸运的一天！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Jinn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1548
-#, fuzzy
 msgid "WHO DARES DISTURB MY SLUMBER?"
 msgstr "谁敢打扰我的睡眠？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. an item on a display rack, ready to be worn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1562
-#, fuzzy
 msgid ""
 "This fine silken cloak would be priceless back in Wesnoth, but is useless to "
 "us here."
