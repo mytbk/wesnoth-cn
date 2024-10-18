@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-10-13 21:18+0800\n"
+"PO-Revision-Date: 2024-10-18 15:12+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -5341,33 +5341,25 @@ msgid ""
 "name!"
 msgstr "为了赢得尊重嘶嘶，我们和的龙的联盟必须有<b>某个嘶嘶</b>名字！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:261
-#, fuzzy
 msgid "‘Sssibblings of Sssetting Sssun’"
-msgstr "“夕阳的兄弟们”"
+msgstr "“夕阳的兄弟们嘶嘶”"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:265
-#, fuzzy
 msgid "‘Union of Saurgrath and Morogor’"
-msgstr "“索瑞格斯与莫罗戈联盟”"
+msgstr "“沙格拉斯与莫罗戈联盟”"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:271
-#, fuzzy
 msgid "‘Alignment of Moon and Sssun’"
-msgstr "“月日同辉”"
+msgstr "“月日同辉嘶嘶”"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:275
-#, fuzzy
 msgid "‘Sandwalkers’"
-msgstr "沙行者"
+msgstr "“沙行者”"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Zedrix
@@ -6973,7 +6965,7 @@ msgstr ""
 #. [unit]: id=Khrakrahs, type=Fire Dragon
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:247
 msgid "Khrakrahs"
-msgstr ""
+msgstr "柯拉卡拉斯"
 
 #. [attack]: type=blade
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:255
@@ -7038,7 +7030,7 @@ msgstr ""
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:363
 msgid "Shek'kahan, do you not recognize Khrakrahs...?"
-msgstr ""
+msgstr "沙克•卡悍，你认识柯拉卡拉斯吗…？"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:367
@@ -8329,7 +8321,7 @@ msgstr "这个攻击也会伤害对手附近的每个人。"
 
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:69
 msgid "Arinexis"
-msgstr ""
+msgstr "阿瑞尼克西斯"
 
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:82
 msgid "Zedrix"
