@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-10-17 12:15+0800\n"
+"PO-Revision-Date: 2024-10-23 09:04+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3634,101 +3634,85 @@ msgstr "我已经突破亡灵防线。在我们被亡灵淹没之前，跟我走
 msgid "The northern path is clear! Follow me, let us cross the Great River."
 msgstr "北方路径打通了！跟我走，我们一起渡过泰河。"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:867
-#, fuzzy
 msgid ""
 "We have failed to defeat even a single enemy leader! It galls me to flee, "
 "but this is a battle we cannot win."
 msgstr ""
-"我们未能击败任何一位敌人首领！撤退让我倍感羞愧，但这是一场我们无法取胜的战"
+"我们连一位敌方首领都未能击败！逃跑让我感到愤怒，但这是一场我们无法取胜的战"
 "斗。"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:868
-#, fuzzy
 msgid ""
 "We have failed to defeat more than a single enemy leader! It galls me to "
 "flee, but this is a battle we cannot win."
-msgstr "我们未能击败超过一个敌军首领！逃走令我愤怒，但这是我们无法赢得的战斗。"
+msgstr ""
+"我们未能击败超过一个敌方首领！逃跑让我感到愤怒，但这是一场我们无法取胜的战"
+"斗。"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:869
-#, fuzzy
 msgid ""
 "We have weakened the undead here, yet we cannot hope to defeat them all! It "
 "galls me to flee, but this is a battle we cannot win."
 msgstr ""
-"我们削弱了这里的亡灵，但无法希望全部击败它们！逃跑让我感到痛苦，但这是一场我"
-"们不可能赢得的战斗。"
+"我们削弱了这里的亡灵，但无法希望全部击败它们！逃跑让我感到愤怒，但这是一场我"
+"们无法取胜的战斗。"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:872
-#, fuzzy
 msgid ""
 "We have done well to defeat the undead here. Their forces will be unable to "
 "pursue us; we shall have an uneventful river crossing."
-msgstr "我们成功击败了亡灵。他们的军队无法追击我们；我们将平稳地渡河。"
+msgstr "我们在这里击败了亡灵。他们的军队无法追击我们；我们将平稳地渡河。"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:873
-#, fuzzy
 msgid ""
 "We have done well to defeat the undead here. They may still pursue as we "
 "cross the river, but far fewer than would otherwise have come."
-msgstr "我们在这里击败了亡灵。他们可能会在渡河时追赶，但比原本的少得多。"
+msgstr ""
+"我们在这里击败了亡灵。他们可能会在我们渡河时追击，但比原本会来的少得多。"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:874
-#, fuzzy
 msgid ""
 "It galls me to flee before vanquishing the final undead leader, but enemy "
 "reinforcements will doubtlessly soon arrive."
 msgstr ""
-"让我感到懊恼的是，在击败最后的亡灵首领之前逃跑，但敌人的增援无疑很快就会到"
+"让我感到愤怒的是，在击败最后的亡灵首领之前逃跑，但敌人的增援无疑很快就会到"
 "来。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:890
-#, fuzzy
 msgid ""
 "Farewell, and good luck! You have bought us enough time to evacuate, and for "
 "that I will be ever grateful! May our paths cross again someday."
 msgstr ""
-"再会，祝你好运！你们为我们赢得了足够的时间撤退，为此我将永远感激！愿我们的道"
-"路某天再次相交。"
+"再见，祝你好运！你们为我们赢得了足够的时间撤退，为此我将永远感激！愿我们有一"
+"天能再次相遇。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:894
 msgid "Farewell friend! May you find fairer fields unfouled by undead."
-msgstr "永别了朋友！愿你找到更美好的土地，不受亡灵的污染。"
+msgstr "再见朋友！愿你找到更美好的不受亡灵污染的土地。"
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:908
 msgid "No, wait, you can’t just leave us here!"
 msgstr "不，等等，你们不能就这样把我留在这里！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:912
-#, fuzzy
 msgid ""
 "We flee?! My Clan would banish me for half as much cowardice! I am ashamed "
 "to call myself a Clansman."
-msgstr "我们逃跑？！我的氏族会因为我一半的懦弱而驱逐我！我真羞于自称是同族人。"
+msgstr "我们逃跑？！氏族会因为我一半的懦弱而驱逐我！我真羞于自称是氏族人。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:921
-#, fuzzy
 msgid ""
 "But alas, the garrison is slain. If only we had acted more swiftly, they "
 "might still have been saved."
