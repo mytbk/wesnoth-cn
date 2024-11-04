@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2024-10-24 22:39+0800\n"
+"PO-Revision-Date: 2024-11-04 22:14+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -1688,7 +1688,7 @@ msgid ""
 "It must be here somewhere! I’m telling you, alswdan only grows in swamps, "
 "and this is the grandest one on the continent."
 msgstr ""
-"肯定在这里某个地方！我告诉你，alswdan只在沼泽地生长，而这是这块大陆上最大的一"
+"肯定在这里某个地方！我告诉你，奥苏丹只在沼泽地生长，而这是这块大陆上最大的一"
 "片。"
 
 #. [message]
@@ -1727,7 +1727,7 @@ msgid ""
 "lands seeking the rare gwza-alswdan plant."
 msgstr ""
 "啊，当地的居民！也许你们可以帮助我们！我是哈希德·阿里，非凡的草药师，这是我的"
-"助手萨菲亚姆。我们来到你们的土地寻找稀有的gwza-alswdan植物。"
+"助手萨菲亚姆。我们来到你们的土地寻找稀有的瓜扎-奥苏丹植物。"
 
 #. [message]: speaker=Hahid al-Ali
 #. telling his female companion to harvest a herb
@@ -1752,7 +1752,7 @@ msgid ""
 "us? Our people have been attacked by undead and we must now fight this dark "
 "sorcerer to return home."
 msgstr ""
-"如果我们帮助你找到更多“alswdan”，你愿意把你的药方分享给我们吗？我们的族人遭到"
+"如果我们帮助你找到更多“奥苏丹”，你愿意把你的药方分享给我们吗？我们的族人遭到"
 "了亡灵的袭击，我们必须现在与这个黑暗巫师作战才能回家。"
 
 #. [message]: speaker=Hahid al-Ali
@@ -1776,7 +1776,7 @@ msgid ""
 "inoculate all of your men and point you in the direction of the undead "
 "fortress."
 msgstr ""
-"如果你能找到足够的alswdan并支付少量费用，我很乐意为你们所有人提供免疫，并为你"
+"如果你能找到足够的奥苏丹并支付少量费用，我很乐意为你们所有人提供免疫，并为你"
 "们指引到亡灵要塞的方向。"
 
 #. [objective]: condition=win
@@ -1790,7 +1790,7 @@ msgid ""
 "To travel east, collect 6 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"要向东前进，收集6份alswdan草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
+"要向东前进，收集6份奥苏丹草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:553
@@ -1798,7 +1798,7 @@ msgid ""
 "To travel east, collect 5 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"要向东前进，收集5份alswdan草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
+"要向东前进，收集5份奥苏丹草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:554
@@ -1806,7 +1806,7 @@ msgid ""
 "To travel east, collect 4 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"要向东前进，收集4份alswdan草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
+"要向东前进，收集4份奥苏丹草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:555
@@ -1814,7 +1814,7 @@ msgid ""
 "To travel east, collect 3 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"要向东前进，收集3份alswdan草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
+"要向东前进，收集3份奥苏丹草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:556
@@ -1822,7 +1822,7 @@ msgid ""
 "To travel east, collect 2 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"要向东前进，收集2份alswdan草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
+"要向东前进，收集2份奥苏丹草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:557
@@ -1830,7 +1830,7 @@ msgid ""
 "To travel east, collect 1 alswdan herb and pay Hahid al-Ali $gold_cost gold. "
 "<i>(challenging)</i>"
 msgstr ""
-"要向东前进，收集1份alswdan草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
+"要向东前进，收集1份奥苏丹草药，支付哈希德·阿里$gold_cost金币。<i>(挑战)</i>"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:559
@@ -1858,14 +1858,14 @@ msgid ""
 "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! We’ll "
 "need $herbs_needed more (and $gold_cost gold) to travel east."
 msgstr ""
-"我找到了一片alswdan的枝叶，现在我对沼泽的毒素免疫了！我们还需要$herbs_needed"
-"份（以及$gold_cost金币）才能向东前进。"
+"我找到了一片奥苏丹的枝叶，现在我对沼泽的毒素免疫了！我们还需要$herbs_needed份"
+"（以及$gold_cost金币）才能向东前进。"
 
 #. [message]: speaker=unit
 #. TODO for 1.19: make this the male message, and add a separate female one
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:656
 msgid "I’ve found a sprig of alswdan and am now immune to the swamp’s poison!"
-msgstr "我找到了一片alswdan的枝叶，现在我对沼泽的毒素免疫了！"
+msgstr "我找到了一片奥苏丹的枝叶，现在我对沼泽的毒素免疫了！"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:708
@@ -5005,15 +5005,13 @@ msgstr ""
 "<i>呲呲</i>，我感觉不到我的手指或脚趾了！如果我们被困在这里太久，我们会冻死"
 "的。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:807
-#, fuzzy
 msgid ""
 "What am I even doin’ here? All I wanted was to make an honest living "
 "smashin’ in skulls, then retire somewhere warm..."
 msgstr ""
-"我在这里到底在做什么？我只想靠打破头骨过上诚实的生活，然后去一个温暖的地方退"
+"俺到底在这里做什么？俺只想靠敲人头骨过上诚实的生活，然后去一个温暖的地方退"
 "休……"
 
 #. [message]: speaker=Gweddry
@@ -5465,16 +5463,14 @@ msgstr ""
 msgid "Iliah-Malal? I know that name from the legends..."
 msgstr "伊利阿-玛拉尔？我从传说中知道这个名字……"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:787
-#, fuzzy
 msgid ""
 "All this time... all this time I thought we were questing towards a noble "
 "goal. Searching for a legendary sword, an ancient tome, a holy relic."
 msgstr ""
-"一直以为，我们一直在追求一个高尚的目标。寻找传说中的剑、古老的卷轴、神圣的遗"
-"物。"
+"一直以来……一直以来我想我们在追求一个高尚的目标。寻找一把传说中的剑、一部古老"
+"的卷轴、一件神圣的遗物。"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
@@ -5542,17 +5538,15 @@ msgstr ""
 "面具后掩饰你的无知。如果你一定要这么做，那就去韦诺吧，让你的尸体加入玛尔-拉瓦"
 "纳尔不断增长的军队中。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:811
-#, fuzzy
 msgid ""
 "Unlike you, I have the knowledge and power to defeat the undead, and I "
 "intend to use it to destroy Mal-Ravanal. Will you wallow in your "
 "shortsightedness, or do you intend to help me safeguard all that lives?"
 msgstr ""
-"不同于你，我有知识和力量击败亡灵，我打算用它来摧毁玛尔-拉瓦纳尔。你会沉浸在你"
-"的短视中吗？还是你打算帮助我保护所有生命？"
+"不同于你，我有用于击败亡灵的知识和力量，并且我打算用它来摧毁玛尔-拉瓦纳尔。你"
+"会沉浸在你的短视中吗，还是你打算帮助我保护所有生命？"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:820
@@ -10656,12 +10650,10 @@ msgid ""
 msgstr ""
 "他在东界丘陵打败了我，但仍让我活了下来！放我走吧，我发誓再也不会让你见到我！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:370
-#, fuzzy
 msgid "Well, okay I guess..."
-msgstr "好吧，我猜就是这样……"
+msgstr "好吧，我猜……"
 
 #. [message]: speaker=Gweddry
 #. speaking of Mal-Tar
@@ -10869,42 +10861,35 @@ msgid ""
 "attack during the long night."
 msgstr "那一个就解决了！亡灵在漫长的夜晚失败的攻击之后仍然处于混乱状态。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=$found_unit.id
 #. speaker is a random lich
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1037
-#, fuzzy
 msgid ""
 "Night falls on Weldyn! Your counterattack may have caught us by surprise, "
 "but this hour is our domain."
-msgstr "夜幕降临时，维尔帝！你的反击或许让我们感到意外，但此时此刻属于我们。"
+msgstr "夜幕降临维尔帝！你们的反击或许让我们感到意外，但此时此刻属于我们。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=$found_unit.id
 #. speaker is a random lich, almost certainly a different one than the previous speaker
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1046
-#, fuzzy
 msgid "Now you will pay for your arrogance!"
 msgstr "现在你将为你的心高气傲付出代价！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #. the player is trying to move him away
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1068
-#, fuzzy
 msgid "A king belongs in his capital! I will not abandon my post!"
-msgstr "国王应当留在他的王城！我不会放弃我的岗位！"
+msgstr "国王属于他的首都！我不会放弃我的岗位！"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [floating_text]
 #. the parts to translate here are "gold refunded" and "per side"
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1200
-#, fuzzy
 msgid ""
 "<span color='#FFD700' size='x-small'>gold refunded</span>\n"
 "<span color='#FFFFFF' size='xx-small'>  (1/$side_count per side)</span>"
 msgstr ""
-"<span color='#FFD700' size='x-small'>退款金額</span>\n"
+"<span color='#FFD700' size='x-small'>归还金币</span>\n"
 "<span color='#FFFFFF' size='xx-small'>（每方1/$side_count）</span>"
 
 #. [message]: speaker=$found_unit.id
@@ -11154,15 +11139,14 @@ msgstr ""
 "棍子，让它被摧毁，你应该放弃练习所有的魔法，否则将被判处死刑，并且你因此被驱"
 "逐出韦诺。请感谢我们的慈悲。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:391
 msgid ""
 "Yeah, figures. How did I let myself get caught up in all this anyways? "
 "Suppose I can always head north to those farmlands we passed by..."
 msgstr ""
-"好吧，果然如此。我到底是怎么让自己卷入这一切的呢？我看我总可以向北道那些我们"
-"路过的农田里……"
+"好吧，果然如此。我到底是怎么让自己卷入这一切的呢？我看我总可以向北走到那些我"
+"们路过的农田里……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:400
@@ -13111,14 +13095,12 @@ msgstr "我可以死，但韦诺永远不会倒下！"
 msgid "There’s too many! Must... keep fighting..."
 msgstr "太多了！必须……继续战斗……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Halrod
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:299
-#, fuzzy
 msgid ""
 "Ack! Curse these undead! I should have listened to my mother and been a "
 "dentist..."
-msgstr "哎呀！这些亡灵真烦人！我真该听妈妈的话，去当牙医……"
+msgstr "哎呀！诅咒这些亡灵！我真该听妈妈的话，去当牙医……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:313
@@ -13206,10 +13188,8 @@ msgstr ""
 "啊，我的肉身被你令人作呕的光芒烧毁的感觉……这让我回想起了我还是把你当作朋友的"
 "时候。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:49
-#, fuzzy
 msgid ""
 "I only did what I had to do. Your mad quest for power has corrupted you and "
 "turned you into a tormented creature of darkness! It is high time I ended "
@@ -13865,12 +13845,10 @@ msgstr ""
 msgid "A disgusting abomination! I lament living in such times..."
 msgstr "一个令人作呕的怪物！我哀叹生活在这个时代……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [object]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:976
-#, fuzzy
 msgid "Gwza-Alswdan"
-msgstr "葛扎-阿尔斯万德"
+msgstr "瓜扎-奥苏丹"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [item_dialog]: description={ITEM_DESC}
