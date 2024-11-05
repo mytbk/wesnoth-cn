@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-11-02 17:54+0800\n"
+"PO-Revision-Date: 2024-11-05 21:37+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -6259,32 +6259,40 @@ msgstr ""
 "戈拉克将自己隐居在营地可见的最高峰顶上的一间小屋中。在那里，他沉思良久。每"
 "天，蜥龙泽德里克斯都会攀登山顶为他的龙提供食物。"
 
+# Translated by ollama with model glm4.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:72
+#, fuzzy
 msgid "Deep Dwellers"
-msgstr ""
+msgstr "深入者"
 
+# Translated by ollama with model glm4.
 #. [leader]: id=Thurdakor, type=Dwarvish Berserker
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:76
+#, fuzzy
 msgid "Thurdakor"
-msgstr ""
+msgstr "索尔达科"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Thurdakor
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:113
+#, fuzzy
 msgid "Reinforcements! Send in th’ neist wave!"
-msgstr ""
+msgstr "增援！派入下一波！"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:292
 msgid "Survive for 18 turns"
 msgstr "存活18回合"
 
+# Translated by ollama with model glm4.
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:311
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:203
+#, fuzzy
 msgid ""
 "The new eyrie doubles village income and support and trains veteran recruits"
-msgstr ""
+msgstr "新巢穴翻倍村庄收入和支持并训练老练的新兵"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:314
@@ -6301,18 +6309,22 @@ msgstr "移动任何一人到隧道会摧毁它"
 msgid "I sssee now you are not Shek’kahan. I sssaw as I wished to sssee."
 msgstr "我现在知道你不是沙克•卡悍嘶嘶。我看到了我希望看到的嘶嘶。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:340
+#, fuzzy
 msgid "As have I..."
-msgstr ""
+msgstr "正如我..."
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:344
 msgid "What do you mean?"
-msgstr ""
+msgstr "什么意思？"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:348
+#, fuzzy
 msgid ""
 "As a fledgling long ago...\n"
 "I strayed far from the Eyrie of Vladnir, lost in dreams of glorious things "
@@ -6324,18 +6336,34 @@ msgid ""
 "\n"
 "It had cornered her."
 msgstr ""
+"作为一只幼鸟，很久以前...\n"
+"我远离了维拉德尼尔的巢穴，迷失在对荣耀事物的梦想之中。\n"
+"\n"
+"从附近的一个洞穴里，我听到了哭声。\n"
+"我的朋友瑞莎在寻找一个躲在里面的可耻的流浪者。\n"
+"它为了保持其藏身之处的秘密而寻求她的死亡。\n"
+"\n"
+"它将她逼到角落。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:359
+#, fuzzy
 msgid ""
 "I thought myself invulnerable, the hero in my own tale.\n"
 "I charged at the beast, striking with bare claws, spitting feeble sparks.\n"
 "\n"
 "With one swipe I was sent to the ground, bleeding."
 msgstr ""
+"我以为自己是不可战胜的，是我故事中的英雄。\n"
+"我向那怪物冲去，赤手空拳，喷出微弱的火花。\n"
+"\n"
+"我一击被击倒在地，鲜血淋漓。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:366
+#, fuzzy
 msgid ""
 "My body froze me as it readied to flee...\n"
 "\n"
@@ -6343,9 +6371,16 @@ msgid ""
 "\n"
 "Flee... abandon Resha to die..."
 msgstr ""
+"我的身体在准备逃跑时让我僵住……\n"
+"\n"
+"逃离的欲望如此强烈……\n"
+"\n"
+"逃跑……放弃瑞莎让她死去…"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:374
+#, fuzzy
 msgid ""
 "The agonizing guilt of that last thought—\n"
 "\n"
@@ -6355,9 +6390,18 @@ msgid ""
 "I would do anything to save my friend.\n"
 "I felt the whole world around me burning for the means to save her."
 msgstr ""
+"那最后一思想的痛苦罪恶感——\n"
+"\n"
+"<i>让我朋友死去。</i>\n"
+"\n"
+"它以陌生的激情燃起了我的心。\n"
+"我会做任何事来救我的朋友。\n"
+"我感觉整个世界都在燃烧，为了拯救她而寻找方法。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:384
+#, fuzzy
 msgid ""
 "That is when I felt it beneath my right wing.\n"
 "A clasher’s spear, broken a reach beneath the head.\n"
@@ -6365,68 +6409,93 @@ msgid ""
 "\n"
 "It was there now."
 msgstr ""
+"那时我感觉它在我的右翼之下。\n"
+"一把破碎的矛头，在头上方伸长。\n"
+"我进洞时它不在那里。\n"
+"\n"
+"现在它在了。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:392
+#, fuzzy
 msgid ""
 "The rogue turned to finish Resha.\n"
 "\n"
 "I threw myself upon it with all my hate.\n"
 "The spear I ran deep into its cold heart."
 msgstr ""
+"叛徒转身完成对瑞莎的攻击。\n"
+"\n"
+"我怀着满腔仇恨扑向它。\n"
+"长矛深深地刺入它冰冷的心脏。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:399
+#, fuzzy
 msgid ""
 "Ever since have I trusted absolutely in the fire that saved my friend...\n"
 "\n"
 "Ever since have I fled the fear that drove me toward such vile cowardice."
 msgstr ""
+"自从我完全信赖那拯救了我的朋友的火以来...\n"
+"自从我逃离了让我走向如此卑鄙的恐惧以来..."
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:405
 msgid "You shunned Resha’s fears too."
-msgstr ""
+msgstr "你也回避了瑞莎的恐惧。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:409
+#, fuzzy
 msgid "Breathing in her fears could chill my heart to cowardice."
-msgstr ""
+msgstr "呼吸她的恐惧，我的心会冷成懦夫。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:413
+#, fuzzy
 msgid ""
 "Yet her heart was brave.\n"
 "\n"
 "Her fear for you made it ssso."
 msgstr ""
+"然而，她的心勇敢。\n"
+"对你的恐惧使它如此。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:419
+#, fuzzy
 msgid "...... It did."
-msgstr ""
+msgstr "确实如此。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:423
 msgid "Your fear for her made you brave."
-msgstr ""
+msgstr "你为她产生的恐惧让你变得勇敢。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:427
 msgid "A discarded spear made me brave."
-msgstr ""
+msgstr "一根丢弃的长矛让我变得勇敢。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:431
+#, fuzzy
 msgid ""
 "That ssspear was your means to sssave your friend. It appeared <b>as</b> you "
 "feared for her. Because you did."
-msgstr ""
+msgstr "那支长矛是你拯救朋友的手段。它在你为她担心时出现，因为你确实如此。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:435
 msgid "............"
-msgstr ""
+msgstr "…………"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:455
