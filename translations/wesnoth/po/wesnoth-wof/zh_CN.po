@@ -6497,73 +6497,98 @@ msgstr "那支长矛是你拯救朋友的手段。它在你为她担心时出现
 msgid "............"
 msgstr "…………"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:455
+#, fuzzy
 msgid "Come ssswiftly! Deep dwellers emerge!"
-msgstr ""
+msgstr "快来！深海居民出现！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Thurdakor
 #. Somehow this dwarf clan has come under the leadership of a berserker, who naturally loves fighting and drinking and drunken fighting.
 #. His speech is a semi-coherent drunken ramble in an extremely thick mountain–dialect.
 #. "So what have we here? Dragons... So many dragons my eyes cannot help what they're seeing."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:476
+#, fuzzy
 msgid ""
 "Sae whit hae we ’ere? Dragons... Sae mony dragons mah een cannae hawp whit "
 "thay’re seeing."
-msgstr ""
+msgstr "这里发生了什么事？龙……我见过的龙这么多，却无法看清它们所见的。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:498
+#, fuzzy
 msgid "It ssspeaksss but I hear no words... deep dwellers mussssst be drunken."
-msgstr ""
+msgstr "它说着，但我听不到任何词语……深居者一定是喝醉了。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:504
+#, fuzzy
 msgid "It sssaid “dragons” and... <i>sssssomething</i> about dragons."
-msgstr ""
+msgstr "据说“龙”，还有关于龙的……<i>一些事情</i>。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Thurdakor
 #. Here "you-know-what" is being used as a euphemism for 'raw sewage'.
 #. The dwarf idiom "Knalgan gusher" refers to the underground dwarf city of Knalga having a catastrophic failure of its sewage system at some point in the past.
 #. "Alright, now you listen to me, dragons. I cannot have you just standing around the whole winter dumping your you-know-what on the frozen slopes, which, come spring, will make for a full out Knalgan gusher, if you know what I mean."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:511
+#, fuzzy
 msgid ""
 "A’ richt, noo ye listen tae me, dragons. Ah cannae hae ye juist standing "
 "aroond th’ hail winter dumping yer ye-ken-whit oan th’ frozen slopes, whilk, "
 "come spring, wull mak’ fur a stowed oot Knalgan gusher, if ye ken whit ah "
 "mean."
 msgstr ""
+"好的，你们都听好了，龙人们。我不能让你们整个冬天就站在那里，把你们的“夜尿”撒"
+"在结冰的斜坡上，春天来的时候，就会变成一个汹涌的Knalgan喷泉，如果你们知道我在"
+"说什么的话。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:523
+#, fuzzy
 msgid ""
 "I do not grasp the words you speak.\n"
 "Use fewer of them with less haste."
 msgstr ""
+"我无法理解你所说的话。\n"
+"用词更少一些，说话慢一点。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Thurdakor
 #. "Now just what in the fiendish skies above is that supposed to mean?! I will have you know—"
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:532
+#, fuzzy
 msgid ""
 "Noo juist whit in th’ fiendish skies ‘boon is that suppose tae mean?! Ah "
 "wull hae ye ken—"
-msgstr ""
+msgstr "我不知道在那邪恶的天空中‘boon’是什么意思？！我会让你明白——"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:538
+#, fuzzy
 msgid "Your hornblower ssspews notesss over your words!"
-msgstr ""
+msgstr "你的号角手在你言语上喷涌着音符！"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Thurdakor
 #. "Just ignore him, he had awefully much to drink."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:543
+#, fuzzy
 msgid "Juist dingy him, he hud awfy much tae dram."
-msgstr ""
+msgstr "只是让他受点伤，他太惨了。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:549
+#, fuzzy
 msgid "If you depart now no harm will come to you."
-msgstr ""
+msgstr "如果你现在离开，不会对你造成任何伤害。"
 
 #. [message]: speaker=Thurdakor
 #. By "boys" he is referring to his own men in a lighthearted way.
