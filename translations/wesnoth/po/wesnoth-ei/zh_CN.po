@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2024-11-04 22:14+0800\n"
+"PO-Revision-Date: 2024-11-08 08:39+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -4034,25 +4034,21 @@ msgid ""
 msgstr ""
 "如果我们能及时见到食人魔，我们可能可以说服他们协助我们。但首先我们得过河。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:300
-#, fuzzy
 msgid ""
 "One drink from this shimmering blue vial and you’ll move at full speed "
 "through swamps and shallow water!"
-msgstr "喝一口这闪亮的蓝色药瓶中的饮料，你将能以全速穿越沼泽和浅水区域！"
+msgstr "从这个闪亮的蓝色药瓶中喝一口，你将能以全速穿越沼泽和浅水区域！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:327
-#, fuzzy
 msgid ""
 "Supplies are limited so <span strikethrough='true'>call now</span> buy now! "
 "<i>(elixirs only last for 1 scenario)</i>"
 msgstr ""
-"库存有限，所以<span style=\"text-decoration: line-through;\">现在呼叫</"
-"span><b>立即购买！<i>（精华只能在1个场景中使用）</i></b>"
+"库存有限，所以<span strikethrough='true'>现在安排</span>现在购买！<i>（药水只"
+"在1个场景有效）</i>"
 
 #. [event]
 #. [then]
@@ -4115,32 +4111,27 @@ msgstr "你再也不会从我手中逃脱了！这次没有隧道给你藏身了
 msgid "There is no escape from me!"
 msgstr "不会有从我手中逃脱的机会了！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:529
-#, fuzzy
 msgid ""
 "The first of our pursuers have arrived! We must make haste to cross before "
 "more dangerous undead arrive."
-msgstr "我们的追捕者已陆续抵达！我们必须赶紧过河，以免更多危险的亡灵到来。"
+msgstr ""
+"第一波我们的追击者已经到达！在更多危险的亡灵到来之前，我们必须赶紧过河。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:536
-#, fuzzy
 msgid ""
 "Our undead pursuers have arrived! Fortunately, their other leaders have been "
 "defeated. This is all we will have to face."
 msgstr ""
-"我们的亡灵追捕者已到！幸运的是，他们的其他领导者已被击败。这是我们唯一需要面"
-"对的。"
+"我们的亡灵追击者已经到达！幸运的是，他们的其他首领已被击败。这是我们唯一需要"
+"面对的。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Naken-alvak
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:623
-#, fuzzy
 msgid "Found you... Bleed you..."
-msgstr "找到你... 吸干你..."
+msgstr "找到你……吸干你……"
 
 #. [message]: speaker=Mal-Mana
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:703
@@ -4170,13 +4161,11 @@ msgid ""
 "enemies?"
 msgstr "如果我们帮你们打你们的敌人，你会和我们一起帮助我们打我们的敌人吗？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:783
 msgid "Mmmm... Grug think..."
-msgstr "嗯嗯…格拉格想…"
+msgstr "嗯嗯……格拉格想……"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:792
 msgid "... Grug head hurt. Grug say join you."
@@ -4187,7 +4176,6 @@ msgstr "…格拉格头伤了。格拉格说加入你们。"
 msgid "Curssessss!"
 msgstr "该死嘶嘶！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #. crossed the river
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:860
@@ -4436,21 +4424,17 @@ msgstr ""
 "斗。<span size='small'>不知道我期待什么，竟然和一帮原始的北方人混在一起……</"
 "span>"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:400
-#, fuzzy
 msgid ""
 "Infuriating. We may find scant supplies in the coming winter, but we cannot "
 "risk starving in the wilds while undead ravage Wesnoth."
 msgstr ""
-"愤怒。我们可能会在即将到来的冬天找到少量的补给，但我们不能冒着在荒野中饿死的"
-"危险，同时亡灵在韦诺肆虐。"
+"我很愤怒。我们可能会在即将到来的冬天找不到足够的补给，但在亡灵在韦诺肆虐的时"
+"候，我们不能冒着在荒野中饿死的危险。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:406
-#, fuzzy
 msgid ""
 "Gweddry, we will have to reprovision despite this conflict. If we spend "
 "cautiously and control enough farms, we should be able to gather enough "
@@ -4470,16 +4454,14 @@ msgstr ""
 "哎呀，那个佩拉希尔的脑壳里全是泥巴。如果你把俺弄到他身边，俺肯定能跟他讲讲道"
 "理。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dolburras
 #. start of a discussion between two male dwarves
 #. "Oi, mud for brains! What do you think you're doing, fighting with these men of Wesnoth?"
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:439
-#, fuzzy
 msgid ""
 "Oi, mud-fer-brains! What do ye think ye be doin’, fighin’ wi’ these men o’ "
 "Wesnoth?"
-msgstr "哎，泥腿子！你以为自己在做什么？和韦诺的这些男人打架？"
+msgstr "哎，泥脑子！你以为自己在做什么，和这些韦诺人干架？"
 
 #. [message]: speaker=Pelathsil
 #. "Men of Wesnoth aren't dwarves! I am a dwarf lord, not a man friend."
@@ -4487,48 +4469,40 @@ msgstr "哎，泥腿子！你以为自己在做什么？和韦诺的这些男人
 msgid "Men o’ Wesnoth ain’t dwarves! I be a dwarf lord, not a man-friend."
 msgstr "韦诺人不是矮人！俺是矮人领主，不是人类之友。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dolburras
 #. "Yeah, and so instead you send your subjects to die on man-spears? What kind of lordship is that? If you don't want to help us, at least don't fight us!"
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:449
-#, fuzzy
 msgid ""
 "Aye, and so instead ye send yer subjects to die on man-spears? What kind o’ "
 "lordship be that? If ye dinnae want ta help us, at least dinnae fight us!"
 msgstr ""
-"是的，所以你让你的子民去在人类的长矛上送死？这是什么主子的行为？如果你不想帮"
-"助我们，至少也别和我们战斗！"
+"是的，所以你让你的臣民死在人类的长矛上？这是什么主子的行为？如果你不想帮助俺"
+"们，至少也别和俺们战斗！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Pelathsil
 #. "A man-friend and a blood-traitor you are... but I suppose I can see your point. We won't fight you any longer."
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:454
-#, fuzzy
 msgid ""
 "A man-friend and a blood-traitor ye be... but I suppose I ken see yer point. "
 "We won’t be fightin’ ye any longer."
 msgstr ""
-"一个男朋友和一个血统叛徒你...但我想我能理解你的观点。我们不会再与你战斗了。"
+"你这个人类的朋友和血统叛徒……但俺寻思俺能理解你的观点。俺们不会再与你战斗了。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #. to Gweddry or the player, but overheard by Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:486
-#, fuzzy
 msgid ""
 "Remember, if we spend too much on soldiers now, we may struggle to save "
 "enough supplies to see us through the winter."
 msgstr "记住，如果我们现在在士兵身上花费过多，可能难以积存足够的补给度过冬天。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #. to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:491
-#, fuzzy
 msgid ""
 "And how do you expect us to capture farms without enough soldiers to take "
 "them?"
-msgstr "你怎能期望我们缺少足够的士兵去占领农场呢？"
+msgstr "那你怎能期望我们在缺少足够士兵的情况下去占领农场呢？"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
@@ -6272,14 +6246,12 @@ msgid ""
 "would do well not to bother us."
 msgstr "我是马氏族领主，我们在此处理韦诺事务。你们最好别来打扰我们。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2536
-#, fuzzy
 msgid ""
 "Wesnoth business, huh. ...you’re not the first group of deserters I’ve "
 "caught fleeing the undead."
-msgstr "韦诺商业，嗯……你不是第一个被我抓住逃跑的亡灵逃兵群体。"
+msgstr "韦诺的事情，呵。…你们不是第一群被我抓住的逃离亡灵的逃兵。"
 
 # Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
@@ -13446,21 +13418,17 @@ msgstr "结束了。"
 msgid "Fallen Soul"
 msgstr "堕落的灵魂"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=spirit
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:763
-#, fuzzy
 msgid ""
 "Well done! Who else but Dacyn the Magnificent could have defeated such a "
 "rival? You truly are the greatest of heroes."
 msgstr "干得好！除了伟大的达辛还有谁能击败这样的对手呢？你确实是最伟大的英雄。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=spirit2
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:767
-#, fuzzy
 msgid "Now, embrace our power! You shall live on as the champion of Irdya!"
-msgstr "现在，拥抱我们的力量！你将作为尔迪亚的冠军永生！"
+msgstr "现在，拥抱我们的力量！你将作为伊迪亚的冠军永生！"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:771
