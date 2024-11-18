@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2024-11-18 10:15+0800\n"
+"PO-Revision-Date: 2024-11-18 20:31+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -4913,27 +4913,23 @@ msgid ""
 "onwards to the icy castle."
 msgstr "野兽也不容小觑！尽管如此，我们还是必须向冰冷的城堡前进。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:621
-#, fuzzy
 msgid ""
 "Fire and ice, eh? I have just the thing — behold the wondrous elixir of "
 "elements! Whoever drinks from this bubbling yellow vial will gain immunity "
 "to even the hottest flame!"
 msgstr ""
-"火焰与冰雪，嗯？我恰好有一样东西——请看这神奇的元素仙露！凡是饮下这冒泡的黄色"
-"药瓶的人，将获得对甚至最热的火焰的免疫力！"
+"火焰与冰雪，呃？我恰好有这东西——请看这神奇的元素药水！无论是谁从这个黄色药瓶"
+"喝一口，将获得对甚至最热的火焰的免疫力！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:625
-#, fuzzy
 msgid ""
 "But wait, there’s more! The elixir of elements also bestows immunity to "
 "cold; perfect for enduring the frigid winter weather."
 msgstr ""
-"但是等等，还有更多！元素之药还能赋予抵御寒冷的免疫力；非常适合度过严寒的冬"
+"但是等等，还有更多！这元素药水还能赋予对寒冷的免疫力；非常适合度过严寒的冬"
 "天。"
 
 #. [message]: speaker=Hahid al-Ali
@@ -5418,23 +5414,19 @@ msgstr ""
 "一直以来……一直以来我想我们在追求一个高尚的目标。寻找一把传说中的剑、一部古老"
 "的卷轴、一件神圣的遗物。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:791
-#, fuzzy
 msgid ""
 "Instead, our quest brings us to the lair of one of the most evil beings that "
 "ever lived. How can you possibly mean to make use of anything ever possessed "
 "by such an evil? As soldiers of Wesnoth we are honor-bound to fight for the "
 "Light, not the darkness!"
 msgstr ""
-"相反，我们的任务带我们来到了有史以来最邪恶生物之一的巢穴。你怎么可能利用过这"
-"样邪恶的东西？作为韦诺的士兵，我们有义务为光明而战，而不是黑暗！"
+"相反，我们的任务带我们来到了有史以来最邪恶生物之一的巢穴。你怎么可以利用任何"
+"曾被这种邪恶持有过的东西？作为韦诺的士兵，我们有义务为光明而战，而不是黑暗！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:795
-#, fuzzy
 msgid ""
 "Do not be so shortsighted. With the power to open portals to the Land of the "
 "Dead, I can pull Mal-Ravanal’s spirit out of this world. Then, the spells "
@@ -5442,32 +5434,27 @@ msgid ""
 "collapse into piles of bones. I am wielding this power for the good of "
 "Irdya, not for your honor’s sake."
 msgstr ""
-"不要如此短视。凭借打开通往死者之地的传送门的力量，我可以将玛尔-拉瓦纳尔的灵魂"
-"从这个世界中抽出。然后，赋予死人生者生命的咒语将会失效，他们令人恐惧的军队将"
-"化为成堆的白骨。我运用这股力量是为了伊迪亚的利益，而不是为了你的荣誉。"
+"不要如此短视。凭借打开通往冥界的传送门的力量，我可以将玛尔-拉瓦纳尔的灵魂从这"
+"个世界中抽出。然后，赋予死人虚假的生命的咒语将会失效，他们令人恐惧的军队将化"
+"为成堆的白骨。我运用这股力量是为了伊迪亚的利益，而不是为了你的荣誉。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:799
-#, fuzzy
 msgid ""
 "Dacyn, I am uneasy about this course of action. I know little of the Land of "
 "the Dead, but everything I have heard suggests-"
 msgstr ""
-"达辛，我对这条行动计划感到不安。我对自己了解甚少的地狱之国知之甚少，但我所听"
-"到的每一件事都表明——"
+"达辛，我对这行动计划感到不安。我对冥界知之甚少，但我所听到的每一件事都表明——"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:803
-#, fuzzy
 msgid ""
 "You would violate the dead’s eternal peace to fight a war, yet you call me "
 "shortsighted?! And while our homeland bleeds, you have the gall to speak of "
 "the good of all life?! Madness! As a mage of the Light, you should know "
 "better!"
 msgstr ""
-"你为了战争而破坏亡灵永恒的安宁，却称我为短视？！在我们国土流血之时，你还敢谈"
+"你为了战争而破坏亡者永恒的安宁，却称我为短视？！在我们家乡流血之时，你还敢谈"
 "论一切生命的福祉？！疯狂！作为一个光明法师，你应该更明白！"
 
 # Translated by ollama with model glm4.
@@ -5574,10 +5561,8 @@ msgstr ""
 "黑池吞没所有声音，\n"
 "世界之间的黑暗张开巨口。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:893
-#, fuzzy
 msgid ""
 "Ugh, spellcasting always gives me the shivers. There’s a reason the more "
 "civilized people of my homeland don’t trifle with magic!"
@@ -6509,13 +6494,11 @@ msgstr "蝙蝠"
 msgid "Varrak-Klar"
 msgstr "乏拉克-卡拉"
 
-# Translated by ollama with model glm4.
 #. [side]: type=Orcish Slurbow, id=Rakkha
 #. In S11, an orc with so much gold for recruitment that the player can't beat them, acts as a turn limit.
 #. In S12, a leader with a high but not unbeatable amount of gold.
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:155
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:183
-#, fuzzy
 msgid "Rakkha"
 msgstr "拉克哈"
 
@@ -6647,20 +6630,16 @@ msgstr "（皱眉）一个逃兵。我们应将你重新锁回你的牢房。"
 msgid "female^(scowling) A deserter. We should lock you back in your cell."
 msgstr "（皱眉）一个逃兵。我们应将你重新锁回你的牢房。"
 
-# Translated by ollama with model glm4.
 #. [message]: role=escapee sidekick 2
 #. "you" being an audience of three units
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:810
-#, fuzzy
 msgid ""
 "No, please, you don’t understand! The undead are everywhere! I didn’t want "
 "to die like all my friends..."
-msgstr "不，求求你，你不理解！亡灵无处不在！我不想像我的朋友们一样死去……"
+msgstr "不，求求你，你不明白！亡灵无处不在！我不想像我的朋友们一样死去……"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:824
-#, fuzzy
 msgid "Do you hear something coming from those pits?"
 msgstr "你听到那些坑里有声音吗？"
 
@@ -6707,10 +6686,8 @@ msgstr ""
 msgid "I didn’t come all this way just to give up at the words of a deserter!"
 msgstr "我没有走这么远的路只是为了在叛徒的话面前放弃！"
 
-# Translated by ollama with model glm4.
 #. [message]: role=escapee leader
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:906
-#, fuzzy
 msgid ""
 "Let’s focus on escaping the orcs before worrying about the future. Now "
 "quiet, I smell something foul up ahead."
@@ -6826,7 +6803,6 @@ msgstr ""
 "们出售，我们将有足够的金钱和力量，甚至可以与北方的强大部落相抗衡。我将为我的"
 "子民开启一个全新的黄金时代！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1154
 msgid ""
@@ -6835,17 +6811,15 @@ msgid ""
 msgstr ""
 "你谋杀了自己的盟友，还叫它和平？呸！这个地方只有当你死掉之后才能知道和平！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #. Owaec has attacked the orc
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1183
-#, fuzzy
 msgid ""
 "Hah, that almost hurt! I’m gonna enjoy shipping you lot down south. Maybe "
 "this time, the necromancers will let me watch..."
 msgstr ""
-"哈哈，差点受伤！我倒要好好享受把你们这群人送南下的过程了。也许这次，死灵法师"
-"会让我看看……"
+"哈，差点受伤！我倒要好好享受送你们这群人南下的过程了。也许这次，死灵法师会让"
+"我看看……"
 
 #. [message]: speaker=unit
 #. speaker is the escapee wearing the orc disguise, there are around 10 guards
@@ -7304,25 +7278,21 @@ msgstr ""
 msgid "(cough) My light? ...oh, oh yes, yes of course. Just one moment."
 msgstr "（咳）我的光？……哦，哦，是的，当然。请稍等。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #. He drinks an elixir between this message and the next one
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:458
-#, fuzzy
 msgid ""
 "Trapped among barbarians and pursued by orcs... how in the sands did I get "
 "here? Time to break out something I’ve been saving for a rainy day..."
 msgstr ""
-"被困在野蛮人之中，被兽人追赶……我究竟是怎么来到这里的沙地上的？是时候拿出我为"
-"雨天准备的东西了……"
+"被困在野蛮人之中，被兽人追赶……我究竟是怎么来到这里的？是时候拿出我为雨天准备"
+"的东西了……"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #. He drank an elixir between the last message and this one
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:471
-#, fuzzy
 msgid "Nothing like some extra speed to help me get away!"
-msgstr "没有比多一点速度更帮助我逃脱的了！"
+msgstr "没有比多一点的速度更能帮助我逃脱的了！"
 
 #. [message]: speaker=Owaec
 #. Addressed to Gweddry, but many of the heroes except Dacyn are together in this conversation, assuming the player managed to collect them.
@@ -7585,10 +7555,8 @@ msgid ""
 "should be in position by now!"
 msgstr "我们这里需要支援！那些讨厌的龙人在哪里？他们现在应该已经到位了！"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:912
-#, fuzzy
 msgid "Gel’ka"
 msgstr "杰尔卡"
 
@@ -7667,12 +7635,10 @@ msgid ""
 "prepared to cross the Great River once more and return to their homeland..."
 msgstr "韦诺的士兵们远离喧嚣的荒野，准备再次渡过泰河，返回家园……"
 
-# Translated by ollama with model glm4.
 #. [side]: type=Death Knight, id=Ducatithil
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:251
-#, fuzzy
 msgid "Ducatithil"
-msgstr "杜卡蒂希尔"
+msgstr "杜卡提希尔"
 
 #. [side]: type=Necromancer, id=Mal-Yrna, gender=female
 #. female necromancer, will be renamed to Mal-Mana if Mal-Mana wasn't killed in a previous scenario
@@ -7680,17 +7646,13 @@ msgstr "杜卡蒂希尔"
 msgid "Mal-Yrna"
 msgstr "玛尔-尔娜"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:439
-#, fuzzy
 msgid "Vaenyc"
-msgstr "瓦尼基"
+msgstr "瓦尼克"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:451
-#, fuzzy
 msgid "Vovan"
 msgstr "沃凡"
 
@@ -8893,11 +8855,9 @@ msgstr "你和你的部下已经变成了亡灵！让我们解脱你的痛苦。
 msgid "... I would sooner... die... than yield to you... necromancer."
 msgstr "我宁愿……死去……也不愿向你屈服……死灵法师。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=unit
 #. undead dragon, talking to a memory rather than the unit that triggered him
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1737
-#, fuzzy
 msgid "... Lich, you do not belong here... leave, or I shall... rend you..."
 msgstr "……巫妖，你不属于这里……离开，否则我将……撕碎你……"
 
@@ -12436,9 +12396,8 @@ msgstr "迅击"
 # Translated by ollama with model qwen2.5:14b.
 #. [female]: gender=female
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:72
-#, fuzzy
 msgid "Nagini Centurion"
-msgstr "纳吉尼百夫长"
+msgstr "娜迦百夫长"
 
 #. [unit_type]: id=Ancient Ogre, race=ogre
 #: data/campaigns/Eastern_Invasion/units/Ogre_Ancient.cfg:4
@@ -12589,19 +12548,15 @@ msgstr ""
 "当一名骷髅战士被击败时，维持其活动的能量有时并未完全被摧毁。一个特别熟练的巫"
 "妖可以重新捕获其仆从剩余的死灵能量，复活一个新的——尽管较弱的——部下。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [unit_type]: id=Skeletal Soulless, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Skeletal_Soulless.cfg:5
-#, fuzzy
 msgid "Skeletal Soulless"
-msgstr "骷髅无魂者"
+msgstr "骷髅无魂怪"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [drains]: id=greater drains
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:6
-#, fuzzy
 msgid "greater drains"
-msgstr "更强的排水器"
+msgstr "增强吸血"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [drains]: id=greater drains
@@ -13805,11 +13760,9 @@ msgid ""
 "in swamp and shallow water."
 msgstr "一瓶水下呼吸药剂让该单位在沼泽和浅水中拥有正常的移动和防御能力。"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1106
-#, fuzzy
 msgid "Elixir of Elements"
-msgstr "元素精华"
+msgstr "元素药水"
 
 # Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1107
