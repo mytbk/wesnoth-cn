@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2024-11-17 23:02+0800\n"
+"PO-Revision-Date: 2024-11-18 10:15+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -4504,10 +4504,8 @@ msgid ""
 "them?"
 msgstr "那你怎能期望我们在缺少足够士兵的情况下去占领农场呢？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:502
-#, fuzzy
 msgid ""
 "... I have held my tongue long enough. While Wesnoth bleeds, the High "
 "Advisor leads us north to forage for food. And as our men and our people "
@@ -4515,9 +4513,9 @@ msgid ""
 "Advisor has yet to explain more about. Gweddry, surely you feel this is "
 "strange?"
 msgstr ""
-"...我已经保持沉默太久。当韦诺出血时，大祭司带领我们北行寻找食物。随着我们的男"
-"丁和百姓死去，我们寻求一个大祭司尚未解释的未知魔法小屋和一些未知力量。格威德"
-"利，你肯定觉得这很奇怪吧？"
+"…我已经保持沉默太久。当韦诺出血时，这个高级顾问带领我们北行寻找食物。在我们的"
+"士兵和人民死亡的时候，我们在寻求一个高级顾问尚未作出更多解释的一间未知的法师"
+"小屋和一些未知力量。格威德利，你肯定觉得这很奇怪吧？"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:506
@@ -4721,7 +4719,6 @@ msgstr ""
 msgid "Travel north regardless. <i>(challenging)</i>"
 msgstr "无论如何向北出发。 <i>（挑战）</i>"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:789
 msgid ""
@@ -4736,27 +4733,23 @@ msgstr ""
 msgid "Restart the level."
 msgstr "重打这关。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:815
-#, fuzzy
 msgid ""
 "I only hope we are not too late... If what we saw at Soradoc was any guide, "
 "Mal-Ravanal may soon overrun all of Wesnoth!"
 msgstr ""
-"我只希望我们不要太晚……如果我们所见在索拉多克的情况是任何指引，玛尔-拉瓦纳尔可"
-"能会很快侵占整个韦诺斯！"
+"我只希望我们不要太晚……如果我们在索拉多克看到的情况是某个指引，玛尔-拉瓦纳尔可"
+"能会很快侵占整个韦诺！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:822
-#, fuzzy
 msgid ""
 "I only hope we are not too late! We have heard nothing of the undead since "
 "they overran us at the outposts. I wish we knew how Weldyn’s armies fare..."
 msgstr ""
-"我只希望我们不要太晚！自从他们在边防站包围我们后，我们就没听到过亡灵的消息。"
-"我真希望我们知道维尔帝的军队怎么样了……"
+"我只希望我们不要太晚！自从他们在哨所包围我们后，我们就没听到过亡灵的消息。我"
+"真希望我们知道维尔帝的军队怎么样了……"
 
 #. [scenario]: id=09_Castle_in_the_Ice
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:4
@@ -4773,12 +4766,10 @@ msgstr ""
 "随着格威德利和他的部队继续北上，冬天收紧了对荒原的控制。白天开始变短，空气迅"
 "速变冷，使本已充满挑战的山脉变得更加危险。"
 
-# Translated by ollama with model glm4.
 #. [side]: type=Hurricane Drake, id=Kaslar Ro
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:75
-#, fuzzy
 msgid "Kaslar Ro"
-msgstr "卡斯拉尔罗"
+msgstr "卡斯拉尔·若"
 
 #. [side]: type=Hurricane Drake, id=Kaslar Ro
 #. [side]: type=Sky Drake, id=Kegra
@@ -4794,10 +4785,8 @@ msgstr "卡斯拉尔罗"
 msgid "Drakes"
 msgstr "龙人"
 
-# Translated by ollama with model glm4.
 #. [side]: type=Sky Drake, id=Kegra
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:105
-#, fuzzy
 msgid "Kegra"
 msgstr "凯格拉"
 
@@ -4806,31 +4795,23 @@ msgstr "凯格拉"
 msgid "Beasts"
 msgstr "野兽"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:246
-#, fuzzy
 msgid "Pudror"
-msgstr "普德罗斯"
+msgstr "普德罗"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:247
-#, fuzzy
 msgid "Chief Bir-brish"
-msgstr "首席比尔-布里什"
+msgstr "比尔-布里什酋长"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:249
-#, fuzzy
 msgid "Huno"
 msgstr "胡诺"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:252
-#, fuzzy
 msgid "Iprish"
 msgstr "伊普里什"
 
@@ -4955,14 +4936,12 @@ msgstr ""
 "但是等等，还有更多！元素之药还能赋予抵御寒冷的免疫力；非常适合度过严寒的冬"
 "天。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:652
-#, fuzzy
 msgid ""
 "Act fast, this offer is for a limited time only! <i>(elixirs only last for 1 "
 "scenario)</i>"
-msgstr "立即行动，这个优惠仅限时限！<i>（药水仅在1个场景中有效）</i>"
+msgstr "快快行动，这个优惠时效有限！<i>（药水仅在1个场景中有效）</i>"
 
 #. [floating_text]
 #. other units are taking damage from the cold, but this unit is immune (through the elixir or yetiburger)
@@ -5035,17 +5014,13 @@ msgstr "看，远处有一座损坏的城堡！那是我们要找的那个吗？
 msgid "No. The ruin we’re journeying towards lies across the river."
 msgstr "不。我们要去的废墟在河的另一边。"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:923
-#, fuzzy
 msgid "Tapok"
 msgstr "塔波克"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:928
-#, fuzzy
 msgid "Ogho"
 msgstr "欧戈"
 
@@ -5293,7 +5268,6 @@ msgstr "这个龙人营地里只有$gold金币。对于一个龙群并不多…"
 
 #. [message]: type=Yeti
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1444
-#, fuzzy
 msgid "GROARRR!!!"
 msgstr "嗷嗷嗷！！！"
 
@@ -5351,10 +5325,8 @@ msgstr "懦弱的地精"
 msgid "Thirsty Goblin"
 msgstr "口渴的地精"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:588
-#, fuzzy
 msgid "Dushab"
 msgstr "杜沙布"
 
