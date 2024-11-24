@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2024-11-22 15:25+0800\n"
+"PO-Revision-Date: 2024-11-24 19:02+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -10175,12 +10175,10 @@ msgstr ""
 "你们俩都说了很有见地的话。这是一个艰难的决定，而我几乎没有时间来做出决定了。"
 "我希望格威德利还活着可以给我建议，但似乎我必须自己来做决定了。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2089
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2152
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2206
-#, fuzzy
 msgid "By my command, we will..."
 msgstr "遵照我的命令，我们将……"
 
@@ -10460,27 +10458,21 @@ msgstr "号角响起，城门开启，从城市中涌出了维尔帝的最后一
 msgid "?"
 msgstr "？"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [side]: type=Dark Adept, id=Lethin
 #. in the unlikely event that Mal-Tar survived S03, Lethin gets renamed and has dialogue as Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:301
-#, fuzzy
 msgid "Lethin"
 msgstr "莱辛"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [unit]: type=Dark Adept, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:321
-#, fuzzy
 msgid "Rerivyan"
 msgstr "瑞里维安"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [unit]: type=Dark Adept, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:332
-#, fuzzy
 msgid "Vowyn"
-msgstr "沃因"
+msgstr "沃维因"
 
 #. [message]: speaker=unit
 #. last breath for Mal-Tar
@@ -10730,7 +10722,6 @@ msgstr "现在你将为你的心高气傲付出代价！"
 msgid "A king belongs in his capital! I will not abandon my post!"
 msgstr "国王属于他的首都！我不会放弃我的岗位！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [floating_text]
 #. the parts to translate here are "gold refunded" and "per side"
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1200
@@ -10754,12 +10745,10 @@ msgstr ""
 msgid "Their spell is broken!"
 msgstr "魔咒阻断了！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1663
-#, fuzzy
 msgid "Enough of this farce! I shall end this personally."
-msgstr "够了！这件事将由我亲自解决。"
+msgstr "这场闹剧到此为止！我将亲自了结此事。"
 
 #. [scenario]: id=18_Epilogue
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:4
@@ -10852,7 +10841,7 @@ msgstr "这么多月的战斗……我觉得自己就像从漫长的噩梦之中
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:225
 msgid ""
 "My duty is done; the Clans have been avenged. At last, I can rest in peace."
-msgstr "我的职责已经完成；氏族的仇已经报了。我终于可以地休息了。"
+msgstr "我的职责已经完成；氏族的仇已经报了。我终于可以安心地休息了。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:231
@@ -11093,12 +11082,10 @@ msgid ""
 "accept your commission. May the Light shine ever-bright upon the pious."
 msgstr "在王国散布圣光乃微臣之幸，受此大任，不胜惶恐。愿光明永远照耀虔诚的人。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #. Gaennell’s previous crimes are held against her, regardless of whether or not she has the plague staff now.
 #. Terraent is alive, "speaks well of you" meaning he's asked the King to pardon Gaennell.
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:509
-#, fuzzy
 msgid ""
 "As for you, <i>necromancer</i>. We are not as like as Terraent to show mercy "
 "unto evil, but he speaks well of you, and so mercy shall be shown. Go from "
@@ -11106,15 +11093,14 @@ msgid ""
 "in any form, at penalty of death."
 msgstr ""
 "至于你，<i>死灵法师</i>。我们不像特拉恩特那样会对邪恶之人施以怜悯，但他对你评"
-"价不错，因此我们会给你一次机会。从现在起你可以自由离去，但你要知道，任何形式"
-"的施法行为都将被视为死罪。"
+"价不错，因此我们会给你一次机会。从现在起你可以自由离去，但你要知道，你被禁止"
+"练习所有形式的魔法，否则将被判处死刑。"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #. Gaennell’s previous crimes are held against her, regardless of whether or not she has the plague staff now.
 #. Terraent is dead.
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:519
-#, fuzzy
 msgid ""
 "As for you, <i>necromancer</i>. We are not as like as Terraent to show mercy "
 "unto evil, but in honor of his sacrifice We will show it now. Go from here a "
@@ -11122,15 +11108,14 @@ msgid ""
 "form, at penalty of death."
 msgstr ""
 "至于你，<i>死灵法师</i>。我们不像特拉恩特那样会对邪恶之人施以怜悯，但为了纪念"
-"他的牺牲，我们现在将给予你宽恕。从今往后你可以自由离去，但是要知道，从此刻起"
-"你被禁止任何形式的魔法使用，违者处死。"
+"他的牺牲，我们现在展示我们的仁慈。从现在起你可以自由离去，但你要知道，你被禁"
+"止练习所有形式的魔法，否则将被判处死刑。"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:525
-#, fuzzy
 msgid "<i>Forbidden to-</i>"
-msgstr "<禁止>-"
+msgstr "<i>禁止—</i>"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gaennell
@@ -11168,10 +11153,8 @@ msgstr ""
 "至于你，<i>死灵法师</i>。你应该交出那根被诅咒的棍子，让它被摧毁，你应该放弃练"
 "习所有的魔法，否则将被判处死刑。请感谢我们的慈悲。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=$plague_staff_wielder_id
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:569
-#, fuzzy
 msgid "As you command, your Majesty."
 msgstr "遵命，陛下。"
 
@@ -11322,10 +11305,8 @@ msgstr "格拉里托斯"
 msgid "Survivors"
 msgstr "幸存者"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:224
-#, fuzzy
 msgid "Tribute"
 msgstr "贡品"
 
