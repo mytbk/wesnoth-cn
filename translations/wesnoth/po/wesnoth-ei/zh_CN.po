@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2024-11-25 22:59+0800\n"
+"PO-Revision-Date: 2024-11-29 18:45+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -5901,11 +5901,9 @@ msgstr ""
 "挥他的能力。好像他能做出任何好事一样，作为那位半破旧的国王哈德里克的顾问。然"
 "后，也许这就是达辛想要的游戏。真遗憾。我曾对他抱有更高的期望。</i>"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. just flavortext, could be any books that are irrelevant to the story
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1778
-#, fuzzy
 msgid ""
 "This shelf appears to be full of accounting ledgers detailing the movement "
 "of funds and goods hundreds of years ago."
@@ -6065,22 +6063,19 @@ msgstr "看看我找到了什么！我一碰这个钥匙，它就开始发光了
 #. [message]: speaker=unit
 #. although there's no filter on this event, the location is only reachable by a flying unit, presumably a walking corpse bat or walking corpse drake
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2297
-#, fuzzy
 msgid "Ruuuh... Brains..."
-msgstr "鲁乌... 脑袋..."
+msgstr "噜呜……脑子……"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=narrator
 #. This is an easter egg, and the details don't matter because there's no way to get the staff out of the room.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2303
-#, fuzzy
 msgid ""
 "This legendary magical staff has the power to reshape reality at will! "
 "Unfortunately, this zombie is not intelligent enough to understand the "
 "significance of what it has found, and merely perceives a lifeless room."
 msgstr ""
-"这把传奇魔杖拥有随意重塑现实的力量！不幸的是，这个僵尸智力不够理解它所发现的"
-"意义，仅仅感觉到一个无生命的房间。"
+"这根传奇的魔杖拥有随意重塑现实的力量！不幸的是，这个僵尸的智力不足以理解它所"
+"发现的物品的意义，仅仅感受到一个无生命的房间。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2345
@@ -6364,58 +6359,48 @@ msgstr "<span size='small' font-style='italic'>啊啊啊啊！</span>"
 msgid "Dacyn! Everyone stand back, give him some air."
 msgstr "达辛！各位站在后面，给他点空气。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2880
-#, fuzzy
 msgid ""
 "... do not fear, I am unharmed. I just... need a moment to catch my breath."
-msgstr "...别怕，我没事。我只是……需要一点时间喘口气。"
+msgstr "…别怕，我没事。我只是…需要一点时间喘口气。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #. A wall of the inner sanctum (where the amulet was) has just exploded, revealing a cave that extends off the west edge of the map.
 #. Introduction implying that Whitefang has other chiefs, but that Dra-Nak is particularly powerful.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2945
-#, fuzzy
 msgid ""
 "Hah, did you think you were safe hiding back in here? Nobody can escape from "
 "Dra-Nak, greatest chief east of the Listra."
 msgstr ""
-"哈哈，你以为躲在这里就安全了吗？没人能从特拉-纳克逃脱，他是利斯特拉东部最伟大"
-"的首领。"
+"哈，你以为躲在这里就安全了吗？没人能从德拉-纳克手上逃脱，他是利斯特拉东部最伟"
+"大的酋长。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Cowardly Goblin
 #. male speaker
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2950
-#, fuzzy
 msgid ""
 "See see! I told you there were humans in here! And I showed you the secret "
 "passage! Reward reward?"
-msgstr "看！我告诉你这里有人类！我还带你看了一眼秘密通道！奖励吗？"
+msgstr "看看！我告诉你这里有人类！我还给你展示了秘密通道！奖励吗？"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #. gives the Cowardly Goblin some gold
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2955
-#, fuzzy
 msgid "Sure, here you go. You did well."
-msgstr "当然，请看这里。你做得很好。"
+msgstr "当然，给你。你做得很好。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #. presumably still 8 humans, unless the player has lost some
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2966
-#, fuzzy
 msgid ""
 "As for you humans, you might as well convince your friends outside to "
 "surrender. Otherwise, we’ll slaughter you all starting with that injured old "
 "man. I gave you a chance to do things fairly before, but now we’re doing "
 "things my way."
 msgstr ""
-"至于你们人类，最好是说服外面的朋友们投降。否则，我们从那个受伤的老人开始，把"
-"你们全部屠杀。我之前给你们机会公平行事，但现在我们按我的方式办事。"
+"至于你们人类，你们最好说服外面的朋友们投降。否则，我们将从那个受伤的老人开"
+"始，把你们全部屠杀。我之前给你们公平做事的机会，但现在我们按我的方式办事。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2970
@@ -11735,17 +11720,21 @@ msgid ""
 "got enough gold to finish off the drakes."
 msgstr "好了老大，俘虏已经塞得满满的了！希望你有足够的金币来搞定那些龙人。"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1205
+#, fuzzy
 msgid "Get away from my jail cells! Filthy traitors, there goes my income..."
-msgstr ""
+msgstr "离开我的牢房！可恶的叛徒，我收入没了……"
 
+# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1209
+#, fuzzy
 msgid ""
 "Fine then, I’m done taking prisoners. From here on out, you either submit or "
 "die!"
-msgstr ""
+msgstr "好的，我现在不再抓俘虏了。从现在起，你只能屈服或死亡！"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: role=leader
@@ -12233,21 +12222,17 @@ msgstr ""
 "領主，他們既不在光明的世界也不在黑暗的世界中完全存在。不再需要物理武器，他們"
 "對敵人和盟友都是一種恐懼的存在。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [attack]: type=arcane
 #. Translation for this weapon can be taken from liberty textdomain
 #: data/campaigns/Eastern_Invasion/units/Human_Shadow_Lord.cfg:36
-#, fuzzy
 msgid "astral blade"
-msgstr "星界之刃"
+msgstr "星刃"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [attack]: type=impact
 #. The secondary attack of this unit is named shadow wave, known from the Dark Adept line
 #. The secondary attack of this unit is named shadow wave (same as the Dark Sorcerer’s)
 #: data/campaigns/Eastern_Invasion/units/Human_Shadow_Lord.cfg:49
 #: data/campaigns/Eastern_Invasion/units/Human_Shadow_Mage.cfg:49
-#, fuzzy
 msgid "blast wave"
 msgstr "冲击波"
 
@@ -12333,7 +12318,6 @@ msgstr "刀剑"
 msgid "speed strike"
 msgstr "迅击"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [female]: gender=female
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:72
 msgid "Nagini Centurion"
@@ -12466,12 +12450,10 @@ msgstr ""
 "每当玛尔-拉瓦纳尔的手下死亡时，该单位将会被复活为一个更弱的亡灵版本。玛尔-拉"
 "瓦纳尔杀死的敌军将再次以幽灵的形式出现。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [unit_type]: id=Skeletal Corpse, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Skeletal_Corpse.cfg:5
-#, fuzzy
 msgid "Skeletal Corpse"
-msgstr "骸骨尸身"
+msgstr "骷髅僵尸"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [unit_type]: id=Skeletal Corpse, race=undead
@@ -12507,10 +12489,8 @@ msgid ""
 "amount of damage it deals."
 msgstr "此单位会吸取活体单位的体力，使其自身完全恢复所造成的伤害。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:54
-#, fuzzy
 msgid "Your soul is mine!!"
 msgstr "你的灵魂属于我！！"
 
@@ -13215,14 +13195,12 @@ msgstr "这-这是什么？！"
 msgid "Do you even know where that gate you’re opening leads to?"
 msgstr "你知道你打开的那扇大门通向哪里吗？"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:585
-#, fuzzy
 msgid ""
 "...you think you’re better than me, don’t you? You must think of yourself as "
 "some kind of hero."
-msgstr "……你以为你比我强，是吧？你一定觉得自己是个英雄。"
+msgstr "…你以为你比我强，是吧？你一定觉得自己是某种英雄。"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Ravanal
