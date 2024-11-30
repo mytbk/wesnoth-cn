@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2024-11-29 18:45+0800\n"
+"PO-Revision-Date: 2024-11-30 17:55+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -5879,10 +5879,8 @@ msgid ""
 msgstr ""
 "这卷书和一个矮人有点关系，他的名字叫萨嘎……瑟萨格-什么？文字已经褪色了。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1764
-#, fuzzy
 msgid ""
 "<i>Journal of Ravan - 5 Bleeding Moon, 597 YW.\n"
 "\n"
@@ -5894,12 +5892,12 @@ msgid ""
 "Haldric. Then again, maybe that is the game Dacyn wants to play. What a "
 "shame. I had held him in higher regard than that.</i>"
 msgstr ""
-"《莱文日志 - 597 YW血月之五。\n"
+"<i>莱文的日记 - 韦元597年血月月5日。\n"
 "\n"
-"一切都不顺利。我的研究陷入了僵局，甚至来自另一个平面的灵也不再与我交谈。我也"
+"一切都不顺利。我的研究陷入了僵局，甚至来自另一位面的灵魂也不再与我交谈。我也"
 "不能再依靠达辛了。那个愚蠢的人！他决定玩弄政治比帮助我解读这个关键谜题更能发"
-"挥他的能力。好像他能做出任何好事一样，作为那位半破旧的国王哈德里克的顾问。然"
-"后，也许这就是达辛想要的游戏。真遗憾。我曾对他抱有更高的期望。</i>"
+"挥他的能力。好像他能做出任何好事一样，去做那位半老半衰的国王哈德里克的顾问。"
+"然后，也许那就是达辛想要玩的游戏。真丢人。我曾对他抱有更高的期望。</i>"
 
 #. [message]: speaker=unit
 #. just flavortext, could be any books that are irrelevant to the story
@@ -6046,20 +6044,17 @@ msgstr "是，释放所有食尸鬼。"
 msgid "Humans! Get them!"
 msgstr "人类！抓住他们！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Goblin Leader
 #. death of a wolf rider's mount
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2243
-#, fuzzy
 msgid "Noooo, wolfieeee!!!"
-msgstr "不行，狼崽子！！！"
+msgstr "不，狼崽子！！！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2258
 msgid "Look what I found! This key started glowing as soon as I touched it."
 msgstr "看看我找到了什么！我一碰这个钥匙，它就开始发光了。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=unit
 #. although there's no filter on this event, the location is only reachable by a flying unit, presumably a walking corpse bat or walking corpse drake
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2297
@@ -6149,15 +6144,13 @@ msgstr "准备迎接亡灵！"
 msgid "Chief Dra-Nak"
 msgstr "德拉-纳克酋长"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #. the wyrms being the drakes in S09
 #. Talking about Owaec, who's waiting outside the sanctum, probably on a keep.
 #. Owaec probably hasn't recruited, but the entire recall list is available to him so they're presumably "here".
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2523
-#, fuzzy
 msgid "What do we have here? This is what those wyrms were groveling about?"
-msgstr "我们在哪里？这些是那些巨龙低声下气地谈论的事情吗？"
+msgstr "我们这里有什么？这就是让那些巨龙低声下气的东西吗？"
 
 #. [message]: speaker=Chief Dra-Nak
 #. he's a chief from the Whitefangs because he's not the only one, just a particularly powerful one
@@ -6190,18 +6183,16 @@ msgstr ""
 "我要告诉你，我是一个公正的兽人，我不会利用你的处境。也许我能帮你。让我们达成"
 "协议吧。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2544
-#, fuzzy
 msgid ""
 "Those necromancers down south are paying me good coin to keep them supplied "
 "with corpses. Hand over, let’s say, eight of your soldiers as tribute, and "
 "you’re free to go about your business. I’ll even give you a cut of the "
 "profit!"
 msgstr ""
-"那些南方的死灵法师用金币雇佣我，让他们有足够的尸体供应。交出，比如，八名你们"
-"的士兵作为贡品，你们就可以自由行事了。我还会分给你们一份利润！"
+"那些南方的死灵法师给我金币，来维持他们的尸体供应。比方说，交出八名你们的士兵"
+"作为贡品，你们就可以自由地去做你的事了。我甚至还会分给你们一部分利润！"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2548
@@ -6213,13 +6204,11 @@ msgstr ""
 "今天我被说成是短视，然后是胆小鬼，现在又是一个逃兵？！我的荣誉绝不能容忍更多"
 "的侮辱！滚开，臭烘烘的兽人，否则我将把你的头挂上长矛！我不怕死人，也不怕你。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #. This is the start of the second night, and around 4 orcs will enter the map this turn, and 3 more next turn.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2553
-#, fuzzy
 msgid "(grinning) I was hoping you’d say that!"
-msgstr "（笑着）我就知道你会这么说！"
+msgstr "（咧嘴笑）我就期望你会这么说！"
 
 #. [message]: speaker=Owaec
 #. this is a reminder to the player that Owaec is a leader and can recruit.
@@ -6253,11 +6242,9 @@ msgstr "继续进攻，趁日落时分打击他们！"
 msgid "Chief’s orders, let’s get them!"
 msgstr "酋长的命令，抓住他们！"
 
-# Translated by ollama with model glm4.
 #. [message]
 #. Turn 51 (start of the ninth night), and from here on they're arriving every night rather than one night in two.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2681
-#, fuzzy
 msgid "Burn and pillage!"
 msgstr "焚城掠地！"
 
@@ -10288,10 +10275,8 @@ msgstr ""
 "最后，大门再次发出吱嘎声缓缓打开。人们怀着期待、焦虑和恐惧的目光注视着使者朝"
 "城堡方向骑行而来……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:33
-#, fuzzy
 msgid ""
 "News spread quickly. Mal-Ravanal had accepted the challenge. Dacyn and six "
 "of Weldyn’s finest were to duel the lich in the abandoned catacombs under "
@@ -10362,12 +10347,10 @@ msgstr ""
 msgid "Tsk, tsk, I begin to tire of this."
 msgstr "唉，唉，我开始对此感到厌倦了。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:311
-#, fuzzy
 msgid "More reinforcements come every time!"
-msgstr "更多的援军不断到来！"
+msgstr "每次都有更多的援军到来！"
 
 #. [scenario]: id=17b_All-In
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:11
@@ -10447,11 +10430,9 @@ msgstr "沃维因"
 msgid "Wait, wait, stop, I surrender! I know your leader Gweddry!"
 msgstr "等等，等等，停下来，我投降！我认识你的首领格威德利！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=unit
 #. last breath for Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:366
-#, fuzzy
 msgid ""
 "He defeated me back in the Estmarks but still let me live! Let me go and I "
 "promise you’ll never see me again!"
@@ -10475,113 +10456,87 @@ msgstr "整整一场战争过去了，那个家伙的魔法还是没有进步…
 msgid "Kill $liches_to_kill liches to reveal Mal-Ravanal"
 msgstr "击杀$liches_to_kill|名巫妖以暴露玛尔-拉瓦纳尔"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:705
-#, fuzzy
 msgid "150 gold remains in my war-chest. I place it at your service, my Liege."
-msgstr "我的王，我军中的150金子仍然留在我处，现供您差遣。"
+msgstr "我的资金中还剩150金币。我将它供您使用，吾王。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:741
-#, fuzzy
 msgid ""
 "My Liege, I’ve managed to conserve 150 gold from the previous battle. I "
 "place it at your disposal."
-msgstr "吾王，我从之前的战斗中节省了150金币，现将其置于您的支配之下。"
+msgstr "吾王，我从之前的战斗中留下了150金币，现将其置于您的支配之下。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:779
-#, fuzzy
 msgid ""
 "For you, my Liege: my men have salvaged 150 gold from the ruins of the city "
 "outskirts."
-msgstr "为您效劳，我的领主：我的部下从城市郊区的废墟中找回了150金币。"
+msgstr "为您效劳，吾王：我的部下从城市郊区的废墟中找回了150金币。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Halrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:829
-#, fuzzy
 msgid "My forces are in position at the northern wall; awaiting your orders."
 msgstr "我的部队已经部署在北城墙；等待您的命令。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:833
-#, fuzzy
 msgid "Eastern flank reclaimed. I stand ready to launch the assault."
 msgstr "东部侧翼已收复。我准备发起进攻。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Halrod
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:837
-#, fuzzy
 msgid "The western barricades are manned and ready — it’s payback time."
 msgstr "西部屏障已经布置完毕，准备迎战——是时候报仇了。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:847
-#, fuzzy
 msgid ""
 "Now is the time to strike! In the name of the Clans, Mal-Ravanal will be "
 "ended this day!"
-msgstr "现在就是行动的时刻！以氏族之名，今日将终结玛尔-拉瓦纳尔的统治！"
+msgstr "现在就是进攻的时刻！以氏族之名，玛尔-拉瓦纳尔将在今日终结！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:854
-#, fuzzy
 msgid ""
 "Now is the time to strike! By the might of all Wesnoth, Mal-Ravanal shall be "
 "ended this day!"
-msgstr "现在就是行动的时刻！凭借韦诺全体的力量，玛尔-拉瓦纳尔将在今天终结！"
+msgstr "现在就是进攻的时刻！凭韦诺全体的力量，玛尔-拉瓦纳尔将在今日终结！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:881
-#, fuzzy
 msgid ""
 "These liches are channeling some dark magic to hide themselves. (cough)"
 "(cough) Even if Mal-Ravanal is here, I will not be able to (cough) reveal "
 "them until we have killed enough of these liches to break their spell. "
 "(cough)"
 msgstr ""
-"这些巫妖在施展黑暗魔法来隐藏自己。（咳嗽）（咳嗽）即使玛尔-拉瓦纳尔在这里，我"
-"也无法（咳嗽）在杀死足够的巫妖以破除他们的咒语之前将他们揭露出来。（咳嗽）"
+"这些巫妖在施展某种黑暗魔法来隐藏自己。（咳）（咳）即使玛尔-拉瓦纳尔在这里，我"
+"也无法（咳）在杀死足够的巫妖以破除他们的魔咒之前将他们暴露出来。（咳）"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:892
-#, fuzzy
 msgid ""
 "Then that’s what we’ll have to do. And we will have to do it quickly, before "
 "Mal-Ravanal’s reinforcing armies overwhelm us."
 msgstr ""
-"那么我们就这么做吧。而且我们必须迅速行动，在玛尔-拉瓦纳尔的增援部队压倒我们之"
-"前采取行动。"
+"那么那就是我们要做的。而且我们必须迅速行动，在玛尔-拉瓦纳尔的增援部队压倒我们"
+"之前。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:896
-#, fuzzy
 msgid ""
 "Stride fearless upon the plain of battle, for today we reclaim our legacy! "
 "For Wesnoth!!"
 msgstr "勇踏战场，无畏前行，今日我们重拾荣光！为了韦诺！！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:903
-#, fuzzy
 msgid ""
 "Then kill them we shall. Stride fearless upon the plain of battle, for today "
 "we reclaim our legacy! For Wesnoth!!"
-msgstr ""
-"然后我们就将消灭他们。在战场上无所畏惧地迈进，因为我们今天要重拾我们的遗产！"
-"为了韦诺特！！"
+msgstr "然后我们将消灭他们。勇踏战场，无畏前行，今日我们重拾荣光！为了韦诺！！"
 
 #. [value]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:912
@@ -10650,24 +10605,20 @@ msgid ""
 "flooded the shores..."
 msgstr "在亡灵修建了水坝并淹没河岸之前，维尔帝河曾经那么美……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1002
-#, fuzzy
 msgid ""
 "My legacy will not be one of failure! With all the might of the throne of "
 "Wesnoth, I shall strike you down!"
-msgstr "我的遗志不会是失败！我将动用韦诺王座所有的力量来击败你！"
+msgstr "我的遗志不会是失败！凭韦诺王座所有的力量，我会把你击败！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #. killed a lich
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1023
-#, fuzzy
 msgid ""
 "That’s one down! The undead must still be in disarray after their failed "
 "attack during the long night."
-msgstr "那一个就解决了！亡灵在漫长的夜晚失败的攻击之后仍然处于混乱状态。"
+msgstr "干掉了一个！在漫长的夜晚失败的攻击之后，亡灵一定还处于混乱状态。"
 
 #. [message]: speaker=$found_unit.id
 #. speaker is a random lich
@@ -11063,7 +11014,6 @@ msgstr ""
 "价不错，因此我们会给你一次机会。从现在起你可以自由离去，但你要知道，你被禁止"
 "练习所有形式的魔法，否则将被判处死刑。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #. Gaennell’s previous crimes are held against her, regardless of whether or not she has the plague staff now.
 #. Terraent is dead.
@@ -11075,39 +11025,34 @@ msgid ""
 "form, at penalty of death."
 msgstr ""
 "至于你，<i>死灵法师</i>。我们不像特拉恩特那样会对邪恶之人施以怜悯，但为了纪念"
-"他的牺牲，我们现在展示我们的仁慈。从现在起你可以自由离去，但你要知道，你被禁"
-"止练习所有形式的魔法，否则将被判处死刑。"
+"他的牺牲，我们现在展示我们的仁慈。你可以以一个自由的女人离开这里，但你要知"
+"道，你被禁止练习所有形式的魔法，否则将被判处死刑。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:525
 msgid "<i>Forbidden to-</i>"
 msgstr "<i>禁止—</i>"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:529
-#, fuzzy
 msgid ""
 "... as an adept I’d dreamt of one day standing in this palace, though "
 "under... different circumstances. Well, better that I get to keep my head, I "
 "guess. I am grateful for Your leniency."
 msgstr ""
-"……作为一名学徒，我曾梦想有朝一日能站在这座宫殿中，虽然在不同的情况下。好吧，"
-"至少我能保全性命，这也算是一种宽恕，我很感激。"
+"…作为一名学徒，我曾梦想有朝一日能站在这座宫殿中，虽然在…不同的场合下。好吧，"
+"至少我能保全性命。我很感激您的仁慈。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #. a unit has the plague staff, but they're not one of the loyals. This version of the line is used if Gaennell is here.
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:554
-#, fuzzy
 msgid ""
 "And the same goes for you, wielder of that accursed stave. You shall "
 "surrender it to be destroyed, and leave here forbidden to practice magic. Be "
 "grateful for Our mercy."
 msgstr ""
-"同样的，你这个手持邪杖的家伙也一样。你要把那根法杖交出来毁掉，并且从此被禁止"
-"使用魔法，离开此地。你应该感激我们的仁慈。"
+"你也一样，手持邪杖的家伙。你要把那根法杖交出来毁掉，并且从此禁止使用魔法，离"
+"开此地。请感激我们的仁慈。"
 
 #. [message]: speaker=Konrad
 #. a unit has the plague staff, but they're not one of the loyals, and the player doesn't have Gaennell
@@ -11131,35 +11076,29 @@ msgid ""
 "Owaec, last Prince of the Plains. You and your people have suffered much."
 msgstr "欧瓦埃克，平原的最后一位王子。你和你的人民遭受了很多苦难。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:594
-#, fuzzy
 msgid ""
 "My Lord, the Clansmen gladly gave their lives for Wesnoth, and know that I "
 "would do the same without hesitation."
 msgstr "吾主，氏族勇士们甘愿为韦诺献出生命，并深知我会毫不犹豫地做同样的事。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:599
-#, fuzzy
 msgid ""
 "The true test is not to die for one’s King, but to live for Him... Kneel, "
 "Owaec."
-msgstr "真正的考验不是为君主而死，而是为他而活……跪下吧，欧瓦埃克。"
+msgstr "真正的考验不是为国王而死，而是为他而活……下跪，欧瓦埃克。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:604
-#, fuzzy
 msgid ""
 "And arise, Sir Owaec, High Lord of the Horse Clans! Your people have been "
 "shattered, but We trust none more than you to make them whole again. Ride "
 "from here, and recover in peace."
 msgstr ""
-"起来吧，欧瓦埃克大人，马氏族的最高领主！你的族人已经四分五裂，但朕对你的信任"
-"无人能及。从这里出发，去平安地恢复元气吧。"
+"平身，欧瓦埃克爵士，马背氏族的至高领主！你的族人遭受了极大的打击，但我们相"
+"信，没有人比你更能让他们恢复完整。从这里出发，安心地恢复。"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
