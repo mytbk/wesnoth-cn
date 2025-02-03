@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-02-03 19:59+0800\n"
+"PO-Revision-Date: 2025-02-03 22:33+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2820,6 +2820,9 @@ msgid ""
 "night! It shows an orcish camp just up ahead! I wonder if we could sneak "
 "around without alerting them."
 msgstr ""
+"说到这些地方，我们可能没有伽拉克来指引我们，但这个地区的所有地形都与我们昨晚"
+"从兽人那里得到的地图完美匹配！它显示前方就有一个兽人营地！我想知道我们是否可"
+"以在不让他们发现的情况下偷偷溜过去。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:380
@@ -2936,6 +2939,8 @@ msgid ""
 "Merely a few steps in and all these goblins already know we’re here! I guess "
 "it’s not that easy to sneak around in someone else’s home territory."
 msgstr ""
+"就往里走了几步，所有的这些地精就知道我们在这里了！我想在别人的地盘上溜走并不"
+"容易。"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:544
@@ -9523,32 +9528,22 @@ msgstr "自然。你是正确的。原谅我。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1103
-#, fuzzy
-#| msgid ""
-#| "No, too many merfolk have died! There are not enough of them left to "
-#| "divine the location of their master. We should have protected the merfolk "
-#| "more carefully. Now our search is hopeless."
 msgid ""
 "No, too many merfolk have died! There are not enough of them left to divine "
 "the location of their leader. We should have protected the merfolk more "
 "carefully. Now our search is hopeless."
 msgstr ""
-"不，太多人鱼死去了！人鱼数量不足，不能推测出他们主人的下落了。我们应该更小心"
+"不，太多人鱼死去了！人鱼数量不足，不能推测出他们首领的下落了。我们应该更小心"
 "保护人鱼才对。现在我们的搜索已经没有希望了。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1110
-#, fuzzy
-#| msgid ""
-#| "Too many merfolk have died! Even if we save the rest, there will not be "
-#| "enough for them to divine the location of their master. We should have "
-#| "protected the merfolk more carefully. Now our search is hopeless."
 msgid ""
 "Too many merfolk have died! Even if we save the rest, there will not be "
 "enough for them to divine the location of their leader. We should have "
 "protected the merfolk more carefully. Now our search is hopeless."
 msgstr ""
-"太多人鱼死去了！即使我们救了其他人鱼，剩下的人鱼数量也不足以推测出他们主人的"
+"太多人鱼死去了！即使我们救了其他人鱼，剩下的人鱼数量也不足以推测出他们首领的"
 "下落了。我们应该更小心保护人鱼才对。现在我们的搜索已经没有希望了。"
 
 #. [message]: speaker=unit
@@ -13902,7 +13897,7 @@ msgstr "魔法"
 #. Only displayed in debug mode
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Corrupted_Elf.cfg:78
 msgid "defeated"
-msgstr ""
+msgstr "被击败"
 
 #. [unit_type]: id=Divine Avatar, gender=female, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Divine_Avatar.cfg:4
@@ -15036,7 +15031,7 @@ msgstr "光线"
 msgid ""
 "This weapon, when used offensively, also deals damage to a unit behind the "
 "target."
-msgstr ""
+msgstr "这件武器，当用于进攻时，也会对目标身后的一个单位造成伤害。"
 
 #. [dummy]: id=ray
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:491
@@ -15045,6 +15040,8 @@ msgid ""
 "when the first verse was sung in the previous turn. If this was the last "
 "verse, then the first verse will be available in the next turn."
 msgstr ""
+"这是《日升颂歌》的第二乐章。它只在前一回合唱了第一乐章的时候才能使用。如果这"
+"是最后一个乐章，那么下一回合就可以使用第一乐章。"
 
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:648
 msgid ""
