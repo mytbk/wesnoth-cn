@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-02-03 22:33+0800\n"
+"PO-Revision-Date: 2025-02-06 10:41+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -14232,16 +14232,6 @@ msgstr "奎诺旭日歌者"
 
 #. [unit_type]: id=Quenoth Sun Singer, race=quenoth, gender=female
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Singer.cfg:22
-#, fuzzy
-#| msgid ""
-#| "Faerie and elven magic have oft been aptly associated with life, from "
-#| "which they draw the majority of their power. However, with the death of "
-#| "much of Irdya’s flora, the Quenoth Elves were forced to seek another "
-#| "source for their sorcery. In time, they learned to harness the power of "
-#| "the suns Sela and Naia - the twin stars that had razed the forests of "
-#| "Irdya to ashes, yet still spring forth the energy required for sparking "
-#| "life. Those who master this new magic sing of the dual nature of these "
-#| "embodiments of fire: flames that are both life and life’s demise."
 msgid ""
 "Faerie and elven magic have oft been aptly associated with life, from which "
 "they draw the majority of their power. However, with the death of much of "
@@ -14982,7 +14972,7 @@ msgstr ""
 msgid ""
 "Illumination increases the lighting level in adjacent areas. This effect "
 "lasts for three turns after activation."
-msgstr ""
+msgstr "照明增加相邻区域的亮度。这个效果在激活后持续三回合。"
 
 #. [disable]: id=once_per_turn
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:365
@@ -14992,7 +14982,7 @@ msgstr "每回合一次"
 #. [disable]: id=once_per_turn
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:366
 msgid "This attack can be used offensively only once per turn"
-msgstr ""
+msgstr "此攻击在进攻时只能每回合使用一次"
 
 #. [dummy]: id=nova
 #. weapon special
@@ -15005,7 +14995,7 @@ msgstr "新星"
 msgid ""
 "This weapon, when used offensively, deals damage to all units adjacent to "
 "the caster when it hits."
-msgstr ""
+msgstr "这个武器，在进攻时使用时，在命中时会对所有与施法者相邻的单位造成伤害。"
 
 #. [dummy]: id=nova
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:448
@@ -15018,7 +15008,7 @@ msgstr ""
 #. [dummy]: id=nova
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:449
 msgid "This unit has wide-area attacks centered on the caster."
-msgstr ""
+msgstr "这个单位具有以施法者为中心的大范围攻击。"
 
 #. [dummy]: id=ray
 #. weapon special
