@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-02-06 10:41+0800\n"
+"PO-Revision-Date: 2025-02-07 22:43+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -14252,13 +14252,13 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Singer.cfg:37
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Sylph.cfg:40
 msgid "sun invocation"
-msgstr ""
+msgstr "旭日召令"
 
 #. [attack]: type=arcane
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Singer.cfg:51
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Sylph.cfg:54
 msgid "sun ray"
-msgstr "太阳光"
+msgstr "旭日光束"
 
 #. [unit_type]: id=Quenoth Sun Sylph, race=quenoth, gender=female
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Sylph.cfg:5
@@ -14287,7 +14287,7 @@ msgstr ""
 #. [attack]: type=fire
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Sylph.cfg:70
 msgid "sun incarnate"
-msgstr ""
+msgstr "旭日具现"
 
 #. [unit_type]: id=Tauroch, race=monster
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Tauroch.cfg:5
@@ -15014,7 +15014,7 @@ msgstr "这个单位具有以施法者为中心的大范围攻击。"
 #. weapon special
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:488
 msgid "ray"
-msgstr "光线"
+msgstr "光束"
 
 #. [dummy]: id=ray
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:489
@@ -15310,7 +15310,7 @@ msgstr "穿刺"
 msgid ""
 "This weapon, when used offensively, can also deal damage to a unit behind "
 "the target."
-msgstr ""
+msgstr "这个武器，当在进攻时使用时，也可以对目标身后的一个单位造成伤害。"
 
 #. [dummy]: id=puncture
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1684
@@ -15322,7 +15322,7 @@ msgstr ""
 msgid ""
 "This weapon, when used offensively, can also deal damage to two units behind "
 "the target."
-msgstr ""
+msgstr "这个武器，当在进攻时使用时，也可以对目标身后的两个单位造成伤害。"
 
 #. [dummy]: id=rain_of_arrows
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1767
@@ -15335,6 +15335,8 @@ msgid ""
 "This weapon, when used offensively, can also deal damage to a unit behind "
 "the target and all units adjacent to the unit behind the target."
 msgstr ""
+"这个武器，当在进攻时使用时，也可以对目标身后的一个单位以及目标身后的单位的所"
+"有相邻单位造成伤害。"
 
 #. [dummy]: id=sword_dance
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1888
