@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-02-02 22:28+0800\n"
+"PO-Revision-Date: 2025-03-11 20:08+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -6678,18 +6678,16 @@ msgstr "那，我看上去如何？"
 msgid "I’ll try to slip past the guards. You wait here."
 msgstr "我去试试溜过那些守卫。你们在这儿等着。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Chief Dra-Nak
 #. Gweddry, Dacyn and Owaec are being held by guards in front of Dra-Nak's throne
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1109
-#, fuzzy
 msgid ""
 "You’ve been a difficult prize to capture, but well worth the cost! Human "
 "corpses may not sell as well as dwarf or drake tribute, but with this many "
 "of you, I’ll still fetch a hefty bounty."
 msgstr ""
-"你一直是个难以捕获的猎物，但值得付出的代价！人类的尸体可能不如矮人或龙人的贡"
-"品卖得好，但有了你们这么多，我还能拿到一大笔赏金。"
+"你们是很难捕获的战利品，但付出的代价是值得的！人类的尸体可能不如矮人或龙人的"
+"贡品卖得好，但有了你们这么多，我还能拿到一笔不菲的赏金。"
 
 #. [message]: speaker=Gweddry
 #. The nearest guards are orcs, but there are drakes guarding the edge of the room.
@@ -6895,24 +6893,20 @@ msgstr ""
 msgid "Everyone hurry, we have to get out of here!"
 msgstr "大家赶快，我们得离开这儿！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #. 3 turns after the main escape starts
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1581
-#, fuzzy
 msgid ""
 "Such carnage in this dark confined cave... how I long to once again gaze "
 "upon the rolling plains of my homeland. These lands are cold, but the "
 "thought of my fellow Clansmen is as a fire burning in my breast."
 msgstr ""
 "这样的血腥场面在这黑暗狭窄的洞穴里……我多么渴望再次凝视家乡那起伏的平原。这片"
-"土地寒冷，但想到我的同胞氏族，胸中就像燃烧的火焰。"
+"土地是寒冷的，但一想到我的同胞氏族，我的胸中就像有一团火在燃烧。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gweddry
 #. "there" being the Horse Clans' plains
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1586
-#, fuzzy
 msgid ""
 "Wesnoth’s best horses and much of Weldyn’s food is come from there. I’m sure "
 "it’s well-defended, despite never having visited there myself."
@@ -6920,15 +6914,14 @@ msgstr ""
 "韦诺最好的马匹以及维尔帝大部分食物都来自那里。我确信那里防御很严密，尽管我自"
 "己从未去过那里。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #. "them" being the Horse Clans' plains
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1591
-#, fuzzy
 msgid ""
 "There is naught that I can speak that would truly do them justice! You will "
 "have to see the plains yourself to appreciate their majesty."
-msgstr "无物能真正表达它们的辉煌！您必须亲自目睹这片平原，才能领略其宏伟。"
+msgstr ""
+"我无法用任何语言来形容它们的辉煌！您必须亲自目睹这片平原，才能领略其宏伟。"
 
 #. [message]: speaker=Gweddry
 #. "them" being the Horse Clans' plains
@@ -7270,27 +7263,23 @@ msgstr ""
 "我选择将我的信仰放在圣光中，而不是黑暗中！我们将战胜玛尔-拉瓦纳尔的邪恶，以及"
 "这个黑暗护身符。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Hahid al-Ali
 #. Last message in the "Gweddry, you saw how Dacyn struggled to channel his Light" conversation
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:506
-#, fuzzy
 msgid ""
 "Bah, magic! There’s a reason the civilized people of my world eschew magic — "
 "we would never have to deal with problems like this back in my homeland."
 msgstr ""
-"唉，魔法！正是由于这个原因，我世界的文明人避而远之——在我的祖国，我们根本不必"
-"处理像这样的问题。"
+"呸，魔法！我的世界里的文明人摒弃魔法是有原因的——在我的家乡，我们永远不必处理"
+"这样的问题。"
 
-# Translated by ollama with model glm4.
 #. [message]: race=orc
 #. Speaker might be any of Chief Dra-Nak, Varrak-Klar or Rakkha; all three are male orcs.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:530
-#, fuzzy
 msgid ""
 "(squinting) I can’t see anything in this searing sunlight. Fall back, wait "
 "for dusk!"
-msgstr "（眯眼）在这炽烈的阳光下，我什么也看不见。撤退，等到黄昏时分再行动！"
+msgstr "（眯眼）在这炽烈的阳光下，我什么也看不见。撤退，等到黄昏再行动！"
 
 #. [message]: id=Mortic
 #. to the male orc leader who's ordering the retreat
@@ -7693,18 +7682,14 @@ msgstr "等一下，我们可以谈谈这——"
 msgid "I... Hunger..."
 msgstr "我……饿……"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:626
-#, fuzzy
 msgid ""
 "By the Clans, she wields slaves as weapons! This injustice will not stand!"
-msgstr "通过氏族，她以奴隶为武器！这种不公不能容忍！"
+msgstr "以氏族之名，她以奴隶为武器！这种不公不容存在！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:630
-#, fuzzy
 msgid ""
 "By all that is holy, she wields slaves as weapons! This evil will not stand!"
 msgstr "凭所有神圣之物，她以奴隶为武器！这种邪恶不容存在！"
@@ -7749,19 +7734,15 @@ msgid ""
 "This time I’ve traded my bats for ghouls. There’s no way you’ll escape now!"
 msgstr "这次我用蝙蝠换了亡灵。你现在逃不掉了！"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:797
-#, fuzzy
 msgid "Nargaril"
 msgstr "纳加里尔"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:814
-#, fuzzy
 msgid "Urmarol"
-msgstr "乌马尔奥尔"
+msgstr "乌尔马若尔"
 
 #. [message]: speaker=Nargaril
 #. to a Deathblade
@@ -8457,12 +8438,10 @@ msgstr "欧瓦埃克，等等！"
 msgid "What do I do now?"
 msgstr "我现在做什么？"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #. The chasms are filled with sand, so all terrain near the keep is walkable again.
 #. Dacyn has healed back to full HP, although that's for gameplay reasons because he needs to fight the ghosts, there isn't a story reason for it.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1078
-#, fuzzy
 msgid "(gasping) I have regained control!"
 msgstr "（喘息）我恢复控制了！"
 
