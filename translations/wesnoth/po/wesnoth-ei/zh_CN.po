@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-03-11 20:08+0800\n"
+"PO-Revision-Date: 2025-03-15 18:35+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -8653,15 +8653,13 @@ msgstr "优秀！这些藏匿处里的金币会很有用。"
 msgid "Squishy fun to squash! Squash squish squash!"
 msgstr "捏烂的乐趣！捏烂捏烂再捏烂！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=unit
 #. "odd that his body didn't become undead"
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1517
-#, fuzzy
 msgid ""
 "This man looks to have been dead for about a month. Odd that his body yet "
 "lies still."
-msgstr "此人看来已经死去大约一个月了，奇怪的是他的尸体仍然保持不动。"
+msgstr "这个人看来已经死去大约一个月了。奇怪的是他的尸体还静静地躺着。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1530
@@ -8781,15 +8779,14 @@ msgstr ""
 msgid "... I warned you... Ravanal... now <b>burn</b>."
 msgstr "……我警告过你……拉瓦纳尔……现在<b>燃烧</b>吧。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=second_unit
 #. speaker is one of the undead leaders, in an [event]name=attack
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1841
-#, fuzzy
 msgid ""
 "... Owaec... why do you fight me? Join us... ride alongside your father... "
 "defend the plains..."
-msgstr "欧瓦埃克……你为什么与我为敌？加入我们吧……和你的父亲并肩作战……保卫平原……"
+msgstr ""
+"…欧瓦埃克……你为什么与我为敌？加入我们吧……和你的父亲并肩作战……保卫平原……"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
@@ -8845,38 +8842,31 @@ msgid ""
 "than you."
 msgstr "不知道你该叫我什么了，但肯定不会比你更像祸害。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=second_unit
 #. Attacked with a fireball from an L2 or higher mage.
 #. Shek’kahan was Khrakrahs' brother, but died during TRoW, 6 centuries ago.
 #. The date of Khrakrahs' own death isn't canon, he was still alive in 40 YW (he appears in SoF).
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1938
-#, fuzzy
 msgid "... Shek’kahan, your fire grows weak... you are hardly... a rival."
-msgstr "……谢克哈坎，你的火焰变得微弱了……你几乎算不上……一个对手。"
+msgstr "…沙克•卡悍，你的火焰变弱了……你几乎算不上……一个对手。"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=second_unit
 #. speaker is Khrakrahs when attacked by a dwarf, but remembering one he met in 40 YW.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1955
-#, fuzzy
 msgid "... Thursagan... I warned you not... to enter my lair."
-msgstr "……图斯加恩……我警告过你不要进入我的巢穴。"
+msgstr "…瑟萨冈……我警告过你不要……进入我的巢穴。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Lord Alric
 #. last breath request from the ghost of Lord Alric
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1972
-#, fuzzy
 msgid "... please, watch over my son for me."
-msgstr "请替我照看我的儿子。"
+msgstr "…请替我照看我的儿子。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Sir Seoraery
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1984
-#, fuzzy
 msgid "... I may die... but the Clans... will never fall."
-msgstr "......我可能会死去……但是氏族……永远不会灭亡。"
+msgstr "…我可能会死去……但是氏族……永远不会灭亡。"
 
 #. [message]: speaker=Sir Efran
 #. last breath, but still talking to a memory rather than the unit currently fighting him
@@ -9443,24 +9433,21 @@ msgstr ""
 "阁下，我们正遭受攻击！亡灵突破了外围工事，并在外部村庄集结。我认为他们在夜幕"
 "降临时意欲强攻护城河。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:994
-#, fuzzy
 msgid ""
 "They attack again so soon?! The few men we have left are in no position to "
 "repel a concentrated assault!"
-msgstr "他们这么快就再次发动攻击！我们剩下的那点人根本无法抵挡一次集中的攻势！"
+msgstr ""
+"他们这么快就再次发动攻击？！我们剩下的那点人根本无法抵挡一次集中的攻势！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:999
-#, fuzzy
 msgid ""
 "This is ill news indeed. We will have to cut our council short; Generals, "
 "Lieutenant, ready your men!"
 msgstr ""
-"这确实是个坏消息。我们必须缩短会议；各位将军、少将，命令你们的手下做好准备！"
+"这确实是个坏消息。我们必须缩短会议；各位将军、尉官，命令你们的手下做好准备！"
 
 #. [scenario]: id=16_Eleventh_Hour
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:18
@@ -9968,10 +9955,8 @@ msgstr ""
 "万岁！即便是玛尔-拉瓦纳尔那阴森的黑暗也无法削弱我军的士气！朋友们，今天我们赢"
 "得了一场伟大的胜利。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2019
-#, fuzzy
 msgid ""
 "Now we must press our advantage! Let us strike the undead while they are in "
 "disarray and banish Mal-Ravanal’s dark soul once and for all!"
@@ -9979,20 +9964,18 @@ msgstr ""
 "现在我们必须趁胜追击！让我们在亡灵阵营混乱之际一举消灭玛尔-拉瓦纳尔那黑暗的灵"
 "魂，一劳永逸！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2023
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2081
-#, fuzzy
 msgid ""
 "I will not put the fate of all Irdya in the hands of a vengeful Clansman and "
 "Weldyn’s tattered armies. I must face Mal-Ravanal in a duel, and I must be "
 "the one to strike the infernal lich down! I will trust none other than "
 "myself with such responsibility."
 msgstr ""
-"我不会将整个伊尔迪亚的命运交给一个复仇心切的氏族成员和维尔帝支离破碎的军队。"
-"我必须与玛尔-拉瓦纳尔决斗，并且必须由我自己来击败那可恶的巫妖！如此重大的责"
-"任，我不能信任任何人，只能依靠自己。"
+"我不会将整个伊迪亚的命运交给一个复仇心切的氏族成员和维尔帝支离破碎的军队。我"
+"必须与玛尔-拉瓦纳尔决斗，并且必须由我自己来击败那可恶的巫妖！如此重大的责任，"
+"我不能信任任何人，只能依靠自己。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2027
@@ -10003,15 +9986,13 @@ msgid ""
 msgstr ""
 "你们俩都说了很有见地的话。这是一个艰难的决定，而我几乎没有时间来做出决定了。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2031
-#, fuzzy
 msgid ""
 "Lieutenant Gweddry, you are familiar with the situation, and you know both "
 "Owaec and Dacyn well. Whose plan do you suggest I follow?"
 msgstr ""
-"格威德利少校，你对情况很熟悉，并且与欧瓦埃克和达辛都很熟。你觉得我应该听从谁"
+"格威德利尉官，你对情况很熟悉，并且与欧瓦埃克和达辛都很熟。你觉得我应该听从谁"
 "的计划？"
 
 #. [message]: speaker=Gweddry
