@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-03-19 18:28+0800\n"
+"PO-Revision-Date: 2025-03-24 15:28+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -7761,17 +7761,13 @@ msgstr ""
 "感谢你让俺们重获自由！我的符文术并不想在纳尔迦之外使用，但我想现在是个例外。"
 "我只希望我在被俘获之后，东门不要受太大的损害……"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:870
-#, fuzzy
 msgid "Vinreddoc"
 msgstr "温雷多克"
 
-# Translated by ollama with model glm4.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:887
-#, fuzzy
 msgid "Tunreoryr"
 msgstr "图内罗伊尔"
 
@@ -8474,19 +8470,15 @@ msgstr ""
 "......但这是一笔必要的代价。我不会松懈，不论付出什么代价，都要击败玛尔-拉瓦纳"
 "尔。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #. Owaec is near his father's castle, and there's a dead (not undead) skeleton on the keep
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1172
-#, fuzzy
 msgid "...so it is true. My lord and father is dead."
-msgstr "……果然是真的。我的主君和父亲已经死了。"
+msgstr "…果然是真的。我的领主和父亲死了。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #. today is when he learns the news of that, not when it happened
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1181
-#, fuzzy
 msgid ""
 "Today truly is a day of ill fortune. My family is slain, my kinsmen "
 "scattered, my homeland defiled."
@@ -8587,26 +8579,21 @@ msgstr "为欧瓦埃克购买药水（30金币）。"
 msgid "Leave the elixir."
 msgstr "不要药水。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Addogin
 #. Wait a moment... this landscape looks familiar.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1332
-#, fuzzy
 msgid ""
 "Hol’ up... some of this place is lookin’ mighty familiar. Yeah, few years "
 "back I used to work for a smuggler ’round these parts."
-msgstr ""
-"停一下……这个地方看起来有些熟悉。是的，几年前我曾在这一带为一个走私犯工作过。"
+msgstr "等一下……这景色看着有点熟。是的，几年前我曾在这一带为一个走私犯工作过。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Addogin
 #. hint about the smuggler's hidden gold, will be followed by adding three "go here" markers to the map
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1337
-#, fuzzy
 msgid ""
 "I’m sure the undead have burned down his storehouse, but there might still "
 "be a cache or three hidden ’round here."
-msgstr "我确信亡灵已经烧毁了他的仓库，但这里可能仍然隐藏着一两处宝藏。"
+msgstr "我确信亡灵已经烧毁了他的仓库，但这周围可能仍然藏着一或三处宝藏。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1361
@@ -10024,7 +10011,6 @@ msgstr "在激战中击败玛尔-拉瓦纳尔。<i>（挑战）</i>"
 msgid "I agree. Owaec, begin preparing our armies."
 msgstr "我同意。欧瓦埃克，开始整备我们的军队。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2073
 msgid ""
@@ -10035,17 +10021,15 @@ msgstr ""
 "万岁！即便是玛尔-拉瓦纳尔那阴森的黑暗也无法削弱我军的士气！朋友们，今天我们赢"
 "得了一场伟大的胜利。唉，要是格威德利还在这里……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2077
-#, fuzzy
 msgid ""
 "... I am certain he would tell us to muster our resolve and regroup to press "
 "our advantage! Let us strike the undead while they are in disarray and "
 "banish Mal-Ravanal’s dark soul once and for all!"
 msgstr ""
-"……我确信他会告诉我们坚定决心，重整旗鼓以巩固我们的优势！趁亡灵大军混乱之际发"
-"起攻击，一劳永逸地驱逐玛尔-拉瓦纳尔的黑暗灵魂吧！"
+"……我确信他会告诉我们要坚定决心，重整旗鼓以巩固我们的优势！然我们趁亡灵大军混"
+"乱之际发起攻击，一劳永逸地驱逐玛尔-拉瓦纳尔的黑暗灵魂吧！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2085
@@ -10076,74 +10060,65 @@ msgstr "好，我会马上送出这个消息。"
 msgid "Excellent, I will begin preparing our armies!"
 msgstr "好，我将整备军队！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gweddry
 #. although there's a lot of dead troops, this is mainly "to mourn for Owaec"
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2136
-#, fuzzy
 msgid ""
 "The city grows still at last. I wish there was time to mourn, but we still "
 "must decide how to deal with Mal-Ravanal."
 msgstr ""
-"城市终于静止不动了。我希望还有时间哀悼，但我们仍然必须决定如何应对玛尔-拉瓦纳"
+"城市终于安静下来。我希望还有时间哀悼，但我们仍然必须决定如何应对玛尔-拉瓦纳"
 "尔。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gweddry
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2140
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2194
-#, fuzzy
 msgid ""
 "Owaec had wished for us to strike at the undead and isolate Mal-Ravanal by "
 "force of arms. With their armies in disarray after the failed attack on "
 "Weldyn, this may be our best opportunity."
 msgstr ""
-"欧瓦埃克希望我们攻击亡灵并以武力孤立玛尔-拉瓦纳尔。在他们进攻维尔帝失败后军队"
-"陷入混乱，这可能是我们最好的机会。"
+"欧瓦埃克希望我们攻击亡灵并以武力孤立玛尔-拉瓦纳尔。他们进攻维尔帝失败后军队陷"
+"入混乱，这可能是我们最好的机会。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2144
-#, fuzzy
 msgid ""
 "I will not put the fate of all Irdya in the hands of Weldyn’s feeble "
 "defenders! I must face Mal-Ravanal in a duel, and I must be the one to "
 "strike the infernal lich down! I will trust none other than myself with such "
 "responsibility."
 msgstr ""
-"我决不会将整个伊尔迪亚的命运托付给维尔帝那些软弱的守卫者！我必须与玛尔-拉瓦纳"
-"尔进行对决，而且必须由我自己亲手击败那个可恶的巫妖！这样的重任只能由我自己来"
-"承担。"
+"我决不会将整个伊迪亚的命运托付给维尔帝那些软弱的守卫者！我必须与玛尔-拉瓦纳尔"
+"进行对决，而且必须由我自己亲手击败那个可恶的巫妖！这样的重任只能由我自己来承"
+"担。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2172
 msgid "I will begin preparing our armies."
 msgstr "我将整备我们的军队。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2190
-#, fuzzy
 msgid ""
 "The city grows still at last. This battle is won, but with our best "
 "commanders dead we have little hope of surviving another attack."
 msgstr ""
-"城市终于安静下来。这场战斗我们赢了，但我们的最佳指挥官们已经阵亡，对于再次的"
-"攻击我们几乎没有生存的希望。"
+"城市终于安静下来。这场战斗我们赢了，但我们的最佳指挥官们已经阵亡，我们几乎没"
+"有活过另一次攻击的希望。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2198
-#, fuzzy
 msgid ""
 "We cannot put the fate of all Irdya in the hands of Weldyn’s feeble "
 "defenders! I must face Mal-Ravanal in a duel, and I must be the one to "
 "strike the infernal lich down! I will trust none other than myself with such "
 "responsibility."
 msgstr ""
-"我们不能把整个伊尔迪亚的命运交给维尔帝那些无力的防御者！我必须与玛尔-拉瓦纳尔"
-"决斗，而且必须由我自己来斩杀那该死的巫妖！这样的重任只能由我自己承担。"
+"我们不能将整个伊迪亚的命运托付给维尔帝那些软弱的守卫者！我必须与玛尔-拉瓦纳尔"
+"进行对决，而且必须由我自己亲手击败那个可恶的巫妖！这样的重任只能由我自己来承"
+"担。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2202
