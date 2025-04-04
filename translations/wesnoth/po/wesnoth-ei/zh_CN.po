@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-03-24 15:28+0800\n"
+"PO-Revision-Date: 2025-04-04 22:25+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -8446,29 +8446,24 @@ msgstr "（喘息）我恢复控制了！"
 msgid "What happened? I did not know this Amulet could act of its own accord."
 msgstr "发生了什么？我不知道这个护身符能自行发挥作用。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1086
-#, fuzzy
 msgid ""
 "Neither did I. I should have sensed it, but the darkness is nearly "
 "overwhelming. Even with my inner light, the best I can do is cancel out this "
 "dark energy. Such is the price of power..."
 msgstr ""
-"我也没有察觉。本应感知到的，但黑暗几乎令人窒息。即使有内心之光，也只能抵消这"
-"股黑暗力量。这就是强大力量的代价……"
+"我也不知道。我应该感知到的，但黑暗几乎令人窒息。即使用我的内心之光，也只能抵"
+"消这股黑暗力量。这就是力量的代价……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #. loses his halo and advances to an L4 Twilight Mage (liminal, heals +4, does not illuminate, melee attack gains "drain")
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1091
-#, fuzzy
 msgid ""
 "... but it is a necessary price to pay. I will not let up until Mal-Ravanal "
 "is defeated, whatever the cost may be."
 msgstr ""
-"......但这是一笔必要的代价。我不会松懈，不论付出什么代价，都要击败玛尔-拉瓦纳"
-"尔。"
+"…但这是必须付出的代价。我不会松懈，不论付出什么代价，都要击败玛尔-拉瓦纳尔。"
 
 #. [message]: speaker=Owaec
 #. Owaec is near his father's castle, and there's a dead (not undead) skeleton on the keep
@@ -8785,24 +8780,20 @@ msgid ""
 "you into dust now."
 msgstr "怪物！！虽然你们曾是氏族的一员，我现在别无选择，只能将你们碾碎。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #. speaking to Khrakrahs in an [event]name=attack, although the anger seems misdirected
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1863
-#, fuzzy
 msgid ""
 "You! You are the cause of this destruction!! Vengeance for my fallen people!"
 msgstr "你！这一切破坏都是因为你！！为我死去的族人报仇！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Terraent
 #. speaking to one of the undead leaders (horseman, not dragon) in an [event]name=attack
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1880
-#, fuzzy
 msgid ""
 "All things deserve redemption, but I fear the undead will never find it. May "
 "this place be cleansed in holy fire!"
-msgstr "一切皆值得救赎，但我担心亡灵永远不会得到它。愿此地被圣火净化！"
+msgstr "一切皆值得救赎，但我担心亡灵永远不会找到它。愿此地在圣火中净化！"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Terraent
@@ -8878,19 +8869,15 @@ msgstr ""
 "达辛，我一直在想。这个法器对你的影响太大了。也许你应该休息一下，花点时间恢复"
 "体力？我可以把护身符拿一会儿，或者我们可以把它存起来。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2035
-#, fuzzy
 msgid ""
 "Hmm... I suppose there would be no harm in locking it up somewhere safe."
 msgstr "嗯……我想把它锁在一个安全的地方应该不会有危害。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]
 #. voices from the amulet talking to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2041
-#, fuzzy
 msgid ""
 "<span size='small' font-style='italic'>You have a great weapon... and you "
 "would simply lock it away?</span>"
@@ -8898,11 +8885,9 @@ msgstr ""
 "<span size='small' font-style='italic'>你有一件强大的武器……却只是将其锁起来？"
 "</span>"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]
 #. voices from the amulet talking to Dacyn, speaking of Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2047
-#, fuzzy
 msgid ""
 "<span size='small' font-style='italic'>His intent is good, but his spirit is "
 "weak... he would be corrupted...</span>"
@@ -8910,11 +8895,9 @@ msgstr ""
 "<span size='small' font-style='italic'>他的意图是好的，但意志薄弱……会堕落的……"
 "</span>"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]
 #. voices from the amulet talking to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2053
-#, fuzzy
 msgid ""
 "<span size='small' font-style='italic'>Only you can be trusted with this "
 "responsibility.</span>"
@@ -8963,11 +8946,9 @@ msgid ""
 msgstr ""
 "够了。我们已经浪费了太多时间在这里；放弃你那愚蠢的复仇计划，继续上路吧。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #. time over, talking to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2093
-#, fuzzy
 msgid ""
 "Your search for foul magic has caused enough harm already, and now you would "
 "leave my countrymen’s bodies defiled by undeath? I will slay everything that "
@@ -8975,20 +8956,18 @@ msgid ""
 "next!"
 msgstr ""
 "你对邪术的追求已经造成了足够的危害，现在你还想让我的同胞们变成被诅咒的亡灵"
-"吗？我会在这个沼泽中杀死一切移动的东西，而当我完成这一切后，或许我下一刻就会"
-"用锤子找到并消灭你！"
+"吗？我会杀死一切在这个沼泽中移动的东西，而当我完成这一切后，或许接下来我的锤"
+"子就会找到你！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2097
-#, fuzzy
 msgid ""
 "You fools are welcome to linger here clearing this swamp, but I intend to "
 "travel on alone and defeat Mal-Ravanal. Go as you wish on your own. I have a "
 "task to complete."
 msgstr ""
 "你们这些傻瓜可以留下来清理这个沼泽，但我打算独自上路去击败玛尔-拉瓦纳尔。随你"
-"们怎么选择吧。我有自己的任务要完成。"
+"们怎么选。我有自己的任务要完成。"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2135
@@ -9057,16 +9036,14 @@ msgstr ""
 msgid "Return to Wesnoth"
 msgstr "重返韦诺"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:17
-#, fuzzy
 msgid ""
 "Leaving the rotting Horse Plains far behind, Gweddry, Owaec, and Dacyn "
 "marched hurriedly towards Weldyn, capital of Wesnoth. They dreaded what they "
 "might find there..."
 msgstr ""
-"告别腐烂的马草原，格威德利、欧瓦埃克和达辛匆忙前往维尔帝，即韦诺的首都。他们"
+"告别腐烂的骏马平原，格威德利、欧瓦埃克和达辛匆忙前往维尔帝，韦诺的首都。他们"
 "担心在那里可能会发现什么……"
 
 #. [side]: type=General, id=Halrad
@@ -9725,7 +9702,6 @@ msgid ""
 "I’m nearly blind in this fog, but I think the undead have been reinforced!"
 msgstr "在这雾中我几乎看不见，但我觉得亡灵部队得到了增援！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1503
 msgid ""
