@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-04-08 18:22+0800\n"
+"PO-Revision-Date: 2025-06-20 18:24+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 #. [editor_group]: id=eastern_invasion
 #. [campaign]: id=Eastern_Invasion
@@ -8460,22 +8460,16 @@ msgid ""
 "scattered, my homeland defiled."
 msgstr "今天真是个倒霉的日子。我的家人被杀，族人四散，故乡遭污。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1185
-#, fuzzy
 msgid ""
 "But I will not despair! This damning destruction will not be the lasting "
 "legacy of the Clans!! These undead will pay for the death they have "
 "brought!!!"
 msgstr ""
-"但我不會灰心！氏族留下的將不會是這場毀滅性的災難！！這些亡靈必須為他們帶來的"
-"死亡付出代價！！！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1222
-#, fuzzy
 msgid ""
 "Owaec, do not be so hasty. Much of the horde that conquered this place now "
 "marches on Weldyn, but even what little lingers is surely more than a match "
@@ -8484,16 +8478,14 @@ msgstr ""
 "欧瓦埃克，不要这么急躁。占领这个地方的大军中，有许多现在已经向维尔帝进发了，"
 "但即使剩下的一小部分也足以对付我们这支疲惫的队伍。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1226
-#, fuzzy
 msgid ""
 "I agree, yet all is strangely quiet. Perhaps the remaining undead lie "
 "dormant? If we take time to capture villages and rebuild our forces, we may "
 "yet be able to reclaim this place."
 msgstr ""
-"我同意，但一切奇怪地安静。也许剩下的亡灵处于休眠状态？如果我们花时间占领村庄"
+"我同意，但一切出奇地安静。也许剩下的亡灵处于休眠状态？如果我们花时间占领村庄"
 "并重建我们的力量，或许我们还能夺回这个地方。"
 
 #. [objective]: condition=win
@@ -8629,11 +8621,9 @@ msgstr "这个人看来已经死去大约一个月了。奇怪的是他的尸体
 msgid "There is a journal here, still intact despite the swamp."
 msgstr "这里有一本日记，尽管在沼泽地带，仍然完好无损。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=unit
 #. Reading from a dead horseman's journal. This is a warning to the player that there's a Skeletal Dragon in the scenario.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1535
-#, fuzzy
 msgid ""
 "<i>... we thought the enemy had erred, that the battle could yet be won. "
 "Taking advantage of the gap, our swiftest riders drove toward the exposed "
@@ -8645,18 +8635,16 @@ msgid ""
 "claw and wing. Then it fell upon us from behind, and the enemy closed their "
 "ranks, and we were encircled by death.</i>"
 msgstr ""
-"……我们曾以为敌人犯了错误，认为战斗仍有获胜的希望。利用这一空隙，我们的最快骑"
-"兵向敌人的骨骼阵型核心发起了冲击。然而，在他们对死灵法师阵营造成破坏的同时，"
-"从水中传来一阵巨大的震动，仿佛伊尔迪亚女神自己也因病态的期待而颤抖。\n"
+"<i>……我们曾以为敌人犯了错误，认为战斗仍有获胜的希望。利用这一间隙，我们最快的"
+"骑兵向敌人骨骼阵型的核心发起了冲击。然而，在他们对死灵法师阵营造成破坏的同"
+"时，从水中传来一阵巨大的震动，仿佛伊迪亚自己也因病态的期待而颤抖。\n"
 "\n"
 "片刻之间，我瞥见了一个庞大的骨骸形体，一团由牙齿、爪子和翅膀组成的蹒跚生物。"
-"然后它从后方向我们扑来，敌人迅速合拢了阵型，我们将被死亡包围。"
+"然后它从后方向我们扑来，敌人迅速合拢了阵型，我们被死亡包围了。</i>"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=unit
 #. Reading more from the dead horseman's journal, whose corpse prompted the "odd that his body didn't become undead" comment.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1542
-#, fuzzy
 msgid ""
 "<i>I fled, coward that I am, riding breakneck through the night before my "
 "injuries overcame my strength. And so it comes that I have earned no "
@@ -8666,11 +8654,11 @@ msgid ""
 "I offer one final prayer to the Light, that at least my family may be spared "
 "and that my soul may be kept from undeath...</i>"
 msgstr ""
-"我逃离了，作为一个懦夫，在受伤之前拼命地骑着马穿过夜晚。因此，我没有在战场上"
-"获得光荣的死亡，而是被腐烂和毒药带来的疲惫和高烧所困。\n"
+"<i>我逃离了，作为一个懦夫，在伤势压制我的力量之前拼命地骑着马穿过夜晚。因此，"
+"我没有在战场上获得光荣的死亡，而是被腐烂和毒药带来的疲惫和高烧所困。\n"
 "\n"
 "我向光明献上最后的祈祷，希望至少我的家人能够免受苦难，并且我的灵魂不会变成亡"
-"灵……"
+"灵……</i>"
 
 #. [message]: speaker=Sir Seoraery
 #. no-one sends a messenger, he's talking about memories from before he died
@@ -8714,10 +8702,8 @@ msgstr "…我宁愿……死去……也不愿向你屈服……死灵法师。
 msgid "... Lich, you do not belong here... leave, or I shall... rend you..."
 msgstr "……巫妖，你不属于这里……离开，否则我将……撕碎你……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1741
-#, fuzzy
 msgid ""
 "Is that... an undead dragon? Dear Light! Raising such a powerful thrall must "
 "have been no small feat, even for a necromancer such as Mal-Ravanal."
@@ -8725,16 +8711,12 @@ msgstr ""
 "那是……一只亡灵巨龙吗？天啊！即使是玛尔-拉瓦纳尔这样的死灵法师，也很难驾驭如此"
 "强大的奴役生物。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1745
-#, fuzzy
 msgid ""
 "Even a living dragon is nothing but flesh. This feeble imitation lacks even "
 "that. Smash it to pieces."
-msgstr ""
-"即使是活着的龙也不过是血肉之躯，这个脆弱的仿制品甚至连这也没有。将它砸得粉"
-"碎。"
+msgstr "即使是活着的龙也不过是血肉之躯，这个脆弱的仿品甚至连这也没有。砸碎它。"
 
 #. [message]: speaker=unit
 #. undead dragon, again talking to a memory rather than anyone currently on the map
@@ -9221,10 +9203,8 @@ msgstr ""
 "我的故事和外貌无关紧要。重要的是我知道如何击败这些入侵者。唯一通往胜利的道路"
 "是斩首行动。玛尔-拉瓦纳尔，你们曾经知道的法师莱文，必须被摧毁。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:910
-#, fuzzy
 msgid ""
 "You think we haven’t tried?! Our best mages struck down that infernal lich "
 "at great cost to their number, but within seconds, Mal-Ravanal had already "
