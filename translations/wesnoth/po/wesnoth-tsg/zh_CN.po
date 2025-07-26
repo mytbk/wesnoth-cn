@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-26 19:01+0800\n"
+"PO-Revision-Date: 2025-07-26 20:04+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -434,12 +434,10 @@ msgstr "嘿，这刺靶还敢还手！我可不会输给这个假人——再让
 msgid "Nice try, but you used up your turn attacking the quintain. The quintain now gets to attack."
 msgstr "\"漂亮尝试，但你小子把回合浪费在刺草人上了。现在该草人反击了。\""
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3-0324:free.
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:441
-#, fuzzy
 msgid "The <i>dummy</i> gets a turn?"
-msgstr "这<i>傻瓜</i>还能轮到他说话？"
+msgstr "这<i>假人</i>还能有回合？"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3-0324:free.
 #. [message]: speaker=Mari
@@ -544,29 +542,23 @@ msgstr "征募一些战士"
 msgid "Good, I’m on the keep. If I press <b>Ctrl+R</b>, I can recruit new soldiers to help fight."
 msgstr "很好，我已经在城堡了。按下<b>Ctrl+R</b>键就能招募新兵协助作战。"
 
-# Translated by openrouter with model qwen/qwen3-8b:free.
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:621
-#, fuzzy
 msgid "At your service, Commander Deoran! You’ll need to wait until next turn before I can move or attack. I suggest you keep recruiting more soldiers!"
-msgstr "德欧兰指挥官，我效忠于您！不过您得等下一回合才能让我行动或攻击。建议您赶紧招兵买马！"
+msgstr "德欧兰指挥官，我效忠于您！不过您得等下一回合，我才能行动或攻击。建议您继续征募更多的士兵！"
 
-# Translated by openrouter with model qwen/qwen3-8b:free.
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:640
-#, fuzzy
 msgid "The quintain is healing itself! Come on men, let’s go finish it off!"
-msgstr "五重轮正在自我修复！伙计们，继续推进，把它彻底解决掉！"
+msgstr "刺靶正在自我修复！伙计们继续，把它解决掉！"
 
-# Translated by openrouter with model qwen/qwen3-8b:free.
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:644
-#, fuzzy
 msgid ""
 "In addition to the +8 healing provided by a village, units will also regenerate 2 hitpoints if they spend their turn resting: neither moving nor fighting.\n"
 "\n"
 "This “rest-healing” stacks with village healing."
-msgstr "除了村庄提供的+8治疗，单位在休整回合（静止不动、不参与战斗）还能恢复2点生命值。这叫“战术性停战”，跟村庄治疗效果可以叠加——不过建议别拿它跟敌方谈判，毕竟咱可不擅长外交。"
+msgstr ""
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3-0324:free.
 #. [objective]: condition=win
@@ -581,12 +573,10 @@ msgstr "摧毁玛芮的刺靶"
 msgid "...he’s fine. Just out cold, and of no use to you for the rest of our journey."
 msgstr "...他还活着。只是晕过去了，接下来的路程怕是帮不上忙了。"
 
-# Translated by openrouter with model qwen/qwen3-8b:free.
 #. [message]: speaker=second_unit
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:684
-#, fuzzy
 msgid "Hooray! The dummy is destroyed, and I have gained 8 experience!"
-msgstr "好家伙！那靶子终于报销了，我这经验值又涨了8点！"
+msgstr "好家伙！那假人终于被摧毁了，我这经验值又涨了8点！"
 
 # Translated by openrouter with model qwen/qwen3-8b:free.
 #. [message]
@@ -657,12 +647,10 @@ msgstr "你以为我们是傻瓜吗？我奉命南下支援西顿威名赫赫的
 msgid "The only danger around here is you, and I intend to put an end to it. Men, raise your spears!"
 msgstr "你才是这儿唯一的威胁，我打算终结它。士兵们，举起你们的矛！"
 
-# Translated by openrouter with model qwen/qwen3-8b:free.
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:801
-#, fuzzy
 msgid "Hah, like it would be that easy, child. I’m Urza Mathin, eldest of the four Uzra brothers, and these are my thugs. Time to show you who the real power is in these parts!"
-msgstr "哼，小家伙，你以为这就容易？我是Urza Mathin，乌兹拉四兄弟的长兄，这群杂兵就是我的铁卫。现在，让你们见识下这带谁才是真正的主宰！"
+msgstr "哼，小家伙，你以为那么容易？我是乌扎·马辛，乌扎四兄弟的长兄，这些是我的暴徒。现在，让你们见识下这带谁才是真正的主宰！"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:810
@@ -679,20 +667,15 @@ msgstr "击败乌扎·马辛"
 msgid "Death of Deoran"
 msgstr "德欧兰死亡"
 
-# Translated by openrouter with model qwen/qwen3-8b:free. Original text: Death
-# of Deoran
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:818
-#, fuzzy
 msgid "Death of Mari"
-msgstr "玛芮的终结"
+msgstr "玛芮死亡"
 
-# Translated by openrouter with model qwen/qwen3-8b:free.
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:848
-#, fuzzy
 msgid "Are you going to help fight? We must drive these villains from the road!"
-msgstr "你准备参战吗？我们必须把这些敌人彻底清除出道路！"
+msgstr "你准备参战吗？我们必须把这些敌人驱逐出道路！"
 
 # Translated by openrouter with model qwen/qwen3-8b:free.
 #. [message]: speaker=Mari
@@ -709,10 +692,8 @@ msgstr "我名义上只是个观察员。这些杂牌军看起来也不像什么
 msgid "Besides, it only took $quintain_killers.length of you to deal with my dummy. What’s a dozen muscly bandits compared to that?"
 msgstr "再说了，你们三五个人就能处理我的替身。十几个肌肉发达的匪徒算什么？"
 
-# Translated by openrouter with model qwen/qwen3-8b:free.
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:866
-#, fuzzy
 msgid "Oh, <i><b>now</b></i> you want my help? I thought you were too clever to listen to my tutorial."
 msgstr "哦，<i><b>现在</b></i>才想起要我帮忙？我以为你够聪明，连我的教学都懒得听。"
 
@@ -2212,10 +2193,8 @@ msgstr ""
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:401
-#, fuzzy
-#| msgid "Please, please, just hear me out. I know of these undead that you seek, and I know that you seek to destroy both them and us out of revenge. I am sorry my brothers attacked you. It was never my intention to cause everyone so much suffering."
 msgid "Please, please, jus’ hear me out. I knows my men and I’ve done evil, and I knows that you seek to destroy us out o’ revenge. Ah’m sorry my brothers attacked you. It was never my intention to cause everyone so much sufferin’."
-msgstr "求你们了，求你们了，请听我说。我认识你们在找的这些亡灵，我也知道你们为了报复，要消灭他们还有我们。我很抱歉我的兄弟们袭击了你们。我从来没打算给人们带来如此多的痛苦。"
+msgstr "求你们了，求你们了，请听我说。我知道我和我的人干了邪恶的事，我也知道你们为了报复，要消灭我们。我很抱歉我的兄弟们袭击了你们。我从来没打算给人们带来如此多的痛苦。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:409
@@ -2268,13 +2247,14 @@ msgstr "（德欧兰爵士，有着强大力量而年长的贤者和秘术师往
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:438
-#, fuzzy
-#| msgid "We have committed wrongdoings in the past, but at least in the fight against the undead, we can be your friends! They are as much our enemies as they are yours, and we know the secrets of their lair and their powers. We can be of great aid in your battle against them!"
 msgid ""
 "I knows I’m a criminal. My men and I have committed wrongdoin’s in the past, but at least in the fight against the undead, we can be your friends! They’re as much our enemies as they’re yours!\n"
 "\n"
 "If ye spare my life and the lifes of m’ followers, I promise we’ll fight loyally by your side forevermore. Cross me heart and hope to die, I do."
-msgstr "我们过去做了错事，但至少在与亡灵的斗争中，我们可以成为你的朋友！他们既是我们的敌人, 也是你们的敌人，而我们知道他们巢穴和力量的秘密。我们可以在你们与他们的战斗中提供很大的帮助！"
+msgstr ""
+"我知道我是个罪犯。我和我的人过去做了错事，但至少在与亡灵的斗争中，我们可以成为你的朋友！他们既是我们的敌人, 也是你们的敌人！\n"
+"\n"
+"如果你放过我和我的追随者，我保证我们将永远忠诚地与你并肩作战。即使死去，我也愿意。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:444
@@ -3262,29 +3242,23 @@ msgstr ""
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:442
-#, fuzzy
-#| msgid "We will never forget your sacrifice here. Thank you, my friend."
 msgid "We’ll never forget your sacrifice here. Thank you, my friend."
-msgstr "我们永远不会忘记你们在此处的牺牲。谢谢，我的朋友。"
+msgstr "我们永远不会忘记你在此处的牺牲。谢谢你，我的朋友。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:463
 msgid "Protect Captain Mari as long as possible"
-msgstr ""
+msgstr "尽可能让玛芮队长活得更久"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:470
-#, fuzzy
-#| msgid "Hold the line: keep Sir Gerrick alive as long as possible"
 msgid "Protect Sir Gerrick as long as possible"
-msgstr "坚守防线：尽可能让格里克爵士活得更久"
+msgstr "尽可能让格里克爵士活得更久"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:477
-#, fuzzy
-#| msgid "Hold the line: keep Sir Gerrick alive as long as possible"
 msgid "Protect Minister Hylas as long as possible"
-msgstr "坚守防线：尽可能让格里克爵士活得更久"
+msgstr "尽可能让海拉斯辅佐官活得更久"
 
 #. [note]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:488
@@ -3375,10 +3349,8 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:705
-#, fuzzy
-#| msgid "Pesky little humans! You have only delayed the inevitable. We will sweep through your cities and raze them to the ground! March onward, my skeletons! We go to destroy Westin!"
 msgid "Pesky little humans! You may have delayed me, but my victory is inevitable. March onward, my skeletons! We’ll sweep through Westin and raze it to the ground!"
-msgstr "可怜的渺小人类！你们只是推迟了不可避免之事。我们将横扫你们的城市，将它们夷为平地！进军，我的骷髅们！我们去摧毁韦斯廷！"
+msgstr "可怜的渺小人类！你们可能拖延了我，但我的胜利是不可避免的。前进吧，我的骷髅们！我们将横扫韦斯廷，把它夷为平地！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:719
