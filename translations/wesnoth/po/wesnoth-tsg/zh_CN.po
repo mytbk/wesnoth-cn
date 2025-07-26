@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-21 13:55+0800\n"
+"PO-Revision-Date: 2025-07-26 19:01+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -184,19 +184,15 @@ msgstr "场景5a：急行军"
 msgid "Defeat any enemy leader in <i>Pebbles in the Flood</i>."
 msgstr "在<i>狂洪危卵</i>中击败任意敌方首领。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3-0324:free.
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:24
-#, fuzzy
 msgid "Scenario 5b: Probably Improbable"
-msgstr "第五幕b：似不可能"
+msgstr "场景5b：似不可能"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3-0324:free.
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:25
-#, fuzzy
 msgid "Complete the campaign after playing <i>Into the Depths</i>."
-msgstr "在完成《深入深渊》战役后通关本战役。"
+msgstr "在打完<i>深入地下</i>之后完成战役。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:25
@@ -313,13 +309,11 @@ msgstr "零维护费"
 msgid "Lieutenant Deoran, reporting for duty SIR! ...err, ma’am."
 msgstr "德欧兰少尉前来报到，长官！...呃，女士。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3-0324:free.
 #. [message]: speaker=Mari
 #. "academy" refers to some sort of Wesnoth military academy
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:156
-#, fuzzy
 msgid "Relax, Lieutenant. Fresh from the academy, are we?"
-msgstr "放轻松点，中尉。刚从军事学院毕业是吧？"
+msgstr "放轻松点，尉官。刚从军事学院毕业，是吧？"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3-0324:free.
 #. [message]: speaker=Deoran
@@ -4109,10 +4103,8 @@ msgstr "战争之潮"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:385
-#, fuzzy
-#| msgid "Look there! The undead have broken through Sir Gerrick’s line! Alas, he is lost!"
 msgid "Look there! The undead army has broken through Captain Mari’s lines! I had almost dared to hope... but alas, she is lost."
-msgstr "看那边！亡灵已经突破格里克爵士的防线了！唉，他牺牲了！"
+msgstr "看那边！亡灵军队已经突破玛芮队长的防线了！我几乎不敢奢望……但是唉，她牺牲了。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:389
@@ -4142,10 +4134,8 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:402
-#, fuzzy
-#| msgid "So, this is it. Sir Gerrick has bought us enough time to rally our forces and fortify the city. A mighty battle is upon us, but as surely as the dawn breaks after every night, the courage and valor of men will prevail over the wicked creatures of darkness. We must stand fast against the undead and defend our homes! We fight for Sir Gerrick! We fight for Wesnoth!"
 msgid "Captain Mari bought us time — I only hope it was enough. A mighty battle is upon us, but as surely as the dawn breaks after every night, the courage and valor of men will prevail over the wicked creatures of darkness."
-msgstr "那么，现状就是如此。格里克爵士给我们赢得了足够的时间来集结部队并加固城市。一场大战即将到来，但正如每个夜晚都将迎来破晓，人类的勇气和坚毅必将战胜邪恶的黑暗生物。我们必须勇敢地面对亡灵，并保卫我们的家园！我们为格里克爵士而战！我们为韦诺而战！"
+msgstr "玛芮队长给我们赢得了时间——我希望这是足够的。一场大战即将到来，但正如每个夜晚都将迎来破晓，人类的勇气和坚毅必将战胜邪恶的黑暗生物。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:406
@@ -4156,10 +4146,8 @@ msgstr ""
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:416
-#, fuzzy
-#| msgid "Look there! The undead have broken through Sir Gerrick’s line! Alas, he is lost!"
 msgid "Look there! The undead army has broken through Sir Gerrick’s lines! I had almost dared to hope... but alas, he is lost."
-msgstr "看那边！亡灵已经突破格里克爵士的防线了！唉，他牺牲了！"
+msgstr "看那边！亡灵军队已经突破格里克爵士的防线了！我几乎不敢奢望……但是唉，他牺牲了。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:420
@@ -4183,17 +4171,13 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:433
-#, fuzzy
-#| msgid "So, this is it. Sir Gerrick has bought us enough time to rally our forces and fortify the city. A mighty battle is upon us, but as surely as the dawn breaks after every night, the courage and valor of men will prevail over the wicked creatures of darkness. We must stand fast against the undead and defend our homes! We fight for Sir Gerrick! We fight for Wesnoth!"
 msgid "Sir Gerrick bought us time — I only hope it was enough. A mighty battle is upon us, but as surely as the dawn breaks after every night, the courage and valor of men will prevail over the wicked creatures of darkness."
-msgstr "那么，现状就是如此。格里克爵士给我们赢得了足够的时间来集结部队并加固城市。一场大战即将到来，但正如每个夜晚都将迎来破晓，人类的勇气和坚毅必将战胜邪恶的黑暗生物。我们必须勇敢地面对亡灵，并保卫我们的家园！我们为格里克爵士而战！我们为韦诺而战！"
+msgstr "格里克爵士给我们赢得了时间——我希望这是足够的。一场大战即将到来，但正如每个夜晚都将迎来破晓，人类的勇气和坚毅必将战胜邪恶的黑暗生物。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:447
-#, fuzzy
-#| msgid "Look there! The undead have broken through Sir Gerrick’s line! Alas, he is lost!"
 msgid "Look there! The undead army has broken through Minister Hylas’s lines! I had almost dared to hope... but alas, he is lost."
-msgstr "看那边！亡灵已经突破格里克爵士的防线了！唉，他牺牲了！"
+msgstr "看那边！亡灵军队已经突破海拉斯辅佐官的防线了！我几乎不敢奢望……但是唉，他牺牲了。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:451
@@ -4222,24 +4206,18 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:464
-#, fuzzy
-#| msgid "So, this is it. Sir Gerrick has bought us enough time to rally our forces and fortify the city. A mighty battle is upon us, but as surely as the dawn breaks after every night, the courage and valor of men will prevail over the wicked creatures of darkness. We must stand fast against the undead and defend our homes! We fight for Sir Gerrick! We fight for Wesnoth!"
 msgid "Minister Hylas bought us time — I only hope it was enough. A mighty battle is upon us, but as surely as the dawn breaks after every night, the courage and valor of men will prevail over the wicked creatures of darkness."
-msgstr "那么，现状就是如此。格里克爵士给我们赢得了足够的时间来集结部队并加固城市。一场大战即将到来，但正如每个夜晚都将迎来破晓，人类的勇气和坚毅必将战胜邪恶的黑暗生物。我们必须勇敢地面对亡灵，并保卫我们的家园！我们为格里克爵士而战！我们为韦诺而战！"
+msgstr "海拉斯辅佐官给我们赢得了时间——我希望这是足够的。一场大战即将到来，但正如每个夜晚都将迎来破晓，人类的勇气和坚毅必将战胜邪恶的黑暗生物。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:502
-#, fuzzy
-#| msgid "So, the fleshbags have managed to mount a defense. It would seem that the pesky fly turned out to be more than a minor annoyance after all."
 msgid "So, the fleshbags have managed to mount a defense. I would seem that the pesky fly turned out to be more than a minor annoyance after all."
 msgstr "这么说，肉袋们居然成功搞出了像样的防守。看来，讨厌的苍蝇终究并不是只有一点儿烦人啊。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:506
-#, fuzzy
-#| msgid "Slay them all! Even if we sustain heavy losses here, the city’s inhabitants will be more than enough to replenish our ranks."
 msgid "No matter. Slay them all, my servants! Even if we sustain losses here, the town’s inhabitants will be more than enough to replenish our ranks."
-msgstr "把他们都杀了！即使我们在这里遭受重大损失,，城市的居民也足以补充我们的队伍。"
+msgstr "没关系。把他们都杀了，我的仆从！即使我们在这里遭受损失,，镇上的居民也足以补充我们的队伍。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:518
@@ -4263,15 +4241,11 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:556
-#, fuzzy
-#| msgid "The shroud of darkness descends once more. Night seeps through the cracks and crannies in the humans’ defenses, plaguing their minds and bodies with dreadful fear. As surely as the sanctity of the psyche is shattered, so is the physical form, and all that is left is unthinking, unfeeling servitude."
 msgid "The shroud of darkness descends once more. Night seeps through the cracks and crannies in the humans’ defenses, plaguing their minds and bodies with dreadful fear. As surely as the sanctity of the psyche is shattered, so is the physical form, and all that’s left is unthinking, unfeeling servitude."
 msgstr "黑幕再次落下。黑夜从人类防线的裂缝和缝隙中渗入，用可怕的恐惧折磨他们的身心。就像心灵的尊严必会粉碎一般，他们的物理形态也会粉碎，剩下的只有毫无思想，毫无知觉的奴役。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:560
-#, fuzzy
-#| msgid "We do not fear your unholy power, lich. We will not succumb to your dark magics and we will not be turned into your undead slaves."
 msgid "We don’t fear your unholy power, lich. We won’t succumb to your dark magics and we won’t be turned into your undead slaves."
 msgstr "我们不怕你不圣的力量，巫妖。我们不会屈服于你们的黑暗魔法，也不会变成你的亡灵奴隶。"
 
@@ -4282,10 +4256,8 @@ msgstr "你愿意信什么就信什么吧，人类。我们来看看你是不是
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:571
-#, fuzzy
-#| msgid "Dawn breaks over the horizon! We have weathered the night and can now begin our counterattack against the undead!"
 msgid "Dawn breaks over the horizon! We’ve weathered the nighttime attack!"
-msgstr "黎明已在地平线之上了！我们已经坚持度过了夜晚，现在可以开始对亡灵的反击了！"
+msgstr "黎明已在地平线之上了！我们已经熬过了夜间的攻击了！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:648
@@ -4304,22 +4276,16 @@ msgstr "蠢小子，你高估了这些你称为士兵的衰老农民的力量。
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:685
-#, fuzzy
-#| msgid "So, you have defeated my lackey. A great accomplishment, for ones so pitiful."
 msgid "So, you’ve defeated my lackey. A great accomplishment, for ones so pitiful."
 msgstr "那你们打败了我的走狗。对于你们这样可怜的人来说，这真是伟大的成就。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:689
-#, fuzzy
-#| msgid "What is truly pitiful is the plight you have put yourself in, once wise sage of the elves. You have fallen to the black arts, twisted and corrupted by its use. Though you and your undead have ravaged our lands with your profane sorceries, I feel nothing but pity for the shambling shell you have become. Perhaps I can take solace in putting you out of your misery."
 msgid "What’s truly pitiful is the plight you’ve put yourself in, once wise sage of the elves. You’ve fallen to the black arts, twisted and corrupted by its use. Though you and your undead have ravaged our lands with your profane sorceries, I feel nothing but pity for the shambling shell you’ve become. Perhaps we can take solace in putting you out of your misery."
-msgstr "真正可怜的是你。你曾经是充满智慧的精灵贤者，但却让自己陷入如今的困境之中。你已经倒向了黑魔法，由于使用它而扭曲堕落。虽然你和你的亡灵用你亵渎的巫术蹂躏了我们的土地，但我却只觉得已然成为步履蹒跚的空壳的你很是可怜。也许让你摆脱痛苦，可以让我感到慰藉吧。"
+msgstr "真正可怜的是你。你曾经是充满智慧的精灵贤者，但却让自己陷入如今的困境之中。你已经倒向了黑魔法，由于使用它而扭曲堕落。虽然你和你的亡灵用你亵渎的巫术蹂躏了我们的土地，但我却只觉得已然成为步履蹒跚的空壳的你很是可怜。也许让你摆脱痛苦，可以让我们感到慰藉吧。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:693
-#, fuzzy
-#| msgid "How little you understand. Such pompous words do not befit such an ignorant boy. Your foolish babble means nothing in the face of my insurmountable power! Rise, my warriors!"
 msgid "How little you understand. Such pompous words don’t benefit such an ignorant boy. Your foolish babble means nothing in the face of my insurmountable power! Rise, my warriors!"
 msgstr "你又明白什么。这样浮夸的话不适合你这样无知的小子。面对我不可逾越的力量，你愚蠢的胡言乱语毫无意义！起来，我的武士们！"
 
@@ -4350,17 +4316,13 @@ msgstr ""
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:817
-#, fuzzy
-#| msgid "Surely you see it! Take a good look at yourself! Your servants are abominations worse than any human. They stink of death, and tainted magic, and... and corruption! Even you! Mebrin... you were the kindest and gentlest of the sages. How could you become something like this? Mebrin, answer me!"
 msgid "You’ve become <b><i>evil</i></b>, Mebrin. Surely you see it! Take a good look at yourself! Your servants are abominations worse than any human. They stink of death, tainted magic and... and corruption! Even you! Mebrin... you were the kindest and gentlest of the sages..."
-msgstr "您肯定明白的！好好看看您自己！您的仆人是比任何人都可恶的怪物。他们浑身散发着死亡和腐败魔法的气息, 还有……还有堕落的气息！甚至您也是！梅布林……您曾是贤者里最善良、最温柔的。您怎么会变成这样？梅布林，回答我！"
+msgstr "您已经变得<b><i>邪恶</i></b>，梅布林。您肯定明白的！好好看看您自己！您的仆人是比任何人都可恶的怪物。他们浑身散发着死亡和腐败魔法的气息, 还有……还有堕落的气息！甚至您也是！梅布林……您曾是贤者里最善良、最温柔的……"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:821
-#, fuzzy
-#| msgid "No... No. The sage Mebrin is dead. You are not the master I once revered. I will cleanse your soul and put you to rest, my beloved teacher."
 msgid "No, the sage Mebrin is dead. You’re not the master I once revered. I have come to cleanse your soul and put you to rest, my beloved teacher."
-msgstr "不……不。贤者梅布林已经死了。你不是我曾经尊敬的导师。我要清洗你的灵魂，让你安息，我亲爱的老师。"
+msgstr "不，贤者梅布林已经死了。你不是我曾经尊敬的导师。我要清洗你的灵魂，让你安息，我亲爱的老师。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:825
@@ -4374,38 +4336,28 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:942
-#, fuzzy
-#| msgid "Join me! Stand by my side! We shall rise and eradicate the humans from the green world. Their corpses will serve us! Their bones will dance for our pleasure! We will make them into the mindless slaves that they deserve to be!"
 msgid "Why do you aid these fools, Ethiliel? Join me! Stand by my side! The race of man shall be stricken off the face of the green world. Their corpses will serve us! Their bones will dance for our pleasure! We’ll make humanity into the mindless slaves that they all deserve to be!"
-msgstr "加入我吧！站在我这边！我们会崛起，将人类从绿色的世界上清除。他们的尸体将为我们服务！他们的骸骨将为我们起舞！我们会把他们变成没有心智的奴隶，正如他们应得的那样！"
+msgstr "你为什么要帮助这些蠢货，艾茜莉尔？加入我吧！站在我这边！人类将要从绿色的世界上被清除。他们的尸体将为我们服务！他们的骸骨将为我们起舞！我们会把他们变成没有心智的奴隶，正如他们全部应得的那样！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:946
-#, fuzzy
-#| msgid "And when that is done, what will we have become? Naught but hungering shadows, devouring all we once cherished."
 msgid "And when that’s done, what will us elves have become? Naught but hungering shadows, devouring all we once cherished."
-msgstr "但当我们做完这一切，我们会变成什么？除了饥渴的暗影之外什么都不是，我们会吞噬我们曾经珍爱的一切。"
+msgstr "但当我们做完这一切，我们精灵会变成什么？除了饥渴的暗影之外什么都不是，我们会吞噬我们曾经珍爱的一切。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:950
-#, fuzzy
-#| msgid "Even a mere human can see that you have become a mockery of all that you once believed in. I will destroy you and bury your perverse ideals, even if it costs me my own life!"
 msgid "Even a mere human can see that you have become a mockery of all that you once believed in, Mebrin of the elves. We will destroy you and bury your perverse corruption!"
-msgstr "甚至只是身为人类的我都能看出，你变成现在的样子，正嘲讽着对自己曾经信仰的一切。我将会消灭你，并埋葬你堕落的理念。哪怕会付出生命的代价！"
+msgstr "甚至只是身为人类的我都能看出，你变成现在的样子，正嘲讽着对自己曾经信仰的一切，精灵中的梅布林。我将会消灭你，并埋葬你堕落的腐化！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:954
-#, fuzzy
-#| msgid "You? Destroy me? Your flesh will provide a fine feast for my ghouls, and once they are through with you, you will serve me forever in undeath!"
 msgid "Ethiliel I respect, but you? Destroy me? Your man-flesh will provide a fine feast for my ghouls, and once they’re through, your bones will serve me forever in undeath!"
-msgstr "你？消灭我？你的血肉将为我的食尸鬼提供一顿盛宴, 一旦他们把你吃干抹净，你就会成为亡灵，永远为我服务！"
+msgstr "我尊敬艾茜莉尔，但你？消灭我？你们人类的血肉将为我的食尸鬼提供一顿盛宴, 一旦他们把你吃干抹净，你就会成为亡灵，永远为我服务！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:970
-#, fuzzy
-#| msgid "Fools! Imbeciles! You humans are a worthless blight upon this wretched world! I must purge you all— I must destroy all who live... I must..."
 msgid "Fools! Imbeciles! You humans are a worthless blight upon this wretched world! I must purge you all — I must take revenge on all your race... I must..."
-msgstr "傻瓜！蠢货！你们人类在这不幸的世界上是一文不值的疫病！我必须清除你们所有人——我必须消灭所有活人……我必须……"
+msgstr "傻瓜！蠢货！你们人类在这不幸的世界上是一文不值的疫病！我必须清除你们所有人——我必须对你们种族的所有人复仇……我必须……"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:978
@@ -4419,22 +4371,16 @@ msgstr "终于，成功了。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1005
-#, fuzzy
-#| msgid "Ethiliel! Wait... think about it! Think of everything you are throwing away! We could build an empire together, where the humans are our slaves and you and I are the immortal rulers of the world!"
 msgid "Wait! Ethiliel... think about it! Think of everything you’re throwing away! We could build an empire together, where the humans are our slaves and you and I are the immortal rulers of the world!"
-msgstr "艾茜莉尔！等等……仔细想想！想想你正抛弃的一切！我们可以一起建立一个帝国，在那里人类是我们的奴隶, 而你和我是世界的不朽统治者！"
+msgstr "等等！艾茜莉尔……仔细想想！想想你正抛弃的一切！我们可以一起建立一个帝国，在那里人类是我们的奴隶，而你和我是世界的不朽统治者！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1009
-#, fuzzy
-#| msgid "It would only be an empire of misery, Mebrin. I wish it had not come to this, but you have been corrupted beyond saving. Still, I will fondly cherish the memories I had with the old you."
 msgid "It would only be an empire of misery, Mebrin. I wish it hadn’t come to this, but you’ve been corrupted beyond saving. Still, I’ll fondly cherish the memories I had with the old you."
 msgstr "那只会是一个充满苦难的帝国，梅布林。我希望事态不会发展到这地步，但你已经被彻底腐蚀，无法救赎了。不过，我还是会珍惜我和过去的你的回忆。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1013
-#, fuzzy
-#| msgid "You wouldn’t dare strike me! I am the darkness incarnate! I am your master! You will obey me!"
 msgid "You wouldn’t dare strike me! I’m the darkness incarnate! I’m your master! You’ll obey me!"
 msgstr "你不敢攻击我！我是黑暗的化身！我是你的导师！你会服从我的！"
 
@@ -4745,10 +4691,8 @@ msgstr "步兵指挥官"
 
 #. [unit_type]: id=Cage, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Cage.cfg:5
-#, fuzzy
-#| msgid "Enraged Elves"
 msgid "Caged Elf"
-msgstr "愤怒的精灵"
+msgstr "笼中精灵"
 
 #. [unit_type]: id=Cage, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Cage.cfg:10
@@ -4840,11 +4784,14 @@ msgid ""
 "\n"
 "<big>Click a mouse button or press the spacebar to continue...</big>"
 msgstr ""
+"\n"
+"\n"
+"<big>点击一个鼠标键或者按空格以继续……</big>"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/savescumming.cfg:116
 msgid "Save-Loading and RNG"
-msgstr ""
+msgstr "S/L大法和随机数生成器"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/savescumming.cfg:118
@@ -4876,10 +4823,8 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:109
-#, fuzzy
-#| msgid "Death of Deoran"
 msgid "Death of Deoran or Captain Mari"
-msgstr "德欧兰死亡"
+msgstr "德欧兰或玛芮队长死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:116
@@ -4894,7 +4839,7 @@ msgstr "德欧兰或海拉斯辅佐官死亡"
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:130
 msgid "Death of Deoran, Captain Mari, or Ethiliel"
-msgstr ""
+msgstr "德欧兰，玛芮队长或艾茜莉尔死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:137
@@ -4949,7 +4894,7 @@ msgstr "撤销"
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:25
 msgid "Tip: Press “u” if you ever want to undo a move. Attacks cannot be undone."
-msgstr ""
+msgstr "提示：如果你需要撤销一次移动，请按 \"u\" 键。攻击无法撤销。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:74
@@ -5015,10 +4960,8 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:287
-#, fuzzy
-#| msgid "Our weapons are useless against these skeletons! They have nothing for our shafts to pierce but air!"
 msgid "Our bows and spears are nearly useless against these skeletons! They have nothing for our shafts to pierce but air!"
-msgstr "我们的武器对这些骷髅没什么用！我们的箭除了空气什么都射不到！"
+msgstr "我们的弓和矛对这些骷髅几乎没么用！我们的箭除了空气什么都射不到！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:291
@@ -5141,13 +5084,14 @@ msgstr ""
 #. [part]
 #. Intro to scenario 4
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:8
-#, fuzzy
-#| msgid "Ethiliel led the men of the South Guard into the southern forest. The deep woods were overcast with unnatural shadow as they entered, shrouded with eerie silence and uncanny stillness. Grey darkness sapped all color from their surroundings, rendering all murky and gloomy, with every movement and every sound muted in the thick fog. Deoran’s small company kept vigilant watch on the dense forest and on each other, wary of the foreboding ambience, and even the elves seemed rather disconcerted."
 msgid ""
 "Ethiliel led the South Guard through the southern forest. The deep woods became overcast with unnatural shadow as they traveled, shrouded with eerie silence and uncanny stillness. Grey darkness sapped all color from their murky surroundings, with every movement and sound muted in the thick fog. Their small company kept vigilant watch on the dense forest and on each other, wary of the foreboding ambience.\n"
 "\n"
 "Finally, Ethiliel told them to halt and pitch camp — they had reached the Black River, beyond which no elf or man would willingly pass."
-msgstr "艾茜莉尔带领南疆卫队的人们进了南方森林。当他们进入之时，这幽深的丛林笼罩在不自然的阴影、诡异的寂静和离奇的静止之中。灰蒙蒙的黑暗挤走了周遭的色彩，使一切都变得模糊而阴郁。每一个动作、每一点声响都在浓雾中静默了。德欧兰的小部队互相关照着，对茂密的森林保持着警惕，提防着这不详的气氛，甚至精灵们似乎也相当不安。"
+msgstr ""
+"艾茜莉尔带领南疆卫队穿过南方森林。当他们行进之时，这幽深的丛林笼罩在不自然的阴影、诡异的寂静和离奇的静止之中。灰蒙蒙的黑暗挤走了周遭的色彩，使一切都变得模糊而阴郁。每一个动作、每一点声响都在浓雾中静默了。他们的小部队互相关照着，对茂密的森林保持着警惕，提防着这不详的气氛。\n"
+"\n"
+"最后，艾茜莉尔让他们停下来扎营——他们已经到了黑河，没有精灵或人类愿意越过这条河。"
 
 #. [part]
 #. Intro to scenario 5
@@ -5170,13 +5114,14 @@ msgstr ""
 #. [part]
 #. Intro to scenario 5b
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:48
-#, fuzzy
-#| msgid "Snow fell as Deoran, Sir Gerrick, and Urza Afalas emerged from the great southern forest. Yet even as they returned to the land of men, the ominous gloom of the forest followed them. Up above, the bright sun was shrouded with grey fog, overcast with billowing clouds streaking through the sky in streams of darkened ash. Behind, the crepuscular shadow spread outward from the forest, an unnatural extension of the powers that lay within. It gained quickly upon them, the sinister darkness creeping toward the men of the South Guard."
 msgid ""
 "Harried by an increasingly worried Ethiliel, Deoran and his company marched quickly northwards out of the great southern forest.\n"
 "\n"
 "Yet even as they returned towards the land of men, the ominous gloom of the forest followed them. Up above, the bright sun was shrouded with grey fog, overcast with billowing clouds streaking through the sky in streams of darkened ash. Behind, the crepuscular shadow spread outward from the forest, an unnatural extension of the still-undefeated powers that lay within. It gained quickly upon them, the sinister darkness creeping ever-faster toward the men of the South Guard."
-msgstr "当德欧兰、格里克爵士和乌扎·阿法拉斯从南方大森林中走出来时，雪飘落下来。然而, 当他们回到人类的领土时，森林那不祥的阴霾也跟随着他们。在头上，明亮的太阳笼罩在灰色的浓雾中，天空中，暗色烟尘的涌流之中，翻滚着汹涌的云朵。在后方，让人毛骨悚然的阴影从森林向外蔓延，这是森林内部力量的不自然延伸。它迅速追上了南疆卫队的队伍，险恶的黑暗悄悄向他们袭来。"
+msgstr ""
+"在越来越忧虑的艾茜莉尔的催促下，德欧兰和他的部队迅速向北行进，离开了广阔的南方森林。\n"
+"\n"
+"然而, 当他们向人类的领土返回时，森林那不祥的阴霾也跟随着他们。在头上，明亮的太阳笼罩在灰色的浓雾中，天空中，暗色烟尘的涌流之中，翻滚着汹涌的云朵。在后方，让人毛骨悚然的阴影从森林向外蔓延，这是森林内部仍然无法战胜的力量的不自然延伸。它迅速追上了南疆卫队的队伍，险恶的黑暗以更快的速度悄悄向他们袭来。"
 
 #~ msgid "Beginner"
 #~ msgstr "初心者"
