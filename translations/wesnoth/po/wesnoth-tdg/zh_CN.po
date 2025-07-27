@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-07-26 21:55+0800\n"
+"PO-Revision-Date: 2025-07-27 18:54+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -580,7 +580,7 @@ msgstr ""
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:134
 msgid "Choose Later"
-msgstr ""
+msgstr "以后再选"
 
 #. [lua]: wesnoth.interface.game_display.unit_status
 #. [abilities]
@@ -1528,7 +1528,7 @@ msgstr ""
 #. nonsense words, sounding magical, copied from the original DM
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:627
 msgid "Thorum restro targa thorum..."
-msgstr ""
+msgstr "索拉姆·雷斯特洛·塔加·索拉姆……"
 
 #. [message]: speaker=Methor
 #. referencing the "Provost of the Council of Archmagi" mentioned by Delfador in HttT
@@ -1573,7 +1573,7 @@ msgstr "德法多"
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:688
 msgid "Del-fa-dor; Delfador! Thanks master, I like the sound of that."
-msgstr ""
+msgstr "德-法-多；德法多！谢谢大师，我喜欢那个声音。"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:692
@@ -1645,7 +1645,7 @@ msgstr ""
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:33
 msgid "Wild Beasts"
-msgstr ""
+msgstr "野兽"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:47
@@ -1657,7 +1657,7 @@ msgstr "树人"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:73
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:78
 msgid "Lintanir"
-msgstr ""
+msgstr "林塔尼尔"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:118
@@ -1896,7 +1896,7 @@ msgstr ""
 #. [unit]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:116
 msgid "Parandra"
-msgstr ""
+msgstr "帕兰德拉"
 
 #. [unit]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:126
@@ -2043,19 +2043,19 @@ msgstr ""
 #. [time]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:297
 msgid "Midnight"
-msgstr ""
+msgstr "半夜"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:307
 msgid ""
 "There’s 5 gold pieces in this old boat! I suppose it’s better than nothing."
-msgstr ""
+msgstr "这艘旧船里面有5块金币！我觉得这比什么都没有好。"
 
 #. [message]: speaker=Delfador
 #. said after a Forest Lion, Horned Scarab, or Silverback (a gorilla) attacks one of the player's units
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:353
 msgid "Look out! There’re beasts in the forest!"
-msgstr ""
+msgstr "小心！森林里有野兽！"
 
 #. [message]: speaker=Deoran
 #. said after the player double-clicks on Delfador to try and cast a spell
@@ -2100,14 +2100,14 @@ msgstr "找到风仙子"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:415
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:447
 msgid "Death of Delfador, Deoran, Chantal, or Kalenz"
-msgstr ""
+msgstr "德法多，德欧兰，香黛尔或卡雷兹死亡"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:422
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:454
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1307
 msgid "Kalenz and Chantal will not follow you to the next scenario."
-msgstr ""
+msgstr "卡雷兹和香黛尔不会跟着你到下一幕。"
 
 #. [message]
 #. there is a pool of water in the middle of the map. Right now the pool is mostly dry - your objective is to solve a puzzle to fill the pool with water
@@ -2289,18 +2289,18 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1248
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:64
 msgid "Deoran"
-msgstr ""
+msgstr "德欧兰"
 
 #. [message]
 #. referencing the mirror image of Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1264
 msgid "Deoran, is that... you? You look so much younger."
-msgstr ""
+msgstr "德欧兰，那是……你吗？你看起来年轻了好多。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1268
 msgid "What’s going on?! Kalenz, is this normal?"
-msgstr ""
+msgstr "发生什么事了？！卡雷兹，这是正常的吗？"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1294
@@ -2346,7 +2346,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1366
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1840
 msgid "Dawn"
-msgstr ""
+msgstr "黎明"
 
 #. [message]: speaker=Delfador
 #. Delfador has missed the ending of the prophecy, and the player loses the scenario
@@ -2544,7 +2544,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:240
 msgid "40 gold"
-msgstr ""
+msgstr "40金币"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:240
@@ -2554,7 +2554,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:254
 msgid "Captain Kestrel"
-msgstr ""
+msgstr "茶隼队长"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:302
@@ -2972,7 +2972,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:486
 msgid "Fail to rescue Asheviere before turns run out"
-msgstr ""
+msgstr "回合耗尽之前没能救出艾什薇尔"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:489
@@ -2987,7 +2987,7 @@ msgstr "生存至回合耗尽"
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:523
 msgid "Death of Garard, Asheviere, or Methor"
-msgstr ""
+msgstr "伽拉德，艾什薇尔或梅瑟死亡"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:540
@@ -3003,7 +3003,7 @@ msgstr ""
 #. the player (and Garard) is still alive. The orcs and saurians expected them to die by now
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:601
 msgid "They ssstill sssurvive! Thisss was not the plan!"
-msgstr ""
+msgstr "他们还或者嘶嘶！计划不是这样的嘶嘶！"
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:605
@@ -3135,7 +3135,7 @@ msgstr ""
 #. [message]: speaker=Ssisaix
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:802
 msgid "Cursessss, I am sssslain!"
-msgstr ""
+msgstr "该死嘶嘶，我被杀了嘶嘶！"
 
 #. [message]: speaker=Lionel
 #. Lionel appears with reinforcments to help Garard
@@ -3360,7 +3360,7 @@ msgstr ""
 #. [message]: speaker=Ritharran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:386
 msgid "Oh."
-msgstr ""
+msgstr "哦。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:394
@@ -3564,7 +3564,7 @@ msgstr "我逃走了嘶嘶！"
 #. [message]: speaker=$unit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:940
 msgid "female^I have essscaped!"
-msgstr ""
+msgstr "我逃走了嘶嘶！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:944
@@ -3831,7 +3831,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:460
 msgid "Attack"
-msgstr ""
+msgstr "攻击"
 
 #. [message]: speaker=Barin
 #. in this string, $companion_name is female (probably "Lynyan")
@@ -3927,9 +3927,8 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:952
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1443
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:198
-#, fuzzy
 msgid "..."
-msgstr ". ."
+msgstr "……"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:609
@@ -4060,7 +4059,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1423
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1804
 msgid "fireball"
-msgstr ""
+msgstr "火球"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:846
@@ -4260,7 +4259,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:89
 msgid "30 gold"
-msgstr ""
+msgstr "30金币"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:96
@@ -4434,7 +4433,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:498
 msgid "Uh oh."
-msgstr ""
+msgstr "啊哦。"
 
 #. [message]: speaker=Omaranth
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:516
@@ -4532,7 +4531,7 @@ msgstr ""
 #. [message]: role=escort1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1015
 msgid "Aaaah!"
-msgstr ""
+msgstr "啊啊！"
 
 #. [message]: role=escort1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1028
@@ -4917,12 +4916,12 @@ msgstr ""
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:635
 msgid "Open the gate"
-msgstr ""
+msgstr "打开大门"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:640
 msgid "Wait"
-msgstr ""
+msgstr "等等"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:730
@@ -5719,7 +5718,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:260
 msgid "Oh!"
-msgstr ""
+msgstr "哦！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:264
@@ -6000,7 +5999,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:549
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:390
 msgid "Sir Kaylan"
-msgstr ""
+msgstr "凯兰爵士"
 
 #. [message]: speaker=Delfador
 #. this the same thing Lionel says in S08x: I'm loyal
@@ -7037,7 +7036,7 @@ msgstr ""
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1439
 msgid "Idiot."
-msgstr ""
+msgstr "蠢货。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1447
@@ -7988,7 +7987,7 @@ msgstr ""
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Magic.cfg:28
 msgid "baneblade"
-msgstr ""
+msgstr "毒刃"
 
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Magic.cfg:32
@@ -8115,7 +8114,7 @@ msgstr ""
 #. [unit_type]: id=Orcish Shaman, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Shaman.cfg:5
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "兽人萨满"
 
 #. [unit_type]: id=Orcish Shaman, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Shaman.cfg:24
@@ -8138,7 +8137,7 @@ msgstr ""
 #. [unit_type]: id=Orcish Sorceress, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:5
 msgid "Orcish Sorceress"
-msgstr ""
+msgstr "兽人女巫"
 
 #. [unit_type]: id=Orcish Sorceress, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:24
@@ -8383,7 +8382,7 @@ msgstr ""
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1824
 msgid "lightning"
-msgstr ""
+msgstr "闪电"
 
 #. [dummy]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1829
@@ -8453,15 +8452,15 @@ msgstr "莱昂内尔"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:125
 msgid "Lord Maddock"
-msgstr ""
+msgstr "马多克领主"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:133
 msgid "Colonel Dommel"
-msgstr ""
+msgstr "多梅尔上校"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:142
 msgid "Kestrel"
-msgstr ""
+msgstr "茶隼"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:174
 msgid "Iliah-Malal"
