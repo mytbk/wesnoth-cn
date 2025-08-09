@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-08-02 16:26+0800\n"
+"PO-Revision-Date: 2025-08-09 14:31+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -6788,12 +6788,10 @@ msgstr "…果然是真的。我的领主和父亲死了。"
 msgid "Today truly is a day of ill fortune. My family is slain, my kinsmen scattered, my homeland defiled."
 msgstr "今天真是个倒霉的日子。我的家人被杀，族人四散，故乡遭污。"
 
-# Translated by openrouter with model openrouter/horizon-alpha.
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1185
-#, fuzzy
 msgid "But I will not despair! This damning destruction will not be the lasting legacy of the Clans!! These undead will pay for the death they have brought!!!"
-msgstr "但我不会绝望！这场可诛的毁灭不会成为氏族的永恒遗产！！这些亡灵将为他们带来的死亡付出代价！！！"
+msgstr "但我不会绝望！这场毁灭性的破坏不会成为氏族的永恒遗产！！这些亡灵将为他们带来的死亡付出代价！！！"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1222
@@ -6897,12 +6895,10 @@ msgstr "第三个也是最后一个藏匿处，里面是有东西的！干净的
 msgid "Excellent! The gold from these caches will be very helpful."
 msgstr "优秀！这些藏匿处里的金币会很有用。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Grug
 #. this is probably grug's first time fighting squishy undead (though there
 #. were a few in S10)
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1495
-#, fuzzy
 msgid "Squishy fun to squash! Squash squish squash!"
 msgstr "捏烂的乐趣！捏烂捏烂再捏烂！"
 
@@ -7177,20 +7173,16 @@ msgstr "接受道歉。"
 msgid "And I too must admit, I underestimated the power in this Amulet. Even now, voices gnaw at the edges of my mind..."
 msgstr "我也必须承认，我低估了这枚护身符的力量。即便现在，有些声音仍在我脑海中徘徊不已……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #. to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2164
-#, fuzzy
 msgid "Make no mistake, I still do not approve of your plan! It will lead you only to ruin and death! Yet, at least now I believe that your intentions are good despite your questionable methods."
 msgstr "切勿误会，我仍然不赞同你的计划！这只会将你引向毁灭和死亡！然而，至少我现在相信你的动机是好的，尽管你的手段值得怀疑。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2168
-#, fuzzy
 msgid "I’m glad we have prevailed here, but I fear greatly for Wesnoth if the Clans have been defeated so thoroughly so quickly. It has scant been a year since their invasion first began. Owaec, Dacyn, if you are prepared to travel, we must press toward Weldyn at once."
-msgstr "我们在这里取得胜利让我感到高兴，但我担心如果氏族如此迅速而彻底地被击败，韦诺将会面临更大的危险。自从他们的入侵开始至今还不到一年的时间。欧瓦埃克、达辛，如果你俩已经准备好出发，我们必须立即前往维尔帝。"
+msgstr "我们在这里取得胜利让我感到高兴，但我担心如果氏族如此迅速而彻底地被击败，韦诺将会面临更大的危险。自从他们的入侵开始至今已经将近一年。欧瓦埃克、达辛，如果你俩已经准备好出发，我们必须立即前往维尔帝。"
 
 #. [scenario]: id=15_Return_to_Wesnoth
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:4
@@ -7275,10 +7267,8 @@ msgstr "艾瑞卡"
 msgid "Halric"
 msgstr "哈尔里克"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:777
-#, fuzzy
 msgid "Denogyc"
 msgstr "德诺吉克"
 
@@ -7469,19 +7459,15 @@ msgstr "玛尔-安娜拉"
 msgid "Mal-Saerav"
 msgstr "玛尔-萨拉夫"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:863
-#, fuzzy
 msgid "Gweddry, do you recognize me? Do you remember in the Estmarks, when you mercilessly cut down my defenseless sister? You escaped me once before, but now I will have my revenge!"
-msgstr "格威德利，你还记得我吗？还记得在东界丘陵，你无情地杀死了我无助的妹妹吗？上次你逃脱了，但现在我要报仇！"
+msgstr "格威德利，你还记得我吗？还记得在东界，你无情地杀死了我手无寸铁的姐姐吗？上次你逃脱了，但现在我要报仇！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Kallat
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:867
-#, fuzzy
 msgid "Gweddry, do you recognize me? Do you remember in the Estmarks, when you mercilessly cut down my defenseless brother? I will kill you for what you have done."
-msgstr "格威德利，你还记得我吗？还记得在东界丘陵，你无情地斩杀了我的无辜兄弟吗？我会为他报仇的。"
+msgstr "格威德利，你还记得我吗？还记得在东界，你无情地杀死了我手无寸铁的弟弟吗？我会为你所做之事而干掉你。"
 
 #. [message]: speaker=sibling_corpse
 #. Mal-Skraat or Mal-Kallat is still alive, this is their dead brother/sister
@@ -8068,12 +8054,10 @@ msgstr "等等——刚才发生什么了？更多亡灵生物从地底出来了
 msgid "The rules say nothing about bringing up warriors who were already here. Feel free to reanimate some too, if you can."
 msgstr "规则里可没有说不能复活已经存在于此的战士。如果你行的话，也可以随便复活一些。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:306
-#, fuzzy
 msgid "Tsk, tsk, I begin to tire of this."
-msgstr "唉，唉，我开始对此感到厌倦了。"
+msgstr "啧啧，我开始对此感到厌倦了。"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:311
@@ -8626,12 +8610,10 @@ msgstr "平身，欧瓦埃克爵士，马背氏族的至高领主！你的族人
 msgid "But alas, what of the Clansmen? Their horses have been scattered, their Lords were broken, and now the last prince has fallen defending the walls of Weldyn. I fear that the Horse Clans will never again return to their former glory."
 msgstr "但可叹的是，那些氏族战士们呢？他们的战马已经被打散，他们的领主已经败落，现在最后一位王子也在维尔帝的城墙保卫战中陨落了。我担心这些游牧氏族再也无法恢复往日的辉煌了。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:631
-#, fuzzy
 msgid "And now what of the humble Gweddry; still but a lieutenant. It seems you are long-overdue for a promotion."
-msgstr "而现在，平凡的格威德利仍然只是一个中队长；看来你已经很久没有晋升了。"
+msgstr "而现在，平凡的格威德利，仍然只是一个尉官；看来你已经很久没有晋升了。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:635
@@ -8648,19 +8630,15 @@ msgstr "安静。现在不要打断我……单膝下跪，格威德利，尉官
 msgid "And arise, Gweddry, Earl of Estmark! The land for which you shed your blood shall be put under your hand to be made green again. May you ever prosper."
 msgstr "平身，格威德利，东界伯爵。这片你所染血的土地，会经由你的手重获绿色。愿你永远繁荣昌盛。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:653
-#, fuzzy
 msgid "And what of Gweddry... He had survived long, sacrificed much, only to meet his end here at the last. I wish he could have lived to see the peace he has wrought."
-msgstr "关于格威德利……他活了很久，付出了许多代价，最终却在这里走到了生命的尽头。我希望他能看到自己带来的和平。"
+msgstr "而至于格威德利……他活了很久，付出了许多代价，最终却在这里走到了生命的尽头。我真希望他能活着看到他带来的和平。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:665
-#, fuzzy
 msgid "Wesnoth is bowed, but thanks to the efforts of many heroes we stand yet unbroken. And now, at long last, the time has come to rebuild."
-msgstr "韦诺虽已屈膝，但多亏许多英雄的努力，我们仍屹立不倒。现在，终于到了重建的时候了。"
+msgstr "韦诺虽已屈膝，但多亏许多英雄的努力，我们仍屹立不倒。而现在，终于，重建的时候到了。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:670
@@ -8701,10 +8679,8 @@ msgstr "幸存者"
 msgid "Tribute"
 msgstr "贡品"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:232
-#, fuzzy
 msgid "Prison Guards"
 msgstr "狱卒"
 
@@ -8901,10 +8877,8 @@ msgstr ""
 "我厌恶死亡。\n"
 "我自愿归顺于你。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:724
-#, fuzzy
 msgid ""
 "These orcs enrage me,\n"
 "But I possess no strength to resist.\n"
@@ -10288,24 +10262,20 @@ msgstr "称为达辛的法师正在死去！是时候让你重生了！"
 msgid "-I... -I am no lich! I am no harbinger of darkness, unlike Ravan!"
 msgstr "—我…—我不是巫妖！我不是黑暗的先驱，不像莱文！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=spirit2
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:783
-#, fuzzy
 msgid "The wielder of the red stone shall become intertwined with the darkness between worlds, whether they will it or not. You sought this Amulet of your own will, O Magnificent Dacyn!"
-msgstr "执掌红石者将不可避免地与世界的黑暗交织在一起，无论其意愿如何。啊，伟大的达辛，您是出于自己的意志寻求这枚护身符的！"
+msgstr "执掌红石者将不可避免地与世界之间的黑暗交织在一起，无论其意愿如何。您是出于自己的意志寻求这枚护身符的，啊，伟大的达辛！"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:787
 msgid "I... I needed this power! I had to safeguard Irdya!"
 msgstr "我……我需要这股力量！我必须保卫伊迪亚！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=spirit
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:791
-#, fuzzy
 msgid "And now you can, for all eternity! Leave your mortal coil behind. Live on as an undying spirit of mighty power, and do unto this world as you will!"
-msgstr "而现在你可以永生不死了！抛开你的肉身。以一个强大无比的不死灵魂存活，并随心所欲地对待这个世界吧！"
+msgstr "而现在你可以，为了永生！抛开你的肉身。以一个强大无比的不死灵魂存活，并随心所欲地对待这个世界吧！"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:795
