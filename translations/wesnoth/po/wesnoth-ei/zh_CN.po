@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-09-14 16:21+0800\n"
+"PO-Revision-Date: 2025-09-21 18:51+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -12470,12 +12470,10 @@ msgid ""
 "that’s for sure."
 msgstr "唉，对于我们这些外国人来说，这是一个不幸的地方。我们肯定会想念你的。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:193
-#, fuzzy
 msgid "Oh, I knew drinking all those elixirs was a bad idea..."
-msgstr "哦，我知道喝那些精灵水是个糟糕的主意……"
+msgstr "哦，我知道喝光那些药水是个糟糕的主意……"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:207
@@ -13219,39 +13217,33 @@ msgstr "瘟疫法杖"
 msgid "Drop Plague Staff"
 msgstr "放下瘟疫法杖"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Dacyn
 #. If the player accepts the plague staff, the unit that picks it up can recruit walking corpses of animals (but not humans),
 #. randomly getting a falcon, spider, wolf or sand scorpion corpse. Here “crown” means “top of head”, or “top of cephalothorax”.
 #. Dacyn says this the first time a corpse is recruited, and this event could happen in almost any scenario from S07b onwards.
 #. Even before picking up the amulet, he’s showing a level of interest that might get a student expelled from the Academy on Alduin
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:913
-#, fuzzy
 msgid ""
 "Fascinating. The necromantic magic concentrates in the subject’s crown, "
 "replacing its bestial soul. Unnatural, yet effective."
 msgstr ""
-"令人着迷。死灵法术集中在主体的头部，取代了其野兽般的灵魂。不自然，却有效。"
+"有意思。死灵法术集中在主体的头部，取代了其野兽般的灵魂。不自然，却有效。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Owaec
 #. First time a corpse is recruited by the wielder of the plague staff.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:918
-#, fuzzy
 msgid "A disgusting abomination! I lament living in such times..."
-msgstr "一个令人作呕的怪物！我哀叹生活在这个时代……"
+msgstr "令人作呕的怪物！我哀叹生活在这个时代……"
 
 #. [object]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:976
 msgid "Gwza-Alswdan"
 msgstr "瓜扎-奥苏丹"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [item_dialog]: description={ITEM_DESC}
 #. [item_dialog_musttake]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1014
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1168
-#, fuzzy
 msgid ""
 "<span size='small'><i>  (Elixirs only last for 1 scenario.)</i></span>\n"
 "<span size='small'><i>  Picking up an item consumes your moves and attack.</"
@@ -13266,51 +13258,41 @@ msgstr ""
 msgid "Elixir of Water Breathing"
 msgstr "水下呼吸药水"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1040
-#, fuzzy
 msgid ""
 "This shimmering blue vial grants its drinker normal movement and defense in "
 "swamp and shallow water."
 msgstr "这个闪烁着蓝色光芒的药瓶能让饮使用者在沼泽和浅水中正常移动和防御。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1060
-#, fuzzy
 msgid "<span color='#00FFFF' size='x-small'>water breathing</span>"
-msgstr "<span color='#00FFFF' size='x-small'>水中呼吸</span>"
+msgstr "<span color='#00FFFF' size='x-small'>水下呼吸</span>"
 
 #. [trait]: id=TRAIT_waterbreathing
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1072
 msgid "waterbreathing"
 msgstr "水下呼吸"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [trait]: id=TRAIT_waterbreathing
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1073
-#, fuzzy
 msgid ""
 "An elixir of waterbreathing has given this unit normal movement and defense "
 "in swamp and shallow water."
-msgstr "一瓶水下呼吸药剂让该单位在沼泽和浅水中拥有正常的移动和防御能力。"
+msgstr "水下呼吸药水让该单位在沼泽和浅水中拥有正常的移动和防御能力。"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1106
 msgid "Elixir of Elements"
 msgstr "元素药水"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1107
-#, fuzzy
 msgid ""
 "This bubbling yellow vial grants immunity to both fire and cold. It also "
 "makes you sweat profusely."
-msgstr "这个沸腾的黄色药瓶能让你免疫火焰和寒冷，但它也会让你大汗淋漓。"
+msgstr "这个沸腾的黄色药瓶能让你免疫火焰和冰寒。也会让你大汗淋漓。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1127
-#, fuzzy
 msgid "<span color='#E8B923' size='x-small'>elemental resist</span>"
 msgstr "<span color='#E8B923' size='x-small'>元素抗性</span>"
 
@@ -13319,118 +13301,90 @@ msgstr "<span color='#E8B923' size='x-small'>元素抗性</span>"
 msgid "elements"
 msgstr "元素"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [trait]: id=TRAIT_elements
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1142
-#, fuzzy
 msgid ""
 "An elixir of elements has given this unit immunity to both fire and cold."
-msgstr "一种元素酏剂赋予了这个单位免疫火焰和寒冷。"
+msgstr "元素药水赋予了这个单位对火焰和冰寒的免疫。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [item_dialog_musttake]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1165
-#, fuzzy
 msgid "Elixir of Haste"
-msgstr "疾行神水"
+msgstr "疾行药水"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [item_dialog_musttake]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1167
-#, fuzzy
 msgid ""
 "This saccharine green liquid grants +1 movement and +10% defense on all "
 "terrain. You may have difficulty standing still."
 msgstr ""
 "这种甜腻的绿色液体赋予你在所有地形上移动+1和防御+10%的效果。你可能会发现很难"
-"保持静止。"
+"站稳。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1190
-#, fuzzy
 msgid "<span color='#0BDA51' size='x-small'>haste</span>"
-msgstr "<span color='#0BDA51' size='x-small'>急速</span>"
+msgstr "<span color='#0BDA51' size='x-small'>疾行</span>"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [trait]: id=TRAIT_haste
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1202
-#, fuzzy
 msgid "haste"
-msgstr "急速生效"
+msgstr "疾行"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [trait]: id=TRAIT_haste
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1203
-#, fuzzy
 msgid ""
 "An elixir of haste has given this unit +1 movement and +10% defense on all "
 "terrain."
-msgstr "一瓶敏捷药水使该单位在所有地形上移动+1格且防御力提升10%。"
+msgstr "疾行药水使该单位在所有地形上移动+1且防御力提升10%。"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1241
-#, fuzzy
 msgid "Elixir of Fury"
-msgstr "狂怒精华"
+msgstr "狂怒药水"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1242
-#, fuzzy
 msgid ""
 "The red liquid in this vial sloshes violently, as though trying to escape. "
 "Drinking it grants <b><i>unlimited melee attacks</i></b> and the "
 "<b><i>berserk</i></b> melee special."
 msgstr ""
-"这个药瓶里的红色液体剧烈晃动，仿佛想要逃脱。喝下它将赋予你<b><i>无限近战攻击"
-"次数</i></b>以及<b><i>狂战士</i></b>近战特技。"
+"这个药瓶里的红色液体剧烈地晃动，仿佛想要逃脱。喝下它将赋予你<b><i>无限的近战"
+"攻击次数</i></b>以及<b><i>狂暴</i></b>近战特攻。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1262
-#, fuzzy
 msgid "<span color='#FF0000' size='x-small'>berserker fury</span>"
-msgstr "<span color='#FF0000' size='x-small'>狂战士怒火</span>"
+msgstr "<span color='#FF0000' size='x-small'>狂战士之怒</span>"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [trait]: id=TRAIT_fury
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1274
-#, fuzzy
 msgid "fury"
 msgstr "狂怒"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [trait]: id=TRAIT_fury
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1275
-#, fuzzy
 msgid ""
 "An elixir of fury has given this unit <b><i>unlimited melee attacks</i></b> "
 "and the <b><i>berserk</i></b> melee special."
 msgstr ""
-"一瓶狂怒药剂赋予了这个单位<b><i>无限的近战攻击</i></b>和<b><i>狂战士</i></b>"
-"近战特殊能力。"
+"狂怒药水赋予了这个单位<b><i>无限的近战攻击次数</i></b>以及<b><i>狂暴</i></b>"
+"近战特攻。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [trait]: id=audacious
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:8
-#, fuzzy
 msgid "audacious"
-msgstr "大胆的"
+msgstr "大胆"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [trait]: id=audacious
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:9
-#, fuzzy
 msgid "Fights normally during unfavorable times of day/night"
-msgstr "通常在不利的白天或夜晚时段作战"
+msgstr "在不利的日夜时段正常作战"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [trait]: id=audacious
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:10
-#, fuzzy
 msgid ""
 "Aversion to light and dark holds no sway over these audacious individuals."
-msgstr "这些大胆的个体不受光明与黑暗的厌恶的影响。"
+msgstr "这些大胆的个体不受对光明与黑暗的厌恶的影响。"
 
 #. [trait]: id=deserter
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:20
