@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2025-04-01 11:27+0800\n"
+"PO-Revision-Date: 2025-09-21 19:09+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 #. [attack]: type=impact
 #: data/campaigns/Dead_Water/units/Soldier_King.cfg:30
@@ -5484,10 +5484,8 @@ msgstr ""
 msgid "Giant Ant Egg"
 msgstr "巨蚁卵"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3-0324:free.
 #. [unit_type]: id=Giant Ant Egg, race=monster
 #: data/core/units/monsters/Ant_Egg.cfg:71
-#, fuzzy
 msgid ""
 "Giant Ants are common in almost any environment, and the eggs from which "
 "they emerge can often be found in caves or any sheltered environment. Most "
@@ -5495,8 +5493,8 @@ msgid ""
 "any suitable location.\n"
 "\n"
 msgstr ""
-"巨型蚂蚁几乎在任何环境中都很常见，它们的卵通常可在洞穴或任何遮蔽处发现。多数"
-"蚁卵来自蚁群中的某位蚁后，但工蚁会将其搬运至适宜地点孵化。"
+"巨蚁几乎在任何环境中都很常见，它们的卵通常可在洞穴或任何遮蔽处发现。多数蚁卵"
+"来自蚁群中的某位蚁后，但工蚁会将其搬运至任何适宜的地点。\n"
 
 #. [unit_type]: id=Fire Ant Egg
 #: data/core/units/monsters/Ant_Egg.cfg:169
@@ -5583,10 +5581,8 @@ msgstr ""
 msgid "Giant Ant Queen"
 msgstr "巨蚁后"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3-0324:free.
 #. [unit_type]: id=Giant Ant Queen, race=monster
 #: data/core/units/monsters/Ant_Queen.cfg:19
-#, fuzzy
 msgid ""
 "Giant Ants are common in almost any environment, from caverns deep under the "
 "earth to the tops of tall mountains. The queens are not royalty as many "
@@ -5597,11 +5593,11 @@ msgid ""
 "a very short continued existence — and if their flesh is warm and "
 "nourishing, they can host an ant egg."
 msgstr ""
-"巨型蚂蚁几乎在任何环境中都很常见，从地底深处的洞穴到高耸的山巅。它们的蚁后并"
-"非其他种族所理解的皇室成员，但作为蚁巢运转的核心，它们会不惜一切代价被保护。"
-"作为巢穴的核心，蚁后必须是精明的战术家；作为敌对巢穴的目标，它们也必须是敏捷"
-"的战士。普通人类或兽人若得以见蚁后，其生命往往很快终结——倘若他们的血肉温热且"
-"富有营养，还可能成为蚂蚁卵的宿主。"
+"巨蚁在几乎任何环境中都很常见，从地底深处的洞穴到高耸的山巅。它们的蚁后并非其"
+"他种族所理解的皇室成员，但作为蚁巢运转的核心，它们会被不惜一切代价地保护。作"
+"为巢穴的核心，它们必须是精明的战术家；作为敌对巢穴的目标，它们也必须是敏捷的"
+"战士。普通人类或兽人若得以见蚁后，其生命往往很快终结——倘若他们的血肉温热且富"
+"有营养，还可能成为蚁卵的宿主。"
 
 #. [unit_type]: id=Soldier Ant, race=monster
 #: data/core/units/monsters/Ant_Soldier.cfg:4
@@ -5610,15 +5606,14 @@ msgstr "战蚁"
 
 #. [unit_type]: id=Soldier Ant, race=monster
 #: data/core/units/monsters/Ant_Soldier.cfg:19
-#, fuzzy
 msgid ""
 "Giant Ants are common in almost any environment, from caverns deep under the "
 "earth to the tops of tall mountains. Most common are the nondescript workers "
 "and scouts, but in times of conflict, a more dangerous Soldier caste enters "
 "the fray."
 msgstr ""
-"巨蚁在各种环境中都很常见，无论是地下深处的洞穴里还是高耸的山顶上。虽然通常不"
-"表现出敌意，但当有人靠近时它们还是会咬人的。"
+"巨蚁在几乎任何环境中都很常见，从地底深处的洞穴到高耸的山巅。最常见的是那些平"
+"凡无奇的工人和侦察兵，但在冲突发生时，一个更为危险的战士阶层会加入战斗。"
 
 #. [unit_type]: id=Cave Bear, race=monster
 #: data/core/units/monsters/Bear.cfg:4
