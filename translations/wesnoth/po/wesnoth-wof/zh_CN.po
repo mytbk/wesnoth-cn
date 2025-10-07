@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2025-10-07 13:42+0800\n"
+"PO-Revision-Date: 2025-10-07 21:14+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -1074,14 +1074,15 @@ msgstr ""
 msgid "Koli"
 msgstr "科利"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:727
+#, fuzzy
 msgid ""
 "Our hunters will complete the harvesting.\n"
 "\n"
 "Now, see to—"
-msgstr ""
+msgstr "吾等猎者将毕其狩。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:736
@@ -1576,31 +1577,23 @@ msgstr ""
 "\n"
 "此乃汝之救赎！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:486
-#, fuzzy
 msgid "For winning by defeating the rival leader, you receive war claws!"
-msgstr "因击败敌方首领获胜，汝获赐战爪！"
+msgstr "因击败对方首领获胜，你获得了战爪！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [object]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:493
-#, fuzzy
 msgid "War Claws"
 msgstr "战爪"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [object]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:494
-#, fuzzy
 msgid "The finest work of the Morogor forges, these steel claws increase the damage of the wearer’s melee attack."
-msgstr "莫罗戈铸炉之杰作；此钢爪可增佩戴者近战之威。"
+msgstr "莫罗戈铸炉之杰作，此钢爪可提升佩戴者近战攻击的伤害。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [effect]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:498
-#, fuzzy
 msgid "war claws"
 msgstr "战爪"
 
@@ -1699,20 +1692,19 @@ msgstr ""
 "瑞莎，汝无需以位阶相称。\n"
 "纵有衔秩之别，吾等仍为同翼。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:74
-#, fuzzy
 msgid ""
 "My friend, we are not equals, for I owe you my life.\n"
 "\n"
 "I would have perished in that cave if not for your intervention."
-msgstr "我的朋友，我们并非平辈——吾欠汝一命。若非汝出手相救，吾早已殒命于那洞穴之中。"
+msgstr ""
+"我的朋友，我们并非平等——吾欠汝一命。\n"
+"\n"
+"若非汝出手相救，吾早已殒命于那洞穴之中。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:86
-#, fuzzy
 msgid ""
 "Gorlack...\n"
 "There is a matter for which I must give counsel.\n"
@@ -1721,17 +1713,15 @@ msgid ""
 "You have endured the shame of knowing it was Dominant Morogor’s betrayal that made it so.\n"
 "While the rest of your caste revere this Ancestor, you alone shoulder the truth."
 msgstr ""
-"戈拉克……\n"
+"戈拉克…\n"
 "有一事吾必须谏言。\n"
 "\n"
-"汝已听闻吾族流落此沉没群岛之古远口述史；\n"
+"汝已听闻吾族流落此沉没群岛之古远口述史。\n"
 "汝亦承受着莫罗戈翼主背叛致此之耻。\n"
 "当汝同种姓皆尊崇此先祖时，唯汝独负真相。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:96
-#, fuzzy
 msgid ""
 "Verily, it has cooled my heart some, to know our shameful past.\n"
 "\n"
@@ -1741,10 +1731,8 @@ msgstr ""
 "\n"
 "然此不过换取智慧之微渺代价。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:103
-#, fuzzy
 msgid ""
 "My friend, the price is yet to be paid.\n"
 "Beyond these isles is a world stranger than words can tell.\n"
@@ -1754,18 +1742,16 @@ msgid ""
 "We must proceed with the utmost caution.\n"
 "With our Windpath well chosen."
 msgstr ""
-"朋友，代价尚未偿还。  \n"
-"这些岛屿之外的世界，其奇异远超言语所能描绘。  \n"
-"那是自传说纪元起便被遗忘之物。  \n"
+"朋友，代价尚未偿还。\n"
+"这些岛屿之外的世界，其奇异远超言语所能描绘。\n"
+"那是自传说纪元起便被遗忘之物。\n"
 "\n"
-"当吾族双足踏上那片曾吞噬无数先民的「泰陆」之时……  \n"
-"吾等须以极慎之心前行。  \n"
+"当吾族踏上那片曾吞噬无数先民的泰陆之时…\n"
+"吾等须以极慎之心前行。\n"
 "风途之择，必承天命。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:114
-#, fuzzy
 msgid ""
 "I hear your counsel, Resha.\n"
 "I shall heed it.\n"
@@ -1775,51 +1761,43 @@ msgid ""
 "With it we shall part the turbulent Winds of Fate themselves.\n"
 "Leaving in their place, a Windpath of our own making."
 msgstr ""
-"吾闻汝谏，瑞莎。  \n"
-"余当纳之。  \n"
+"瑞莎，吾闻汝谏。\n"
+"吾当从之。\n"
 "\n"
-"然弃汝惧；因吾等之存，非言可尽述。  \n"
-"汝将亲睹心魂深处之力。  \n"
-"凭此力，吾等必分命运狂澜之风。  \n"
-"留风途于其后；乃吾等自辟之径。"
+"然，且收汝惧，因吾等之众，非言语可尽述。\n"
+"汝将亲睹此心魂深处之力。\n"
+"凭此力，吾等将劈裂狂乱之命运之风。\n"
+"于其之上，铺就属吾等之风途。"
 
 #. [scenario]: id=04_Journey
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:5
 msgid "Journey"
 msgstr "征途"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:18
-#, fuzzy
 msgid "To make ready for the journey, Gorlack cut loose every possible burden from his flight. The hulking armor of the clasher caste was forsaken. Provisions were halved."
-msgstr "为备远行，戈拉克令其翼群卸除一切可弃之负。冲击者种姓之重甲尽数遗弃；粮秣给养亦减半而行。"
+msgstr "为备远行，戈拉克令其翼群卸除一切可弃之负。冲击者种姓之重甲尽数遗弃。粮秣给养亦减半而行。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:21
-#, fuzzy
 msgid "Even then, half among the flight were unready to last such a journey. Those yet too young. Those with wounds still mending. To Karron’s bewilderment, Gorlack gifted her these— a flight of her own to lead."
-msgstr "即便如此，翼群中仍有半数未能为这般远途做好准备——那些太过年幼的雏翼，那些伤口尚未痊愈的战躯。令卡戎愕然的是，戈拉克竟将这群同翼赐予了她，由她统率自成一支翼群。"
+msgstr "即便如此，翼群中仍有半数未能为这般远途做好准备。那些太过年幼的雏龙。那些伤口尚未痊愈的战士。令卡戎愕然的是，戈拉克竟将这群同翼赐予了她，由她统率自成一支翼群。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:24
 msgid "At earliest dawn the Flight of Gorlack lifted skyward..."
 msgstr "戈拉克之翼群于破晓时分升空…"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:27
-#, fuzzy
 msgid "Flying over land darkly striped by long shadows of craggy peaks, with the light of a warm new sun between..."
-msgstr "飞越被嶙峋峰峦投下暗色条纹的大地，温暖的新日之光在其间流淌……"
+msgstr "飞越被嶙峋峰峦投下暗色条纹的大地，温暖的新日之光在其间流淌…"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:30
-#, fuzzy
 msgid "Soaring over a sea bright as the sky above, the airy world far around suspending them under a midday sun..."
-msgstr "苍穹之下，碧海之上，他们翱翔于正午天光之中，周身唯有无尽空茫。"
+msgstr "苍穹之下，碧海之上，他们翱翔于正午天光之中，周身唯有无尽空茫…"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:33
@@ -1831,12 +1809,12 @@ msgstr "掠过月华如镜的海洋，翼风在身后漾起涟漪…"
 msgid "So forth the journey persisted."
 msgstr "旅程如是前行。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:39
 #, fuzzy
 msgid "To spot the petty shoals, Resha formed her gliders into a forward line spanning several horizons. Even so, the shoals nigh slipped past their north wing unnoticed. At long last, the flight set down on them."
-msgstr "为探查浅滩，瑞莎令滑翔者排成横跨数重地平之侦察线。纵如此，浅滩仍几近从其北翼队视野中滑脱。翼群终是降于其上。"
+msgstr "为探查零星浅滩，瑞莎命滑翔者列作横阵绵延数重天际。纵使如是佈防，北翼亦险教浅滩悄然滑过。翼群终得降驻其上。"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:52 data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:33 data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:44 data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:40 data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:41 data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:44 data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:43
@@ -1858,18 +1836,14 @@ msgstr "内马斯"
 msgid "Serpents"
 msgstr "巨蛇"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [leader]: id=Shussek, type=Naga Warrior
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:97 data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:470
-#, fuzzy
 msgid "Shussek"
 msgstr "舒塞克"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [leader]: id=Poseira, type=Merman Spearman
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:118
-#, fuzzy
 msgid "Poseira"
 msgstr "波塞拉"
 
@@ -1943,10 +1917,8 @@ msgstr ""
 "人鱼骚扰我们很久了。\n"
 "现在他们阻碍我们穿越他们的海洋领地。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:244
-#, fuzzy
 msgid ""
 "Without dominion over these shoals, we cannot reprovision.\n"
 "\n"
@@ -1955,37 +1927,37 @@ msgid ""
 msgstr ""
 "若不统御此浅滩，吾翼群将无以补粮秣。\n"
 "\n"
-"然此行已令同翼疲惫不堪；当避战事。"
+"然此行已令同翼疲惫不堪。\n"
+"当避战事。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:251
-#, fuzzy
 msgid ""
 "We outmatch them.\n"
 "We shall overcome them as so we always have."
-msgstr "吾等强于彼辈；吾等必如常胜之。"
+msgstr ""
+"吾等强于彼辈。\n"
+"吾等必如常胜之。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:258
-#, fuzzy
 msgid ""
 "If that is your will.\n"
 "Yet pray first recall the folly of Dominant Morogor at the Battle of the Crystal Sea."
 msgstr ""
-"若此乃汝之志；  \n"
+"若此乃汝之志。\n"
 "然先请忆莫罗戈翼主于晶海之役所行愚举。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:263
-#, fuzzy
 msgid ""
 "... You speak true, Resha.\n"
 "\n"
 "We must repeat not the ancient mistakes."
-msgstr "汝言属实，瑞莎。吾等不可重蹈古昔之谬。"
+msgstr ""
+"…汝言属实，瑞莎。\n"
+"\n"
+"吾等不可重蹈古昔之谬。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
@@ -2008,19 +1980,15 @@ msgstr ""
 "至第三日终了，必占其所有聚落。  \n"
 "届时方可携休整之翼群，一举夺尽<i>彼之</i>粮秣。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:281
-#, fuzzy
 msgid "We might also forge a truce with the serpents."
 msgstr "吾等亦可与渊蛇缔结休战。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:285
-#, fuzzy
 msgid "A truce with prey..."
-msgstr "与硬猎休战..."
+msgstr "与猎物休战…"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
@@ -2041,10 +2009,8 @@ msgstr ""
 "\n"
 "否则彼辈既未召吾于此，必视吾等为渊蛇盟翼。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:300
-#, fuzzy
 msgid "I shall consider this."
 msgstr "吾将思之。"
 
@@ -2078,30 +2044,28 @@ msgstr ""
 "\n"
 "我有一项特别的计划来扭转局势到对我们有利的方向。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:331
-#, fuzzy
 msgid ""
 "Strange waves circle the northernmost shoals.\n"
 "I fear the northern mermish plan to unleash monsters from the deep."
-msgstr "北方浅滩有异浪环流；吾惧北人鱼欲释深渊魔物。"
+msgstr ""
+"极北浅滩有异浪环流。\n"
+"吾惧北方人鱼欲释深渊魔物。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:336
-#, fuzzy
 msgid "Slaying their leader will halt their doing so."
 msgstr "诛其首，则行止。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:340
-#, fuzzy
 msgid ""
 "That might spread us too thin.\n"
 "I must advise against it."
-msgstr "此令吾翼过薄；吾必谏止。"
+msgstr ""
+"此令吾翼过薄。\n"
+"吾必谏止。"
 
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:354
@@ -2228,12 +2192,12 @@ msgstr "刃鳍"
 msgid "(<i>cough</i>) ...rawr"
 msgstr "（咳）……吼——"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:528
 #, fuzzy
 msgid "We seek an ally against these fiendish merfolk."
-msgstr "吾等欲寻盟翼；共讨此等渊蛇。"
+msgstr "吾等欲寻盟翼；共敌渊蛇。"
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:534
@@ -2516,7 +2480,7 @@ msgstr "不可征募或召回"
 msgid "The humans and merfolk will attempt to recapture villages but wildlife will not"
 msgstr "人类和人鱼会尝试重新占领村庄，但野生动物不会"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:467
 #, fuzzy
@@ -2526,7 +2490,12 @@ msgid ""
 "This will be the threshold through which our folk pass.\n"
 "From our long shameful exile adrift on sinking isles.\n"
 "Reascended to claim our forgotten birthright of this greater world."
-msgstr "吾将于此立吾巢穴。此乃吾族穿行之门阈。自此沉没群岛之漫长流放；复升以夺吾辈于此广世被遗忘之生来之权。"
+msgstr ""
+"吾将于此立巢。\n"
+"\n"
+"此乃吾族通路之始。\n"
+"自沉岛流亡之漫长屈辱。\n"
+"终得复升  以索此广世被遗忘之生权。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
@@ -2538,12 +2507,10 @@ msgid ""
 "Some orcs may have drifted to here as well."
 msgstr "此岛所栖之猎，较吾辈所见更为稀疏……或有兽众亦漂泊至此。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:481
-#, fuzzy
 msgid "Then we shall seize their settlements to procure our flight’s sustenance."
-msgstr "吾等将夺其聚落；以资吾翼群之给养。"
+msgstr "吾等将夺其聚落，以资吾翼群之给养。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
@@ -2579,12 +2546,10 @@ msgstr ""
 msgid "Another herd of those orc creatures..."
 msgstr "另一群这些兽人生物……"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #. At this time, the drakes mistakenly believe humans call their race
 #. ‘haldric’ but this is actually the name of their king.
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:512
-#, fuzzy
 msgid ""
 "Nay, their weaponry is not crude enough.\n"
 "Those are haldric, creatures of much higher quality."
@@ -2592,15 +2557,13 @@ msgstr ""
 "非也，其兵器远非粗劣之物。\n"
 "彼等乃哈德里克，精良之族。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:517
-#, fuzzy
 msgid ""
 "Whilst the haldric speak with many unfamiliar words, their menacing tone is clear.\n"
 "Those hatchlings will be slain if our intervention is not swift."
 msgstr ""
-"虽哈尔德里克人之语多陌生词汇，其威胁之调却明晰无疑。  \n"
+"虽哈德里克人之语多陌生词汇，其威胁之调却明晰无疑。\n"
 "若吾等不及速援，彼雏龙必将殒命。"
 
 #. [message]: speaker=Zedrix
@@ -2641,26 +2604,27 @@ msgstr ""
 "\n"
 "嗨，龙！（<i>啾啾</i>）在这儿！"
 
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:602
+#, fuzzy
 msgid "They are receiving us."
-msgstr "他们正在接待我们。"
+msgstr "彼等正迎吾等。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:608
 msgid "Hail-loooo! Dragons, can you ssspeak? Zedrix, you sssaid dragons can ssssspeak!"
 msgstr "嗨——看——！龙，你们能说话吗嘶嘶？泽德里克斯，你说过龙可以说话的嘶嘶！"
 
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:612
+#, fuzzy
 msgid ""
 "Little ones!\n"
 "\n"
 "You will do as I command!"
-msgstr ""
-"小家伙们！\n"
-"\n"
-"你将按我的命令行事！"
+msgstr "幼雏！汝当遵吾令！"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:620
@@ -2880,15 +2844,16 @@ msgid ""
 "There is enough to feed our flight for half a dozen moons."
 msgstr "聚落已夺；粮秣尽取。所获之资，足供吾翼群六轮月相之需。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:860
-#, fuzzy
 msgid ""
 "Upon this isle, I hereby Proclaim my Eyrie.\n"
 "\n"
 "From here my domain extends."
-msgstr "于此岛，吾立此巢穴；自此域，吾疆延四方。"
+msgstr ""
+"于此岛，吾立此巢穴。\n"
+"\n"
+"自此域，吾疆延四方。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
@@ -2963,12 +2928,10 @@ msgstr "他们来得太早了……"
 msgid "Drakes"
 msgstr "龙人"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:137
-#, fuzzy
 msgid "Karron, you did not wait for my summons!"
-msgstr "卡戎；汝未候吾召！"
+msgstr "卡戎，汝未候吾召！"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
@@ -3047,32 +3010,28 @@ msgstr "非为雏龙！"
 msgid "Indeed, I am our clan’s elder. Sssuch longevity wandering ssstars bestow me. For over 11 years have I lived."
 msgstr "确实，吾乃部族之长。漫游星尘赐吾长寿。吾已存活逾十一载。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:195
-#, fuzzy
 msgid "They are ‘saurians’."
-msgstr "彼等乃疾足"
+msgstr "彼等乃“蜥蜴人”。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:199
-#, fuzzy
 msgid ""
 "Their likeness to hatchlings is disarming.\n"
 "Disturbingly so.\n"
 "I do not want them near my fli—"
 msgstr ""
-"其形肖似雏龙；令人懈备。  \n"
-"实乃扰心；  \n"
+"其形肖似雏龙，令人懈备。  \n"
+"实乃扰心。\n"
 "吾不欲彼辈近吾翼——"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:207
 #, fuzzy
 msgid "Enough."
-msgstr "已足。"
+msgstr "足矣。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
@@ -3087,21 +3046,19 @@ msgstr ""
 "\n"
 "瑞莎，即刻行之。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:221
-#, fuzzy
 msgid "By your will."
-msgstr "遵汝意志"
+msgstr "遵汝意志。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:232
-#, fuzzy
 msgid ""
 "Gorlack, arriving here, I noticed a large gathering of game to the northeast.\n"
 "A nest of haldric."
-msgstr "戈拉克，吾抵此境，见东北向有软猎大群聚；乃哈德里克之巢穴。"
+msgstr ""
+"戈拉克，吾抵此境，见东北向有软猎大群聚。\n"
+"乃哈德里克之巢穴。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:239
@@ -3183,18 +3140,16 @@ msgstr ""
 "瑞莎未现。  \n"
 "汝心未回荡其滑翔者之神话。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:286
-#, fuzzy
 msgid ""
 "Not myths, Karron.\n"
 "Look around us.\n"
 "It is not the ocean we stand upon."
 msgstr ""
-"非为传说，卡戎。  \n"
-"环视吾等所立之地。  \n"
-"此非泰洋。"
+"非为传说，卡戎。\n"
+"环视吾等所立之地。\n"
+"此非吾等所立之海洋。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
@@ -3252,50 +3207,55 @@ msgstr ""
 "吾命汝铭记汝之<b>炽火</b>——为彼荣光之梦！\n"
 "汝之种姓恩赐，曾于汝心燃至煌极！"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:322
+#, fuzzy
 msgid ""
 "Gorlack... look across this narrow sea before us.\n"
 "\n"
 "Look to that ‘human’ legion which faces you.\n"
 "Those creatures which ward the threshold to the greatest land..."
 msgstr ""
+"戈拉克……且观眼前这窄海彼端。  \n"
+"且观那「掷手」军团正与汝对峙。  \n"
+"彼等生灵戍守着通往至伟大陆之门户。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:329
 msgid "Dominant Gorlack, pray tell what glorious dream you see."
-msgstr ""
+msgstr "翼主戈拉克，请告汝所见之荣梦。"
 
-# Translated by ollama with model glm4.
 #. [scenario]: id=06_Landfall
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:5
 msgid "Landfall"
-msgstr ""
+msgstr "登陆"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:19
+#, fuzzy
 msgid "Near to the gathering of human prey, the Flight of Gorlack took positions. Veiled by the clouds above, Karron with her wing of hunters watched for the signal to pounce."
-msgstr ""
+msgstr "戈拉克之翼群已逼近硬猎聚集地，布下战阵。云层之上，卡戎率其猎手翼队隐伏待命，只待突袭信号。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:66
+#, fuzzy
 msgid "Fort Elense"
-msgstr ""
+msgstr "埃伦斯要塞"
 
 #. [leader]: id=Vorlyan, type=General
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:70
 msgid "Vorlyan"
 msgstr "沃利安"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [unit]: id=Iryn, type=Cavalier
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:76
+#, fuzzy
 msgid "Iryn"
-msgstr ""
+msgstr "艾琳"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:89
@@ -3327,13 +3287,18 @@ msgstr "杀了所有人类"
 msgid "Death of Karron"
 msgstr "卡戎死亡"
 
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:155
+#, fuzzy
 msgid ""
 "Move anyone to the beacon to call in the reinforcements:\n"
 "Karron with veteran drakes attacking from the west\n"
 "Saurians attacking from the north\n"
 msgstr ""
+"遣兵至烽燧；援军即至：\n"
+"卡戎率百战龙人自西来攻\n"
+"蜥蜴人自北来袭"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:161
@@ -3352,10 +3317,14 @@ msgid ""
 "\n"
 "Within sight of these humans!"
 msgstr ""
+"戈拉克，汝已着陆！\n"
+"\n"
+"竟在这等人类眼前！"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:193
+#, fuzzy
 msgid ""
 "You have returned from patrol with fortunate timing, Resha.\n"
 "These creatures are to be our prey.\n"
@@ -3363,6 +3332,11 @@ msgid ""
 "\n"
 "Fall in."
 msgstr ""
+"汝巡哨归巢 正逢其时 瑞莎  \n"
+"此群硬猎 当为吾俎  \n"
+"至堡后 吾将授汝其详  \n"
+"\n"
+"归列"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:203
@@ -3371,6 +3345,9 @@ msgid ""
 "\n"
 "The full ability of the humans is still unknown to us."
 msgstr ""
+"戈拉克，此举极不智！\n"
+"\n"
+"吾等尚未尽晓人类之能。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:209
@@ -3380,6 +3357,10 @@ msgid ""
 "When I give you the signal, light the beacon.\n"
 "It will call in our reinforcements."
 msgstr ""
+"吾等别无他选，须得此肉。\n"
+"\n"
+"待吾号令，汝燃烽火。\n"
+"援翼将应召而至。"
 
 #. [message]: speaker=Iryn
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:237
@@ -3411,21 +3392,23 @@ msgstr "确实，先生，他们正从我们的南面移动过来。他们是一
 msgid "They do move in hordes..."
 msgstr "他们确实成群结队地移动……"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Vorlyan
 #. Here “wesfolk traveller” is used in the same way as “Irish traveller”,
 #. which is a real life culture the wesfolk are likely based on. There is
 #. lingering animosity between the islefolk and wesfolk, so he means it in a
 #. mildly negative sense.
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:269
+#, fuzzy
 msgid "Captain, ride east and order Carcyn Fisher to put his people on the boats and evacuate upriver. Tell that wesfolk traveller if he ignores <i>this</i> order you will evacuate his head from his shoulders."
-msgstr ""
+msgstr "队长，汝往东去，令卡辛·费希尔率众登舟，溯泰河撤离。若彼韦诺流民抗命，当斩其首级悬桅示众。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Vorlyan
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:274
+#, fuzzy
 msgid "Then go upriver yourself, all the way to Fort Weldyn. Bring word of our situation directly to King Haldric the Dragonbane."
-msgstr ""
+msgstr "尔可自行溯流而上，直抵维尔帝堡。将吾等境况亲禀于屠龙者哈尔德里克王。"
 
 #. [message]: speaker=Iryn
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:280
@@ -3437,11 +3420,12 @@ msgstr "我们可能反应过激了吗，先生？"
 msgid "We are students of war, Captain, and if recent years have taught our people anything, it is to be ready for the worst at all times."
 msgstr "我们是战争的学生，队长，如果近年来的经验教会了我们什么的话，那就是时刻准备应对最坏的情况。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Iryn
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:291
+#, fuzzy
 msgid "Sir!"
-msgstr ""
+msgstr "阁下！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:314
@@ -3461,28 +3445,29 @@ msgstr "是"
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:405
 msgid "I see we shall eat well this day!"
-msgstr ""
+msgstr "今日吾等当飨盛宴！"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:416
 msgid "Alas! Karron is slain!"
-msgstr ""
+msgstr "哀哉！卡戎已陨！"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:427
+#, fuzzy
 msgid "Fort Elenssse burns, gone forever! My hatchplace is free and my people can return to live here again. Sssaurian Empire will lassst thirteen millennia more!"
-msgstr ""
+msgstr "维尔帝堡焚毁，永不复存！吾之孵化所得释，族人可重归故土。蜥蜴帝国将再续万年荣光！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:431
 msgid ""
 "Learn from this victory, Resha.\n"
 "See now the futility of your doubt."
 msgstr ""
+"此胜可为汝师，瑞莎。\n"
+"而今当见汝疑之虚妄。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:438
 msgid ""
@@ -3491,11 +3476,17 @@ msgid ""
 "\n"
 "Though our Windpath is now unknowable, I fear it leads to war."
 msgstr ""
+"戈拉克，凭此胜绩，吾之疑虑三倍滋长。\n"
+"吾等已径直飞入混沌，卷入命运之风最深处的漩涡。\n"
+"\n"
+"虽风途已不可辨，吾恐其终导向战端。"
 
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:445
+#, fuzzy
 msgid "There can be no <i>war</i> in a land with prey so plenty."
-msgstr ""
+msgstr "猎获丰饶之地，安有战事。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:451
@@ -3504,48 +3495,62 @@ msgid ""
 "\n"
 "They could very well outmatch us."
 msgstr ""
+"此等生物绝非常猎。\n"
+"\n"
+"彼等或可凌驾吾翼之上。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:457
+#, fuzzy
 msgid "... You witnessed only moments ago how we slew a nest of them utterly."
-msgstr ""
+msgstr "汝适才亲见我翼尽屠其巢。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:461
+#, fuzzy
 msgid ""
 "Perhaps... your patrols have been overtaxing, Resha.\n"
 "\n"
 "I relieve you of all duties.\n"
 "Return to the eyrie until your sense recovers."
 msgstr ""
+"或许…汝之巡猎已过苛，瑞莎。\n"
+"\n"
+"吾免汝一切职责。\n"
+"待汝神思复常，再归巢穴。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:468
+#, fuzzy
 msgid ""
 "With these humans dead, ssspiritsss of my brood sssisssters feel sssome peace... but humans were only hirelings for elves, yesssss, elves mussst ssstill pay...\n"
 "\n"
 "Elves of Wesssmere, your time has come!"
-msgstr ""
+msgstr "这些掷手既亡；吾翼群姊妹之灵终得安宁……然掷手仅为精界雇佣；精界必偿血债。韦斯米尔精界；汝等命数已尽！"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:15
+#, fuzzy
 msgid "The hunt continued across grassy stretches of the Greatland. Prey was harvested in countless numbers. Finally, overburdened with the yield of the hunt, Flight Gorlack returned to its eyrie. The recently arrived Flight of Vladnir awaited them."
-msgstr ""
+msgstr "狩猎在泰陆的草甸上延续。无数硬猎遭收割。最终，因猎获过载，戈拉克翼群归返巢穴。新近抵达的维拉德尼尔翼群正静候其归来。"
 
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:20
+#, fuzzy
 msgid ""
 "I come with tidings, fellow dominant.\n"
 "Half of Morogor makes ready for the journey here."
-msgstr ""
+msgstr "同属翼主，吾携讯而至。莫罗戈半数已备，将启程来此。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:26
+#, fuzzy
 msgid ""
 "That must not be.\n"
 "Even now we have not the provisions for them.\n"
@@ -3554,46 +3559,59 @@ msgid ""
 "Much of it will grow as cold as a high mountain peak.\n"
 "This cold lasts several moons."
 msgstr ""
+"此事断不可为。  \n"
+"吾等如今连自身给养尚且不足。  \n"
+"\n"
+"更有蜥蜴人报知：大地上正肆虐凛冬之季。  \n"
+"万里疆土将冻结若高山绝顶之寒。  \n"
+"此极寒将绵延数轮月升。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:36
+#, fuzzy
 msgid ""
 "Nothing will delay their coming.\n"
 "All that before stirred one flight against another, now drives them here."
 msgstr ""
+"没有任何事物能延缓他们的到来。  \n"
+"昔日激起翼群相争的一切，此刻皆驱其至此。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:42
+#, fuzzy
 msgid ""
 "Then their needs will be met.\n"
 "I shall expand the hunt so as to meet them."
-msgstr ""
+msgstr "其所需必将得偿；吾将广猎以应之。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:48
+#, fuzzy
 msgid ""
 "Gorlack, you must reconsider this course, wholly.\n"
 "\n"
 "End the hunt.\n"
 "\n"
 "Elsewise... you doom this expedition by following the shameful Windpath of Dominant Morogor."
-msgstr ""
+msgstr "戈拉克，汝必须全盘重议此道。终止狩猎。若不然……汝将随莫罗戈翼主之耻风途，葬送此番远征。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:57
+#, fuzzy
 msgid ""
 "I see your sense has yet to return, Resha!\n"
 "\n"
 "Dominant Morogor betrayed his own kith; he attacked the very drakes with whom he had sworn alliance!"
-msgstr ""
+msgstr "看来汝仍未恢复理智，瑞莎！翼主莫罗戈竟背弃盟翼；其突袭之众，正是曾立血誓同盟之龙人！"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:64
+#, fuzzy
 msgid ""
 "Nay, they were not drakes which he attacked...\n"
 "\n"
@@ -3603,10 +3621,18 @@ msgid ""
 "I should have long ago Spoken the whole of this Memory to you.\n"
 "Yet I had concern it was more than you could believe by word alone."
 msgstr ""
+"不，他所攻击的并非龙人。\n"
+"\n"
+"莫罗戈背叛的那些盟友乃是异族生灵。\n"
+"或许正是此刻吾等猎手在草甸上追猎的同类。\n"
+"\n"
+"吾本早该将此口述史悉数告与汝知。\n"
+"然吾曾忧心，仅凭言语不足令汝尽信。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:75
+#, fuzzy
 msgid ""
 "Then your concern was well measured, for I disbelieve you even now.\n"
 "\n"
@@ -3617,10 +3643,20 @@ msgid ""
 "\n"
 "No Ancestor would mistake such simple <i>prey</i> for an ally."
 msgstr ""
+"然汝之忧确有分寸，因吾至今亦难信汝所言。\n"
+"\n"
+"彼「掷手」族类：\n"
+"栖身平野高草间以牧为生，\n"
+"驯役驮兽行于大地，\n"
+"驾浮木所造之物渡海，\n"
+"实不足与我等大业相抗。\n"
+"\n"
+"先祖英明，岂会将此等孱弱<u>硬猎</u>误作盟邦。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:87
+#, fuzzy
 msgid ""
 "Yet verily it was so.\n"
 "\n"
@@ -3629,10 +3665,17 @@ msgid ""
 "Likewise were there those of terrible natures — the Horde, the Jotnar... the Faerie.\n"
 "I fear one of these races is they who swept our folk from this Greatland long ago."
 msgstr ""
+"然此确为真。\n"
+"\n"
+"昔危难之时，龙人曾与诸多高贵种族结为盟友——疾足、古龙、匠灵、渊蛇、掷手皆列其中。\n"
+"\n"
+"亦有本性凶残之辈——兽众、巨灵……乃至精界。\n"
+"吾恐正是其中一族，于久远之年将吾族逐出此泰土大地。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:97
+#, fuzzy
 msgid ""
 "The names which they call themselves have shifted in our long absence.\n"
 "Yet many creatures we have already come across bear a perfect likeness to those from the Spoken Memories.\n"
@@ -3641,25 +3684,34 @@ msgid ""
 "If we proceed as we have, we shall drive old allies to war against us.\n"
 "Worse still, we may awaken an ancient foe to our presence in this land."
 msgstr ""
+"长久暌隔，彼等自称之名号已然更易。  \n"
+"然吾等沿途所遇诸多生灵，其形貌与口述史所载别无二致。  \n"
+"实为同族无疑。  \n"
+"\n"
+"若仍循旧策而行，必迫昔日盟翼与我为敌。  \n"
+"更甚者，或将惊动远古之敌，令其察觉吾等已重返此土。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:107
+#, fuzzy
 msgid ""
 "Your first intendant speaks truth, Dominant Gorlack.\n"
 "\n"
 "By the Honor of my Caste in whole, I hereby Proclaim it so."
-msgstr ""
+msgstr "汝之首位辅佐者言真，翼主戈拉克。吾以全族种姓之荣名，于此昭告此言。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:114
+#, fuzzy
 msgid "Dominant Vladnir... never since the exiling has another caste verified our Spoken Memories."
-msgstr ""
+msgstr "翼主维拉德尼尔……自流放以来，再无其他种姓印证过吾等的口述史。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:119
+#, fuzzy
 msgid ""
 "We were forbidden to do so.\n"
 "Since the Time of Legend, we clashers have been charged with the keeping of secrets —\n"
@@ -3677,14 +3729,32 @@ msgid ""
 "\n"
 "Yet our written secrets quietly remained."
 msgstr ""
+"吾等受命不得为之。  \n"
+"自传说时代起，吾冲击者种姓便肩负守护秘刻之责——  \n"
+"\n"
+"帕拉帕索斯为寻九人议会而穿行地底的蜿蜒路径；  \n"
+"将火混入水中的巨型自动机核心铸法；  \n"
+"维特维加娜在必死决斗中拖延伦凡前，对其伴侣最后的眷语。  \n"
+"\n"
+"先祖之智、先祖之力、先祖之事。  \n"
+"\n"
+"此等秘刻曾为众龙人所共享。  \n"
+"然流放之痛令翼主莫罗戈颁下禁言之令。  \n"
+"唯汝滑翔者种姓抗命不遵。  \n"
+"吾等以荣誉立誓，谨守律法。  \n"
+"\n"
+"然秘刻始终静默存续。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:138
+#, fuzzy
 msgid ""
 "Now, we are far beyond the Domain of Morogor; here his edicts hold no sway.\n"
 "All that he made secret, I may share with you here."
 msgstr ""
+"此刻，吾等已远遁莫罗戈治外；此地其律令无从施威。  \n"
+"凡其列为秘刻者，吾皆可在此尽诉于汝。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:144
@@ -3696,28 +3766,34 @@ msgstr "不再谈论你的秘密。"
 msgid "... Gorla—"
 msgstr "…戈拉—"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:154
+#, fuzzy
 msgid ""
 "I see now how you all cling to your fragments of the past; you cower there with them.\n"
 "Clasher secrets.\n"
 "Glider memories.\n"
 "All useless, as an entire age passed while every one of you feared to act on what you knew!"
 msgstr ""
+"如今我明白了，汝等皆紧攥着往昔的碎片；蜷缩其间瑟瑟发抖。  \n"
+"冲击者之秘刻，滑翔者之口述史——  \n"
+"尽皆无用！整整一个世代流逝，汝等明知真相却无一人敢挺身而行！"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:162
+#, fuzzy
 msgid ""
 "Gorlack, the clasher secrets may bear details of the Greatland unknown to the Spoken Memories.\n"
 "\n"
 "If we do not heed them, I fear—"
-msgstr ""
+msgstr "戈拉克，冲击者所携秘刻，或许载有口述史未闻之泰拉大陆详情。若吾等置若罔闻，吾恐——"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:169
+#, fuzzy
 msgid ""
 "Speak no more of your fears!\n"
 "\n"
@@ -3725,19 +3801,26 @@ msgid ""
 "So many foes vanquished.\n"
 "Yet still you feel not how we shift the Winds of Fate by the force of our Will."
 msgstr ""
+"休再言汝之惧！\n"
+"\n"
+"吾等已克万难。\n"
+"吾等已败万敌。\n"
+"然汝犹未察：吾等正以意志之力，扭转命运之风途。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:178
+#, fuzzy
 msgid ""
 "... Gorlack, I grasp not your meaning.\n"
 "\n"
 "While the Spoken Memories tell us steady wings may catch the Winds of Fate—"
-msgstr ""
+msgstr "戈拉克，吾未解汝意。诚然口述史有云：展翼不移者可乘命运之风——"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:185
+#, fuzzy
 msgid ""
 "Nay!\n"
 "\n"
@@ -3751,16 +3834,29 @@ msgid ""
 "With no room left for <i>fear</i>.\n"
 "With all your Willful heart, make that world be!"
 msgstr ""
+"非也！\n"
+"\n"
+"吾等非为命运之风随意摆布之落叶。\n"
+"吾等乃<b>铸风</b>之人。\n"
+"\n"
+"吾等非茫然摸索风途之徒。\n"
+"吾等乃辟路之士。\n"
+"\n"
+"以汝炽心全部火焰，感知世界应有之貌。\n"
+"不容<i>惧意</i>存隙。\n"
+"以汝全副意志之心，令彼界成真！"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:200
+#, fuzzy
 msgid "Perhaps you need witness one final demonstration..."
-msgstr ""
+msgstr "或许你需要见证最后一次演示..."
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:205
+#, fuzzy
 msgid ""
 "I Call the Hunt.\n"
 "A hunt greater than any before it.\n"
@@ -3773,12 +3869,23 @@ msgid ""
 "\n"
 "Together we shall provide enough for all of Morogor."
 msgstr ""
+"吾召狩猎。  \n"
+"此猎盛于旧猎。  \n"
+"\n"
+"三支翼群。  \n"
+"\n"
+"吾已传讯卡戎东行穿草野。  \n"
+"维拉德尼尔，汝当往暖沙东南之境。  \n"
+"吾将北上入韦诺密林。  \n"
+"\n"
+"合猎所获，当足供莫罗戈万众。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:219
+#, fuzzy
 msgid "Then... so it will be..."
-msgstr ""
+msgstr "既如此…便如所愿…"
 
 #. [scenario]: id=07_Harvest
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:5
@@ -3790,68 +3897,78 @@ msgstr "收成"
 msgid "Dominant Gorlack considered every hunting opportunity along the way to Wesmere."
 msgstr "领导者戈拉克考虑了前往韦弥尔途中的一切狩猎机会。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:22
+#, fuzzy
 msgid "A deep green swamp offered adequate game. Yet the saurian Arinexis urged him on to the much fatter prize that lay just ahead..."
-msgstr ""
+msgstr "深绿色的沼泽虽能提供充足的软猎；然蜥蜴人阿瑞尼克西斯仍催促他继续向前——前方蛰伏着更为丰厚的猎物。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:26
+#, fuzzy
 msgid "For in the cold Jungle of Wesmere dwelt a great herd of a new prey–kind. Arinexis spoke of these ‘elves’ as dull witted with a capricious heart, the consequences of remaining too long within their stale realm."
-msgstr ""
+msgstr "因为在韦斯米尔寒林中栖息着一大群新的猎物种族。阿瑞尼克西斯曾描述这些\"精灵\"愚钝善变，这是在她们陈腐之境中待得太久所导致的后果。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:30
 msgid "It would seem they were perfect prey."
 msgstr "似乎他们是完美的猎物。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:75
+#, fuzzy
 msgid "Ministry of Fellowship"
-msgstr ""
+msgstr "翼群联谊部"
 
 #. [leader]: id=Salennea, type=Elvish Lady
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:79
 msgid "Salennea"
 msgstr "萨莲妮雅"
 
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:111
+#, fuzzy
 msgid "Tree Fellows"
-msgstr ""
+msgstr "林栖盟友"
 
-# Translated by ollama with model qwen2.5:14b.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [leader]: id=Gulladrumm, type=Ancient Wose
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:115
+#, fuzzy
 msgid "Gulladrumm"
-msgstr ""
+msgstr "古拉德鲁姆"
 
-# Translated by ollama with model qwen2.5:14b.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:152
+#, fuzzy
 msgid "Sea Fellows"
-msgstr ""
+msgstr "海族"
 
-# Translated by ollama with model qwen2.5:14b.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [leader]: id=Pelgara, type=Mermaid Enchantress
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:156
+#, fuzzy
 msgid "Pelgara"
-msgstr ""
+msgstr "佩尔加拉"
 
-# Translated by ollama with model qwen2.5:14b.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:182
+#, fuzzy
 msgid "Ornery Pets"
-msgstr ""
+msgstr "倔宠"
 
-# Translated by ollama with model qwen2.5:14b.
+# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [leader]: id=Princess Mew, type=Leopard
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:186
+#, fuzzy
 msgid "Princess Mew"
-msgstr ""
+msgstr "喵公主"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [side]
