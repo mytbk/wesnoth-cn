@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2025-10-07 21:14+0800\n"
+"PO-Revision-Date: 2025-10-08 16:39+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -2512,10 +2512,8 @@ msgstr "此岛所栖之猎，较吾辈所见更为稀疏……或有兽众亦漂
 msgid "Then we shall seize their settlements to procure our flight’s sustenance."
 msgstr "吾等将夺其聚落，以资吾翼群之给养。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:485
-#, fuzzy
 msgid ""
 "There is some commotion below us...\n"
 "\n"
@@ -2523,9 +2521,10 @@ msgid ""
 "There are hatchlings just below.\n"
 "They look to be in dire need of aid!"
 msgstr ""
-"下方似有骚动……  \n"
-"雏龙！  \n"
-"正下方有雏龙。  \n"
+"下方似有骚动……\n"
+"\n"
+"雏龙！\n"
+"正下方有雏龙。\n"
 "其状甚危，亟需驰援！"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
@@ -2604,10 +2603,8 @@ msgstr ""
 "\n"
 "嗨，龙！（<i>啾啾</i>）在这儿！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:602
-#, fuzzy
 msgid "They are receiving us."
 msgstr "彼等正迎吾等。"
 
@@ -2616,15 +2613,16 @@ msgstr "彼等正迎吾等。"
 msgid "Hail-loooo! Dragons, can you ssspeak? Zedrix, you sssaid dragons can ssssspeak!"
 msgstr "嗨——看——！龙，你们能说话吗嘶嘶？泽德里克斯，你说过龙可以说话的嘶嘶！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:612
-#, fuzzy
 msgid ""
 "Little ones!\n"
 "\n"
 "You will do as I command!"
-msgstr "幼雏！汝当遵吾令！"
+msgstr ""
+"小子！\n"
+"\n"
+"汝当遵吾令！"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:620
@@ -2663,12 +2661,10 @@ msgstr ""
 "吾等翼群抵达恐将惊起彼辈孤注一掷。  \n"
 "当务之急乃先行掌控所有聚落。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:665
-#, fuzzy
 msgid "Any lassst words, brute?"
-msgstr "汝有遗言否，蛮徒？"
+msgstr "有遗言吗嘶嘶，野蛮人？"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Elyn
@@ -2745,17 +2741,13 @@ msgstr ""
 "\n"
 "无暇加密此卷，亦不可携日志涉险以致落于未知敌手。然吾绝不毁之，银星会密规姑且弃置。愿海流携此卷归返埃伦斯要塞，令后世知此地所现之秘。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:749
-#, fuzzy
 msgid "Beware the great maelstrom off the north coast."
 msgstr "谨防北岸大漩涡。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:753
-#, fuzzy
 msgid "The tides are of no consequence to us, Resha."
 msgstr "潮涌于吾等无碍，瑞莎。"
 
@@ -2805,44 +2797,38 @@ msgid ""
 "Fly!"
 msgstr "乘风远遁！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:804
-#, fuzzy
 msgid "It is just as I had feared."
 msgstr "正如吾所惧。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:808
-#, fuzzy
 msgid "Elaborate."
 msgstr "详述之。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:812
-#, fuzzy
 msgid "This is a <i>living mist</i>, a creature of the Faerie."
-msgstr "此乃精界活雾，灵界造物。"
+msgstr "此乃<i>活雾</i>，精界造物。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:816
-#, fuzzy
 msgid ""
 "Without our flight, we have not the numbers to engage this foe on equal terms.\n"
 "We should evade it if we can."
-msgstr "吾等若无翼群；则无以均势抗敌。若可避战；当避之。"
+msgstr ""
+"若无吾翼群，则无以均势抗敌。\n"
+"若可避战，当避之。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:855
-#, fuzzy
 msgid ""
 "The settlements are seized, along with all contained provisions.\n"
 "There is enough to feed our flight for half a dozen moons."
-msgstr "聚落已夺；粮秣尽取。所获之资，足供吾翼群六轮月相之需。"
+msgstr ""
+"聚落已夺，粮秣尽取。\n"
+"所获之资，足供吾翼群六轮月相之需。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:860
@@ -2954,61 +2940,54 @@ msgstr ""
 "故以汝赐余之幼雏，易与他翼群，  \n"
 "换得健壮龙人堪任远征。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:153
-#, fuzzy
 msgid "Vladnir will not last with <b>no</b> ally by his side."
-msgstr "维拉德尼尔无盟翼在侧；其势难久。"
+msgstr "维拉德尼尔<b>无</b>盟翼在侧，其势难久。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:157
-#, fuzzy
 msgid ""
 "Vladnir is to follow me here.\n"
 "By now he is already faring."
-msgstr "维拉德尼尔将随吾至此；彼此刻应已启程。"
+msgstr ""
+"维拉德尼尔将随吾至此。\n"
+"彼此刻应已启程。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:164
-#, fuzzy
 msgid ""
 "We have not yet the provisions for three flights within this domain.\n"
 "There could be hunger before the next moon!"
-msgstr "吾等领内尚无供养三支翼群之储粮；未及下月盈缺，饥馑将至！"
+msgstr ""
+"吾等领地内尚无供养三支翼群之储粮。\n"
+"未及下月盈缺，饥馑将至！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:169
-#, fuzzy
 msgid ""
 "Gorlack we must—\n"
 "\n"
 "Gorlack, hatchlings do not belong at a counsel gathering."
-msgstr "戈拉克；雏龙不得列席议席。"
+msgstr ""
+"戈拉克，吾等必——\n"
+"\n"
+"戈拉克，雏龙不得列席议席。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:177
-#, fuzzy
 msgid "We are <b>not</b> hatchlings..."
-msgstr "吾等非初诞雏翼..."
+msgstr "我们<b>并非</b>雏龙…"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:183
-#, fuzzy
 msgid "Not hatchlings!"
-msgstr "非为雏龙！"
+msgstr "并非雏龙！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:189
-#, fuzzy
 msgid "Indeed, I am our clan’s elder. Sssuch longevity wandering ssstars bestow me. For over 11 years have I lived."
-msgstr "确实，吾乃部族之长。漫游星尘赐吾长寿。吾已存活逾十一载。"
+msgstr "实际上，我是部族的长者。漫游星尘赐我长寿嘶嘶。我已经活过了11年。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:195
@@ -3026,10 +3005,8 @@ msgstr ""
 "实乃扰心。\n"
 "吾不欲彼辈近吾翼——"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:207
-#, fuzzy
 msgid "Enough."
 msgstr "足矣。"
 
@@ -3065,14 +3042,14 @@ msgstr ""
 msgid "You sssaw Demon King?! You sssssaw <b>The Haldric</b>?"
 msgstr "你看到了嘶嘶恶魔国王？！你看到了嘶嘶<b>哈德里克</b>？"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:243
-#, fuzzy
 msgid ""
 "Gorlack, your hatchling-things cry nonsense.\n"
 "You must gain control over them."
-msgstr "戈拉克，汝之雏翼啼鸣无状；汝须令其归序。"
+msgstr ""
+"戈拉克，汝之雏翼啼鸣无状。\n"
+"汝须令其归序。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Arinexis
@@ -3087,15 +3064,13 @@ msgstr ""
 "\n"
 "此等人类屠尽吾族近乎全族！于吾孵化所废墟之上，彼等筑起参天要塞埃伦斯。祈龙族降下天火，焚尽此等秽物！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:256
-#, fuzzy
 msgid ""
 "Gorlack, we should harvest them.\n"
 "There is meat enough there to feed our three flights a full year."
 msgstr ""
-"戈拉克，吾等当收割此猎。  \n"
+"戈拉克，吾等当收割此猎。\n"
 "其肉足供三翼群饱食整年。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
@@ -3111,15 +3086,16 @@ msgstr ""
 "诸多滑翔者口述史有载；往昔轻敌之硬猎；反成猎手。  \n"
 "亦言此泰洲大地；暗藏凶险。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:269
-#, fuzzy
 msgid ""
 "You speak with Resha’s fearful tongue.\n"
 "\n"
 "I remember, long ago..."
-msgstr "汝言如瑞莎；惧声颤颤。吾忆之久矣..."
+msgstr ""
+"汝言如瑞莎，惧声颤颤。\n"
+"\n"
+"吾忆之久矣…"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
