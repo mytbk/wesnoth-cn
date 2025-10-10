@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2025-10-08 18:03+0800\n"
+"PO-Revision-Date: 2025-10-10 15:51+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -2640,10 +2640,8 @@ msgstr ""
 "\n"
 "兄弟们，现在由我来指挥这次远征。别再逞英雄了。通知东部分队，我们将尝试在岛屿南岸与他们重新汇合。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:645
-#, fuzzy
 msgid ""
 "The haldric creatures have twice before seized an isle of Morogor.\n"
 "To have done so, they must possess a nigh drakelike cunning.\n"
@@ -2653,12 +2651,12 @@ msgid ""
 "The arrival of our flight would likely startle such desperate action.\n"
 "We would be wise to secure all settlements before then."
 msgstr ""
-"莫罗戈之岛已两度遭哈尔德里克族所据。  \n"
-"彼等行此，必有近乎龙族之狡黠。  \n"
-"若其嗅得败亡将至……  \n"
+"莫罗戈之岛已两度遭哈尔德里克族所据。 \n"
+"彼等行此，必有近乎龙族之狡黠。 \n"
+"若其嗅得败亡将至… \n"
 "\n"
-"定会焚其聚落以绝粮秣之资。  \n"
-"吾等翼群抵达恐将惊起彼辈孤注一掷。  \n"
+"定会焚其聚落以绝粮秣之资。\n"
+"吾等翼群抵达恐将惊起彼辈孤注一掷。\n"
 "当务之急乃先行掌控所有聚落。"
 
 #. [message]: speaker=Arinexis
@@ -2751,27 +2749,25 @@ msgstr "谨防北岸大漩涡。"
 msgid "The tides are of no consequence to us, Resha."
 msgstr "潮涌于吾等无碍，瑞莎。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:757
-#, fuzzy
 msgid ""
 "Long ago, such maelstroms were strongholds of an ancient foe.\n"
 "I fear a thing most foul may lurk within there, even now.\n"
 "We would do well to keep our distance from it."
 msgstr ""
-"往昔，此等风暴乃是古敌之要塞；  \n"
-"纵是今时，吾亦忧惧有至秽之物蛰伏其中；  \n"
+"往昔，此等风暴乃古敌之要塞。\n"
+"纵是今时，吾亦忧惧有至秽之物蛰伏其中。\n"
 "吾等当远离此境。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:763
-#, fuzzy
 msgid ""
 "I shall keep that in mind.\n"
 "Carry on with your duty."
-msgstr "吾必谨记；汝当恪尽职守。"
+msgstr ""
+"吾必谨记。\n"
+"汝当恪尽职守。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=narrator
@@ -2910,10 +2906,8 @@ msgstr "龙人"
 msgid "Karron, you did not wait for my summons!"
 msgstr "卡戎，汝未候吾召！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:141
-#, fuzzy
 msgid ""
 "You left no prospect of waiting.\n"
 "Upon your departure, the rogues began probing the Domain of Vladnir.\n"
@@ -2923,12 +2917,12 @@ msgid ""
 "So the youths you bestowed me I traded to other flights,\n"
 "for prime drakes able to make the journey."
 msgstr ""
-"汝未留驻守之望。  \n"
-"自汝离巢，流寇即窥探维拉德尼尔之域。  \n"
-"若无汝翼群镇守，吾等兵力不足以御敌。  \n"
+"汝未留驻守之望。\n"
+"自汝离巢，叛徒即窥探维拉德尼尔之域。\n"
+"若无汝翼群镇守，吾等兵力不足以御敌。\n"
 "\n"
-"维拉德尼尔于此谏余。  \n"
-"故以汝赐余之幼雏，易与他翼群，  \n"
+"维拉德尼尔于此谏余。\n"
+"故以汝赐余之幼雏，易与他翼群， \n"
 "换得健壮龙人堪任远征。"
 
 #. [message]: speaker=Gorlack
@@ -3661,12 +3655,10 @@ msgstr ""
 "\n"
 "吾以吾种姓全族之荣名，于此昭告此言。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:114
-#, fuzzy
 msgid "Dominant Vladnir... never since the exiling has another caste verified our Spoken Memories."
-msgstr "翼主维拉德尼尔……自流放以来，再无其他种姓印证过吾等的口述史。"
+msgstr "翼主维拉德尼尔…自流放以来，再无其他种姓印证过吾等口述史。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
@@ -3767,12 +3759,14 @@ msgstr ""
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:178
-#, fuzzy
 msgid ""
 "... Gorlack, I grasp not your meaning.\n"
 "\n"
 "While the Spoken Memories tell us steady wings may catch the Winds of Fate—"
-msgstr "戈拉克，吾未解汝意。诚然口述史有云：展翼不移者可乘命运之风——"
+msgstr ""
+"…戈拉克，吾未解汝意。\n"
+"\n"
+"诚然口述史有云：展翼不移者可乘命运之风——"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
@@ -5052,25 +5046,20 @@ msgstr "（<i>啁啾啁啾</i>）"
 msgid "Khrakrahs"
 msgstr "柯拉卡拉斯"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=blade
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:255
-#, fuzzy
 msgid "bite"
-msgstr "斩击"
+msgstr "咬"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=impact
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:264 data/campaigns/Winds_of_Fate/units/Dolphin.cfg:53
-#, fuzzy
 msgid "tail"
-msgstr "冲击"
+msgstr "尾"
 
-# Translated by ollama with model glm4.
 #. [attack]: type=fire
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:273
 msgid "fire breath"
-msgstr ""
+msgstr "火焰吐息"
 
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:330
@@ -5118,7 +5107,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:359
 msgid "It is... an Ancestor..."
-msgstr "这是…一位祖先……"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:363
@@ -5172,7 +5161,7 @@ msgstr "看啊，强大的沙克•卡悍！"
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:492
 msgid "You are bold to present such an imposter!"
-msgstr "你竟敢冒名顶替！"
+msgstr "汝竟冒名顶替！"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:496
@@ -5237,7 +5226,7 @@ msgstr ""
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:562
 msgid "I go."
-msgstr "我走了。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:570
@@ -5246,19 +5235,16 @@ msgid ""
 "\n"
 "Yet to his last breath, he was fearless."
 msgstr ""
-"祖先，你说沙克•卡悍变弱了……\n"
-"\n"
-"然而直至最后一息，他都毫不畏惧。"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:578
 msgid "Yes, Shek'kahan was fearless."
-msgstr "是的，沙克·卡悍无所畏惧。"
+msgstr ""
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:584
 msgid "<b>That</b> was his weakness."
-msgstr "<b>那</b>正是他的弱点。"
+msgstr ""
 
 #. [scenario]: id=10_Fire_Meets_Steel
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:11
@@ -6328,11 +6314,10 @@ msgstr "豹"
 msgid "The leopard is a fast and powerful ambush predator of the distant and mysterious jungle realms. While dangerous in any circumstance, it is most lethal when hidden in wooded areas."
 msgstr ""
 
-# Translated by ollama with model qwen2.5:32b.
 #. [attack]: type=blade
 #: data/campaigns/Winds_of_Fate/units/Leopard.cfg:74
 msgid "claws"
-msgstr ""
+msgstr "爪"
 
 # Translated by ollama with model qwen2.5:32b.
 #. [unit_type]: id=Outrigger, race=mechanical
