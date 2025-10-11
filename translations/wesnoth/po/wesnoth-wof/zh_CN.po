@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2025-10-10 15:51+0800\n"
+"PO-Revision-Date: 2025-10-11 16:53+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -4551,12 +4551,17 @@ msgstr "他们正在过来……"
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:347
+#, fuzzy
 msgid ""
 "Our haul is too heavy to be flown with a dozen trips.\n"
 "\n"
 "We must not forsake it.\n"
 "Too much depends on it."
 msgstr ""
+"吾辈之猎获过重，难分十二载而归。\n"
+"\n"
+"吾等岂可弃之。\n"
+"所系甚重。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:354
@@ -4568,12 +4573,10 @@ msgstr "通过这个洞穴嘶嘶！从这里逃走嘶嘶……"
 msgid "With care, Arinexis, with care! Fire dussst is ssstrewn about."
 msgstr "小心，阿瑞尼克西斯，要小心！火粉四处散落嘶嘶。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:373
-#, fuzzy
 msgid "Dragons, do not breath on thisss dussst!"
-msgstr "巨灵，莫向此尘息吐！"
+msgstr "巨龙，莫向此尘吐息嘶嘶！"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:377
@@ -4710,11 +4713,15 @@ msgstr ""
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:573
+#, fuzzy
 msgid ""
 "You have no means to threaten me. Even if you destroyed this grim avatar of mine, presently speaking to you, I would continue acting through my others in far off places.\n"
 "\n"
 "Now, I must resume my work and you must leave..."
 msgstr ""
+"汝无威胁吾之道。纵使汝毁此 grim 化身——即当下与汝言者——吾亦将于远方之他处，借彼身而行。\n"
+"\n"
+"而今，吾须重拾吾业，汝须离去……"
 
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Avatar of Nova
@@ -4969,10 +4976,8 @@ msgstr "现在是冬天，夜晚会变长"
 msgid "Klanir"
 msgstr "克拉尼尔"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Klanir
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:139
-#, fuzzy
 msgid ""
 "Dominant Gorlack, I bring ill tidings of the hunt.\n"
 "\n"
@@ -4987,10 +4992,10 @@ msgstr ""
 "\n"
 "卡戎翼群于草原之上，遭人类群落重创。\n"
 "翼主卡戎最后之言，乃欲率众遁入汝之巢穴。\n"
-"然其欲援救危殆之卡戎翼群……\n"
-"吾之翼主，维拉德尼尔，竟死于吾等硬猎之手。\n"
+"欲援救危殆之卡戎翼群…\n"
+"吾之翼主，维拉德尼尔，死于吾等硬猎之手。\n"
 "\n"
-"吾等翼群溃散东去，深入泰地腹地。"
+"吾等翼群溃散东去，深入泰陆腹地。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:150
@@ -5072,59 +5077,66 @@ msgstr ""
 "\n"
 "我不相信我看到的……"
 
-# Translated by ollama with model glm4.
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:336
 msgid "It is magnificent."
-msgstr ""
+msgstr "壮哉。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:340
+#, fuzzy
 msgid ""
 "It is a drakekin.\n"
 "Few have beheld such a being since the Time of Legend."
 msgstr ""
+"此乃古龙。\n"
+"自神话时代以来，鲜有生灵得见其真容。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:345
+#, fuzzy
 msgid ""
 "With our own eyes we behold a drakekin...\n"
 "\n"
 "It was the drakekin who led us from the Moonlit Wastes in the Time of Fate."
-msgstr ""
+msgstr "以吾等之眼，睹古龙之姿。乃彼者，于命运之时，引吾等离月光荒原。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:353
+#, fuzzy
 msgid ""
 "I know you are here, weakling Shek’kahan! You know better than to intrude upon my domain! Even if I must search this entire valley, I will find your hiding place.\n"
 "\n"
 "Fly, my pets! Sweep this place of every scaleless beast so I will have no distraction."
 msgstr ""
+"吾已知汝在此，孱龙沙克•卡悍！汝岂敢擅闯吾之疆域！纵使此谷寸土皆寻，吾亦必寻得汝之藏匿之处。\n"
+"\n"
+"去罢，吾之宠儿！扫荡此地，凡无鳞之生灵，勿使存留，以绝吾心旁骛。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:359
 msgid "It is... an Ancestor..."
-msgstr ""
+msgstr "此乃…一先祖…"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:363
 msgid "Shek'kahan, do you not recognize Khrakrahs...?"
 msgstr "沙克•卡悍，你认识柯拉卡拉斯吗…？"
 
-# Translated by ollama with model glm4.
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:367
 msgid "Make your final stand"
-msgstr ""
+msgstr "做最后的抵抗"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:400
+#, fuzzy
 msgid "Be no more."
-msgstr ""
+msgstr "不复存焉。"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:413
@@ -5184,49 +5196,55 @@ msgstr "如果你看不出来这是沙克•卡悍嘶嘶……那么冒名顶替
 msgid "Do not sssay ssso much, Zedrix! You will be eaten!"
 msgstr "不要说这么多嘶嘶，泽德里克斯！你会被吃掉的！"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:512
 msgid "You are bold indeed, little saurian. What you have told me is false, yet a mere liar could not speak so bravely before a dragon."
-msgstr ""
+msgstr "汝果敢矣，小蜥蜴。汝言为虚，然一介狂徒，岂敢于龙前如此慷慨陈词。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:518
 msgid "Indeed, your heart believes the falsehood you speak... because it wishes to."
-msgstr ""
+msgstr "诚然，汝心所信，乃汝口中之谎言…因其愿之。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:528
 msgid "<span color='cyan'>Zedrix, your Heart shall Reveal its Truth.</span>"
-msgstr ""
+msgstr "<span color='cyan'>泽德里克斯，汝之心将揭示其真相。</span>"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:539
+#, fuzzy
 msgid ""
 "Khrakrahs... Shek’kahan is dead. He fell protecting his domain and humble sssubjectsss...\n"
 "\n"
 "... of which I am all that is left."
 msgstr ""
+"柯拉卡拉斯……沙克•卡悍已殒。祂以身为盾，护其疆域与微末之民……\n"
+"\n"
+"……而我，便是那残存之孤。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:547
 msgid "So then it is true..."
-msgstr ""
+msgstr "果真如此…"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:553
+#, fuzzy
 msgid "It was nigh every season he would intrude upon my domain or me his. Each time, there was such a glorious battle between us as to impart even the clouds with fright. I must not have challenged him enough that he grew weak, vulnerable. Now another great battle between us there will never be. Now there is only me."
 msgstr ""
+"每逢时节，彼或侵扰吾之疆域，或吾侵扰其地。\n"
+"每逢交锋，皆是一场辉煌之战，其声威令天穹亦为之战栗。\n"
+"吾之挑战或许不足，方致其日渐衰颓，不堪一击。\n"
+"而今，你我再无辉煌之战。\n"
+"唯余吾身。"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:562
 msgid "I go."
-msgstr ""
+msgstr "吾去。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:570
@@ -5235,62 +5253,73 @@ msgid ""
 "\n"
 "Yet to his last breath, he was fearless."
 msgstr ""
+"先祖，汝言沙克•卡悍日渐衰微…\n"
+"\n"
+"然其至终息一刻，亦无畏无惧。"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:578
+#, fuzzy
 msgid "Yes, Shek'kahan was fearless."
-msgstr ""
+msgstr "是的，沙克•卡悍无所畏惧。"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:584
+#, fuzzy
 msgid "<b>That</b> was his weakness."
-msgstr ""
+msgstr "其弱点也正在于此。"
 
 #. [scenario]: id=10_Fire_Meets_Steel
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:11
 msgid "Fire Meets Steel"
 msgstr "火焰遇上钢铁"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:24
+#, fuzzy
 msgid "A storm of ice fell upon the Sunreach Peaks. The Greatland’s season of cold had come to sojourn the flight. The camp was fortified with great stone works until it resembled an eyrie. Using the ample provisions, the season might be outlasted."
-msgstr ""
+msgstr "寒冰风暴席卷日峰山巅。泰隆的严寒季节，已然降临吾翼。营地以巨石加固，俨然一座巢穴。若粮草充足，或可捱过此季。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:28
+#, fuzzy
 msgid "Gorlack secluded himself to a small abode atop the highest peak within sight of camp. There he remained in deep contemplation. Each day, the saurian Zedrix trekked up the peak to bring his dragon sustenance."
-msgstr ""
+msgstr "戈拉克独居于营地可见之巅的一处小筑。彼于此处深陷沉思。日复一日，蜥蜴人泽德里克斯跋涉上峰，为其龙族奉上食粮。"
 
-# Translated by ollama with model glm4.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:72
 msgid "Deep Dwellers"
-msgstr ""
+msgstr "深居者"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [leader]: id=Thurdakor, type=Dwarvish Berserker
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:76
+#, fuzzy
 msgid "Thurdakor"
-msgstr ""
+msgstr "图尔达科尔"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:113
+#, fuzzy
 msgid "Reinforcements! Send in th’ neist wave!"
-msgstr ""
+msgstr "援军！令下第二波！"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:292
 msgid "Survive for 18 turns"
 msgstr "存活18回合"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:311 data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:203
+#, fuzzy
 msgid "The new eyrie doubles village income and support and trains veteran recruits"
-msgstr ""
+msgstr "新建的巢穴将使村庄收入与支援翻倍，并训练经验丰富的新兵"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:314
@@ -5307,21 +5336,22 @@ msgstr "移动任何一人到隧道会摧毁它"
 msgid "I sssee now you are not Shek’kahan. I sssaw as I wished to sssee."
 msgstr "我现在知道你不是沙克•卡悍嘶嘶。我看到了我希望看到的嘶嘶。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:340
 #, fuzzy
 msgid "As have I..."
-msgstr "正如我..."
+msgstr "吾亦然……"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:344
 msgid "What do you mean?"
 msgstr "什么意思？"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:348
+#, fuzzy
 msgid ""
 "As a fledgling long ago...\n"
 "I strayed far from the Eyrie of Vladnir, lost in dreams of glorious things to be.\n"
@@ -5332,8 +5362,15 @@ msgid ""
 "\n"
 "It had cornered her."
 msgstr ""
+"昔为雏龙之时……\n"
+"吾远离了维拉德尼尔的巢穴，沉沦于辉煌未来的幻梦。\n"
+"\n"
+"彼时，闻近处洞穴传哀嚎。\n"
+"友瑞莎偶遇一不名誉之徒匿于其内。\n"
+"彼欲杀汝，以匿其踪。\n"
+"\n"
+"其已将汝逼入绝境。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:359
 msgid ""
@@ -5342,8 +5379,11 @@ msgid ""
 "\n"
 "With one swipe I was sent to the ground, bleeding."
 msgstr ""
+"吾曾自诩无敌，自命为传说英雄。\n"
+"吾猛扑向巨兽，赤爪挥击，然仅迸出微弱火星。\n"
+"\n"
+"彼一击，吾便坠地，血流不止。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:366
 msgid ""
@@ -5353,10 +5393,16 @@ msgid ""
 "\n"
 "Flee... abandon Resha to die..."
 msgstr ""
+"吾躯僵冷，欲遁…\n"
+"\n"
+"遁意汹涌…\n"
+"\n"
+"遁…弃瑞莎于死地…"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:374
+#, fuzzy
 msgid ""
 "The agonizing guilt of that last thought—\n"
 "\n"
@@ -5366,10 +5412,16 @@ msgid ""
 "I would do anything to save my friend.\n"
 "I felt the whole world around me burning for the means to save her."
 msgstr ""
+"那段令人煎熬的念头——\n"
+"<i>抛下我的朋友，任其赴死。</i>\n"
+"在其间，吾之心重燃一股前所未有的炽热。\n"
+"吾愿倾尽所有，以援吾友。\n"
+"吾感周遭万物皆在燃烧，只为寻得救她之法。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:384
+#, fuzzy
 msgid ""
 "That is when I felt it beneath my right wing.\n"
 "A clasher’s spear, broken a reach beneath the head.\n"
@@ -5377,39 +5429,47 @@ msgid ""
 "\n"
 "It was there now."
 msgstr ""
+"吾右翼之下，忽有触感。\n"
+"一柄冲击者之矛，矛锋一臂之距处已然断裂。\n"
+"吾入洞之时，彼处尚无此物。\n"
+"彼时不在，今时在。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:392
+#, fuzzy
 msgid ""
 "The rogue turned to finish Resha.\n"
 "\n"
 "I threw myself upon it with all my hate.\n"
 "The spear I ran deep into its cold heart."
-msgstr ""
+msgstr "吾倾尽憎恨，猛扑向前；长矛刺入其冰冷之心。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:399
+#, fuzzy
 msgid ""
 "Ever since have I trusted absolutely in the fire that saved my friend...\n"
 "\n"
 "Ever since have I fled the fear that drove me toward such vile cowardice."
 msgstr ""
+"吾自始至终，笃信拯救吾友之火。\n"
+"亦自彼时起，吾远遁引吾入此般卑懦。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:405
 msgid "You shunned Resha’s fears too."
 msgstr "你也回避了瑞莎的恐惧。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:409
 #, fuzzy
 msgid "Breathing in her fears could chill my heart to cowardice."
-msgstr "呼吸她的恐惧，我的心会冷成懦夫。"
+msgstr "吸入汝之惧，寒吾心，懦怯生。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:413
 #, fuzzy
@@ -5418,15 +5478,15 @@ msgid ""
 "\n"
 "Her fear for you made it ssso."
 msgstr ""
-"然而，她的心勇敢。\n"
-"对你的恐惧使它如此。"
+"然其心勇烈。\n"
+"汝之恐惧，使其如是。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:419
 #, fuzzy
 msgid "...... It did."
-msgstr "确实如此。"
+msgstr "诚然。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:423
@@ -5436,26 +5496,28 @@ msgstr "你为她产生的恐惧让你变得勇敢。"
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:427
 msgid "A discarded spear made me brave."
-msgstr "一根丢弃的长矛让我变得勇敢。"
+msgstr "一柄弃枪，铸吾之勇。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:431
+#, fuzzy
 msgid "That ssspear was your means to sssave your friend. It appeared <b>as</b> you feared for her. Because you did."
-msgstr ""
+msgstr "那柄长矛，乃汝援友之器。它现身 <b>于</b> 汝为其忧惧之时。诚然，汝确曾忧惧。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:435
 msgid "............"
-msgstr ""
+msgstr "…………"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:455
+#, fuzzy
 msgid "Come ssswiftly! Deep dwellers emerge!"
-msgstr ""
+msgstr "疾至！深居者已现！"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
 #. Somehow this dwarf clan has come under the leadership of a berserker, who
 #. naturally loves fighting and drinking and drunken fighting.
@@ -5464,22 +5526,23 @@ msgstr ""
 #. "So what have we here? Dragons... So many dragons my eyes cannot help what
 #. they're seeing."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:476
+#, fuzzy
 msgid "Sae whit hae we ’ere? Dragons... Sae mony dragons mah een cannae hawp whit thay’re seeing."
-msgstr ""
+msgstr "这是啥玩意儿？龙人……俺滴个乖乖，这龙人也太多了吧，俺这眼睛都瞅花了，不敢信自个儿看到的是真的。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:498
+#, fuzzy
 msgid "It ssspeaksss but I hear no words... deep dwellers mussssst be drunken."
-msgstr ""
+msgstr "它嘶鸣着，然吾未闻其声…渊蛇必已醉矣。"
 
-# Translated by ollama with model glm4.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:504
 msgid "It sssaid “dragons” and... <i>sssssomething</i> about dragons."
-msgstr ""
+msgstr "它说的是“龙”嘶嘶以及…关于龙的<i>某物</i>嘶嘶。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
 #. Here "you-know-what" is being used as a euphemism for 'raw sewage'.
 #. The dwarf idiom "Knalgan gusher" refers to the underground dwarf city of
@@ -5490,8 +5553,9 @@ msgstr ""
 #. which, come spring, will make for a full out Knalgan gusher, if you know
 #. what I mean."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:511
+#, fuzzy
 msgid "A’ richt, noo ye listen tae me, dragons. Ah cannae hae ye juist standing aroond th’ hail winter dumping yer ye-ken-whit oan th’ frozen slopes, whilk, come spring, wull mak’ fur a stowed oot Knalgan gusher, if ye ken whit ah mean."
-msgstr ""
+msgstr "听好了，龙族。吾等岂容汝等整日于冰封山坡之上倾倒秽物。待春日来临，此等行径恐酿成一场如克纳尔加城般的滔天洪灾——汝等可知吾意？"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:523
@@ -5502,7 +5566,7 @@ msgstr ""
 "我无法理解你所说的话。\n"
 "用词少一些，说话慢一点。"
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
 #. "Now just what in the fiendish skies above is that supposed to mean?! I
 #. will have you know—"
@@ -5510,11 +5574,12 @@ msgstr ""
 msgid "Noo juist whit in th’ fiendish skies ‘boon is that suppose tae mean?! Ah wull hae ye ken—"
 msgstr ""
 
-# Translated by ollama with model glm4.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:538
+#, fuzzy
 msgid "Your hornblower ssspews notesss over your words!"
-msgstr ""
+msgstr "汝之号手，将讯息吐于汝言之上！"
 
 #. [message]: speaker=Thurdakor
 #. "Just ignore him, he had awefully much to drink."
@@ -5535,11 +5600,12 @@ msgstr "如果你现在离开，不会对你造成任何伤害。"
 msgid "Weel that is it then, wee jimmies. Ye a’ saw how ah tried tae be reasonable. Bit thare is na reasoning wi’ dragons. Thay ainlie ken th’ bite o’ oor axes."
 msgstr "好了，男孩们。你们都看到俺是怎么讲道理的。但是龙不讲道理。他们只知道我们斧头的寒冷。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
 #. "What are you waiting for, why are you boys not attacking?!    Wait, maybe
 #. I didn't give the order...    Alright boys, attack!"
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:570
+#, fuzzy
 msgid ""
 "Whit urr ye waiting fur, how come urr ye laddies nae attacking?!\n"
 "\n"
@@ -5547,6 +5613,9 @@ msgid ""
 "\n"
 "A’richt lads, attack!"
 msgstr ""
+"汝辈尚在迟疑，何故按兵不动？！\n"
+"且慢，或乃吾未下号令...\n"
+"列阵！出击！"
 
 #. [message]: speaker=Thurdakor
 #. "What's this? How did you get all the way over here?"
@@ -5554,17 +5623,21 @@ msgstr ""
 msgid "Whit’s this? How did ye git a’ th’ wey ower ’ere?"
 msgstr "这是什么？你怎么一路跑到这里来的？"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:621
+#, fuzzy
 msgid ""
 "Behold what ends you have wrought.\n"
 "You can no easier cast us off these peaks than we could pull you from the deep."
 msgstr ""
+"且看，汝所铸就之终局。\n"
+"吾等不弃汝于深渊，汝亦难逐吾等于峰巅。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:628
+#, fuzzy
 msgid ""
 "I offer you this pact.\n"
 "\n"
@@ -5573,15 +5646,20 @@ msgid ""
 "The vast under world beneath these we shall not violate.\n"
 "Both of us may hunt the lowlands so long as one takes not the other as game."
 msgstr ""
+"吾与汝立此盟约。\n"
+"万仞之巅，皆为吾域。\n"
+"凡熔金之土，亦归吾属。\n"
+"然地底深渊，吾等永不侵扰。\n"
+"低地狩猎，互不相碍。\n"
+"然一者之猎物，不得为另一者之软猎。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
 #. "Not sure I like the sound of this deal."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:638
 msgid "Nae sure ah like the sound o’ this deal."
 msgstr ""
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:644
 msgid ""
@@ -5589,6 +5667,9 @@ msgid ""
 "We covet the soil as little as you do the clouds.\n"
 "We shall find no better neighbors than each other."
 msgstr ""
+"此乃汝所能得之最佳。\n"
+"吾等不贪恋泥土，正如汝等不屑于云。\n"
+"吾等互为邻，再无更佳。"
 
 #. [message]: speaker=Thurdakor
 #. "You're not easy to haggle with, dragon."
@@ -5596,7 +5677,7 @@ msgstr ""
 msgid "Yer nae easy tae haggle with, dragon."
 msgstr "跟你讨价还价真不容易，龙。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
 #. "So be it, a deal we have. I will even set free my little pet dragon for
 #. you."
@@ -5604,11 +5685,12 @@ msgstr "跟你讨价还价真不容易，龙。"
 msgid "Sae be it, a deal we hae. Ah wull even set free mah wee pet dragon fur ye."
 msgstr ""
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:751
+#, fuzzy
 msgid "Gorlack, it seems no cave can keep us!"
-msgstr ""
+msgstr "瑞莎，无一处洞穴能将吾等囚禁！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:757
@@ -5620,78 +5702,78 @@ msgstr "<i>瑞莎……</i>"
 msgid "<span size='large'>Resha!</span>"
 msgstr "<span size='large'>瑞莎！</span>"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
 #. "Well, that is it for me, back down the chute." He is going back down to
 #. his underground realm.
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:768
+#, fuzzy
 msgid "Well, that is it fur me, back doon th’ shute."
-msgstr ""
+msgstr "好了，我的任务到此为止，该从这条通道下去了。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:788
+#, fuzzy
 msgid ""
 "The deep dwellers hewed through my tomb of broken stone to uncover me.\n"
 "I was to be their captive in the underworld forever.\n"
 "Kept as a curio to frighten their hatchlings from straying to the above.\n"
 "\n"
 "By your pact with them, I was freed."
-msgstr ""
+msgstr "深渊之民，凿吾残石之冢，以求掘出吾身。吾本永为彼辈囚徒，囚于幽冥。吾为奇物，震慑彼之幼崽，勿使其流窜于上方。幸得汝之盟约，吾方得解脱。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:796
 msgid "My friend, I am once again in your debt."
-msgstr "我的朋友，我又一次亏欠了你。"
+msgstr "吾友，余复欠汝情。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:802
 msgid "Nay, Resha, it is I that owes you."
-msgstr "不，瑞莎，亏欠了你的人是我。"
+msgstr "非也，瑞莎。吾方亏欠于汝。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:808
+#, fuzzy
 msgid "Come, we have much to prepare for."
-msgstr ""
+msgstr "来，吾等尚有诸多事宜备办。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [scenario]: id=11_Crosswind
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:9
+#, fuzzy
 msgid "Crosswind"
-msgstr ""
+msgstr "逆风"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:23
+#, fuzzy
 msgid "Soon enough the season of ice was weathered. New green shoots of fodder rose from the thawing Greatland. Eggs laid during the long sojourn were hatching. What began a passing refuge had become a proud eyrie."
-msgstr ""
+msgstr "严冬终逝，大地回春。泰河冰融，新草破土。久旅之卵亦随之孵化。昔日暂避之所，今已成吾等荣耀之巢穴。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:27
 msgid "A flight was spotted inbound. Once more, it was the Flight of Karron."
-msgstr ""
+msgstr "翼群正向此飞来。依旧是卡戎的翼群。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:76
 msgid "Flight Karron"
-msgstr ""
+msgstr "卡戎翼群"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:183
 msgid "Capture Karron by surrounding her on all six sides"
-msgstr ""
+msgstr "从六面包围以擒拿卡戎"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:206
 msgid "Karron may employ surprise attacks"
-msgstr ""
+msgstr "卡戎或将采用奇袭战术"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:217
 msgid ""
@@ -5701,19 +5783,26 @@ msgid ""
 "When the Flight of Gorlack did not return,\n"
 "I assumed you all had perished to the wild creatures of this land."
 msgstr ""
+"戈拉克，见汝尚存，吾心甚慰。\n"
+"汝亦如是，瑞莎。\n"
+"\n"
+"戈拉克之翼未归，\n"
+"吾本以为汝等皆殒于此地荒蛮之物手下。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:227
+#, fuzzy
 msgid ""
 "Karron, likewise!\n"
 "\n"
 "If only Vladnir had shared our fortune."
-msgstr ""
+msgstr "卡戎，亦同此运！然维拉德尼尔若能共沐此运，方为圆满。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:233
+#, fuzzy
 msgid ""
 "Indeed, Vladnir will be remembered.\n"
 "Vladnir will be avenged.\n"
@@ -5725,21 +5814,30 @@ msgid ""
 "Working together, we shall swiftly cull the prey-kinds that proved problematic.\n"
 "At last we shall tame this <i>wild</i> land."
 msgstr ""
+"维拉德尼尔，必为后世所铭记。\n"
+"维拉德尼尔，必将予以血偿。\n"
+"\n"
+"五支新翼已抵吾之巢穴。\n"
+"另有七支，将于一月之内抵达。\n"
+"来年，更有整十二翼将随之而来。\n"
+"\n"
+"合力之下，吾等将迅疾肃清为患之硬猎。\n"
+"此方蛮荒之地，终将为吾等所驯。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:247
 msgid "Yesss!"
 msgstr "是的嘶嘶！"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:253
 msgid ""
 "Karron, not even the whole of Morogor could subdue this land.\n"
 "Not in the way we strove to."
 msgstr ""
+"卡戎，纵使莫罗戈全域亦难驯服此土。\n"
+"非吾辈昔日所为之法也。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:258
 msgid ""
@@ -5747,10 +5845,14 @@ msgid ""
 "\n"
 "Gorlack, by your own measure, you speak cowardice!"
 msgstr ""
+"戈——……汝从未如此言说…\n"
+"\n"
+"戈拉克，汝之言，乃懦弱之音！"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:266
+#, fuzzy
 msgid ""
 "My measure was wrong.\n"
 "I thought we need only escape Morogor to fulfill our reascension from exile.\n"
@@ -5766,19 +5868,36 @@ msgid ""
 "That is why our noble Ancestors exiled us.\n"
 "Until we learn to temper our pride with fear we remain the creatures they exiled."
 msgstr ""
+"吾之度量有误。\n"
+"吾等仅以为逃出莫罗戈，便能完成复升之途。\n"
+"然吾等携莫罗戈之魂同行。\n"
+"其无畏之魂。\n"
+"\n"
+"如吾等流放之先祖，吾等沿风途最短之路，傲然翱翔。\n"
+"凡遇生物，必斩之。即便同翼，亦不例外。\n"
+"吾等竟化身为上古之敌——兽众、巨灵、精界……乃至龙人自身。\n"
+"直至败绩临身，一如翼主莫罗戈。\n"
+"盖因吾等摒弃一切恐惧。\n"
+"\n"
+"此乃吾等高贵先祖放逐吾等之因。\n"
+"直至吾等学会以恐惧驯化傲慢，吾等仍是彼等所放逐之流民。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:282
+#, fuzzy
 msgid ""
 "Enough of this glider folly!\n"
 "\n"
 "By your honor, Gorlack, you must return to your eyrie, to complete what you began!"
 msgstr ""
+"滑翔者的蠢行，到此为止！\n"
+"汝之荣誉所在，戈拉克！汝须归巢，以竟汝始！"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:290
+#, fuzzy
 msgid ""
 "<i>This</i> is my eyrie now.\n"
 "Here I must stay to shelter my flight from the war that is to come.\n"
@@ -5786,8 +5905,12 @@ msgid ""
 "You may return with the remaining provisions we gathered.\n"
 "Once returned, you may claim the eyrie I forsook."
 msgstr ""
+"吾之巢穴，今归吾主。\n"
+"此地吾当驻守，以庇吾翼，免受将至之战火。\n"
+"\n"
+"汝可携余粮归去。\n"
+"归去之后，吾昔之巢穴，汝可据为己有。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:298
 msgid ""
@@ -5796,13 +5919,16 @@ msgid ""
 "\n"
 "Gorlack, the hunt is not ended!"
 msgstr ""
+"汝曾誓言，助彼等寻汝之泰陆！\n"
+"汝号令狩猎——\n"
+"\n"
+"戈拉克，狩猎未竟！"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:307
 msgid "Lisssten to Karron!"
-msgstr ""
+msgstr "听卡戎的嘶嘶！"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:313
 msgid ""
@@ -5811,10 +5937,15 @@ msgid ""
 "\n"
 "There is nothing more I can do for our folk now—"
 msgstr ""
+"吾之号令未曾下达；翼群已然过早而至。\n"
+"吾之狩猎确已终结，以败绩告终。\n"
+"\n"
+"而今，吾已再无能为吾族奉献——"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:320
+#, fuzzy
 msgid ""
 "You may embrace your cowardice, Gorlack.\n"
 "Hide here in your hovel with it.\n"
@@ -5825,8 +5956,15 @@ msgid ""
 "\n"
 "Through the Ways of Morogor, I Proclaim you Deprived."
 msgstr ""
+"汝可拥抱汝之怯懦，戈拉克。\n"
+"携其藏于此陋室。\n"
+"\n"
+"然汝翼群之荣光，汝休想玷污。\n"
+"彼等将随我归队，复入狩猎。\n"
+"以助吾族救度——汝早已背弃之业！\n"
+"\n"
+"依莫罗戈法典，吾褫汝之翼位。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:333
 msgid ""
@@ -5834,8 +5972,10 @@ msgid ""
 "\n"
 "Here its Ways do not apply."
 msgstr ""
+"此地远在莫罗戈之外。\n"
+"\n"
+"莫罗戈法典于此不存。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:339
 msgid ""
@@ -5844,14 +5984,16 @@ msgid ""
 "Damn you for this, Gorlack.\n"
 "You have left me only the coldest choice."
 msgstr ""
+"唯有一策…乃生死之决。\n"
+"\n"
+"戈拉克，汝之恶行，吾必诅咒。\n"
+"汝所予吾者，唯此酷烈之择。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:348
 msgid "Gorlack, recall how we took captive the orc creature back in Morogor..."
-msgstr ""
+msgstr "戈拉克，忆吾辈于莫罗戈擒获兽众之昔…"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:354
 msgid ""
@@ -5860,10 +6002,15 @@ msgid ""
 "\n"
 "Karron is to be taken alive."
 msgstr ""
+"然。\n"
+"吾等当如是。\n"
+"\n"
+"卡戎，必活捉之。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:363
+#, fuzzy
 msgid ""
 "Before it set camp, I beheld a curious detail of Flight Karron.\n"
 "\n"
@@ -5873,129 +6020,157 @@ msgid ""
 "Yet burners too were absent.\n"
 "It may be two castes is all that remains of her flight."
 msgstr ""
+"于其扎营之际，吾察见翼主卡戎之翼群，有一奇景。\n"
+"\n"
+"滑翔者，竟无一人。\n"
+"彼或正探查敌踪……\n"
+"\n"
+"然灼烧者，亦踪迹全无。\n"
+"或仅余二姓，存于其翼群之中。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:375
+#, fuzzy
 msgid "Whatever the case, Karron must not be underestimated."
-msgstr ""
+msgstr "戈拉克：然，卡戎绝不可轻视。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:406
+#, fuzzy
 msgid "Karron, you are only dragon left with ssscales. I choose to rejoin your hunt. Many of usss will follow you."
-msgstr ""
+msgstr "卡戎，汝乃仅存之有鳞者。吾愿重归汝之狩猎之列。吾等亦将随之。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:410
+#, fuzzy
 msgid ""
 "To think that such a small creature has more fire in its heart than my own kin...\n"
 "\n"
 "Very well, <i>little fledgling</i>, you have earned my respect."
 msgstr ""
+"竟有此微物，其心火炽烈更胜吾同翼...\n"
+"也罢，<i>雏鸟</i>，汝已赢得吾之敬意。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:418
 msgid "Arinexis, do not leave our new clan, it is not sssafe!"
-msgstr ""
+msgstr "阿瑞尼克西斯，别离开我们的新氏族，这里不安全啊嘶嘶！"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:422
+#, fuzzy
 msgid ""
 "There is no sssafety if we hide. My hatch–clan hid in Great Delta and was ssslain. You hid in Green Ssswamp with your old dragon. Your old clan was ssslain too. Will you do sssame again here?!\n"
 "\n"
 "We run, we fight and we live. That is only way for usss now."
 msgstr ""
+"躲藏，无安全。吾之孵族匿于泰河三角洲，终遭屠戮。汝携汝龙，匿于绿沼，汝族亦遭屠戮。此处，汝将重蹈覆辙？！\n"
+"\n"
+"吾辈奔走，吾辈鏖战，吾辈求生。此乃吾辈唯一生途。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:430
 msgid "I have ssseen too many moons. My feet grow weary and ssslow. I ssstay."
-msgstr ""
+msgstr "我活得太久了嘶嘶。双脚已疲惫不堪嘶嘶。我留下嘶嘶。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:440
+#, fuzzy
 msgid "Reks"
-msgstr ""
+msgstr "瑞克斯"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:447
+#, fuzzy
 msgid "Greeeeeen one, <i>there</i> you are."
-msgstr ""
+msgstr "绿家伙，<i>总算</i>找到你了。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:453
+#, fuzzy
 msgid "It is I, Ancient One. I ssseek your help."
-msgstr ""
+msgstr "是我，远古的巨龙。我需要你的帮助。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:457
+#, fuzzy
 msgid "Reks help favorite pet. Reks help green one."
-msgstr ""
+msgstr "Reks帮心爱的宠物。Reks帮那个绿皮的。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:473
+#, fuzzy
 msgid ""
 "Hail, Shussek.\n"
 "\n"
 "You are strangely far flown from that shoal you so coveted."
-msgstr ""
+msgstr "苏塞克，汝已至。汝之风途，竟远若此；去汝所恋之浅滩，已遥不可及。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:485
+#, fuzzy
 msgid "...... You are far from your reef."
-msgstr ""
+msgstr "汝远离礁途。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:491
+#, fuzzy
 msgid "Odious fish imps took our reef from us again! Ssssss!"
-msgstr ""
+msgstr "该死的鱼精怪又抢走了咱们的礁石！嘶嘶嘶！"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:501
+#, fuzzy
 msgid "Xatra"
-msgstr ""
+msgstr "沙特拉"
 
 #. [message]: speaker=Xatra
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:510
 msgid "What is meaning of thisssss?!"
 msgstr "这是什么意思嘶嘶？！"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:514
+#, fuzzy
 msgid "By dance of wandering ssstars, you look not one day over ssseven, old friend."
-msgstr ""
+msgstr "老朋友，你这副模样，怕是连七岁都未满吧。莫非是星辰的舞步乱了套？"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Xatra
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:520
+#, fuzzy
 msgid "Yet I feel all thirteen years in my bones!"
-msgstr ""
+msgstr "然吾骨中已历十三载！"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:537 data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:584
+#, fuzzy
 msgid ""
 "This firescale is engraved with a clasher Secret...\n"
 "\n"
 "Perhaps one of their caste may reveal its meaning."
 msgstr ""
+"此灼鳞之上，刻着冲击者的秘刻……\n"
+"或可于其种姓之中，窥见其意。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:552
+#, fuzzy
 msgid ""
 "―  The Descent of Parapathos  ―\n"
 "\n"
@@ -6013,10 +6188,26 @@ msgid ""
 "\n"
 "―  64th century of the Time of Turmoil  ―"
 msgstr ""
+"―  帕拉帕托斯的 descent  ―\n"
+"\n"
+"从洞口望去，帕拉帕托斯目睹战况急转直下。当其翼群与<i>水妖</i>鏖战之际，一团活生生的<i>迷雾</i>自水晶海上方翻涌的雷云中降下。此等虚渺生灵，正如<i>掷手</i>伦凡所警告的那般庞大。巨大的<i>迷雾</i>径直飞向莫罗戈翼主，翼主孑然立于其前，誓与此精界生灵一决高下。\n"
+"\n"
+"帕拉帕托斯心如寒冰，重拾征途，深入地底，将挚友之生死托付于战局之手。他从未如此怨恨其冲击者血脉所赋予的荣耀重负。若无此血脉，他本可留下，为他们而战。\n"
+"\n"
+"随着帕拉帕托斯深入洞穴，战场回响渐归于沉寂。尖锐的晶体自岩壁突兀而出。而后，洞穴豁然开朗，化为错综复杂的回廊迷宫。他所寻觅的<i>匠灵</i>，曾在精界生物将他们驱至伊尔迪亚之心深处前，开凿出这些回廊。如今，他迷失于他们留下的迷宫之中。\n"
+"\n"
+"远方，帕拉帕托斯听到了<i>石裔</i>沉重的脚步声。他循声而去，数日不息，随他们一同前往其沉思之殿。在那里，他们完全停驻，庄严地围立于殿心一圈。此处仿若世界尽头，却不见<i>匠灵</i>的圣所。或许，正如威特维加纳所 feared，他们尽数殒命。\n"
+"\n"
+"然，微弱之声穿透晶质地板传来。其节奏，宛如<i>匠灵</i>的工匠之作。诚然，他们的圣所幸存了下来；它就在他的正下方。帕拉帕托斯卸下甲胄，舒展翼翅，继而自缺口处一跃而下。\n"
+"\n"
+"滑翔之际，帕拉帕托斯目睹了诸多自传说时代便吾族已失落的奇观。此间生机盎然，遍布<i>匠灵</i>以金属造出的万千生灵。其守望之地，并非矗立于高塔之上；反倒悬垂于空中硕大的气泡之间。最奇者，莫过于照亮此间的无数火把，竟无焰而燃。此诚然乃吾族所需之盟友，足以扭转对精界之战局。\n"
+"\n"
+"―  混乱纪元第64世纪  ―"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:599
+#, fuzzy
 msgid ""
 "―  The Contest of the Automata  ―\n"
 "\n"
@@ -6037,14 +6228,29 @@ msgid ""
 "\n"
 "―  31st century of the Time of Legend  ―"
 msgstr ""
+"―  自动机竞位战  ―\n"
+"\n"
+"远方传来隆隆巨响。地平线外，烟尘升腾。旋即，两具庞大的金属巨物缓缓显现。\n"
+"\n"
+"龙人自动机率先映入眼帘，因其行动更为迅捷。它形似古龙，然无翼无尾。其下四足以滚轮代之。金属外壳闪耀如金阳，却喷吐着令人胆寒的滚滚黑烟。\n"
+"\n"
+"而后，匠灵自动机方才现身。与造物主相仿，它身形较小，行动迟缓。承托其身的滚轮外覆奇特的金属足，行进间足尖翻转，着地而行。它呼出的烟雾洁白如云，轻盈缥缈。\n"
+"\n"
+"自动机于竞技场各就其位，遥遥相对。其内机件，喧哗不绝。战令既下，决斗始启。\n"
+"\n"
+"龙人自动机发出刺耳尖啸，烈焰喷涌如墙，身躯猛然前冲。所过之处，沙砾竟也为之焦灼；恶臭的浓烟霎时遮蔽半个赛场。匠灵自动机自浓烟深处现身，潜行至敌手侧翼。旋动铁锤，一击之下，便将对手的一只滚轮击得粉碎。纵然如此，龙人自动机仍勉力回旋，以撞角回击，一举碾碎敌手的驾驭之室，连同室内的数名匠灵亦惨遭灭顶。\n"
+"\n"
+"此击，似为致命一击。然匠灵自动机向后退却，举起法杖，引火对准。一束火焰射出，竟将龙人自动机的烈焰喷射器击飞。自动机顿时燃起大火，冲击者驾驭者们自残骸中走出，行至匠灵自动机前，向胜利的对手致以敬意。然其内并无匠灵现身，领受赞誉。亦无丝毫得意之态，一如匠灵惯常所为。\n"
+"\n"
+"一名匠灵符文铁匠踏上赛场，一路朗笑不止。他告诉满腹疑窦的冲击者，其自动机内空无一物，亦无驾驭者。他以符文之力，赋予了此物以独立的意志。冲击者们再度转向自动机，向其谦卑颔首。\n"
+"\n"
+"―  传奇纪元第三十一世纪  ―"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:625
 msgid "Gliders, engage!"
-msgstr ""
+msgstr "滑翔者，开战！"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:651
 msgid ""
@@ -6052,27 +6258,34 @@ msgid ""
 "\n"
 "Now!"
 msgstr ""
+"灼烧者们…\n"
+"\n"
+"出击！"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:753
+#, fuzzy
 msgid ""
 "Karron.\n"
 "\n"
 "My Windpath spared one friend... only to cut down another..."
 msgstr ""
+"戈拉克。\n"
+"\n"
+"吾之风途曾饶过一友……却终将另一人斩于剑下……"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:769
 msgid "You win, I go... I run."
-msgstr ""
+msgstr "你赢了，我走…我跑。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:797
+#, fuzzy
 msgid "You have one last victory over me... finish it."
-msgstr ""
+msgstr "汝于吾，末竟一胜……了结之！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:803
@@ -6084,19 +6297,24 @@ msgstr "不。"
 msgid "......"
 msgstr "……"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:813
+#, fuzzy
 msgid ""
 "Karron, I banish you from this Greatland, from these far lands of the east.\n"
 "Not as the victor vanquishing a rival as it was in the contention...\n"
 "\n"
 "As a friend seeking to keep you from the turmoil that is soon to be."
 msgstr ""
+"戈拉克：卡戎，吾将汝放逐于此泰河之土，放逐于此东方之远疆。\n"
+"非如竞位战中之胜者，击败其对手……\n"
+"乃为友，欲使汝免于将至之纷乱。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:822
+#, fuzzy
 msgid ""
 "I strove to prevent a war between the flights.\n"
 "Yet I only traded that for a war of an unknown kind.\n"
@@ -6106,16 +6324,25 @@ msgid ""
 "\n"
 "This will be a war with prey."
 msgstr ""
+"吾竭力阻止翼群之战。\n"
+"然吾仅将其，易为一场未知之战。\n"
+"\n"
+"饥翼云集，其狩猎将远胜于吾。\n"
+"然此非狩猎……\n"
+"\n"
+"此乃猎物之战。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:832
+#, fuzzy
 msgid "Prey can no more make war on us than could the clouds."
-msgstr ""
+msgstr "硬猎岂能兴兵犯吾，恰如流云不可战天。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:838
+#, fuzzy
 msgid ""
 "They already have, as we all witnessed.\n"
 "\n"
@@ -6123,20 +6350,31 @@ msgid ""
 "Where they will meet fates unknown as it was with the Flight of Vladnir.\n"
 "Only through defeat may some learn the creatures they hunt are much more than prey."
 msgstr ""
+"诚如我等所亲见。\n"
+"\n"
+"彼等翼群，半数已然四散泰土腹地。\n"
+"彼辈命运，一如维拉德尼尔翼群，将陷未知。\n"
+"唯经败绩，方悟所猎非猎。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:848
+#, fuzzy
 msgid ""
 "Verily, these creatures are fellow contenders for dominance over the world itself.\n"
 "With this Greatland as our arena.\n"
 "They are our equals until we <b>prove</b> ourselves their betters.\n"
 "In this Great Contention."
 msgstr ""
+"确实，此等生灵亦是竞位者，欲与吾等争世之主。\n"
+"此广土乃我等之试炼场。\n"
+"于吾等证其劣等之前，彼等堪与吾等同列。\n"
+"于此竞位战。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:857
+#, fuzzy
 msgid ""
 "We shall need allies from amongst the noble creatures of this land.\n"
 "Like our gentle saurians.\n"
@@ -6145,20 +6383,20 @@ msgid ""
 "Our every move must be part of a grander design for victory.\n"
 "In this Great Contention that will take a thousand years."
 msgstr ""
+"此土当求盟者，粹灵为上。疾足盟翼，亦当用之。地渊之民，亦盟者也。\n"
+"吾等行止，必为凯旋大计之一环。此大竞位战，千年不息。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:868
 msgid "By this Windpath alone shall we reascend to dominate the world once again."
-msgstr ""
+msgstr "唯此风途，吾等方复升，再统世间。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:872
 msgid "Gorlack, I do not feel this... Windpath beneath my wings..."
-msgstr ""
+msgstr "戈拉克，吾未感此…风途于翼下…"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:878
 msgid ""
@@ -6170,7 +6408,6 @@ msgid ""
 "Let your gliders’ Spoken Memories guide the way."
 msgstr ""
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:887
 msgid ""
@@ -6178,10 +6415,14 @@ msgid ""
 "\n"
 "We may together take on this adventure as it always should have been."
 msgstr ""
+"戈拉克，令吾等之翼群，向西进发。\n"
+"\n"
+"吾辈或可共赴此险，此行，本应如是矣。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:895
+#, fuzzy
 msgid ""
 "I am sorry, Karron.\n"
 "Our Windpaths shall never cross as you hoped.\n"
@@ -6189,8 +6430,13 @@ msgid ""
 "You spoke rightly before, I must finish what I began.\n"
 "When defeat drives our folk to seek a new Windpath, I must be here to provide it."
 msgstr ""
+"瑞莎，余憾矣。\n"
+"汝所期之风途，与吾永不相交。\n"
+"\n"
+"汝言在先，吾必竟始。\n"
+"败绩将吾族引向新途，吾必在此，为其开路。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:903
 msgid ""
@@ -6199,33 +6445,34 @@ msgid ""
 "May your fire light the way in darkness."
 msgstr ""
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:911
 msgid "May your wings catch the winds to soar."
-msgstr ""
+msgstr "愿汝翼乘风翱翔。"
 
 #. [scenario]: id=12_Epilogue
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:5
 msgid "Epilogue"
 msgstr "尾声"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [part]
 #. "noble creatures" is a drake term for allies and potential allies
 #. "legions" could also be "hordes", the English text uses a different word to
 #. avoid implying that it’s just orcs
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:14
+#, fuzzy
 msgid "Dominant Karron heard the Memories Spoken to her by the gliders. She led several flights west beyond Morogor to the distant Green Isle. Together with the noble creatures of this far land, she would strive to drive off the opposing legions so new eyries might be set there."
-msgstr ""
+msgstr "翼主卡戎听闻了滑翔者们为她口述的史话。她引领数支翼群向西，远越莫罗戈，抵至遥远的绿岛。她将与这片远土上高贵的生灵并肩，协力击退敌对之众，以在那里构筑新的巢穴。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:17
+#, fuzzy
 msgid "Countless drakes flocked from Morogor to scorch the Greatland with their need. Those creatures that survived their hunt formed large hosts with a deadly cunning. Soon, whole flights fell to their own prey. Others were scattered far across the Greatland as more poured over from Morogor to supplant them."
-msgstr ""
+msgstr "无数龙人自莫罗戈而来，以炽烈之需灼烧广袤大陆。那些在其狩猎中幸存的生灵，结成以致命狡诈闻名的大军。不久，整翼翼群竟反为其猎所噬。亦有翼群被驱散，远遁广袤大陆各处，只因更多龙人自莫罗戈涌来，欲取而代之。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [part]
 #. Future generations of drakes will argue over Gorlack’s real intentions. He
 #. diverts a thirst for victory into a time of peace, which would fit if his
@@ -6234,23 +6481,26 @@ msgstr ""
 #. character, it's left to the player's imagination to read the meaning that
 #. they want.
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:21
+#, fuzzy
 msgid "As most grew weary of the hunt, Dominant Gorlack summoned all flights to a counsel gathering high upon his Sunreach Peaks. There, he shared with them a new Windpath, the <b>Great Contention</b>. By its wisdom, any creatures that spoke with an honest tongue, that respected the domain of another, that obeyed our Ways... might not be taken as prey. Such creatures would be justly feared as fellow contenders for world dominance."
-msgstr ""
+msgstr "当多数狩猎者渐感倦怠之时，翼主戈拉克于其日峰之巅召集众翼，共聚一堂。彼于此处昭示新辟风途——<b>竞位战</b>。依此道法，凡言语诚直、敬重他域、恪守吾辈法典者……皆不可视为硬猎。此类生灵当与吾辈同为世界之主而受敬畏，堪称名副其实的竞位者。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:24
+#, fuzzy
 msgid "In accord, the flights went again into exile, withdrawing to the Greatland’s many remote places. So ended the <i>War with Prey</i>."
-msgstr ""
+msgstr "就此，诸翼再度踏上流放之路，退守泰广大陆的偏远之地。至此，<i>硬猎之战</i>方告落幕。"
 
 #. [unit_type]: id=Caravel, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Caravel.cfg:5
 msgid "Caravel"
 msgstr "卡拉维尔帆船"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Caravel, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Caravel.cfg:8
+#, fuzzy
 msgid ""
 "The sturdy and reliable caravel is the mainstay of human oceanic exploration, shipping and projection of influence. More seaworthy than lighter vessels, one might yet be spied navigating deeper rivers, where the maneuverabilty and shallow draft somewhat compensate for the tonnage of the vessel.\n"
 "\n"
@@ -6258,6 +6508,11 @@ msgid ""
 "\n"
 "The caravel can dock at coastal villages, though this makes it entirely vulnerable."
 msgstr ""
+"坚固而可靠的卡拉维尔帆船，是人类探索海洋、航运以及投射影响力的中流砥柱。相较于更轻便的船只，卡拉维尔帆船拥有更强的适航性；然而，你亦可能在更深的河流中瞥见其身影，在那里，它卓越的机动性与吃水浅的优势，足以在一定程度上弥补其吨位庞大的缺憾。\n"
+"\n"
+"尽管与其它种族的舰船相比，其速度略显迟缓，难以规避，但其高耸的前后船楼却装备了威力巨大的弩炮阵列，足以抵御海盗与海怪的侵袭。\n"
+"\n"
+"卡拉维尔帆船虽可停泊于沿海村落，却也因此使其完全暴露于危殆之中。"
 
 # Translated by ollama with model qwen2.5:32b.
 #. [attack]: type=pierce
@@ -6278,20 +6533,25 @@ msgstr "多管投石器"
 msgid "Dolphin"
 msgstr "海豚"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Dolphin, race=monster
 #: data/campaigns/Winds_of_Fate/units/Dolphin.cfg:8
+#, fuzzy
 msgid ""
 "The sight of a dolphin is seen as a good omen by the sailors of Elensefar and the Ka’lian rated the creature’s sensibility nearly on par with that of an elf. Among coastal orcish tribes the meat is consumed as a delicacy.\n"
 "\n"
 "One of the rare air breathing fish, the dolphin is never too long below the surface of the sea."
 msgstr ""
+"海豚的身影在伊兰萨法的水手眼中是吉兆，卡利安人则认为此物的灵性堪比精灵。沿海的兽人部落亦将其肉奉为珍馐。\n"
+"\n"
+"作为稀有的呼吸空气之鱼，海豚从不在深海久留。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=impact
 #: data/campaigns/Winds_of_Fate/units/Dolphin.cfg:62
+#, fuzzy
 msgid "shriek"
-msgstr ""
+msgstr "尖啸"
 
 #. [unit_type]: id=Gate, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Gate.cfg:5
@@ -6308,125 +6568,143 @@ msgstr "一座最高品质的古老大门。"
 msgid "Leopard"
 msgstr "豹"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Leopard, race=monster
 #: data/campaigns/Winds_of_Fate/units/Leopard.cfg:8
+#, fuzzy
 msgid "The leopard is a fast and powerful ambush predator of the distant and mysterious jungle realms. While dangerous in any circumstance, it is most lethal when hidden in wooded areas."
-msgstr ""
+msgstr "猎豹是遥远神秘丛林中迅捷而致命的伏击掠食者。在任何环境下皆具威胁，然其于密林之中隐匿之时，最为致命。"
 
 #. [attack]: type=blade
 #: data/campaigns/Winds_of_Fate/units/Leopard.cfg:74
 msgid "claws"
 msgstr "爪"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Outrigger, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Outrigger.cfg:5
+#, fuzzy
 msgid "Outrigger"
-msgstr ""
+msgstr "舢舨"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Outrigger, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Outrigger.cfg:8
+#, fuzzy
 msgid ""
 "Cutting light and shallow through the water’s surface, these raiding craft easily intercept the more substantial and seaworthy vessels of Wesnoth. While well armed and heavily crewed for their size, orcish Outriggers nevertheless rely on numbers to overcome well defended shore settlements and shipping.\n"
 "\n"
 "The shallow draft of the outrigger’s hulls allows it to be landed at coastal villages, though this makes it entirely vulnerable."
 msgstr ""
+"[part] 这些劫掠艇轻盈地划破浅滩水域，轻易便截停了韦诺那些更为厚重、适于远航的船只。尽管劫掠艇本身火力强劲、规模可观，兽人依旧倚仗数量优势，以攻破戒备森严的沿海据点与商船。\n"
+"\n"
+"劫掠艇吃水极浅，可登陆沿海村落，然此举亦使其彻底暴露于敌前。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=blade
 #: data/campaigns/Winds_of_Fate/units/Outrigger.cfg:54
+#, fuzzy
 msgid "boarders"
-msgstr ""
+msgstr "登船者"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=fire
 #: data/campaigns/Winds_of_Fate/units/Outrigger.cfg:63
+#, fuzzy
 msgid "onager"
-msgstr ""
+msgstr "投石机"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Storm Wisp, race=monster
 #: data/campaigns/Winds_of_Fate/units/Storm_Wisp.cfg:5
+#, fuzzy
 msgid "Storm Wisp"
-msgstr ""
+msgstr "风暴精魄"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Storm Wisp, race=monster
 #: data/campaigns/Winds_of_Fate/units/Storm_Wisp.cfg:8
+#, fuzzy
 msgid ""
 "There are many tales of the strange storms which roam the Great Ocean and batter its shores. A number tell of twisting thunderheads moving against the wind in pursuit of ill–fated ships. These immensely powerful entities are most commonly known as Storm Wisps. Among learned magi, it is understood they are a kind of wisp, like those sighted drifting over the outlying marshes or glimmering faintly in the deep woods. Whatever else may be known of Storm "
 "Wisps is kept a secret of the elves. And perhaps also the silver order of magi, which has long studied such phenomena."
 msgstr ""
+"[part]\n"
+"泰洋之上，流传着诸多奇诡风暴的传说。它们在洋面上游荡，不断拍打着沿岸。其中的一些故事，讲述着扭曲的雷云如何逆向而行，追逐着那些注定厄运的航船。这些伟力无匹的生灵，世人称之为「风暴幽魂」。饱学之士皆知，它们乃是一种幽魂，如同那些出没于偏远沼泽的漂泊之灵，又或是在幽深林地中微光闪烁的幽魂。至于风暴幽魂的其他底细，则被精界守护为机密。或许，那长久研究此类现象的银色法师团，亦知晓一二。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [attack]: type=impact
 #: data/campaigns/Winds_of_Fate/units/Storm_Wisp.cfg:79
 msgid "whirlwind"
-msgstr ""
+msgstr "旋风"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [attack]: type=cold
 #: data/campaigns/Winds_of_Fate/units/Storm_Wisp.cfg:88
 msgid "squall"
-msgstr ""
+msgstr "狂风"
 
 #. [attack]: type=arcane
 #: data/campaigns/Winds_of_Fate/units/Storm_Wisp.cfg:101
 msgid "lightning"
 msgstr "闪电"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Stymphalian, race=monster
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:5
+#, fuzzy
 msgid "Stymphalian"
-msgstr ""
+msgstr "铁蹄鸟"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Stymphalian, race=monster
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:8
+#, fuzzy
 msgid "A fiendish-tempered bird with a piercing, bronzy beak. It is covered in hard, blade-sharp feathers that it can fling at its victims."
-msgstr ""
+msgstr "一只性情凶戾的怪鸟，长有锐利的青铜色鸟喙。其周身覆盖着坚硬如刀锋的羽毛，能将其射向猎物。"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=pierce
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:73
+#, fuzzy
 msgid "stiletto beak"
-msgstr ""
+msgstr "尖喙"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=blade
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:82
+#, fuzzy
 msgid "bladed feathers"
-msgstr ""
+msgstr "刃羽"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Wyrm, race=monster
 #: data/campaigns/Winds_of_Fate/units/Wyrm.cfg:5
+#, fuzzy
 msgid "Wyrm"
-msgstr ""
+msgstr "古龙"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Wyrm, race=monster
 #: data/campaigns/Winds_of_Fate/units/Wyrm.cfg:9
+#, fuzzy
 msgid "Wyrms are strange beasts, stout serpents with wings, but no legs. They are relatively rare, and their presence is attributed to some eccentric wizard or dragon. Mature Wyrms have excellent control of their fire breath attack, as if they are themselves miniature dragons."
-msgstr ""
+msgstr "蠕龙乃奇异之兽，形似粗壮的渊蛇，生有双翼而无足。其族甚稀，世人多谓其为某位怪诞法师或先祖龙裔之所造。成年的蠕龙对吐息之火的掌控极为精纯，宛若自身即是微缩之龙。"
 
 #. [attack]: type=pierce
 #: data/campaigns/Winds_of_Fate/units/Wyrm.cfg:74
 msgid "fangs"
-msgstr ""
+msgstr "尖牙"
 
-# Translated by ollama with model glm4.
 #. [attack]: type=fire
 #: data/campaigns/Winds_of_Fate/units/Wyrm.cfg:86
 msgid "breath"
-msgstr ""
+msgstr "吐息"
 
-# Translated by ollama with model qwen2.5:32b.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [damage]: id=blast
 #: data/campaigns/Winds_of_Fate/utils/abilities.cfg:9 data/campaigns/Winds_of_Fate/utils/abilities.cfg:10
+#, fuzzy
 msgid "blast"
-msgstr ""
+msgstr "爆裂"
 
 #. [damage]: id=blast
 #: data/campaigns/Winds_of_Fate/utils/abilities.cfg:11
@@ -6441,24 +6719,20 @@ msgstr "阿瑞尼克西斯"
 msgid "Zedrix"
 msgstr "泽德里克斯"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:114
-#, fuzzy
 msgid "So much left... unfinished..."
-msgstr "还有很多事情...没有完成..."
+msgstr "还有很多事情…没有完成…"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:128
 msgid "Resha!"
 msgstr "瑞莎！"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:142
-#, fuzzy
 msgid "Arinexisss... Your time hass come too sssoon!"
-msgstr "阿瑞尼克西斯...你的时刻来得太早了！"
+msgstr "阿瑞尼克西斯嘶嘶…你的时刻来得太早了嘶嘶！"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:156
