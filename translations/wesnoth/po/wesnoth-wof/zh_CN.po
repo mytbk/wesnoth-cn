@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2025-10-12 16:38+0800\n"
+"PO-Revision-Date: 2025-10-12 16:49+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -5216,12 +5216,10 @@ msgstr "戈拉克独居于营地可见之巅的一处小筑。彼于此处深陷
 msgid "Deep Dwellers"
 msgstr "深居者"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [leader]: id=Thurdakor, type=Dwarvish Berserker
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:76
-#, fuzzy
 msgid "Thurdakor"
-msgstr "图尔达科尔"
+msgstr "瑟达科"
 
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
@@ -5420,23 +5418,19 @@ msgstr "一柄弃枪，铸吾之勇。"
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:431
-#, fuzzy
 msgid "That ssspear was your means to sssave your friend. It appeared <b>as</b> you feared for her. Because you did."
-msgstr "那柄长矛，乃汝援友之器。它现身 <b>于</b> 汝为其忧惧之时。诚然，汝确曾忧惧。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:435
 msgid "............"
 msgstr "…………"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:455
-#, fuzzy
 msgid "Come ssswiftly! Deep dwellers emerge!"
-msgstr "疾至！深居者已现！"
+msgstr "快来嘶嘶！深居者已现！"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
 #. Somehow this dwarf clan has come under the leadership of a berserker, who
 #. naturally loves fighting and drinking and drunken fighting.
@@ -5445,16 +5439,14 @@ msgstr "疾至！深居者已现！"
 #. "So what have we here? Dragons... So many dragons my eyes cannot help what
 #. they're seeing."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:476
-#, fuzzy
 msgid "Sae whit hae we ’ere? Dragons... Sae mony dragons mah een cannae hawp whit thay’re seeing."
-msgstr "这是啥玩意儿？龙人……俺滴个乖乖，这龙人也太多了吧，俺这眼睛都瞅花了，不敢信自个儿看到的是真的。"
+msgstr "这是啥玩意儿？龙…俺滴个乖乖，这龙也太多了吧，俺这眼睛都瞅花了。"
 
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:498
-#, fuzzy
 msgid "It ssspeaksss but I hear no words... deep dwellers mussssst be drunken."
-msgstr "它嘶鸣着，然吾未闻其声…渊蛇必已醉矣。"
+msgstr "它说话了嘶嘶，但是我听不到…深居者肯定醉了嘶嘶。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:504
@@ -5482,8 +5474,6 @@ msgid ""
 "I do not grasp the words you speak.\n"
 "Use fewer of them with less haste."
 msgstr ""
-"我无法理解你所说的话。\n"
-"用词少一些，说话慢一点。"
 
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
@@ -5510,7 +5500,7 @@ msgstr "别理他，他喝得太多了。"
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:549
 msgid "If you depart now no harm will come to you."
-msgstr "如果你现在离开，不会对你造成任何伤害。"
+msgstr ""
 
 #. [message]: speaker=Thurdakor
 #. By "boys" he is referring to his own men in a lighthearted way.
@@ -5597,21 +5587,17 @@ msgstr ""
 msgid "Yer nae easy tae haggle with, dragon."
 msgstr "跟你讨价还价真不容易，龙。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Thurdakor
 #. "So be it, a deal we have. I will even set free my little pet dragon for
 #. you."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:656
-#, fuzzy
 msgid "Sae be it, a deal we hae. Ah wull even set free mah wee pet dragon fur ye."
-msgstr "行，这买卖我们成交了。我甚至可以把我的小龙给放了。"
+msgstr "行，这买卖俺们成交了。俺甚至可以把俺的小宠物龙给放了。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:751
-#, fuzzy
 msgid "Gorlack, it seems no cave can keep us!"
-msgstr "瑞莎，无一处洞穴能将吾等囚禁！"
+msgstr "戈拉克，无一洞穴能将吾等囚禁！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:757
@@ -5630,17 +5616,20 @@ msgstr "<span size='large'>瑞莎！</span>"
 msgid "Well, that is it fur me, back doon th’ shute."
 msgstr "好了，俺的任务到此为止，该从这条通道下去了。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:788
-#, fuzzy
 msgid ""
 "The deep dwellers hewed through my tomb of broken stone to uncover me.\n"
 "I was to be their captive in the underworld forever.\n"
 "Kept as a curio to frighten their hatchlings from straying to the above.\n"
 "\n"
 "By your pact with them, I was freed."
-msgstr "深渊之民，凿吾残石之冢，以求掘出吾身。吾本永为彼辈囚徒，囚于幽冥。吾为奇物，震慑彼之幼崽，勿使其流窜于上方。幸得汝之盟约，吾方得解脱。"
+msgstr ""
+"深渊之民，凿吾残石之冢，以求掘出吾身。\n"
+"吾本永为彼辈囚徒，囚于幽冥。\n"
+"吾为奇物，震慑彼之幼崽，勿使其流窜于上方。\n"
+"\n"
+"幸得汝之盟约，吾方得解脱。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:796
