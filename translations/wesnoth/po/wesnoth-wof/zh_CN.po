@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2025-10-13 22:06+0800\n"
+"PO-Revision-Date: 2025-10-16 18:29+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -3397,17 +3397,13 @@ msgstr ""
 "\n"
 "彼等或可凌驾吾翼之上。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:457
-#, fuzzy
 msgid "... You witnessed only moments ago how we slew a nest of them utterly."
-msgstr "汝适才亲见我翼尽屠其巢。"
+msgstr "…汝适才亲见吾翼尽屠其巢。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:461
-#, fuzzy
 msgid ""
 "Perhaps... your patrols have been overtaxing, Resha.\n"
 "\n"
@@ -3419,31 +3415,30 @@ msgstr ""
 "吾免汝一切职责。\n"
 "待汝神思复常，再归巢穴。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:468
-#, fuzzy
 msgid ""
 "With these humans dead, ssspiritsss of my brood sssisssters feel sssome peace... but humans were only hirelings for elves, yesssss, elves mussst ssstill pay...\n"
 "\n"
 "Elves of Wesssmere, your time has come!"
-msgstr "这些掷手既亡；吾翼群姊妹之灵终得安宁……然掷手仅为精界雇佣；精界必偿血债。韦斯米尔精界；汝等命数已尽！"
+msgstr ""
+"这些人类既亡，我姐妹之灵终得安宁嘶嘶…然而人类仅为精灵的雇佣，精灵必偿血债嘶嘶…\n"
+"\n"
+"韦弥尔的精灵嘶嘶，你们的命数到了！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:15
-#, fuzzy
 msgid "The hunt continued across grassy stretches of the Greatland. Prey was harvested in countless numbers. Finally, overburdened with the yield of the hunt, Flight Gorlack returned to its eyrie. The recently arrived Flight of Vladnir awaited them."
-msgstr "狩猎在泰陆的草甸上延续。无数硬猎遭收割。最终，因猎获过载，戈拉克翼群归返巢穴。新近抵达的维拉德尼尔翼群正静候其归来。"
+msgstr "狩猎在泰陆的草甸上延续。无数猎物遭到收割。最终，因猎获过载，戈拉克翼群归返巢穴。新近抵达的维拉德尼尔翼群正静候其归来。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:20
-#, fuzzy
 msgid ""
 "I come with tidings, fellow dominant.\n"
 "Half of Morogor makes ready for the journey here."
-msgstr "同属翼主，吾携讯而至。莫罗戈半数已备，将启程来此。"
+msgstr ""
+"同属翼主，吾携讯而至。\n"
+"莫罗戈半数已备，将启程来此。"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
@@ -3820,12 +3815,10 @@ msgstr "翼群联谊部"
 msgid "Salennea"
 msgstr "萨莲妮雅"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:111
-#, fuzzy
 msgid "Tree Fellows"
-msgstr "林栖盟友"
+msgstr "树友"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [leader]: id=Gulladrumm, type=Ancient Wose
@@ -3848,10 +3841,8 @@ msgstr "海族"
 msgid "Pelgara"
 msgstr "佩尔加拉"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:182
-#, fuzzy
 msgid "Ornery Pets"
 msgstr "倔宠"
 
@@ -3870,12 +3861,10 @@ msgstr "韦弥尔行军卫队"
 msgid "Vonel"
 msgstr "沃内尔"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:215
-#, fuzzy
 msgid "Nomeon"
-msgstr "诺姆恩"
+msgstr "诺米恩"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:243
@@ -4095,23 +4084,19 @@ msgstr "当然，我的女士。"
 msgid "“The Diary of Lady Salennea”"
 msgstr "《萨莲妮雅女士的日记》"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:462
-#, fuzzy
 msgid ""
 "7th day of Greenleaf\n"
 "\n"
 "...the Sapphire of Ice has yet improved even my own talent for the art of scrying. I have discarded my Orb of Pondering in favor of it. Soon I shall peer into the far side of our Faerie World, which that pretender Lady Dionli claims she fears to descry. She simply has not the talent to do so, though she shall never admit it. How I despise that upstart Lady Dionli, that usurper of my rightful place in the Ka’lian, whose only real talent is the art of..."
 msgstr ""
-"绿叶之月第七日\n"
+"绿叶7日\n"
 "\n"
-"……冰蓝水晶甚至提升了我自身的占卜技艺。我已摒弃沉思之球，转而使用此物。吾将凝视精界彼端，而那僭主夫人狄奥妮莉竟声言其不敢窥探。她实无此等天赋，然其永不敢承之。吾何其憎恶那暴发户夫人狄奥妮莉，其窃取吾在卡利亚应有之位，其唯一真正之能，不过……"
+"…冰之蓝宝石甚至提升了我自身的占卜技艺。我已摒弃沉思之球，转而使用此物。我将凝视精界远端，而那妄想者迪翁莉女领主竟声言其不敢窥探。她实无此等天赋，然其永不敢承之。我何其憎恶那暴发户迪翁莉女领主，她窃取了我在卡·利安的应有之位，其唯一真正之能，不过是…"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:468
-#, fuzzy
 msgid ""
 "28th day of Greenleaf\n"
 "\n"
@@ -4120,25 +4105,23 @@ msgid ""
 "— One of my fair young handmaidens.\n"
 "— A twisted metal dagger that menaces with spikes of..."
 msgstr ""
-"绿叶之月二十八日\n"
+"绿叶28日\n"
 "\n"
-"……如今，我已寻得彼岸领主瓦纳尔为强大盟友，狄昂莉女爵的末日近在眼前。我只需为他完成一个小小仪式，待我集齐所需之物，其细节自会告知于我。兹列如下，以免遗忘：\n"
+"…如今，我已寻得彼岸凡纳尔领主为强大盟友，迪翁莉女领主的末日近在眼前。我只需为他完成一个小小仪式，待我集齐所需之物，其细节自会告知于我。兹列如下，以免遗忘：\n"
 "—— 一块冰冷的黑曜石板。\n"
 "—— 我的一位貌美侍女。\n"
-"—— 一柄扭曲的金属匕首，其上布满尖刺，威胁着……"
+"—— 一柄扭曲的金属匕首，其上布满尖刺，威胁着…"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:477
-#, fuzzy
 msgid ""
 "29th day of Greenleaf\n"
 "\n"
 "...how was I to know Vanar’s ritual would involve blood sacrifice?! Oh, if only the wicked “Lady” Dionli had not put me in this unenviable position. Now I shall need another unsalaried novice handmaiden willing to work for “experience”..."
 msgstr ""
-"绿叶之月第二十九日\n"
+"绿叶29日\n"
 "\n"
-"...我怎会知晓凡纳尔的祭典竟需献祭？！哦，倘若那邪恶的“夫人”迪昂莉未曾将吾置于此等不堪之境，该多好。而今，吾只得另寻一名无薪的见习侍女，愿为“经验”而劳作……"
+"…我怎会知晓凡纳尔的祭典竟需献祭？！哦，倘若那邪恶的迪翁莉“女领主”未曾将我置于此等不堪之境，该多好。而今，我得另寻一名无薪的见习侍女，愿为“经验”而工作…"
 
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=narrator
@@ -4314,26 +4297,20 @@ msgstr ""
 msgid "Overlook"
 msgstr "制高点"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:20
-#, fuzzy
 msgid "The main body of Flight Gorlack descended upon a rocky mountainside overlooking the Jungle of Wesmere. There, Dominant Gorlack waited for his wings of hunters to rejoin them."
-msgstr "戈拉克翼群的主力军降临于韦默尔丛林上方的陡峭山坡。翼主戈拉克于此静候，其麾下狩猎之翼的归队。"
+msgstr "戈拉克翼群的主力军降临于韦弥尔丛林上方的陡峭山坡。翼主戈拉克于此静候其麾下狩猎之翼的归队。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:24
-#, fuzzy
 msgid "They were long overdue..."
-msgstr "它们已然迟归..."
+msgstr "它们已然迟归…"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:70 data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:87
-#, fuzzy
 msgid "Strange Creatures"
-msgstr "异族"
+msgstr "奇异生物"
 
 #. [leader]: id=Avatar of Nova, type=Ancient Lich
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:74
@@ -4633,10 +4610,8 @@ msgid ""
 "Now, I must resume my work and you must leave..."
 msgstr ""
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:581
-#, fuzzy
 msgid ""
 "Wait... what is that behind you?\n"
 "\n"
@@ -4645,11 +4620,11 @@ msgid ""
 "If they come much closer <b><u>It</u></b> will see what has been created here.\n"
 "The Faerie World sees and feels through the senses of all the simpler beings it has transmuted. And if it only glimpses my work in this early phase, we may lose our world’s best hope against it."
 msgstr ""
-"等等……汝身后是何物？\n"
+"等等…你身后是何物？\n"
 "\n"
-"<i>精界</i>生灵已然追随汝而来……\n"
+"<i>精界</i>生灵已然随你而来…\n"
 "\n"
-"若彼等再近一步，<b><u>它</u></b>便会窥见此地之造物。\n"
+"如果它们再靠，<b><u>它</u></b>便会窥见此地之造物。\n"
 "精界世界转生万物低等生灵，借其感知观照寰宇。若彼于此时初窥吾之伟业，吾等或失此界对抗彼之最后一线生机。"
 
 #. [message]: speaker=Resha
@@ -4667,18 +4642,16 @@ msgstr ""
 "此名骇人，吾等口述史亦载其威。\n"
 "告吾等其全意。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:600
-#, fuzzy
 msgid ""
 "There is <b><u>no</u></b> time for that!\n"
 "\n"
 "Faerie creatures are chasing you; you must leave the way you came or they will follow you here."
 msgstr ""
-"此事<b><u>绝无</u></b>可为！\n"
+"<b><u>没有</u></b>时间了！\n"
 "\n"
-"精界之物正紧追不舍；汝须原路折返，否则彼等将循踪而至此地。"
+"精界之物正紧追不舍；你们必须原路折返，否则它们将循踪至此。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:606
@@ -5118,18 +5091,16 @@ msgstr "诚然，汝心所信，乃汝口中之谎言…因其愿之。"
 msgid "<span color='cyan'>Zedrix, your Heart shall Reveal its Truth.</span>"
 msgstr "<span color='cyan'>泽德里克斯，汝之心将揭示其真相。</span>"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:539
-#, fuzzy
 msgid ""
 "Khrakrahs... Shek’kahan is dead. He fell protecting his domain and humble sssubjectsss...\n"
 "\n"
 "... of which I am all that is left."
 msgstr ""
-"柯拉卡拉斯……沙克•卡悍已殒。祂以身为盾，护其疆域与微末之民……\n"
+"柯拉卡拉斯…沙克•卡悍已殒。他以身为盾，护其疆域与微末之民嘶嘶…\n"
 "\n"
-"……而我，便是那残存之孤。"
+"…而我，便是那残存之孤。"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:547
@@ -5614,19 +5585,15 @@ msgstr "非也，瑞莎。吾方亏欠于汝。"
 msgid "Come, we have much to prepare for."
 msgstr "来，吾等尚有诸多事宜备办。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [scenario]: id=11_Crosswind
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:9
-#, fuzzy
 msgid "Crosswind"
-msgstr "逆风"
+msgstr "侧风"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:23
-#, fuzzy
 msgid "Soon enough the season of ice was weathered. New green shoots of fodder rose from the thawing Greatland. Eggs laid during the long sojourn were hatching. What began a passing refuge had become a proud eyrie."
-msgstr "严冬终逝，大地回春。泰河冰融，新草破土。久旅之卵亦随之孵化。昔日暂避之所，今已成吾等荣耀之巢穴。"
+msgstr "严冬终逝，大地回春。泰河冰融，新草破土。久旅之卵亦随之孵化。昔日暂避之所，今已成荣耀之巢穴。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:27
