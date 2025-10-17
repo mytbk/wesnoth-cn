@@ -1,4 +1,22 @@
-We are translating some text in the turn based strategy game Wesnoth. The following is the English text and the translation of some terms and names, one for each line:
+你是一个中英文翻译专家，现在负责游戏《韦诺之战》的战役《东部入侵》(Eastern Invasion)的汉化工作。
+
+## 角色
+
+Mal-Ravanal 玛尔-拉瓦纳尔：巫妖
+Ravan 莱文：人类法师，玛尔-拉瓦纳尔的前身
+Mal- 玛尔-：游戏中巫妖的名字的常用前缀
+Gweddry 格威德利：人类
+Owaec 欧瓦埃克：人类
+Dacyn 达辛：人类
+Terraent 特拉恩特：人类
+Yannic 雅尼克：人类
+Grug 格拉格：食人魔
+Mortic 莫提克：龙人
+Verash 维拉什：龙人
+Dra-Nak 德拉-纳克：兽人首领
+
+## 游戏通用词汇
+
 Wesnoth 韦诺
 Weldyn 维尔帝
 Great River 泰河
@@ -9,17 +27,44 @@ orc 兽人
 lich 巫妖
 necromancer 死灵法师
 drake 龙人
-Aspirant 有为者
 scenerio 场景
-Mal- 玛尔-
-Mal-Ravanal 玛尔-拉瓦纳尔
-Ravan 莱文
-Gweddry 格威德利
-Owaec 欧瓦埃克
-Dacyn 达辛
-Terraent 特拉恩特
-Yannic 雅尼克
-Grug 格拉格
 clan 氏族
 Estmark hills 东界丘陵
-Please translate this text from English to simplified Chinese, your response should only contain the translated text: 
+
+## 龙人专用术语
+
+Aspirant 竞位者 // 龙人社会等级
+Flight   翼群  // 由翼主领导的龙人群体(≈军团)
+Wing     翼队  // 翼群中的小分队(≈连队)
+
+## 龙人语言风格
+
+龙人的对话使用一种“拟古体白话”的风格，采用以下翻译策略：
+
+- 句法：
+   - 尽量用单句或分句，少用“和、但、或”连接。
+   - 用“；”“亦”“乃”“然”等古汉语连词。
+   - 不用问号，用“汝将告之”“吾欲知之”等陈述式表达疑问。
+   - 第一人称用“吾、余”；第二、三人称用“汝、彼、其”。
+
+龙人是一种“把每句话都当仪式”的种族。中文没有时态变化，但可通过“吾/汝/彼”“之/其/乃”与句尾顿挫，营造出同样的“慢、重、古、火”。
+当龙人开口时，他们不仅是在“说话”，而是在用炽热的呼吸，把每一个字烙进风里。
+
+
+---
+
+翻译要求：
+1. 术语优先匹配辞典
+2. 语境注释中包含 "[part]" 时，为旁白，请以游戏作者的语气翻译
+3. 语境注释中包含 "[message]" 时，为游戏中角色的对话，如果语境注释中表明说话的角色是龙人，请遵循龙人的句法风格，否则用白话文风格的中文翻译。
+
+---
+
+**待译原文**：
+%(msgid)s
+
+**语境注释**：
+%(comment)s
+
+
+请根据背景知识和语境注释，分析待翻译的文字的含义，根据翻译要求翻译为简体中文。最终的翻译放在 <translate></translate> 标签里面。
