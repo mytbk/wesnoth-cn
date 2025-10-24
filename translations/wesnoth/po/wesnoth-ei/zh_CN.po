@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-10-21 18:43+0800\n"
+"PO-Revision-Date: 2025-10-24 13:59+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -12575,21 +12575,17 @@ msgstr "啊，我喜欢听骨头在我锤子下碎裂的声音！"
 msgid "Ooch, so you be the big ’un, aren’t ye? Well, the bigger they are..."
 msgstr "哦，原来你是首领啊？哼，越是大的目标……"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:177
-#, fuzzy
 msgid ""
 "Never thought I’d be seeing this in my lifetime. The whole blasted "
 "apocalypse came early, didn’t it."
 msgstr "没想到有生之年会见到这个。整个该死的末日提前到来了，不是吗。"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:193
-#, fuzzy
 msgid "Aww hell. If I live through this, I’m never pickin’ up a sword again."
-msgstr "哎呀天哪。要是我能从这场战斗中活下来，我以后再也不碰剑了。"
+msgstr "哎呀天哪。要是俺能从这场战斗中活下来，俺以后再也不拿剑了。"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Hahid al-Ali
@@ -12605,13 +12601,11 @@ msgstr "我在沙场上怎么会卷入这一切麻烦？我是个草药师，又
 msgid "No, no no, no, what am I even doing here!"
 msgstr "不，不不，不，我在这里干什么！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:247
-#, fuzzy
 msgid ""
 "Ashes to ashes, dust to dust. The undead have no place in this bright world!"
-msgstr "灰飞烟灭，尘归尘土归土。这个世界没有亡灵的容身之地！"
+msgstr "尘归尘，土归土。这个光明的世界没有亡灵的容身之地！"
 
 # Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Terraent
@@ -12659,16 +12653,14 @@ msgstr ""
 "你不是人类的救世主！不过是一堆枯骨，一个顽固得不肯倒下的死法师。韦诺不会再容"
 "忍你了！"
 
-# Translated by ollama with model qwen2.5:14b.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:372
-#, fuzzy
 msgid ""
 "<i>*gulp*</i> Well, it’s now or never. I’d better not think too hard about "
 "the fortune in elixirs that I’m about to drink away."
 msgstr ""
-"<i>*吞咽*</i> 好吧，现在不喝更待何时。还是不要去想我即将喝下的那些药水究竟价"
-"值多少了。"
+"<i>*吞咽*</i>好吧，现在不喝更待何时。还是不要去想我即将喝下的那些药水究竟价值"
+"多少了。"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:380
@@ -12978,9 +12970,7 @@ msgstr "哨兵"
 msgid "Shield of the Sentinel"
 msgstr "哨兵之盾"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:227
-#, fuzzy
 msgid ""
 "Deep within this shield’s towering bulk, enchanted machinery whirrs faintly. "
 "Whenever an adjacent ally is hit by an attack, <i><b>this shield’s bearer is "
@@ -13009,21 +12999,15 @@ msgstr ""
 "食用这种味道有趣的肉<i><b>使你的生命值翻倍</b></i>，并赋予你<i><b>对寒冷的免"
 "疫</b></i>。"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:605
-#, fuzzy
 msgid "ant ambrosia"
 msgstr "蚁蜜"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:606
-#, fuzzy
 msgid "Ant Ambrosia"
-msgstr "蚂蚁王浆"
+msgstr "蚁蜜"
 
-# Translated by ollama with model qwen2.5:14b.
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:607
-#, fuzzy
 msgid ""
 "This goopy honey-like substance makes you feel very sleepy... perhaps eating "
 "too much would be unwise.\n"
@@ -13031,10 +13015,10 @@ msgid ""
 "<i><b><span color='#FF0000'>-1</span> damage, <span color='#FF0000'>-1</"
 "span> movement, <span color='#00FF00'>+10</span> hitpoints</b></i>."
 msgstr ""
-"这种黏糊糊像蜂蜜的物质让你感到非常困倦……或许吃太多并不是明智的选择。\n"
+"这种黏糊糊像蜂蜜的物质让你感到非常困倦…或许吃太多并不是明智的选择。\n"
 "\n"
-"<i><b><span color='#FF0000'>-1</span> 伤害, <span color='#FF0000'>-1</span> "
-"移动, <span color='#00FF00'>+10</span> 生命值</b></i>."
+"<i><b><span color='#FF0000'>-1</span> 伤害，<span color='#FF0000'>-1</span> "
+"移动，<span color='#00FF00'>+10</span> 生命值</b></i>。"
 
 #. [effect]: type=arcane
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:639
