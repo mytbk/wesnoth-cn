@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-10-21 01:10 UTC\n"
-"PO-Revision-Date: 2025-07-27 18:54+0800\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-10-25 17:49+0800\n"
+"Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.8\n"
 
 #. [editor_group]: id=the_deceivers_gambit
 #. [campaign]: id=The Deceivers Gambit 1
@@ -21,7 +21,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:18
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:22
 msgid "The Deceiver’s Gambit"
-msgstr ""
+msgstr "欺天之局"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:62
 msgid "1x enemies, 70% XP"
@@ -281,10 +281,8 @@ msgid "Scenario 14: Armchair General"
 msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:7
-#, fuzzy
-#| msgid "Attack"
 msgid "Attack:"
-msgstr "攻击"
+msgstr "攻击："
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:8
 msgid "Spell:"
@@ -1374,7 +1372,7 @@ msgstr "德法多或梅瑟死亡"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:384
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:484
 msgid "Death of Garard or Lionel"
-msgstr "国王伽拉德二世"
+msgstr "伽拉德或莱昂内尔死亡"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:399
