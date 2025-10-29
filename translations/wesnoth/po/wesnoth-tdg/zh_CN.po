@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-10-21 01:10 UTC\n"
-"PO-Revision-Date: 2025-10-29 11:54+0800\n"
+"PO-Revision-Date: 2025-10-29 17:11+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -330,10 +330,11 @@ msgstr "攻击："
 msgid "Spell:"
 msgstr "法术："
 
-# Translated by openrouter with model google/gemma-3-27b-it:free.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:9
+#, fuzzy
 msgid "Passive:"
-msgstr ""
+msgstr "被动态"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:20
 msgid "Magic Missile"
@@ -355,10 +356,11 @@ msgstr "盾牌"
 msgid "Spend <span color='#00bbe6' style='italic'>8xp</span> to gain <i>+20% dodge chance</i> until the start of your next turn or until cancelled."
 msgstr "消耗 <span color='#00bbe6' style='italic'>8经验值</span>，直至你的下个回合开始或效果被取消，获得<i>20%闪避几率</i>加成。"
 
-# Translated by openrouter with model google/gemma-3-27b-it:free.
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:39
+#, fuzzy
 msgid "Panacea"
-msgstr ""
+msgstr "万能药"
 
 # Translated by openrouter with model google/gemma-3-27b-it:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:41
@@ -374,41 +376,68 @@ msgstr "消耗 <span color='#00bbe6' style='italic'>8经验值</span>，完全�
 msgid "Animate Mud"
 msgstr "泥土傀儡"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:51
+#, fuzzy
 msgid ""
 "Learn to recruit <i>Mudcrawlers</i>. Mudcrawlers gain +100% damage and xp\n"
 "               while adjacent to you, but dissolve at the end of each scenario."
 msgstr ""
+"\n"
+"\n"
+"学会招募泥蠕虫。当你与其相邻时，泥蠕虫会获得+100%伤害和经验，但在每个场景结束时会溶解。"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:63
+#, fuzzy
 msgid "Chill Touch"
-msgstr ""
+msgstr "冰霜触碰"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:65
+#, fuzzy
 msgid "Melee 6x3 cold, <i><ref dst='weaponspecial_slows'>slows</ref></i>. Replaces your default melee attack."
-msgstr ""
+msgstr "近战攻击 6x3 冷却，<i><ref dst='weaponspecial_slows'>减速</ref></i>。取代你的默认近战攻击。"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:72
+#, fuzzy
 msgid "Levitate"
-msgstr ""
+msgstr "漂浮"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:74
+#, fuzzy
 msgid "Spend <span color='#00bbe6' style='italic'>8xp</span> to gain <i>flight</i> and the <i><ref dst='ability_skirmisherskirmisher'>skirmisher</ref></i> ability until the start of your next turn or until cancelled."
-msgstr ""
+msgstr "花费 <span color='#00bbe6' style='italic'>8xp</span> 获得 <i>飞行</i> 和 <i><ref dst='ability_skirmisherskirmisher'>散兵</ref></i> 能力，直到你的下一个回合开始或直到被取消。"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:82
+#, fuzzy
 msgid "Find Familiar"
 msgstr ""
+"\n"
+"\n"
+"寻灵伴侣"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:84
+#, fuzzy
 msgid ""
 "Begin each scenario with your trusty pet raven.\n"
 "               Your familiar’s level and xp persist across scenarios, but reset if it dies."
 msgstr ""
+"在每个场景开始时，带上你忠实的宠物渡鸦。\n"
+"你的灵兽的等级和经验值在各个场景中会持续累积，但如果它死亡，则会重置。"
 
+# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:91
+#, fuzzy
 msgid "Mnemonic"
 msgstr ""
+"\n"
+"\n"
+"记忆术"
 
 #. [dummy]
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:93 data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:645
@@ -2441,7 +2470,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:342
 msgid "Chief Ushka'e"
-msgstr ""
+msgstr "乌什卡尔酋长"
 
 #. [message]: speaker=Ushka'e
 #. this is the whitefang chief. He's happy that Garard has walked into his
@@ -6166,7 +6195,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1225
 msgid "Give up."
-msgstr ""
+msgstr "放弃。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1353
@@ -6175,10 +6204,8 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1485
-#, fuzzy
-#| msgid "No!"
 msgid "No."
-msgstr "不！"
+msgstr "不。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1519
@@ -6769,7 +6796,7 @@ msgstr "梅瑟"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:74
 msgid "Arand"
-msgstr ""
+msgstr "阿兰德"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:83
 msgid "Asheviere"
