@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 17:25-0500\n"
-"PO-Revision-Date: 2025-11-22 16:53+0800\n"
+"PO-Revision-Date: 2025-12-04 15:34+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -3374,12 +3374,12 @@ msgstr "* 标题："
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:98
 msgid "The translation of the add-on’s title."
-msgstr ""
+msgstr "附加组件标题的翻译。"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:99
 msgid "The translation of the add-on’s description."
-msgstr ""
+msgstr "附加组件描述的翻译。"
 
 #. [label]: id=title
 #: data/gui/window/editor_edit_scenario.cfg:42
@@ -4040,20 +4040,16 @@ msgstr "日志文件"
 
 #. [button]: id=open_stderr
 #: data/gui/window/game_version.cfg:623
-#, fuzzy
-#| msgid "Opens the log file, which may contain useful debug information"
 msgid ""
 "Opens the log file pertaining to the current session, which may contain "
 "useful debug information"
-msgstr "打开日志文件，其中可能包含有用的调试信息"
+msgstr "打开与当前会话有关的日志文件，其中可能包含有用的调试信息"
 
 #. [button]: id=run_migrator
 #. button to open the version migration dialog manually to re-migrate add-ons and the preferences file
 #: data/gui/window/game_version.cfg:635
-#, fuzzy
-#| msgid "Crater"
 msgid "Migrate"
-msgstr "火山口"
+msgstr "迁移"
 
 #. [label]
 #: data/gui/window/gamestate_inspector.cfg:16
@@ -5008,7 +5004,7 @@ msgstr "无"
 #. [widget]: id=tab_label
 #: data/gui/window/mp_match_history.cfg:375
 msgid "Info"
-msgstr ""
+msgstr "信息"
 
 #. [widget]: id=tab_label
 #: data/gui/window/mp_match_history.cfg:388
@@ -5024,7 +5020,7 @@ msgstr "模组"
 #. [label]
 #: data/gui/window/mp_match_history.cfg:450
 msgid "Player:"
-msgstr "玩家"
+msgstr "玩家："
 
 #. [text_box]: id=search_player
 #. [text_box]: id=search_game_name
@@ -5038,7 +5034,7 @@ msgstr ""
 #. [label]
 #: data/gui/window/mp_match_history.cfg:474
 msgid "Content Type:"
-msgstr ""
+msgstr "内容类型："
 
 #. [label]
 #: data/gui/window/mp_match_history.cfg:494
@@ -5380,7 +5376,7 @@ msgstr "清除快捷键"
 #. [label]
 #: data/gui/window/preferences/03_display.cfg:15
 msgid "Window size:"
-msgstr ""
+msgstr "窗口大小："
 
 #. [label]: id=help_text
 #: data/gui/window/preferences/03_display.cfg:39
