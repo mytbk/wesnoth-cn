@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2025-11-20 22:21+0800\n"
+"PO-Revision-Date: 2025-12-04 17:33+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -699,13 +699,11 @@ msgstr "维拉德尼尔"
 msgid "Karron"
 msgstr "卡戎"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:37
-#, fuzzy
 msgid ""
 "So then let this pestilence be harvested in place of the meat it has taken!"
-msgstr "那就让这场瘟疫代替它夺走的肉食被收割吧！"
+msgstr "既如此，便以此灾殃之孽物，抵偿其所夺之血肉！"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:42
@@ -6235,15 +6233,16 @@ msgstr ""
 "戈拉克之翼未归，\n"
 "吾本以为汝等皆殒于此地荒蛮之物手下。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:227
-#, fuzzy
 msgid ""
 "Karron, likewise!\n"
 "\n"
 "If only Vladnir had shared our fortune."
-msgstr "卡戎，亦同此运！然维拉德尼尔若能共沐此运，方为圆满。"
+msgstr ""
+"卡戎，吾心同此庆！\n"
+"\n"
+"然维拉德尼尔若能共沐此运，方为圆满。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:233
@@ -6294,10 +6293,8 @@ msgstr ""
 "\n"
 "戈拉克，汝之言，乃懦弱之音！"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:266
-#, fuzzy
 msgid ""
 "My measure was wrong.\n"
 "I thought we need only escape Morogor to fulfill our reascension from "
@@ -6317,13 +6314,13 @@ msgid ""
 "exiled."
 msgstr ""
 "吾之度量有误。\n"
-"吾等仅以为逃出莫罗戈，便能完成复升之途。\n"
+"吾等以为仅逃出莫罗戈，便能完成复升之途。\n"
 "然吾等携莫罗戈之魂同行。\n"
 "其无畏之魂。\n"
 "\n"
 "如吾等流放之先祖，吾等沿风途最短之路，傲然翱翔。\n"
 "凡遇生物，必斩之。即便同翼，亦不例外。\n"
-"吾等竟化身为上古之敌——兽众、巨灵、精界……乃至龙人自身。\n"
+"吾等竟化身为上古之敌——兽众、巨灵、精界…乃至龙人自身。\n"
 "直至败绩临身，一如翼主莫罗戈。\n"
 "盖因吾等摒弃一切恐惧。\n"
 "\n"
@@ -6470,11 +6467,10 @@ msgstr ""
 "然灼烧者，亦踪迹全无。\n"
 "或仅余二姓，存于其翼群之中。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:375
 msgid "Whatever the case, Karron must not be underestimated."
-msgstr ""
+msgstr "纵是如此，卡戎之翼，不可轻视。"
 
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
@@ -6791,9 +6787,8 @@ msgstr "你赢了，我走…我跑。"
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:797
-#, fuzzy
 msgid "You have one last victory over me... finish it."
-msgstr "汝于吾，末竟一胜……了结之！"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:803
@@ -7044,10 +7039,8 @@ msgstr ""
 "\n"
 "卡拉维尔帆船虽可停泊于沿海村落，却也因此使其完全暴露于危殆之中。"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [attack]: type=pierce
 #: data/campaigns/Winds_of_Fate/units/Caravel.cfg:56
-#, fuzzy
 msgid "ballista"
 msgstr "弩炮"
 
