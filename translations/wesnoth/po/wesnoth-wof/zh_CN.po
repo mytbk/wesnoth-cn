@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2025-12-04 17:33+0800\n"
+"PO-Revision-Date: 2025-12-12 23:14+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -2440,10 +2440,8 @@ msgstr "长齿"
 msgid "Hissssss!"
 msgstr "他的嘶嘶！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [case]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:470
-#, fuzzy
 msgid "Razorfin"
 msgstr "刃鳍"
 
@@ -4265,10 +4263,8 @@ msgstr "萨莲妮雅"
 msgid "Tree Fellows"
 msgstr "树友"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [leader]: id=Gulladrumm, type=Ancient Wose
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:115
-#, fuzzy
 msgid "Gulladrumm"
 msgstr "古拉德鲁姆"
 
@@ -4279,10 +4275,8 @@ msgstr "古拉德鲁姆"
 msgid "Sea Fellows"
 msgstr "海族"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [leader]: id=Pelgara, type=Mermaid Enchantress
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:156
-#, fuzzy
 msgid "Pelgara"
 msgstr "佩尔加拉"
 
@@ -4457,10 +4451,8 @@ msgstr ""
 "\n"
 "韦弥尔欢迎所有来客！"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:377
-#, fuzzy
 msgid ""
 "This is my castle Saethrania — the Castle of Sharing.\n"
 "\n"
@@ -4470,12 +4462,11 @@ msgid ""
 "desire. Mayhap Bread of the Locust Fruit softened with Milk of the Hazel and "
 "sweetened with Sap of the Birch?"
 msgstr ""
-"此乃吾之城堡，萨艾瑟拉尼亚——分享之堡。\n"
+"这是我的萨艾瑟拉尼亚城堡——分享之堡。\n"
 "\n"
-"汝可居于格里奥勒尔之堡——关怀之堡。\n"
+"你可以住在格里诺勒尔城堡——关怀之堡。\n"
 "\n"
-"吾等仆从将献上汝所愿求之任何滋养花食。或以蝗果之粮，混以榛乳，佐以桦汁，以添"
-"其甘甜？"
+"我的仆从将献上你想要的任何滋养花食。或者是用榛乳软化，用桦汁增甜的蝗虫面包？"
 
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Salennea
@@ -4505,14 +4496,12 @@ msgstr ""
 "\n"
 "另，汝等兵刃之事——"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:397
-#, fuzzy
 msgid ""
 "We are ssssso weary... let usss dissscusss sssuch sssmall details in good "
 "time."
-msgstr "吾等已疲惫不堪...这等琐事，待时机成熟再议不迟。"
+msgstr "我们已经疲惫不堪了嘶嘶…这等琐事，待时机成熟再议不迟嘶嘶。"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:403
@@ -5067,7 +5056,6 @@ msgstr ""
 "\n"
 "其余的人，进洞里去！"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=narrator
 #. "Lodestone Mines of Golden Wolf Clan"
 #. "Year of Work 368, 7th Month"
@@ -5077,7 +5065,6 @@ msgstr ""
 #. "Still, our woodcutters cannot harvest any more mushroom fodder out of the forest without elves chipping away at them and the lodestone mines are nearly to the end of their (ore) veins.
 #. "Maybe I should trade this cave to that strange "Nova" creature after all. Whatever it be I do not care; if the elves ever come back then they can deal with it."
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:508
-#, fuzzy
 msgid ""
 "Lodestane Mines of Gyldanwolf Clan\n"
 "\n"
@@ -5105,21 +5092,21 @@ msgid ""
 msgstr ""
 "金狼氏族的磁铁矿场\n"
 "\n"
-"沃历368年，七月\n"
+"工历368年，7月\n"
 "\n"
-"那些精灵又回到了蘑菇农场，用他们那花哨的语言向小子们空口恫吓。他们说，若我们"
+"那些精灵又回到了蘑菇农场，用他们那花哨的语言向小子们空口恫吓。他们说，若俺们"
 "再伐木以饲蘑菇，他们便将兴兵；纵使只是松木，亦在所不惜。\n"
 "\n"
 "小子们已暂时设门，以阻精灵。\n"
 "\n"
-"若他们果真率吾等无力抵挡之军卷土重来，吾等便在承重墙周遭布设火药桶。那些精灵"
+"若他们果真率吾等无力抵挡之军卷土重来，俺们便在承重墙周遭布设火药桶。那些精灵"
 "对其那点小聪明“魔法”颇为自得——且待他们见识矮人的匠心，其表情定然精彩！\n"
 "\n"
-"然，若无精灵不断侵扰，我等伐木工便无法再入林采伐蘑菇饲料，且磁铁矿脉亦已濒临"
-"枯竭。\n"
+"然而，若无精灵不断侵扰，俺们伐木工便无法再入林采伐蘑菇饲料，且磁铁矿脉亦已濒"
+"临枯竭。\n"
 "\n"
-"也罢，吾终将此洞拱手相让予那古怪的“诺瓦”之物。无论其为何物，吾亦不在乎；若精"
-"灵果真卷土重来，便让他们去应付罢。"
+"也罢，俺要将此洞拱手让予那古怪的“新星”之物。无论其为何物，俺也不在乎；若精灵"
+"果真卷土重来，便让他们去应付罢。"
 
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:551
@@ -6766,18 +6753,16 @@ msgstr ""
 "\n"
 "出击！"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:753
-#, fuzzy
 msgid ""
 "Karron.\n"
 "\n"
 "My Windpath spared one friend... only to cut down another..."
 msgstr ""
-"戈拉克。\n"
+"卡戎。\n"
 "\n"
-"吾之风途曾饶过一友……却终将另一人斩于剑下……"
+"吾之风途曾饶过一友…却终将另一人斩于剑下…"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:769
@@ -7011,10 +6996,8 @@ msgstr ""
 msgid "Caravel"
 msgstr "卡拉维尔帆船"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Caravel, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Caravel.cfg:8
-#, fuzzy
 msgid ""
 "The sturdy and reliable caravel is the mainstay of human oceanic "
 "exploration, shipping and projection of influence. More seaworthy than "
@@ -7032,24 +7015,22 @@ msgstr ""
 "坚固而可靠的卡拉维尔帆船，是人类探索海洋、航运以及投射影响力的中流砥柱。相较"
 "于更轻便的船只，卡拉维尔帆船拥有更强的适航性；然而，你亦可能在更深的河流中瞥"
 "见其身影，在那里，它卓越的机动性与吃水浅的优势，足以在一定程度上弥补其吨位庞"
-"大的缺憾。\n"
+"大的缺点。\n"
 "\n"
 "尽管与其它种族的舰船相比，其速度略显迟缓，难以规避，但其高耸的前后船楼却装备"
 "了威力巨大的弩炮阵列，足以抵御海盗与海怪的侵袭。\n"
 "\n"
-"卡拉维尔帆船虽可停泊于沿海村落，却也因此使其完全暴露于危殆之中。"
+"卡拉维尔帆船可停泊于沿海村落，虽然会因此使其完全暴露于危险之中。"
 
 #. [attack]: type=pierce
 #: data/campaigns/Winds_of_Fate/units/Caravel.cfg:56
 msgid "ballista"
 msgstr "弩炮"
 
-# Translated by ollama with model qwen2.5:32b.
 #. [attack]: type=impact
 #: data/campaigns/Winds_of_Fate/units/Caravel.cfg:65
-#, fuzzy
 msgid "polybolos"
-msgstr "多管投石器"
+msgstr "多重投射机"
 
 #. [unit_type]: id=Dolphin, race=monster
 #: data/campaigns/Winds_of_Fate/units/Dolphin.cfg:5
@@ -7071,12 +7052,10 @@ msgstr ""
 "\n"
 "作为稀有的呼吸空气之鱼，海豚从不在深海久留。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=impact
 #: data/campaigns/Winds_of_Fate/units/Dolphin.cfg:62
-#, fuzzy
 msgid "shriek"
-msgstr "尖啸"
+msgstr "尖叫"
 
 #. [unit_type]: id=Gate, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Gate.cfg:5
@@ -7108,12 +7087,10 @@ msgstr ""
 msgid "claws"
 msgstr "爪"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Outrigger, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Outrigger.cfg:5
-#, fuzzy
 msgid "Outrigger"
-msgstr "舢舨"
+msgstr "舷外托架"
 
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Outrigger, race=mechanical
@@ -7192,35 +7169,27 @@ msgstr "狂风"
 msgid "lightning"
 msgstr "闪电"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Stymphalian, race=monster
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:5
-#, fuzzy
 msgid "Stymphalian"
-msgstr "铁蹄鸟"
+msgstr "斯廷法洛斯湖怪鸟"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Stymphalian, race=monster
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:8
-#, fuzzy
 msgid ""
 "A fiendish-tempered bird with a piercing, bronzy beak. It is covered in "
 "hard, blade-sharp feathers that it can fling at its victims."
 msgstr ""
-"一只性情凶戾的怪鸟，长有锐利的青铜色鸟喙。其周身覆盖着坚硬如刀锋的羽毛，能将"
-"其射向猎物。"
+"一种长有锐利的青铜色鸟喙，性情凶戾的鸟。其周身覆盖着坚硬如刀锋的羽毛，能将其"
+"射向受害者。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=pierce
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:73
-#, fuzzy
 msgid "stiletto beak"
 msgstr "尖喙"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=blade
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:82
-#, fuzzy
 msgid "bladed feathers"
 msgstr "刃羽"
 
