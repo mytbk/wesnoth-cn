@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-10-21 01:10 UTC\n"
-"PO-Revision-Date: 2024-09-25 21:29+0800\n"
+"PO-Revision-Date: 2025-12-14 14:30+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.8\n"
 
 #. [campaign]: id=Liberty
 #. [achievement_group]
@@ -31,7 +31,7 @@ msgstr "自由"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:20
 msgid "1x enemies"
-msgstr ""
+msgstr "1倍敌军"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:20
@@ -41,7 +41,7 @@ msgstr "简单"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
 msgid "2x enemies"
-msgstr ""
+msgstr "2倍敌军"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
@@ -51,12 +51,12 @@ msgstr "普通"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:22
 msgid "3x enemies"
-msgstr ""
+msgstr "3倍敌军"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:22
 msgid "Hard"
-msgstr ""
+msgstr "困难"
 
 #. [campaign]: id=Liberty
 #. "marchlander" is archaic English for an inhabitant of a border region, not to be confused with "marshlander"
@@ -83,6 +83,8 @@ msgid ""
 "Story continued in:\n"
 "Heir to the Throne"
 msgstr ""
+"故事续于：\n"
+"王座继承人"
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:34
@@ -111,24 +113,18 @@ msgstr "给我自由或者给我死亡！"
 
 #. [achievement]: id=liberty_or_death
 #: data/campaigns/Liberty/achievements.cfg:8
-#, fuzzy
-#| msgid "Complete Civil Disobedience with at least 3 peasants remaining."
 msgid "Complete <i>Civil Disobedience</i> with at least 3 peasants remaining."
-msgstr "完成《温和反抗》时至少有3个农民存活。"
+msgstr "完成<i>温和反抗</i>时至少有3个农民存活。"
 
 #. [achievement]: id=liberty_nameless
 #: data/campaigns/Liberty/achievements.cfg:14
-#, fuzzy
-#| msgid "The Nameless General"
 msgid "The Nameless Guard"
-msgstr "无名将军"
+msgstr "无名卫兵"
 
 #. [achievement]: id=liberty_nameless
 #: data/campaigns/Liberty/achievements.cfg:15
-#, fuzzy
-#| msgid "Find out the name of the general in Unlawful Orders."
 msgid "Discover the name of the royal guard in <i>Unlawful Orders</i>."
-msgstr "在《不法命令》中找出将军的名字。"
+msgstr "在<i>不法命令</i>中找出侍卫的名字。"
 
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:21
@@ -137,10 +133,8 @@ msgstr "哈珀大战歌利亚"
 
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:22
-#, fuzzy
-#| msgid "Defeat an Iron Mauler with Harper in Hide and Seek."
 msgid "Defeat an Iron Mauler with Harper in <i>Hide and Seek</i>."
-msgstr "在“捉迷藏”一幕用哈珀击败一名铁锤兵。"
+msgstr "在<i>捉迷藏</i>一幕用哈珀击败一名铁锤兵。"
 
 #. [achievement]: id=liberty_hunter
 #. this is the achievement for the scenario The Hunters
@@ -150,10 +144,8 @@ msgstr "完美猎人"
 
 #. [achievement]: id=liberty_hunter
 #: data/campaigns/Liberty/achievements.cfg:30
-#, fuzzy
-#| msgid "Complete The Hunters with no losses"
 msgid "Complete <i>The Hunters</i> with no losses."
-msgstr "无损失完成《猎手》"
+msgstr "无损失完成<i>猎手</i>。"
 
 #. [achievement]: id=liberty_army
 #: data/campaigns/Liberty/achievements.cfg:36
@@ -162,10 +154,8 @@ msgstr "没有战略的武装毫无意义"
 
 #. [achievement]: id=liberty_army
 #: data/campaigns/Liberty/achievements.cfg:37
-#, fuzzy
-#| msgid "On Challenging difficulty, defeat Dommel in Glory."
 msgid "On Challenging difficulty, defeat Dommel in <i>Glory</i>."
-msgstr "在挑战者难度，在荣耀击败多梅尔。"
+msgstr "在挑战者难度，在<i>荣耀</i>击败多梅尔。"
 
 #. [scenario]: id=01_The_Raid
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:4
@@ -311,7 +301,7 @@ msgstr "戈罗克"
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:173
 msgid "Gruk"
-msgstr ""
+msgstr "戈鲁克"
 
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:195
@@ -508,19 +498,15 @@ msgstr "地精蠢货。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:408
-#, fuzzy
-#| msgid ""
-#| "Hey, someone left their pack here. I could use it to carry some more "
-#| "rocks."
 msgid ""
 "Hey, someone left their pack here. I could use it to carry some heavier "
 "rocks."
-msgstr "嘿，有人的背包丢这儿了。俺能拿来装多些石头。"
+msgstr "嘿，有人的背包丢这儿了。俺能拿来装些更重的石头。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:435
 msgid "Your footpad has gained +1 ranged damage!"
-msgstr ""
+msgstr "你的走卒获得了 +1 远程伤害输出！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:447
@@ -848,7 +834,7 @@ msgstr "对，亡命徒。"
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:521
 msgid "Your units — formerly <i>neutral</i> — are now <i>chaotic</i>!"
-msgstr ""
+msgstr "你的单位 —— 之前是<i>中立</i> —— 现在变为<i>混沌</i>！"
 
 #. [message]: speaker=Reinforcement Knight
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:555
@@ -1121,7 +1107,7 @@ msgstr "新鲜可口的水。嗯！"
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:443
 msgid "Your unit has gained +1 maximum hitpoints!"
-msgstr ""
+msgstr "你的单位获得了 +1 最大生命值！"
 
 #. [message]: speaker=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:459
@@ -1225,10 +1211,8 @@ msgstr "埃仁撒伐"
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:177
-#, fuzzy
-#| msgid "Defeat both enemy leaders"
 msgid "Defeat the enemy leader"
-msgstr "击败两名敌方首领"
+msgstr "击败敌方首领"
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:189
@@ -1238,7 +1222,7 @@ msgstr "马多克死亡"
 #. [event]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:236
 msgid "The Daneth"
-msgstr ""
+msgstr "达内斯"
 
 #. [event]
 #. [unit]: type=Skiff, id=Skiff
@@ -1271,19 +1255,13 @@ msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:309
-#, fuzzy
-#| msgid ""
-#| "That was partially my fault, since I was not able to send a messenger to "
-#| "you in time. I shall have to inform you now. Five weeks ago, at the Ford "
-#| "of Abez, Queen Asheviere’s men allied themselves with the northern orcs "
-#| "and betrayed King Garard II."
 msgid ""
 "That was partially my fault, since I was not able to send a messenger to you "
 "in time. I shall have to inform you now. Five weeks ago, at the Ford of "
 "Abez, King Garard II of Wesnoth was murdered."
 msgstr ""
-"这也有我的错，我没能及时派人送信给你。我现在得告知你了。五周前，在雅碧滩，艾"
-"什薇尔王后的手下与北方兽人结盟，背叛了伽拉德二世国王。"
+"这也有我的错，我没能及时派人送信给你。我现在得告知你了。五周前，在雅碧滩，韦"
+"诺的伽拉德二世国王被谋杀了。"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:313
@@ -1296,20 +1274,15 @@ msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:317
-#, fuzzy
-#| msgid ""
-#| "Since Prince Eldred died in the battle, the Queen took the throne and has "
-#| "been consolidating her power. Part of that has been bringing the elders "
-#| "from the local villages here, forcing them to swear allegiance to her. "
-#| "That was the purpose of that patrol."
 msgid ""
 "The Queen is not popular. She is at war with supporters of the old king, and "
 "searches far and wide for new conscripts. Part of that has been taking "
 "elders from the local villages, forcing them to swear allegiance to her. "
 "That was the purpose of that patrol."
 msgstr ""
-"埃德雷德王子阵亡后，女王登上了王位并一直在巩固她的权力。把本地村庄的长老们带"
-"到这里，强迫他们宣誓效忠于她，也是她命令的一部分。这就是那支巡逻队的目的。"
+"女王不受欢迎。她正在与老国王的支持者交战，并四处寻找新的应征入伍者。把本地村"
+"庄的长老们带走，强迫他们宣誓效忠于她，也是她命令的一部分。这就是那支巡逻队的"
+"目的。"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:321
@@ -1418,15 +1391,10 @@ msgstr "嘿，看啊！这里埋着些宝藏！"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:421
-#, fuzzy
-#| msgid ""
-#| "It says, “Here lies Daneth, child of the Light, loyal defender of Lord "
-#| "and Land.” Whoever that was."
 msgid ""
 "It says, “Here lies Daneth, child of the Light, loyal defender of Lord and "
 "Land.”"
-msgstr ""
-"上面写着：“这里安眠着达内斯，圣光之子，主与土地的忠诚卫士。”管他是谁啊。"
+msgstr "上面写着：“这里安眠着达内斯，圣光之子，主与土地的忠诚卫士。”"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:425
@@ -1509,10 +1477,8 @@ msgstr ""
 
 #. [modify_unit]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:865
-#, fuzzy
-#| msgid "General Kestrel"
 msgid "Kestrel"
-msgstr "茶隼将军"
+msgstr "茶隼"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:872
@@ -1521,21 +1487,13 @@ msgstr "你们是谁？你们怎么了？"
 
 #. [message]: speaker=Kestrel
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:876
-#, fuzzy
-#| msgid ""
-#| "We... are accursed. We were the soldiers of Prince Eldred, the King’s son "
-#| "and betrayer... when the Prince was slain at the hands of the mage "
-#| "Delfador, those of us who bore witness to it were warped into these "
-#| "twisted forms. Now, our mortal bodies pass... into another plane of "
-#| "hellish existence..."
 msgid ""
 "We... are accursed. We were the soldiers of Prince Eldred, the King’s son "
 "and betrayer... when the Prince stooped to black magic, we were damned... "
 "those of us who bore witness were warped into these twisted forms."
 msgstr ""
-"我们......被诅咒了。我们是埃德雷德王子的士兵，他是国王的儿子，也是叛徒... ..."
-"当王子被法师德法多杀死时，我们这些见证者扭曲成了这些奇形怪状的东西。现在，我"
-"们的凡人之躯进入了……另一个地狱般的存在位面……"
+"我们…被诅咒了。我们是埃德雷德王子的士兵，他是国王的儿子，也是叛徒…当王子屈服"
+"于黑魔法时，我们被诅咒了…我们这些见证者扭曲成了这些奇形怪状的东西。"
 
 #. [message]: speaker=Kestrel
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:880
