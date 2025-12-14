@@ -524,7 +524,7 @@ msgstr "关于维护工具图形用户界面"
 
 #. TRANSLATORS: {0} is a placeholder for Wesnoth's current version, and not meant to be modified.
 #: data/tools/GUI.pyw:1666
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid ""
 "© Elvish_Hunter, 2014-2016\n"
 "\n"
@@ -536,9 +536,9 @@ msgid ""
 "Icons are taken from the Tango Desktop Project (http://"
 "tango.freedesktop.org), and are released in the Public Domain."
 msgstr ""
-"© Elvish_Hunter, 2014-2016\r\n"
-"\r\n"
-"版本：{0}\r\n"
+"© Elvish_Hunter, 2014-2016\n"
+"\n"
+"版本：{0}\n"
 "\n"
 "为《韦诺之战》项目的一部分，在GNU GPL v2许可证下发布。\n"
 "\n"
