@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2024-09-21 17:10+0800\n"
+"PO-Revision-Date: 2025-12-14 14:33+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.8\n"
 
 #. [campaign]: id=Descent_into_Darkness
 #. [achievement_group]
@@ -5210,10 +5210,6 @@ msgstr "俺的斧头砍不坏这纸头。有魔法保护的！"
 #. [message]: role=speakinghero
 #. regular english: Yes, but the lich still seems to be hurt. Let's take it and retreat. Maybe the forge can destroy it.
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1266
-#, fuzzy
-#| msgid ""
-#| "Aye, but the lich still seems ta be hurtin’. Let’s take it ’n retreat. "
-#| "Maybe tha forge ken destroy it."
 msgid ""
 "Aye, but the lich still seems ta be hurtin’. Let’s take it ’n retreat. Maybe "
 "tha forge can destroy it."
@@ -5614,8 +5610,6 @@ msgstr ""
 #. [message]: role=second
 #. regular english - I don't know. You think the lich's castle can be useful
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1895
-#, fuzzy
-#| msgid "I dinna know. Ye think tha lich’s castle ken be useful?"
 msgid "I dinna know. Ye think tha lich’s castle can be useful?"
 msgstr "俺咋知道。你觉着这巫妖的城堡能用不？"
 
