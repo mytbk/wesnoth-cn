@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2025-08-01 11:50+0800\n"
+"PO-Revision-Date: 2025-12-20 20:50+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.8\n"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:32
@@ -57,16 +57,14 @@ msgstr ""
 msgid "(Novice level, 6 scenarios.)"
 msgstr "（新手级别，6幕场景。）"
 
-# Translated by openrouter with model qwen/qwen3-235b-a22b:free.
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:49
-#, fuzzy
 msgid ""
 "Story continued in:\n"
 "“The Deceiver’s Gambit”"
 msgstr ""
-"故事续接自：  \n"
-"《奸诈者的棋局》"
+"故事续于：  \n"
+"《欺天之局》"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:53
@@ -195,12 +193,10 @@ msgstr "场景5b：似不可能"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:25
-#, fuzzy
-#| msgid "Complete the campaign after playing <i>Into the Depths</i>."
 msgid ""
 "Complete the campaign after playing the secret <i>Into the Depths</i> "
 "scenario."
-msgstr "在打完<i>深入地下</i>之后完成战役。"
+msgstr "在打完秘密的<i>深入地下</i>场景之后完成战役。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:25
