@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2024-09-16 13:04+0800\n"
+"PO-Revision-Date: 2025-12-20 20:33+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.8\n"
 
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:13
@@ -73,15 +73,6 @@ msgstr "海神"
 
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:23
-#, fuzzy
-#| msgid ""
-#| "You are Kai Krellis, son and heir of the last merman king but only a "
-#| "child. A necromancer is turning your subjects into undead slaves! Lead "
-#| "your people on a mission to convince a powerful mer-sorceress to help you "
-#| "repel the invasion. The oceans near the Northern Lands are perilous, so "
-#| "you will need cunning and bravery to survive. But first you need to gain "
-#| "the respect of your troops!\n"
-#| "\n"
 msgid ""
 "You are Kai Krellis, son and heir of the last merman king but only a child. "
 "A necromancer is turning your subjects into undead slaves! Lead your people "
@@ -93,7 +84,7 @@ msgid ""
 msgstr ""
 "你是克雷利斯凯王，上任人鱼国王之子，但还只是个孩子。一个死灵法师正把你的子民"
 "转化为亡灵奴隶！领导你的人民完成你的使命：说服一位强大的人鱼女巫帮你击退入"
-"侵。北方群岛附近的海洋危机四伏，你必须机敏而勇敢才能存活下来。但首先，你必须"
+"侵。极北之地附近的海洋危机四伏，你必须机敏而勇敢才能存活下来。但首先，你必须"
 "赢得你的部队的尊敬！\n"
 "\n"
 
@@ -3116,11 +3107,6 @@ msgstr "勇士之王"
 
 #. [unit_type]: id=Merman Warrior King, race=merman
 #: data/campaigns/Dead_Water/units/Warrior_King.cfg:20
-#, fuzzy
-#| msgid ""
-#| "Warrior kings often become legendary in their own time. Their skill and "
-#| "strength allows them to be truly formidable in battle. They are also fast "
-#| "despite their heavy armor. Even skilled soldiers look upon them with awe."
 msgid ""
 "Warrior Kings often become legendary in their own time. Their skill and "
 "strength allows them to be truly formidable in battle. They are also fast "
@@ -3136,11 +3122,6 @@ msgstr "年轻之王"
 
 #. [unit_type]: id=Merman Young King, race=merman
 #: data/campaigns/Dead_Water/units/Young_King.cfg:20
-#, fuzzy
-#| msgid ""
-#| "A young king with some battle experience will be treated with some "
-#| "respect. Common citizens will be inspired to do their utmost when the "
-#| "king is nearby, but battle-hardened veterans will be less impressed."
 msgid ""
 "A Young King with some battle experience will be treated with some respect. "
 "Common citizens will be inspired to do their utmost when the king is nearby, "
