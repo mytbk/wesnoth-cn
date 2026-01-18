@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2026-01-17 12:12+0800\n"
+"PO-Revision-Date: 2026-01-18 11:48+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -6486,19 +6486,15 @@ msgstr ""
 msgid "I have ssseen too many moons. My feet grow weary and ssslow. I ssstay."
 msgstr "我活得太久了嘶嘶。双脚已疲惫不堪嘶嘶。我留下嘶嘶。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:440
-#, fuzzy
 msgid "Reks"
-msgstr "瑞克斯"
+msgstr "雷克斯"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:447
-#, fuzzy
 msgid "Greeeeeen one, <i>there</i> you are."
-msgstr "绿家伙，<i>总算</i>找到你了。"
+msgstr "绿绿的家伙，你在<i>那里</i>。"
 
 # Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Zedrix
@@ -6507,12 +6503,10 @@ msgstr "绿家伙，<i>总算</i>找到你了。"
 msgid "It is I, Ancient One. I ssseek your help."
 msgstr "是我，远古的巨龙。我需要你的帮助。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:457
-#, fuzzy
 msgid "Reks help favorite pet. Reks help green one."
-msgstr "Reks帮心爱的宠物。Reks帮那个绿皮的。"
+msgstr "雷克斯帮心爱的宠物。雷克斯帮那个绿皮的。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:473
@@ -6535,10 +6529,8 @@ msgstr "……汝远离汝礁。"
 msgid "Odious fish imps took our reef from us again! Ssssss!"
 msgstr "该死的鱼精又抢走了咱们的礁石！嘶嘶嘶！"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:501
-#, fuzzy
 msgid "Xatra"
 msgstr "沙特拉"
 
