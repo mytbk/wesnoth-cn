@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2026-01-18 11:48+0800\n"
+"PO-Revision-Date: 2026-01-22 22:44+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -1770,12 +1770,10 @@ msgstr ""
 "吾将引汝至界外之路。\n"
 "率吾新翼群，吾将行至远疆，立吾巢穴！"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free.
 #. [message]: speaker=Vladnir
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:466
-#, fuzzy
 msgid "So it begins..."
-msgstr "风途已启..."
+msgstr "风途之变，由此开启…"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:470
@@ -6496,12 +6494,10 @@ msgstr "雷克斯"
 msgid "Greeeeeen one, <i>there</i> you are."
 msgstr "绿绿的家伙，你在<i>那里</i>。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:453
-#, fuzzy
 msgid "It is I, Ancient One. I ssseek your help."
-msgstr "是我，远古的巨龙。我需要你的帮助。"
+msgstr "是我，远古的前辈。我寻求你的帮助嘶嘶。"
 
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:457
