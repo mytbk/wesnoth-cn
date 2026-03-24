@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-05 18:06 UTC\n"
-"PO-Revision-Date: 2026-01-22 22:44+0800\n"
+"PO-Revision-Date: 2026-03-24 22:41+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -3956,10 +3956,8 @@ msgstr ""
 "\n"
 "先祖英明，岂会将此等简单<i>猎物</i>误作盟友。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:87
-#, fuzzy
 msgid ""
 "Yet verily it was so.\n"
 "\n"
@@ -3977,12 +3975,10 @@ msgstr ""
 "中。\n"
 "\n"
 "亦有本性凶残之辈——兽众、巨灵……乃至精界。\n"
-"吾恐正是其中一族，于久远之年将吾族逐出此泰土大地。"
+"吾恐正是其中一族，于久远之年将吾族逐出此泰陆。"
 
-# Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:97
-#, fuzzy
 msgid ""
 "The names which they call themselves have shifted in our long absence.\n"
 "Yet many creatures we have already come across bear a perfect likeness to "
@@ -3996,7 +3992,7 @@ msgstr ""
 "然吾等沿途所遇诸多生灵，其形貌与口述史所载别无二致。  \n"
 "实为同族无疑。  \n"
 "\n"
-"若仍循旧策而行，必迫昔日盟翼与我为敌。  \n"
+"若仍循旧策而行，必使昔日盟友与吾等为敌。  \n"
 "更甚者，或将惊动远古之敌，令其察觉吾等已重返此土。"
 
 #. [part]
@@ -5189,18 +5185,18 @@ msgstr ""
 "戈拉克。此乃狩猎吾等远古之怖。\n"
 "汝须引吾等翼群，穿越此山，不计代价。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:611
-#, fuzzy
 msgid ""
 "<i>*flicks tongue*</i>\n"
 "\n"
 "Dragonsss! Gate behind talking boness ssmellsss of fresh air. That isss way "
 "through mountain. We mussst break through that gate! With hassste, dragonsss!"
 msgstr ""
-"嘶嘶！龙人们！骨头门后的味道是新鲜空气！那就是穿山的路！我们必须冲破那扇门！"
-"快，龙人们！"
+"<i>*信子一吐*</i>\n"
+"\n"
+"巨龙们嘶嘶！说话的骨头嘶嘶后面的门闻起来有新鲜空气的气息嘶嘶。那是穿越山脉的"
+"通道嘶嘶。我们必须攻破那扇门嘶嘶！巨龙们，快点嘶嘶！"
 
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:633
@@ -7064,12 +7060,10 @@ msgstr "爪"
 #. [unit_type]: id=Outrigger, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Outrigger.cfg:5
 msgid "Outrigger"
-msgstr "舷外托架"
+msgstr "劫掠艇"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Outrigger, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Outrigger.cfg:8
-#, fuzzy
 msgid ""
 "Cutting light and shallow through the water’s surface, these raiding craft "
 "easily intercept the more substantial and seaworthy vessels of Wesnoth. "
@@ -7080,9 +7074,9 @@ msgid ""
 "The shallow draft of the outrigger’s hulls allows it to be landed at coastal "
 "villages, though this makes it entirely vulnerable."
 msgstr ""
-"[part] 这些劫掠艇轻盈地划破浅滩水域，轻易便截停了韦诺那些更为厚重、适于远航的"
-"船只。尽管劫掠艇本身火力强劲、规模可观，兽人依旧倚仗数量优势，以攻破戒备森严"
-"的沿海据点与商船。\n"
+"轻浅地划破水面，这些劫掠艇能轻易拦截韦诺那些更为庞大且适航性更强的船只。尽管"
+"就其体型而言武装精良且船员充足，兽人劫掠艇仍需依靠数量优势来攻克防御严密的海"
+"岸定居点和航运船队。\n"
 "\n"
 "劫掠艇吃水极浅，可登陆沿海村落，然此举亦使其彻底暴露于敌前。"
 
@@ -7093,17 +7087,13 @@ msgstr ""
 msgid "boarders"
 msgstr "登船者"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [attack]: type=fire
 #: data/campaigns/Winds_of_Fate/units/Outrigger.cfg:63
-#, fuzzy
 msgid "onager"
-msgstr "投石机"
+msgstr "弩炮"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [unit_type]: id=Storm Wisp, race=monster
 #: data/campaigns/Winds_of_Fate/units/Storm_Wisp.cfg:5
-#, fuzzy
 msgid "Storm Wisp"
 msgstr "风暴精魄"
 
