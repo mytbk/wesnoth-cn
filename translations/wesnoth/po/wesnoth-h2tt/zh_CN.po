@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:11 UTC\n"
-"PO-Revision-Date: 2026-04-09 00:00+0800\n"
+"PO-Revision-Date: 2026-04-09 00:26+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -279,55 +279,73 @@ msgstr "在<i>狮鹫山</i>击败狮鹫之母，且不击杀任何其他狮鹫�
 msgid "Complete part 1 of <i>Valley of Death</i> AFTER completing part 2."
 msgstr "在完成第二部分之后，完成《死亡之谷》的第一部分。"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:40
+#, fuzzy
 msgid "Quest Unrequested"
-msgstr ""
+msgstr "非请之征"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:41
+#, fuzzy
 msgid "Defeat both liches before turns run out in <i>Valley of Death II</i>."
-msgstr ""
+msgstr "在<i>死亡之谷 II</i>中，于回合耗尽前击败两名巫妖。"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:41
+#, fuzzy
 msgid "The Best Defense..."
-msgstr ""
+msgstr "最好的防御……"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:42
+#, fuzzy
 msgid "Best Served Hot"
-msgstr ""
+msgstr "趁热享用"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:42
 msgid "Get the finishing blow on Li’sar with Ulfdain during <i>Crossroads</i>."
-msgstr ""
+msgstr "在<i>交叉路口之战</i>中，由乌尔夫戴恩给予莉莎最后一击。"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:43
+#, fuzzy
 msgid "Defeat all caravans by turn 20 in <i>The Highwaymen</i>."
-msgstr ""
+msgstr "在《强盗之路》中，于第 20 回合前击败所有商队。"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:43
+#, fuzzy
 msgid "Grand Theft Wagon"
-msgstr ""
+msgstr "大车大盗"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:44
+#, fuzzy
 msgid "Arrive on the north shore at the start of <i>The Ford of Abez</i>."
-msgstr ""
+msgstr "在《阿贝兹渡口》开始时抵达北岸。"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:44
+#, fuzzy
 msgid "Switcheroo"
-msgstr ""
+msgstr "调包"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:47
+#, fuzzy
 msgid "Fight Fire With Fire"
-msgstr ""
+msgstr "以火攻火"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:47
@@ -4648,10 +4666,8 @@ msgstr ""
 #. [message]: speaker=Delfador
 #. Konrad has something to day, and Delfador is promting him.
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:758
-#, fuzzy
-#| msgid "What is that?"
 msgid "What is it, Konrad?"
-msgstr "那是什么鬼东西？"
+msgstr "它是什么，科纳德？"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:771
@@ -5228,10 +5244,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1629
-#, fuzzy
-#| msgid "Escape down the road to Elensefar"
 msgid "Maddock, Lord of Elensefar."
-msgstr "沿着通往埃仁撒伐的道路奔逃"
+msgstr "马多克，埃仁撒伐的领主。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1630
@@ -9739,10 +9753,8 @@ msgstr ""
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:8
-#, fuzzy
-#| msgid "scenario name^Blackwater Port"
 msgid "scenario name^Crossroads"
-msgstr "黑水港"
+msgstr "scenario name^交叉路口之战"
 
 #. [side]: type=Knight, id=knight
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:52
