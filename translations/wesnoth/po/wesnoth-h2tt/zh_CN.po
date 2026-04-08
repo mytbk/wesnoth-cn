@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:11 UTC\n"
-"PO-Revision-Date: 2026-04-05 18:05+0800\n"
+"PO-Revision-Date: 2026-04-09 00:00+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -143,12 +143,10 @@ msgstr "姐妹 $name_before_adding_brother"
 msgid "Delfador the Great"
 msgstr "德法多大师"
 
-# Translated by openrouter with model stepfun/step-3.5-flash:free.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:26
-#, fuzzy
 msgid "Personally defeat 10 enemies with Delfador during '<i>The Elves Besieged</i>'."
-msgstr "在关卡“精灵受困”中，使用德法多亲自击溃10名敌人。"
+msgstr "在“<i>受困的精灵</i>”中，使用德法多亲自击败10名敌人。"
 
 # Translated by openrouter with model stepfun/step-3.5-flash:free.
 #. [achievement_group]
@@ -200,12 +198,10 @@ msgstr "患难见真情"
 msgid "Complete <i>Muff Malal’s Peninsula</i> before freeing Moremirmu."
 msgstr "在放出莫密尔姆之前完成<i>玛夫·玛拉尔的半岛</i>。"
 
-# Translated by openrouter with model stepfun/step-3.5-flash:free.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
-#, fuzzy
 msgid "Kill an enemy with Delurin during <i>Isle of the Damned</i>."
-msgstr "在<i>诅咒之岛</i>中，使用德鲁林击杀一名敌人。"
+msgstr "在<i>被诅咒者之岛</i>中，使用德鲁林击杀一名敌人。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
@@ -214,62 +210,74 @@ msgstr "在<i>诅咒之岛</i>中，使用德鲁林击杀一名敌人。"
 msgid "Town Guard"
 msgstr "皇家卫兵"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:32
+#, fuzzy
 msgid "Exterminator"
-msgstr ""
+msgstr "歼灭者"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:32
 msgid "Kill all giant spiders during <i>Isle of the Damned II</i>."
-msgstr ""
+msgstr "在<i>被诅咒者之岛 II</i>中击杀所有巨蛛。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
-#, fuzzy
-#| msgid "Complete <i>The Sceptre of Fire</i> on turn 40."
 msgid "Complete <i>The Siege of Elensefar</i> on Deadly difficulty."
-msgstr "在回合40完成<i>圣火权杖</i>。"
+msgstr "在极难难度下完成<i>围攻埃仁撒伐</i>。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
 msgid "Probably Impossible"
-msgstr ""
+msgstr "近乎不可能"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:35
+#, fuzzy
 msgid "Complete <i>The Silver City</i> without capturing any villages."
-msgstr ""
+msgstr "在不占领任何村庄的情况下完成 <i>银色之城</i>。"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:35
+#, fuzzy
 msgid "Laissez-faire"
-msgstr ""
+msgstr "自由放任"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:38
+#, fuzzy
 msgid "Counter-Sniper"
-msgstr ""
+msgstr "反狙击手"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:38
+#, fuzzy
 msgid "Defeat the Master Bowman in <i>Fort Tahn</i> without attacking him with melee weapons."
-msgstr ""
+msgstr "在 <i>塔恩堡</i> 击败首席弓箭手，且不得使用近战武器攻击他。"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:39
+#, fuzzy
 msgid "Conservationist"
-msgstr ""
+msgstr "保育者"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:39
 msgid "Defeat the Mother Gryphon in <i>Gryphon Mountain</i> without killing any other gryphons."
-msgstr ""
+msgstr "在<i>狮鹫山</i>击败狮鹫之母，且不击杀任何其他狮鹫。"
 
+# Translated by openai with model glm4.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:40
+#, fuzzy
 msgid "Complete part 1 of <i>Valley of Death</i> AFTER completing part 2."
-msgstr ""
+msgstr "在完成第二部分之后，完成《死亡之谷》的第一部分。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:40
@@ -1213,10 +1221,8 @@ msgid ""
 msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1181
-#, fuzzy
-#| msgid "You can now recruit Thieves!"
 msgid "Konrad can now recruit Poachers!"
-msgstr "你现在可以征募盗贼了！"
+msgstr "科纳德现在可以征募偷猎者了！"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1188
@@ -1333,7 +1339,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1427
 msgid "You have gained 25 gold!"
-msgstr ""
+msgstr "你获得了25枚金币！"
 
 #. [event]
 #. [side]
@@ -1611,10 +1617,8 @@ msgstr ""
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:258
-#, fuzzy
-#| msgid "You can now recruit magi!"
 msgid "Konrad can now recruit Ruffians!"
-msgstr "你现在可以征募法师了！"
+msgstr "科纳德现在可以征募无赖了！"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:265
@@ -2097,10 +2101,8 @@ msgid ""
 msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1147
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Konrad can now recruit Spearmen and Fencers!"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "科纳德现在可以征募矛兵和剑客了！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1153
@@ -2110,10 +2112,8 @@ msgid ""
 msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1155
-#, fuzzy
-#| msgid "You can now recruit Thieves!"
 msgid "Konrad can now recruit Fencers!"
-msgstr "你现在可以征募盗贼了！"
+msgstr "科纳德现在可以征募剑客了！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1161
@@ -5549,10 +5549,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:304
-#, fuzzy
-#| msgid "Delfador"
 msgid "Meet Delfador"
-msgstr "德法多"
+msgstr "遇见德法多"
 
 #. [message]: speaker=Konrad
 #. the player has moved Konrad to his bed
@@ -5657,7 +5655,7 @@ msgstr "韦诺军队"
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:775
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:137
 msgid "Aethenwood Elves"
-msgstr ""
+msgstr "艾森丛林精灵"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1096
@@ -5709,10 +5707,8 @@ msgstr "别回头看！我们必须尽快离开！"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1138
-#, fuzzy
-#| msgid "Move Konrad to the north side of the river"
 msgid "Move Konrad and Delfador to the west edge of the map"
-msgstr "移动科纳德至河北面"
+msgstr "移动科纳德和德法多至地图的西端"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1172
@@ -5832,10 +5828,8 @@ msgstr ""
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1416
-#, fuzzy
-#| msgid "Of course you are right, Delfador. But what will become of the elves here?"
 msgid "Of course you are right, Delfador. But what will become of our friends here?"
-msgstr "您的看法当然是正确的，德法多。但这里的精灵们会怎么样？"
+msgstr "您的看法当然是正确的，德法多。但我们这里的朋友们会怎么样？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1420
@@ -11532,17 +11526,13 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:188
-#, fuzzy
-#| msgid "Death of Delfador"
 msgid "Death of Deoran"
-msgstr "德法多死亡"
+msgstr "德欧兰死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:192
-#, fuzzy
-#| msgid "Death of Kalenz"
 msgid "Death of Kalenz or Chantal"
-msgstr "卡雷兹死亡"
+msgstr "卡雷兹或香黛尔死亡"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:200
@@ -11655,10 +11645,8 @@ msgstr ""
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:8
-#, fuzzy
-#| msgid "The Dwarven Doors"
 msgid "scenario name^The Dwarven Doors"
-msgstr "矮人之门"
+msgstr "scenario name^矮人之门"
 
 #. [message]: role=angry_orc
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:200
@@ -14646,10 +14634,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:253
-#, fuzzy
-#| msgid "Urag-Tifer"
 msgid "Defeat Urag-Tifer"
-msgstr "乌拉戈-提法"
+msgstr "击败乌拉戈-提法"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:281
@@ -16350,10 +16336,8 @@ msgstr ""
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:10
-#, fuzzy
-#| msgid "scenario name^Blackwater Port"
 msgid "scenario name^Dan’Tonk"
-msgstr "黑水港"
+msgstr "scenario name^丹·冬克"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:265
@@ -19055,7 +19039,7 @@ msgstr ""
 #. [menu]: id=menu-main
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:34
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:112
 msgid "Autumn, Year 517"
@@ -19251,7 +19235,7 @@ msgstr ""
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:445
 msgid "Zero upkeep"
-msgstr ""
+msgstr "零维护费"
 
 #. [unit]: id=Kaylan, type=Grand Knight
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:484
@@ -19261,7 +19245,7 @@ msgstr "凯兰爵士"
 #. [unit]: id=Maddock, type=Lord of Elensefar
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:497
 msgid "Lord Maddock"
-msgstr ""
+msgstr "马多克领主"
 
 #. [unit]: id=Reglok, type=Rogue
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:510
@@ -19271,7 +19255,7 @@ msgstr "瑞格罗克"
 #. [unit]: id=Ethiliel, type=Elvish Shyde
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:520
 msgid "Ethiliel"
-msgstr ""
+msgstr "艾茜莉尔"
 
 #. [unit]: id=Galdrad, type=Elvish Champion
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:533
@@ -19412,10 +19396,8 @@ msgid "Bury me back home in the Dulatus..."
 msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:784
-#, fuzzy
-#| msgid "At least I die an honorable death."
 msgid "At least I die an honorable death..."
-msgstr "至少我是光荣战死的。"
+msgstr "至少我是光荣战死的……"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:786
 msgid "Gah! At least I die a death worthy of the Horse Lords of old..."
@@ -19472,10 +19454,8 @@ msgstr "我不相信居然会这样结束！"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:869
-#, fuzzy
-#| msgid "At least I die an honorable death."
 msgid "At least I die alongside my princess..."
-msgstr "至少我是光荣战死的。"
+msgstr "至少我是死在公主身边的……"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:885
@@ -19484,24 +19464,18 @@ msgstr "科纳德死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:893
-#, fuzzy
-#| msgid "Death of Delfador"
 msgid "Death of Konrad or Delfador"
-msgstr "德法多死亡"
+msgstr "科纳德或德法多死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:901
-#, fuzzy
-#| msgid "Death of Li’sar"
 msgid "Death of Konrad or Li’sar"
-msgstr "莉莎死亡"
+msgstr "科纳德或莉莎死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:909
-#, fuzzy
-#| msgid "Death of Delfador"
 msgid "Death of Konrad, Delfador, or Li’sar"
-msgstr "德法多死亡"
+msgstr "科纳德、德法多或莉莎死亡"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:922
