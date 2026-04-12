@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 18:10-0500\n"
-"PO-Revision-Date: 2026-03-24 20:54+0800\n"
+"PO-Revision-Date: 2026-04-12 09:26+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2318,19 +2318,15 @@ msgstr "显示后一条每日提示"
 
 #. [button]: id=toggle_tip_panel
 #: data/gui/themes/celes/dialogs/title_screen.cfg:215
-#, fuzzy
-#| msgid "Next Tip of the Day"
 msgid "Tip of the Day"
-msgstr "下一条每日提示"
+msgstr "每日提示"
 
 #. [button]: id=toggle_tip_panel
 #. [toggle_button]: id=show_tips
 #: data/gui/themes/celes/dialogs/title_screen.cfg:216
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:223
-#, fuzzy
-#| msgid "Show next tip of the day"
 msgid "Show tip of the day"
-msgstr "显示后一条每日提示"
+msgstr "显示每日提示"
 
 #. [button]: id=about
 #: data/gui/themes/celes/dialogs/title_screen.cfg:229
@@ -2490,10 +2486,8 @@ msgstr "帮助"
 
 #. [grid]
 #: data/gui/themes/celes/dialogs/title_screen.cfg:297
-#, fuzzy
-#| msgid "Change the in-game theme"
 msgid "Visit the in-game help"
-msgstr "改变游戏中的主题"
+msgstr "访问游戏中的帮助"
 
 #. [grid]
 #. [button]: id=cancel
@@ -3700,7 +3694,7 @@ msgstr "作者："
 msgid ""
 "The author of this add-on. If forum authentication is used, this is your "
 "forum username."
-msgstr ""
+msgstr "此附加组件的作者。如果使用了论坛身份认证，这就是你的论坛用户名。"
 
 #. [grid]
 #: data/gui/themes/default/dialogs/editor_edit_pbl.cfg:207
@@ -3758,10 +3752,8 @@ msgstr ""
 
 #. [grid]
 #: data/gui/themes/default/dialogs/editor_edit_pbl.cfg:214
-#, fuzzy
-#| msgid "Secondary Authors:"
 msgid "Primary Authors:"
-msgstr "第二作者："
+msgstr "主要作者："
 
 #. [grid]
 #: data/gui/themes/default/dialogs/editor_edit_pbl.cfg:215
@@ -3824,7 +3816,7 @@ msgstr "删除"
 #. [button]: id=validate
 #: data/gui/themes/default/dialogs/editor_edit_pbl.cfg:452
 msgid "Validate"
-msgstr ""
+msgstr "验证"
 
 #. [button]: id=ok
 #. [button]: id=save
@@ -3855,7 +3847,7 @@ msgstr "* 语言："
 msgid ""
 "The POSIX locale name of the translation, such as sv (Swedish) or zh_CN "
 "(Simplified Chinese)."
-msgstr ""
+msgstr "翻译的 POSIX 区位名称，例如 sv（瑞典语）或者 zh_CN（简体中文）。"
 
 #. [grid]
 #: data/gui/themes/default/dialogs/editor_edit_pbl_translation.cfg:98
@@ -4034,24 +4026,18 @@ msgstr ""
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:246
 #: data/gui/themes/default/dialogs/mp_join_game.cfg:197
 #: data/gui/themes/default/dialogs/mp_staging.cfg:200
-#, fuzzy
-#| msgid "<b>Gender:</b>"
 msgid "Gender:"
-msgstr "<b>性别：</b>"
+msgstr "性别："
 
 #. [row]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:254
-#, fuzzy
-#| msgid "gender^Random"
 msgid "gender^Male"
-msgstr "随机"
+msgstr "gender^男"
 
 #. [row]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:255
-#, fuzzy
-#| msgid "Female"
 msgid "gender^Female"
-msgstr "女"
+msgstr "gender^女"
 
 #. [label]
 #: data/gui/themes/default/dialogs/editor_edit_unit.cfg:270
@@ -6258,7 +6244,7 @@ msgstr ""
 #. [toggle_button]: id=vsync
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:129
 msgid "VSync"
-msgstr ""
+msgstr "VSync"
 
 #. [toggle_button]: id=vsync
 #: data/gui/themes/default/dialogs/preferences/03_display.cfg:130
@@ -7626,7 +7612,7 @@ msgstr "模组"
 
 #: src/gui/dialogs/editor/edit_pbl.cpp:188
 msgid "Media"
-msgstr ""
+msgstr "媒体"
 
 #: src/gui/dialogs/editor/edit_pbl.cpp:189
 msgid "Theme"
@@ -9071,10 +9057,8 @@ msgid "Assign Local Time"
 msgstr "指定本地时间"
 
 #: src/hotkey/hotkey_command.cpp:178
-#, fuzzy
-#| msgid "Next Unit"
 msgid "New Unit Type"
-msgstr "下一单位"
+msgstr "新单位类型"
 
 #: src/hotkey/hotkey_command.cpp:180
 msgid "Time Schedule Editor"
