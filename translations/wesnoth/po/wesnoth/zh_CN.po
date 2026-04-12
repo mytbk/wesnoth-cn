@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-12-21 21:26-0600\n"
+"POT-Creation-Date: 2026-04-05 21:07-0500\n"
 "PO-Revision-Date: 2025-11-22 16:41+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
@@ -594,73 +594,73 @@ msgid "Portuguese (Brazil) Translation"
 msgstr "葡萄牙文（巴西）翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1537
+#: data/core/about_i18n.cfg:1540
 msgid "Romanian Translation"
 msgstr "罗马尼亚文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1545
+#: data/core/about_i18n.cfg:1548
 msgid "Russian Translation"
 msgstr "俄文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1652
+#: data/core/about_i18n.cfg:1655
 msgid "Scottish Gaelic Translation"
 msgstr "苏格兰盖尔文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1661
+#: data/core/about_i18n.cfg:1664
 msgid "Serbian Translation"
 msgstr "塞尔维亚文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1680
+#: data/core/about_i18n.cfg:1683
 msgid "Slovak Translation"
 msgstr "斯洛伐克文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1715
+#: data/core/about_i18n.cfg:1718
 msgid "Slovenian Translation"
 msgstr "斯洛文尼亚文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1731
+#: data/core/about_i18n.cfg:1734
 msgid "Spanish Translation"
 msgstr "西班牙文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1825
+#: data/core/about_i18n.cfg:1828
 msgid "Swedish Translation"
 msgstr "瑞典文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1870
+#: data/core/about_i18n.cfg:1873
 msgid "Turkish Translation"
 msgstr "土耳其文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1895
+#: data/core/about_i18n.cfg:1898
 msgid "Ukrainian Translation"
 msgstr "乌克兰文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1929
+#: data/core/about_i18n.cfg:1932
 msgid "Valencian (southern Catalan) Translation"
 msgstr "瓦伦西亚文（南加泰罗尼亚）翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1942
+#: data/core/about_i18n.cfg:1945
 msgid "Vietnamese Translation"
 msgstr "越南文翻译"
 
 #. [about]
-#: data/core/about_i18n.cfg:1961
+#: data/core/about_i18n.cfg:1964
 msgid "Welsh Translation"
 msgstr "威尔士文翻译"
 
 #. [about]
 #. Real Acadèmia de Cultura Valenciana
-#: data/core/about_i18n.cfg:1970
+#: data/core/about_i18n.cfg:1973
 msgid "RACV’s Translation"
 msgstr "RACV的翻译"
 
@@ -7792,27 +7792,27 @@ msgstr "本回合剩余时间"
 msgid "current local time"
 msgstr "当前本地时间"
 
-#: src/play_controller.cpp:565
+#: src/play_controller.cpp:566
 msgid "Trying to create a corrupt file, please report this bug"
 msgstr "尝试创建一个损坏的文件，请报告这个错误"
 
-#: src/play_controller.cpp:1050
+#: src/play_controller.cpp:1051
 msgid ""
 "The game is out of sync. It might not make much sense to continue. Do you "
 "want to save your game?"
 msgstr "游戏失去了同步。继续游戏似乎没有多少意义了。你要保存你的游戏吗？"
 
-#: src/play_controller.cpp:1051
+#: src/play_controller.cpp:1052
 msgid "Error details:"
 msgstr "错误细节："
 
-#: src/play_controller.cpp:1230
+#: src/play_controller.cpp:1231
 msgid "Warning: broken campaign branches"
 msgstr "警告：战役分支损坏"
 
 #. TRANSLATORS: This is an error that will hopefully only be seen by UMC authors and by players who have already
 #. said "okay" to a "loading saves from an old version might not work" dialog.
-#: src/play_controller.cpp:1236
+#: src/play_controller.cpp:1237
 msgid ""
 "The next scenario is missing, you will not be able to finish this campaign."
 msgid_plural ""
@@ -7821,7 +7821,7 @@ msgid_plural ""
 msgstr[0] "下个场景缺失，你将不能完成此战役。"
 msgstr[1] "部分可能会成为下个场景的场景缺失，你也许将不能完成此战役。"
 
-#: src/play_controller.cpp:1243
+#: src/play_controller.cpp:1244
 msgid ""
 "Please report the following missing scenario to the campaign’s author:\n"
 "$unknown_list|"
@@ -7835,11 +7835,11 @@ msgstr[1] ""
 "请将以下缺失场景报告给战役作者：\n"
 "$unknown_list|"
 
-#: src/play_controller.cpp:1247
+#: src/play_controller.cpp:1248
 msgid "Once this is fixed, you will need to restart this scenario."
 msgstr "这一问题修正后，你需要重启本场景。"
 
-#: src/play_controller.cpp:1356
+#: src/play_controller.cpp:1357
 msgid "No objectives available"
 msgstr "没有可用的任务目标"
 

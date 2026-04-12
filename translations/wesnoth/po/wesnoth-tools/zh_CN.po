@@ -24,8 +24,12 @@ msgid "Open a Graphical User Interface (GUI) to WML Tools"
 msgstr "打开图形用户界面（GUI）访问WML工具"
 
 #: data/tools/GUI.pyw:81
-msgid "Launch GUI.pyw in the specified language. Language code is expected as a POSIX locale name, refer to gettext.wesnoth.org for a full list."
-msgstr "以指定的语言启动 GUI.pyw. 期望的语言代码为 POSIX 区域设置名称，请参考 gettext.wesnoth.org 获取完整列表。"
+msgid ""
+"Launch GUI.pyw in the specified language. Language code is expected as a "
+"POSIX locale name, refer to gettext.wesnoth.org for a full list."
+msgstr ""
+"以指定的语言启动 GUI.pyw. 期望的语言代码为 POSIX 区域设置名称，请参考 "
+"gettext.wesnoth.org 获取完整列表。"
 
 #: data/tools/GUI.pyw:87 data/tools/GUI.pyw:101 data/tools/GUI.pyw:1404
 #: data/tools/GUI.pyw:1453 data/tools/GUI.pyw:1496 data/tools/GUI.pyw:1525
@@ -37,7 +41,9 @@ msgstr "错误"
 #. TRANSLATORS: {0} is "translations", the directory where compiled translation files (.mo) are stored.
 #: data/tools/GUI.pyw:89
 #, python-brace-format
-msgid "‘{0}’ directory not found. Please run the GUI.pyw program packaged with the Wesnoth installation."
+msgid ""
+"‘{0}’ directory not found. Please run the GUI.pyw program packaged with the "
+"Wesnoth installation."
 msgstr "找不到‘{0}’目录。请运行与韦诺安装包一同打包的 GUI.pyw 程序。"
 
 #. TRANSLATORS: {0} is the language argument entered by the user.
@@ -49,9 +55,11 @@ msgstr "区域设置{0}未识别。"
 #. TRANSLATORS: {0} is the name of command being executed.
 #: data/tools/GUI.pyw:378
 #, python-brace-format
-msgid "Running: {0}\n"
+msgid ""
+"Running: {0}\n"
 "Please wait..."
-msgstr "运行中：{0}\n"
+msgstr ""
+"运行中：{0}\n"
 "请稍等…"
 
 #: data/tools/GUI.pyw:392
@@ -371,20 +379,25 @@ msgstr "运行 wmlxgettext"
 # Translated by ollama with model glm4.
 #: data/tools/GUI.pyw:1404
 #, fuzzy
-msgid "No directory selected.\n"
+msgid ""
+"No directory selected.\n"
 "\n"
 "Please select a directory or disable the \"Skip core directory\" option."
-msgstr "未选择目录。\n"
+msgstr ""
+"未选择目录。\n"
 "\n"
 "请选择一个目录或禁用“跳过核心目录”选项。"
 
 # Translated by ollama with model glm4.
 #: data/tools/GUI.pyw:1439 data/tools/GUI.pyw:1511
 #, fuzzy
-msgid "Core directory or one of its subdirectories selected in the add-on selection box.\n"
+msgid ""
+"Core directory or one of its subdirectories selected in the add-on selection "
+"box.\n"
 "\n"
 "The tool will be run only on the Wesnoth core directory."
-msgstr "核心目录或其子目录在插件选择框中被选中。\n"
+msgstr ""
+"核心目录或其子目录在插件选择框中被选中。\n"
 "\n"
 "工具只会在Wesnoth核心目录中运行。"
 
@@ -395,10 +408,12 @@ msgid "Warning"
 msgstr "警告"
 
 #: data/tools/GUI.pyw:1447 data/tools/GUI.pyw:1519
-msgid "No directory selected.\n"
+msgid ""
+"No directory selected.\n"
 "\n"
 "The tool will be run only on the Wesnoth core directory."
-msgstr "未选择目录。\n"
+msgstr ""
+"未选择目录。\n"
 "\n"
 "该工具只会在韦诺 core 目录下运行。"
 
@@ -412,18 +427,22 @@ msgid "Invalid value. Value must be an integer in the range 0-999."
 msgstr "无效值。值必须是0到999之间的整数。"
 
 #: data/tools/GUI.pyw:1554
-msgid "No directory selected.\n"
+msgid ""
+"No directory selected.\n"
 "\n"
 "The tool will be run on the Wesnoth core directory."
-msgstr "未选择目录。\n"
+msgstr ""
+"未选择目录。\n"
 "\n"
 "该工具将在韦诺 core 目录下运行。"
 
 #: data/tools/GUI.pyw:1580
-msgid "No directory selected.\n"
+msgid ""
+"No directory selected.\n"
 "\n"
 "The tool will not be run."
-msgstr "未选择目录。\n"
+msgstr ""
+"未选择目录。\n"
 "\n"
 "该工具将不会运行。"
 
@@ -435,25 +454,31 @@ msgstr "覆盖确认"
 #. TRANSLATORS: {0} is a placeholder for a file name, and not meant to be modified.
 #: data/tools/GUI.pyw:1594
 #, python-brace-format
-msgid "File {0} already exists.\n"
+msgid ""
+"File {0} already exists.\n"
 "Do you want to overwrite it?"
-msgstr "文件 {0} 已存在。\n"
+msgstr ""
+"文件 {0} 已存在。\n"
 "您想要覆盖它吗？"
 
 #: data/tools/GUI.pyw:1599
-msgid "No output file selected.\n"
+msgid ""
+"No output file selected.\n"
 "\n"
 "The tool will not be run."
-msgstr "未选择输出文件。\n"
+msgstr ""
+"未选择输出文件。\n"
 "\n"
 "该工具将不会运行。"
 
 #: data/tools/GUI.pyw:1628
 #, python-brace-format
-msgid "There was an error while executing {0}.\n"
+msgid ""
+"There was an error while executing {0}.\n"
 "\n"
 "Error code: {1}"
-msgstr "执行 {0} 时出现错误。\n"
+msgstr ""
+"执行 {0} 时出现错误。\n"
 "\n"
 "错误代码：{1}"
 
@@ -463,13 +488,15 @@ msgstr "文本文件"
 
 #: data/tools/GUI.pyw:1647
 #, python-brace-format
-msgid "Error while writing to:\n"
+msgid ""
+"Error while writing to:\n"
 "{0}\n"
 "\n"
 "Error code: {1}\n"
 "\n"
 "{2}"
-msgstr "写入错误：\n"
+msgstr ""
+"写入错误：\n"
 "{0}\n"
 "\n"
 "错误代码：{1}\n"
@@ -483,14 +510,18 @@ msgstr "关于维护工具图形用户界面"
 #. TRANSLATORS: {0} is a placeholder for Wesnoth's current version, and not meant to be modified.
 #: data/tools/GUI.pyw:1666
 #, python-brace-format
-msgid "© Elvish_Hunter, 2014-2016\n"
+msgid ""
+"© Elvish_Hunter, 2014-2016\n"
 "\n"
 "Version: {0}\n"
 "\n"
-"Part of The Battle for Wesnoth project and released under the GNU GPL v2 license\n"
+"Part of The Battle for Wesnoth project and released under the GNU GPL v2 "
+"license\n"
 "\n"
-"Icons are taken from the Tango Desktop Project (http://tango.freedesktop.org), and are released in the Public Domain."
-msgstr "© Elvish_Hunter, 2014-2016\n"
+"Icons are taken from the Tango Desktop Project (http://"
+"tango.freedesktop.org), and are released in the Public Domain."
+msgstr ""
+"© Elvish_Hunter, 2014-2016\n"
 "\n"
 "版本：{0}\n"
 "\n"
@@ -510,4 +541,3 @@ msgstr "你真的要退出吗？"
 #: data/tools/GUI.pyw:1973
 msgid "This application must be placed into the wesnoth/data/tools directory."
 msgstr "此应用必须放置在 wesnoth/data/tools 目录中。"
-
