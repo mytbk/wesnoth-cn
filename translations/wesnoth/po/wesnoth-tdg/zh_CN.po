@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:11 UTC\n"
-"PO-Revision-Date: 2026-04-12 14:48+0800\n"
+"PO-Revision-Date: 2026-04-13 00:05+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -430,17 +430,13 @@ msgstr "虹吸"
 msgid "Ranged 8x4 arcane, <i><ref dst='weaponspecial_magical'>magical</ref></i> and <i><ref dst='weaponspecial_drains'>drains</ref></i>."
 msgstr "远程8x4，拥有<i><ref dst='weaponspecial_magical'>魔法</ref></i>与<i><ref dst='weaponspecial_drains'>吸取</ref></i>特性。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:123
-#, fuzzy
 msgid "Blizzard"
 msgstr "暴风雪"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:125
-#, fuzzy
 msgid "Spend <span color='#00bbe6' style='italic'>16 XP</span> and <span color='#c06a61' style='italic'>your attack</span> to <i><ref dst='weaponspecial_slows'>slow</ref></i> enemy units and freeze terrain in a 3-hex radius."
-msgstr "消耗 <span color='#00bbe6' style='italic'>16点经验值</span> 和 <span color='#c06a61' style='italic'>一次攻击</span>，以 <i><ref dst='weaponspecial_slows'>迟滞</ref></i> 敌军单位，并冻结半径为3格内的地形。"
+msgstr "消耗<span color='#00bbe6' style='italic'>16点经验值</span>和<span color='#c06a61' style='italic'>你的攻击次数</span>，以<i><ref dst='weaponspecial_slows'>减速</ref></i>敌方单位，并冻结半径为3六角格内的地形。"
 
 # Translated by openai with model gemma-4-26b-a4b.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:133
@@ -654,11 +650,9 @@ msgstr "奥渡因岛"
 msgid "Summoned Monsters"
 msgstr "被召唤的怪物"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]
 #. an informational plaque on a statue of a female arch-mage
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:72
-#, fuzzy
 msgid "<i>In honor of master Heryera, who gave her life in defense of Elensefar against the lich Ras-Tabahn.</i>"
 msgstr "<i>谨以此纪念赫耶拉大师，她为保卫埃仁撒伐，对抗巫妖拉斯-塔班，献出了自己的生命。</i>"
 
@@ -713,9 +707,8 @@ msgstr "嘿，我哪知道那个半路山洞设了结界啊！我不过是朝空
 #. there's a blue orb at the east edge of the map, which will dispel the fire
 #. guardians that will soon appear to chase Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:198
-#, fuzzy
 msgid "Just hurry and get to the dispel orb!"
-msgstr "快点去驱散法球！"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:206
@@ -738,11 +731,9 @@ msgstr "学徒死亡"
 msgid "Out of all the masters in Alduin, why did the sages curse me with the most reckless apprentice in all Wesnoth?"
 msgstr "在奥渡因的所有法师中，为何贤者们偏要给我安排一个全韦诺最鲁莽的学徒？"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Methor
 #. this line is spoken as soon as the fire guardians enter the map
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:246
-#, fuzzy
 msgid "The wraiths are catching up! Keep moving!"
 msgstr "幽魂正在追上来！继续前进！"
 
@@ -1296,7 +1287,7 @@ msgstr "维德鲁格"
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:341
 msgid "At last, here we stand on the eve of battle! Remember the plan: General Lionel, soften up the orcish warriors while my knights look for an opening; Methor, command the camp in my absence — those goblin raiders are still being a nuisance."
-msgstr "终于，我们站在了战斗的前夜！记住计划：莱昂内尔将军，由你负责消耗掉那些兽人战士，与此同时，我的骑士们会寻找突破口；梅瑟，我不在时由你统领营地——那些地精骑兵还在肆意骚扰，绝不能掉以轻心。"
+msgstr "终于，我们站在了战斗的前夜！记住计划：莱昂内尔将军，由你负责消耗掉那些兽人战士，与此同时，我的骑士们会寻找突破口；梅瑟，我不在时由你统领营地——那些地精骑手还在肆意骚扰，绝不能掉以轻心。"
 
 # Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=Lionel
@@ -1365,12 +1356,10 @@ msgstr "梅瑟现已成为王室军队的一名士兵，并可以使用韦诺全
 msgid "<i>If movement and combat are taking too long, you can enable “accelerated speed” and “skip AI moves” in the Preferences menu.</i>"
 msgstr "如果移动与战斗耗时过长，你可以在首选项菜单中开启“加速”与“略过AI移动”。"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:466
-#, fuzzy
 msgid "We have some gold in camp, apprentice, and I am still in our keep and ready to recruit. Remember to call for reinforcements if you need them."
-msgstr "学徒，营地里还有一些金币，我仍在要塞中待命，可以随时招募部队。记住，如果需要增援，务必开口请求。"
+msgstr "学徒，营地里还有一些金币，我仍在城堡主楼中待命，可以随时征募部队。记住，如果需要，请务必请求增援。"
 
 #. [message]: speaker=Garard
 #. Garard's forces have just killed an orc
@@ -1378,14 +1367,12 @@ msgstr "学徒，营地里还有一些金币，我仍在要塞中待命，可以
 msgid "They fall before us!"
 msgstr "它们在我们面前倒下了！"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=Methor
 #. the player is attacking orcs instead of working towards the main scenario
 #. objective. This unlocks an alternate objective
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:498
-#, fuzzy
 msgid "Apprentice, what are you doing! The king commanded us to engage the goblin raiders, not the main orcish army!"
-msgstr "学徒，你在干什么！国王命令我们去拦截哥布林劫掠者，而不是去和兽人主力军交战！"
+msgstr "学徒，你在干什么！国王命令我们去拦截地精骑手者，而不是去和兽人主力军交战！"
 
 # Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=Delfador
@@ -1451,12 +1438,10 @@ msgstr "不——！救命啊……"
 msgid "Bah, useless runts! This is hopeless. Whitefangs, retreat!"
 msgstr "呸！一群没用的矮子！没救了。白牙氏族，撤退！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:617
-#, fuzzy
 msgid "Oh, what’s this? Seems one of our young magi knows how to seize the initiative."
-msgstr "哦，这是何物？看来我方某位年轻的法师竟懂得如何先发制人。"
+msgstr "哦，这是什么？看来我方某位年轻的法师竟懂得如何先发制人。"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
@@ -1639,10 +1624,8 @@ msgstr "但我绝不会让他失望。我的任务是前往林塔尼尔森林，
 msgid "The elvish border should be some distance northeast of here, through this cluster of trees. The undergrowth is so thick... Perhaps this is an opportunity to practice my new fire spell."
 msgstr "精灵的边境应位于此地东北方，穿过这片树林。灌木丛如此茂密……或许，这正是我施展新火焰法术的良机。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:157
-#, fuzzy
 msgid "Eldebetam"
 msgstr "埃尔达贝塔姆"
 
@@ -1663,21 +1646,16 @@ msgstr "什么？！这棵树竟会说话！"
 msgid "I’ve heard tell of tree-folk... you must be a wose! Err, I’m terribly sorry for the fireball. I couldn’t tell you apart from an ordinary oak."
 msgstr "我曾听闻过关于树族人的传说……你必是位树人！呃，真抱歉我刚才扔了火球。若非你与寻常橡树无异，我实在难以辨认。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:186
-#, fuzzy
 msgid "Burarum! Boom-toom-hun-rum-tum-ala-lola-ala?"
-msgstr "伯拉鲁姆！布姆-图姆-洪-鲁姆-图姆-阿啦-拉啦-阿啦？"
+msgstr "伯拉鲁姆！布姆-图姆-洪-鲁姆-图姆-阿啦-啰啦-阿啦？"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:190
-#, fuzzy
 msgid "A-rumgur-gurmum-un-rumba-ala-burarum! Burarum-ala-bortum-untum! A-rumgur-gurmum-un-rumba-ala-boruroom! BURARUM!!"
-msgstr "阿-鲁姆古尔-古尔穆姆-恩-伦巴-阿-拉布兰！拉布兰-阿-博尔图姆-昂图姆！阿-鲁姆古尔-古尔穆姆-恩-伦巴-阿-博罗罗姆！布拉鲁姆！！"
+msgstr "阿-鲁姆古尔-古尔穆姆-恩-伦巴-阿拉-布拉鲁姆！布拉鲁姆-阿拉-博尔图姆-昂图姆！阿-鲁姆古尔-古尔穆姆-恩-伦巴-阿拉-博鲁鲁姆！布拉鲁姆！！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:194
 #, fuzzy
@@ -1709,25 +1687,21 @@ msgstr "击败敌方首领"
 msgid "Death of Delfador"
 msgstr "德法多死亡"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:241
-#, fuzzy
 msgid ""
 "Woses have the <i>ambush</i> ability, making them invisible while in forest. Any unit can temporarily reveal a wose by moving adjacent to it, but the revealer will not be able to move afterwards — even if you have the <i>skirmisher</i> ability. Ambushers will go back into hiding the moment you move away (even if the ambusher hasn’t moved).\n"
 "\n"
 "Woses also have the powerful <i>regeneration</i> ability, and have high resistance to several types of damage. <i><b>Make sure you recruit units with effective damage types!</b></i> To see more details, right-click on a wose and select <i>“Unit Type Description”.</i>"
 msgstr ""
-"树人拥有<em>伏击</em>能力，使其在森林中隐身。任何单位移动至树人相邻位置即可暂时将其显形，但执行此操作的单位将无法再移动——即使你拥有<em>游击</em>能力亦然。伏击者会在你移开其位置的瞬间（即便伏击者本人未移动）重新隐入林中。\n"
+"树人拥有<i>伏击</i>能力，使其在森林中隐身。任何单位移动至树人相邻位置即可暂时将其显形，但执行此操作的单位将无法再移动——即使你拥有<i>散兵</i>能力。伏击者会在你移走的瞬间（即便伏击者本身未移动）重新隐身。\n"
 "\n"
-"此外，树人还拥有强大的<em>再生</em>能力，并对多种伤害类型具有极高抗性。<i><b>请务必征召具备有效伤害类型的单位！</b></i>如需了解更多详情，请点击树人右键并选择<em>“单位类型说明”</em>。"
+"此外，树人还拥有强大的<i>再生</i>能力，并对多种伤害类型具有极高的抗性。<i><b>请务必征募具备有效伤害类型的单位！</b></i>如需了解更多详情，请在一个树人上面右键点击并选择<i>“单位类型描述”。</i>"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:255
-#, fuzzy
 msgid "Where are those woses hiding? If I’m worried about my valuable veterans getting ambushed, I could use new recruits as expendable pickets."
-msgstr "那些树人究竟藏身何处？若我真担心珍贵的老兵遭伏，倒不如派些新丁充当可牺牲的前哨。"
+msgstr "那些树人究竟藏在哪里？如果我真的担心珍贵的老兵遭到伏击，倒不如派些新兵充当可牺牲的前哨。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:295
@@ -2475,12 +2449,10 @@ msgstr "但此宿命并非唯一的道路。奥渡因的法师，你正伫立于
 msgid "When that moment comes, remember... endeavor to bestow not destruction with that fire that you possess, but the gleaming light of truth instead. Quench the flames of fear before all your world is consumed."
 msgstr "当那一刻来临时，切记……莫要用你手中那圣火权杖燃起的烈焰去招致毁灭，而应施以真理那光辉之光。在恐惧的烈焰吞噬世间万物之前，务必将其浇熄。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1896
-#, fuzzy
 msgid "But, what? I don’t understa—"
-msgstr "但是……什么？我还不明——"
+msgstr "但是，什么？！我还不明——"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
