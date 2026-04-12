@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:11 UTC\n"
-"PO-Revision-Date: 2026-04-12 12:33+0800\n"
+"PO-Revision-Date: 2026-04-12 14:48+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -141,7 +141,7 @@ msgstr "在<i>毕业</i>中摧毁火焰元素体。"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
 msgid "Scenario 0: Sandbagger"
-msgstr "场景0：扮猪吃虎"
+msgstr "场景0：深藏不露"
 
 # Translated by openrouter with model minimax/minimax-m2:free.
 #. [achievement_group]
@@ -390,24 +390,17 @@ msgstr "浮空术"
 msgid "Spend <span color='#00bbe6' style='italic'>8 XP</span> to gain <i>flight</i> and the <i><ref dst='ability_skirmisher'>skirmisher</ref></i> ability until the start of your next turn or until cancelled."
 msgstr "花费<span color='#00bbe6' style='italic'>8经验值</span>以获得<i>飞行</i>和<i><ref dst='ability_skirmisher'>散兵</ref></i>能力，直到你的下一个回合开始或直到被取消。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:82
-#, fuzzy
 msgid "Find Familiar"
-msgstr ""
-"\n"
-"\n"
-"寻灵伴侣"
+msgstr "寻获魔宠"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:84
-#, fuzzy
 msgid ""
 "Begin each scenario with your trusty pet raven.\n"
 "               Your familiar’s level and XP persist across scenarios, but reset if it dies."
 msgstr ""
-"在每个场景开始时，带上你忠实的宠物渡鸦。\n"
-"你的灵兽的等级和经验值在各个场景中会持续累积，但如果它死亡，则会重置。"
+"带着你忠诚的宠物渡鸦开始每个场景。  \n"
+"               你的使魔的等级与经验值会在各个场景中持续累积，但如果它死亡，则重置归零。"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:91
 msgid "Mnemonic"
@@ -4783,33 +4776,25 @@ msgstr "什……怎么回事！？"
 msgid "The undead have gone! Thank the gods! It’s finally over."
 msgstr "亡灵已经退散了！多谢诸神！这场劫难终于结束了。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1220
-#, fuzzy
 msgid "I’m alive... I can’t believe it..."
 msgstr "我还活着……这简直不可思议……"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1221
-#, fuzzy
 msgid "female^I’m alive... I can’t believe it..."
-msgstr "女性^我还活着……真不敢相信……"
+msgstr "female^我还活着……这简直不可思议……"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1225
-#, fuzzy
 msgid "I think we won! ...but how?"
-msgstr "我想我们赢了！……但这怎么可能？"
+msgstr "我想我们赢了！……但怎么做到的？"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:1226
-#, fuzzy
 msgid "female^I think we won! ...but how?"
-msgstr "女性^我想我们赢了！……可究竟是如何做到的？"
+msgstr "female^我想我们赢了！……但怎么做到的？"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]
@@ -4851,10 +4836,8 @@ msgstr "起身迎战吧，龙蜥！你与你的蜥蜴人给韦诺带来的灾祸
 msgid "...I suppose we’ll have to do this the hard way."
 msgstr "...我想，我们只得出此下策，以非常规手段破局了。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:138 data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:329
-#, fuzzy
 msgid "Find Omaranth"
 msgstr "寻获奥玛兰斯"
 
@@ -4935,12 +4918,10 @@ msgstr "以太"
 msgid "You’re the spirit of a human? How did you come to roam these drakish halls, so far from the lands of men?"
 msgstr "你竟是人类的灵魄？竟是如何流落至此阴森殿堂，远离了人类的故土？"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Aethyr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:315
-#, fuzzy
 msgid "Iliah-Malal brought me here. He made me promises of life renewed, but instead bound me to his will. Perhaps Iliah-Malal will know of your drake."
-msgstr "伊利阿 - 玛拉尔带我来到此处。他曾许诺赋予我新生，却最终将我束缚于他的意志之下。或许……伊利阿 - 玛拉尔知晓你的幼龙。"
+msgstr "伊利阿-玛拉尔带我来到此处。他曾许诺赋予我新生，却最终将我束缚于他的意志之下。或许伊利阿-玛拉尔知晓你的龙人。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:319
@@ -4955,23 +4936,18 @@ msgstr "找到伊利阿-玛拉尔"
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:340
-#, fuzzy
 msgid "Delfador can capture hostile ghosts by moving adjacent to them, unless he is polymorphed."
-msgstr "德法多可以靠近 hostile ghosts 并捕获它们，除非他被变形了。"
+msgstr ""
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:343 data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:764 data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1105
-#, fuzzy
 msgid "Allied ghosts will not follow you to the next scenario."
-msgstr "结盟的亡灵不会随你进入下一场战役。"
+msgstr "结盟的鬼魂不会随你进入下一个场景。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:378
-#, fuzzy
 msgid "Ghost Captured"
-msgstr "幽灵已捕获"
+msgstr "鬼魂已捕获"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:398
@@ -5076,24 +5052,20 @@ msgstr "大酋长唤我征战……我知此袭凶险万分，然亦甘愿赴之
 msgid "If you’re a recently-dead orc, does that mean you fell in battle against Wesnoth? What can you tell me about your allies’ battle plans? Troop movements?"
 msgstr "若你是一名刚刚逝去的兽人，这是否意味着你在与韦诺王国的征战中阵亡？你能告诉我盟友们的作战计划吗？部队的部署动向如何？"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=HaghaTan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:534
-#, fuzzy
 msgid "You are no lord of mine, man of Wesnoth. I serve only my clan."
-msgstr "你并非我的领主，韦诺之人。我仅效忠于我的氏族。"
+msgstr "你不是我的领主，韦诺人。我只效忠于我的氏族。"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:544
 msgid "Melinna"
 msgstr "梅林娜"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:558
-#, fuzzy
 msgid "Are you a drake? Do you know anything about Omaranth, or this necromancer Iliah-Malal?"
-msgstr "阁下可是飞龙？您是否知晓奥玛兰斯，或是那位死灵法师伊利阿 - 玛拉尔？"
+msgstr "你是龙人？你是否知道奥玛兰斯，或者这位死灵法师伊利阿-玛拉尔？"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Melinna
