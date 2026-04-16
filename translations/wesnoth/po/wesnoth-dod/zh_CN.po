@@ -1,27 +1,28 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2025-11-19 09:31 UTC\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2026-04-10 20:31+0800\n"
+"Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
 
 #. [campaign]: id=Dusk_of_Dawn
 #. [achievement_group]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:11
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:4
 msgid "Dusk of Dawn"
-msgstr ""
+msgstr "破晓之暮"
 
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:12
 msgid "DoD"
-msgstr ""
+msgstr "DoD"
 
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:18
@@ -40,7 +41,7 @@ msgstr ""
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:22
 msgid "(Novice level, 4 scenarios)"
-msgstr ""
+msgstr "（新手级别，4幕场景）"
 
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:26
