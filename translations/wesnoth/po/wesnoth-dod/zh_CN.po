@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-04-17 00:16+0800\n"
+"PO-Revision-Date: 2026-04-17 09:01+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -140,34 +140,21 @@ msgstr "剧本 1b：岩石与石心"
 msgid "Complete the <i>Secret</i> on Normal difficulty."
 msgstr "于普通难度下，完成此段<i>秘辛</i>。"
 
-# Translated by openai with model qwen3-coder-next.
 #. [achievement]: id=dod_ltb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:24
-#, fuzzy
 msgid "Scenario 2: Let Them Burn!"
-msgstr ""
-"Scenario 2: 让他们焚尽吧！  \n"
-"<i>——智者克雷拉努的旁白</i>  \n"
-"当夜幕垂落心之山脉，石壁间低语渐息；  \n"
-"金焰部落的余烬尚未冷却，  \n"
-"而新的火焰——已悄然燃起，  \n"
-"却不再映照希望……"
+msgstr "场景2：让它们燃烧！"
 
-# Translated by openai with model qwen3-coder-next.
 #. [achievement]: id=dod_ltb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:25
-#, fuzzy
 msgid "Advance a Fire Guardian into a Fire Wraith in <i>A Dream</i>."
-msgstr "于《梦境》中，将一名<b>火焰卫士</b>淬炼为<b>火焰幽魂</b>。"
+msgstr "在<i>一场梦</i>中，将一名烈火卫士升级为火焰幽魂。"
 
-# Translated by openai with model qwen3-coder-next.
 #. [achievement]: id=dod_se
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:32
-#, fuzzy
 msgid "Scenario 2: Scorched Earth"
-msgstr "场景二：焦土"
+msgstr "场景2：焦土政策"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [achievement]: id=dod_se
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:33
 #, fuzzy
@@ -258,18 +245,16 @@ msgstr ""
 "在幽暗洞穴与泥土石窟的阴影之下，还栖息着其他生灵。它们外表庞大可怖，本性却极"
 "其天真，极易受人摆布。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:32
-#, fuzzy
 msgid ""
 "These are trolls. They are often thought of as beasts, bloodthirsty "
 "monsters who only do bad things, but this is not true at all. As I have "
 "said before, they are merely naive... and perhaps sometimes a little bit "
 "too reckless."
 msgstr ""
-"这些便是巨魔。世人常视其为野兽，是嗜血的魔物，唯知行恶——然此说绝非真相。正如"
-"我曾言，他们不过是……太过天真……且有时，未免鲁莽了些。"
+"这些就是巨魔。世人常误以为它们是野兽，嗜血的怪物，只知作恶，但这绝非真相。正"
+"如旧话所说，它们生性纯真……也许有时太过鲁莽。"
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:37
@@ -343,11 +328,10 @@ msgstr "每一步迈出，他生命的火焰便更盛一分。巨魔之心，泛
 msgid "The newborn wanted to roar, but he knew no words."
 msgstr "那初生者渴望咆哮，却不知任何言语。"
 
-# Translated by openai with model glm-4.7-flash.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:244
 msgid "Turning, the newborn realized he was alone."
-msgstr ""
+msgstr "转身之际，初生者蓦然惊觉，这世间唯有孤影。"
 
 #. [message]: speaker=OL_PROLOG
 #. [message]: speaker=OL
@@ -390,12 +374,10 @@ msgstr "初生者奥格尔"
 msgid "...?"
 msgstr "……？"
 
-# Translated by openai with model glm-4.7-flash.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:339
-#, fuzzy
 msgid "New motion suddenly disturbed the underground calm."
-msgstr "猝然，新的异动打破了地底深处的幽寂。"
+msgstr "忽有异动，骤然惊破了地底深处的幽寂。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:362
