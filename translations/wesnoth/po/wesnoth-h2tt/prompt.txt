@@ -116,17 +116,14 @@
 |------|----------|------|
 | Wesnoth | 韦诺 | 沿用官方译名 |
 | Heir to the Throne | 王座继承人 | 沿用官方译名 |
-| Asheviere | 艾什薇尔 | 音译 |
-| Delfador | 德法多 | 音译 |
-| Konrad | 科纳德 | 音译 |
-| Li'sar | 莉莎 | 音译 |
-| Kalenz | 卡雷兹 | 音译 |
 | Aethenwood | 艾森丛林 | 音译+意译 |
 | false queen | 伪女王 | 固定称呼 |
 | pretender | 冒牌货 |  |
 | Your Highness | 殿下 | 标准敬语 |
 | Master Delfador | 德法多大师 | 尊称 |
-| Sir Kaylan | 凯兰爵士 | 尊称 |
+| The Horse Plains | 骏马平原 | 地名
+| Isle of Alduin | 奥渡因岛 | 地名 |
+
 
 ---
 
