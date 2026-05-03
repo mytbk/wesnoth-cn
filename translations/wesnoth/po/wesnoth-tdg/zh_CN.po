@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-04-26 22:18+0800\n"
+"PO-Revision-Date: 2026-05-03 11:59+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -163,12 +163,10 @@ msgstr "在不击杀任何地精矛兵的情况下完成<i>战争之兆</i>。"
 msgid "Scenario 1: Goblinitarian"
 msgstr "场景1：地精主义者"
 
-# Translated by openrouter with model openai/gpt-oss-20b:free.
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
-#, fuzzy
 msgid "Complete the hidden victory condition in <i>Fort Garard</i>."
-msgstr "完成隐藏的胜利条件，在<i>伽拉德堡</i>。"
+msgstr "在<i>伽拉德要塞</i>中完成隐藏的胜利条件。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
@@ -365,11 +363,9 @@ msgstr ""
 "相邻人类盟友，并提升其攻击、打击和伤害，提升量等于其等级。<span "
 "color='#dd0000' weight='bold'>下一回合，它将会死去。</span>"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:49
-#, fuzzy
 msgid "Animate Mud"
-msgstr "驱泥成灵"
+msgstr "活化粘土"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:51
 msgid ""
@@ -1156,31 +1152,27 @@ msgstr "你听见了吗？"
 msgid "Quiet!"
 msgstr "安静！"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Ozgob
 #. 'stragglers' refers to soldiers (like Delfador and Methor) who are joining Garard's war-camp, but are arriving late
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:210
-#, fuzzy
 msgid ""
 "“Kill the stragglers”, they says. “You’ll have our best warriors”, they "
 "says. N’ all I get are a bunch o’ lousy goblins? Lousy lazy lying—"
 msgstr ""
-"“杀掉那些掉队者！”他们说。“你们将拥有我们最好的战士们！”他们说。然后我得到的"
-"却是一群该死的兽人？该死的懒惰、说谎—"
+"“杀掉那些掉队者”，他们说。“你们将拥有我们最好的战士们”，他们说。然后我得到的"
+"却是一群该死的地精？该死的懒惰、谎话连篇—"
 
 #. [message]: role=gobbo1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:215
 msgid "They’re here, they’re here! Humans on the clan road!"
 msgstr "他们来了，他们来了！人类在氏族的路上！"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Ozgob
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:219
-#, fuzzy
 msgid ""
 "—then grab your spear, you loathsome lout! Don’t let them link up with the "
 "rest of their army!"
-msgstr "然后拿起你的矛，你这该死的！别让他们集合自己的军队！"
+msgstr "—然后拿起你的矛，你这该死的！别让他们集合自己剩下的军队！"
 
 #. [message]: role=gobbo1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:223
@@ -1394,30 +1386,26 @@ msgid ""
 "alive!"
 msgstr "韦诺的骑士们，进军！犯我国土之兽人，不得生还！"
 
-# Translated by openrouter with model stepfun/step-3.5-flash:free.
 #. [message]: speaker=Garard
 #. Garard came to kill the goblins, but Delfador has already done it.
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:641
-#, fuzzy
 msgid ""
 "But what’s this? It seems some magi have beaten us to battle and already "
 "slain our foe! I wasn’t making a mistake bringing Alduin into the fold after "
 "all. Who commands this detachment?"
 msgstr ""
-"但这这是怎么回事？似乎有些法师抢先一步投入战斗，已将我们的敌人歼灭了！看来我"
-"把奥渡因编入麾下终究没有做错。这支分队由谁指挥？"
+"但这是什么？似乎有些法师抢先一步投入战斗，已将我们的敌人歼灭了！看来我把奥渡"
+"因编入麾下终究没有做错。这支分队由谁指挥？"
 
-# Translated by openrouter with model stepfun/step-3.5-flash:free.
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:645
-#, fuzzy
 msgid ""
 "(bowing) My Lord, Alduin dispatched these apprentices as response to your "
 "war-call. I volunteered to lead them, and I now place my medicinal arts at "
 "your service."
 msgstr ""
-"(躬身行礼) 大人，奥渡因应您的战争召唤派来了这些学徒。我自告奋勇前来统领他们，"
-"如今愿以医术，效忠于您。"
+"（鞠躬） 大人，奥渡因应您的战争召唤派来了这些学徒。我自告奋勇前来带领他们，如"
+"今愿以医术，效忠于您。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:649
@@ -1426,18 +1414,16 @@ msgid ""
 "to camp. We attack on the morrow!"
 msgstr "治疗师？好，很快便有劳你了。随我回营地，明日进攻！"
 
-# Translated by openrouter with model stepfun/step-3.5-flash:free.
 #. [message]: speaker=Garard
 #. Delfador has failed to defeat the goblins. Garard does not respect him.
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:679
-#, fuzzy
 msgid ""
 "But what’s this? Some pencil-necked magi have beaten us to battle, yet can’t "
 "even finish off a few goblins! Bah, go back to Alduin, you scholars have no "
 "place in war after all."
 msgstr ""
-"哼！这是怎么回事？几个酸儒法师竟敢抢在本将之前出战，却连几个地精都收拾不了！"
-"回你们的奥渡因去吧，学者们终究不是战场上的料！"
+"但这是什么？几个酸儒法师竟敢抢在本将之前出战，却连几个地精都收拾不了！呸，回"
+"你们的奥渡因去吧，学者们终究不是战场上的料！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:683
@@ -1735,11 +1721,9 @@ msgstr ""
 "一名合格的战法师极其珍贵，岂容其在一线前线白白牺牲；我或许有一项特殊任务托付"
 "于你。孩子，你叫什么名字？"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #. said by Delfador to himself (or maybe just thought in his mind)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:626
-#, fuzzy
 msgid "Commendation from the king himself! This is a dream come true."
 msgstr "来自国王本人的嘉奖！此乃美梦成真。"
 
@@ -1747,25 +1731,19 @@ msgstr "来自国王本人的嘉奖！此乃美梦成真。"
 #. [message]: speaker=Delfador
 #. Delfador is realy excited to go with the king, but deeply respects Methor and doesn't want to dissapoint him
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:631
-#, fuzzy
 msgid ""
 "I’d be honored, my lord! But I can’t give you my name — I’m just an "
 "apprentice; Alduin has not yet assigned me one. And... I suppose I shouldn’t "
 "want to leave without my master’s blessing..."
 msgstr ""
-"阁下，能随行乃在下之荣幸！然而在下尚不能奉告名讳——在下 merely 是一介学徒，奥"
-"渡因尚未赐名于我。再者……在下想，若未得恩师祝福便擅自离去，恐非明智之举……阁"
-"下，能随行乃在下之荣幸！然而在下尚不能奉告名讳——在下只是一介学徒，奥渡因尚未"
-"赐名于我。再者……在下想，若未得恩师祝福便擅自离去，恐非明智之举……"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:635
-#, fuzzy
 msgid ""
 "By the traditions of our order, no apprentice shall venture alone; that "
 "privilege is first awarded only to the journeymen!"
-msgstr "依我教派之传统，学徒不得独行；此殊荣，唯授予行役者！"
+msgstr ""
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Methor
@@ -1789,32 +1767,27 @@ msgstr "索拉姆·雷斯特洛·塔加·索拉姆……"
 #. [message]: speaker=Methor
 #. referencing the "Provost of the Council of Archmagi" mentioned by Delfador in HttT
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:692
-#, fuzzy
 msgid ""
 "The light waxes bright. By the power of the high provost and the blessing of "
 "the five sages, I declare you to be nameless NO LONGER!"
-msgstr "光辉渐盛。借高督修斯之力，蒙五位贤者之福，我宣布你，从此不再无名！"
+msgstr ""
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:697
-#, fuzzy
 msgid "<i><b>DELFADOR</b></i> you shall be, and Delfador shall be YOU."
-msgstr "<i><b>德法多</b></i> 你将成其名，而德法多亦将成汝身。"
+msgstr "<i><b>德法多</b></i>你将成其名，而德法多亦将成汝身。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:705
-#, fuzzy
 msgid ""
 "Delfador, open your eyes. And OPEN THEM AGAIN!\n"
 "\n"
 "I grieve for the apprentice I have lost, but I celebrate the journeyman "
 "Wesnoth has gained. Your naming ceremony is complete."
 msgstr ""
-"德法多，睁开你的双眼。睁开——再次睁开！\n"
+"德法多，睁开你的眼睛。再睁开！\n"
 "\n"
-"我为我失去的学徒深感悲痛，但我更要为韦诺王国新获的工匠感到欢欣。你的命名仪式"
+"我为我失去的学徒深感悲痛，但我更要为韦诺王国新得的行者感到欢欣。你的授名仪式"
 "已然圆满完成。"
 
 #. [unit]
@@ -1840,17 +1813,15 @@ msgstr "德法多"
 msgid "Del-fa-dor; Delfador! Thanks master, I like the sound of that."
 msgstr "德-法-多；德法多！谢谢大师，我喜欢那个声音。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:737
-#, fuzzy
 msgid ""
 "Now farewell, Delfador, my ambitious young friend. If this is what you truly "
 "want, I would never stand in your way. May we meet again in more peaceful "
 "times."
 msgstr ""
-"就此别过吧，德法多，我那雄心勃勃的年轻友人。若这便是你真心所向，我绝不会从中"
-"作梗。愿我们在更宁静的岁月里重逢。"
+"别了，德法多，我那志存高远的年轻挚友。若此即你心之所向，我绝不做那阻挡你的"
+"人。愿我们在更和平的时光中重逢。"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
@@ -2306,7 +2277,6 @@ msgstr ""
 "但你要知晓，我必回应我王的 summons（征召）；我将踏上征途。念及在我多年驻留于"
 "此期间，你我之间所缔结的友谊，我期盼林塔尼尔亦能随之同行。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:209
 #, fuzzy
@@ -2452,10 +2422,8 @@ msgid ""
 "threatening."
 msgstr "别用比火球术更怪异的手段，德法多。我们不想显得咄咄逼人。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:393
-#, fuzzy
 msgid ""
 "Kalenz leads Delfador, Deoran, and Chantal down a labyrinthine path through "
 "the deep wood, past twists and turns and over winding tracks.\n"
@@ -2466,8 +2434,8 @@ msgstr ""
 "卡雷兹领着德法多、德欧兰和香黛尔，穿过深邃的林地中那条错综复杂的迷宫小径，蜿"
 "蜒曲折，过弯越坎。\n"
 "\n"
-"许多地方根本无路可寻，德法多感到，指引他们的更多是精灵与仙灵界那份特殊的共"
-"鸣，而非寻常的探路术。"
+"许多地方根本无路可寻，德法多感到，指引他们的更多是精灵与仙界那份特殊的共鸣，"
+"而非寻常的探路术。"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
@@ -2482,14 +2450,12 @@ msgstr ""
 "夕阳如沉落地平线下的余烬般熄灭，林间渐入晦暗。卡雷兹数次迷失途途，却总能再次"
 "寻得前路。直至深夜，一座小小的建筑从林深处浮现……"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:409
-#, fuzzy
 msgid ""
 "We have arrived. The seer’s mirror pool is just ahead; she herself should be "
 "close by."
-msgstr "我们已抵达。先知的镜池就在前方，她本人想必就在附近。"
+msgstr "我们到了。预言家的镜池就在前方，她本人想必就在附近。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:417
@@ -2522,9 +2488,8 @@ msgstr "在此场景中，你既无法获取金币，也无法消耗金币。"
 #. [message]
 #. there is a pool of water in the middle of the map. Right now the pool is mostly dry - your objective is to solve a puzzle to fill the pool with water
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:448
-#, fuzzy
 msgid "There lies the mirror pool, but it is strangely dry..."
-msgstr "那便是镜之池，却奇异般干枯……"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:453
@@ -2545,21 +2510,17 @@ msgid ""
 "challenging, you can choose to skip it."
 msgstr "这是一个谜题环节。如果你不喜谜题，或觉得过于棘手，可选择跳过。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:496
-#, fuzzy
 msgid ""
 "The puzzle is harder on high difficulties, and much easier on low "
 "difficulties."
-msgstr "谜题在高难度下更为艰涩，在低难度下则简易许多。"
+msgstr "谜题在高难度下更为困难，在低难度下则简单很多。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:498
-#, fuzzy
 msgid "Play the puzzle <i>(includes XP)</i>"
-msgstr "完成谜题 <i>（包含经验值）</i>"
+msgstr "挑战谜题<i>（包含经验值）</i>"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:501
@@ -2618,10 +2579,8 @@ msgstr ""
 "我不得不承认，能再次与同侪并肩行军，令我心向往之；然而，待战事一毕，我仍盼能"
 "重返林塔尼尔。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:561
-#, fuzzy
 msgid ""
 "Chantal, we have much to speak about. It is clear you have feelings for the "
 "ambassador. Deoran is no fool; if he does not already know, he certainly "
@@ -2682,36 +2641,29 @@ msgstr "月光石！艾莲德，你究竟在搞什么名堂……"
 #. [message]: speaker=Delfador
 #. a monster has just drowned in the river, as a result of the player redirecting the river into the beast's hex
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:601
-#, fuzzy
 msgid "Odd, the water appears shallow but the beast has vanished entirely."
-msgstr "奇哉，这河水看似浅显，那怪兽竟已踪影全无。"
+msgstr ""
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]
 #. a player unit has just drowned in the river, as a result of the player redirecting the river into the beast's hex
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:634
-#, fuzzy
 msgid ""
 "This sandbed is shallow, but the water is suddenly deep and a strange magic "
 "tugs at my legs! I am drowning!"
-msgstr "沙床虽浅，水流却骤深，一股诡异魔劲正拖拽我的双腿！我……正在溺毙！"
+msgstr ""
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:635
-#, fuzzy
 msgid ""
 "female^This sandbed is shallow, but the water is suddenly deep and a strange "
 "magic tugs at my legs! I am drowning!"
 msgstr ""
-"女：这片沙洲虽浅，水下却陡然深不见底，诡异的魔流正死死拽住我的双腿！我……要溺"
-"毙了！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]
 #. a monster has just drowned in the river, as a result of the player redirecting the river into the beast's hex
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:646
-#, fuzzy
 msgid "Gurgle gurgle gurgle..."
 msgstr "咕噜……咕噜……咕噜……"
 
@@ -2734,13 +2686,11 @@ msgstr "虚空"
 msgid "What was that?!"
 msgstr "那是什么？！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1139
-#, fuzzy
 msgid ""
 "I think this whole mirror world is starting to fall apart! I have to hurry!"
-msgstr "看来这整片镜中世界正在分崩离析！我必须争分夺秒了！"
+msgstr "看来这整片镜中世界正开始分崩离析！我必须争分夺秒了！"
 
 #. [message]
 #. the player's units have just been transported into a strange realm, and aren't sure what's going on. Kalenz probably knows more than anybody else, and is calling out to see where Elende is (and what exactly she's doing)
@@ -2748,10 +2698,8 @@ msgstr "看来这整片镜中世界正在分崩离析！我必须争分夺秒了
 msgid "Elende!"
 msgstr "艾莲德！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1284
-#, fuzzy
 msgid "Elende, I come with friends, seeking foresight! Deoran and Del—"
 msgstr "艾莲德，我携挚友而来，只为求得预知之明！德欧兰与德——"
 
@@ -2821,13 +2769,11 @@ msgid ""
 "Owww! Elende, it’s very rude to banish someone without their permission!"
 msgstr "哎哟！艾莲德，未经允许就把人强行送走，未免太无礼了！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #. Delfador has just been reduced to 0hp, and been "kicked out" of Elenede's "mirror realm" or wherever she was giving the prophecy
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1427
-#, fuzzy
 msgid "Hey, stop—"
-msgstr "等等，停下——"
+msgstr "嘿，停下——"
 
 #. [time]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1444
@@ -2839,9 +2785,8 @@ msgstr "黎明"
 #. [message]: speaker=Delfador
 #. Delfador has missed the ending of the prophecy, and the player loses the scenario
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1468
-#, fuzzy
 msgid "I didn’t get to finish hearing everything..."
-msgstr "我未能听完这预言的终章……"
+msgstr ""
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]
@@ -3076,17 +3021,12 @@ msgstr ""
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:24
-#, fuzzy
 msgid ""
 "After lengthy deliberation, and much to Chantal’s displeasure, Delfador and "
 "Deoran resolved to continue on with their mission. Exiting the forest after "
 "several days’ westward travel, they soon sighted the banners of the king’s "
 "army."
 msgstr ""
-"经过漫长而慎重的 deliberation，尽管香黛尔甚为不悦，德法多大师与大使德欧兰仍决"
-"意继续前行。在西行数日后，他们终于走出森林，随即望见了国王大军的旌旗。经过漫"
-"长而慎重的商议，尽管香黛尔甚为不悦，德法多大师与大使德欧兰仍决意继续前行。在"
-"西行数日后，他们终于走出森林，随即望见了国王大军的旌旗。"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [side]
@@ -3688,17 +3628,15 @@ msgstr ""
 "那就再派些战士过来，把这些该死的黑脊蜥蜴彻底宰了！这是<b>我们</b>的家园！我们"
 "的兵源每时都在扩充，而那些人族却在时刻衰亡！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:597
-#, fuzzy
 msgid ""
 "Useless lizards! Can’t even keep themselves alive, much less win a war. Send "
 "in more orcs! This is <b>our</b> homeland; our ranks swell by the hour, "
 "while these humans dwindle every moment."
 msgstr ""
-"没用的蜥蜴人！连自己的命都保不住，更别提打赢这场战争了。继续派兽人！这可是<b>"
-"我们</b>的家园；我们的兵力每小时都在壮大，而这些人类却在每一刻不断消亡。"
+"没用的蜥蜴！连自己的命都保不住，更别提打赢这场战争了。继续派兽人！这可是<b>我"
+"们</b>的家园；我们的兵力每小时都在壮大，而这些人类每一刻都在不断消亡。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:610
@@ -3742,12 +3680,10 @@ msgstr ""
 "简直是彻头彻尾的疯狂！兽人各部族本是绝不可轻易撼动的马蜂窝。打劫与突袭，我们"
 "尚且能够应对，但全面战争……那完全是另一码事。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:661
-#, fuzzy
 msgid "Quiet, both of you! If I wanted your advice I would have asked for it!"
-msgstr "都给我闭嘴！若我需要你们的建议，我自会开口相求！"
+msgstr "你们两个，都给我闭嘴！若我需要你们的建议，我自会开口相求！"
 
 #. [message]: speaker=Ushka'e
 #. the player has just attacked the whitefang chief. He then flees
@@ -3837,19 +3773,16 @@ msgstr "别现在，女人！我正要去迎战！"
 msgid "I’m not dying! Just... need a moment..."
 msgstr "我才不会死！只是……需要片刻……"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Mukhu
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:779
-#, fuzzy
 msgid "Nooo! Help meeee!"
 msgstr "不——！救救我——！"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Xairr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:786
-#, fuzzy
 msgid "Ssssuch ssssskill!"
-msgstr "好……好……好精湛的技艺！"
+msgstr "好精湛的技艺嘶嘶！"
 
 #. [message]: speaker=Ssisaix
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:793
