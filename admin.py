@@ -69,7 +69,7 @@ def merge(textdomain):
         print('Warning: skipped textdomain %s, no template file.' % textdomain)
     else:
         print('Merging ' + textdomain + '...')
-        cmd = ['msgmerge', '--quiet', '--no-location', '--update', po, pot]
+        cmd = ['msgmerge', '--quiet', '--update', po, pot]
         sys.stdout.flush()
         subprocess.call(cmd)
 
