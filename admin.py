@@ -14,9 +14,10 @@ import shutil
 import subprocess
 
 TEXTDOMAINS = [
-    'wesnoth', 'anl', 'did', 'dm', 'dw', 'editor', 'ei', 'help', 'httt',
-    'l', 'lib', 'low', 'manpages', 'manual', 'multiplayer', 'nr', 'sof', 'sota',
-    'sotbe', 'tb', 'thot', 'trow', 'tsg', 'tutorial', 'units', 'utbs', 'wc'
+    'wesnoth', 'anl', 'did', 'dw', 'editor', 'ei', 'help', 'httt',
+    'l', 'lib', 'low', 'manpages', 'manual', 'multiplayer', 'nr', 'sof',
+    'sota', 'sotbe', 'tb', 'thot', 'tools', 'trow', 'tsg', 'tutorial',
+    'units', 'utbs', 'wc', 'wof'
 ]
 
 ROOTS = {'in': 'translations', 'out': 'target', 'dist': 'target/dist', 'official': '../wesnoth'}
@@ -68,7 +69,7 @@ def merge(textdomain):
         print('Warning: skipped textdomain %s, no template file.' % textdomain)
     else:
         print('Merging ' + textdomain + '...')
-        cmd = ['msgmerge', '--quiet', '--no-location', '--update', po, pot]
+        cmd = ['msgmerge', '--quiet', '--update', po, pot]
         sys.stdout.flush()
         subprocess.call(cmd)
 
