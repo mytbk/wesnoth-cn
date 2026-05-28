@@ -14,10 +14,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.18\n"
+"Project-Id-Version: wesnoth-1.20\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-22 16:44+0800\n"
+"PO-Revision-Date: 2026-05-28 20:47+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -6839,20 +6839,14 @@ msgstr "分心"
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-abilities.cfg:7
 msgid ""
 "Allies adjacent to this unit are not affected by enemy Zones of Control."
-msgstr ""
+msgstr "与该单位相邻的友军单位不受敌方控制区域的影响。"
 
 #. [skirmisher]: id=distract
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-abilities.cfg:8
-#, fuzzy
-#| msgid ""
-#| "This unit is capable of distracting opponents, allowing allied units to "
-#| "trespass their Zones of Control and move unhindered around them."
 msgid ""
 "This unit is capable of distracting opponents, allowing adjacent allies to "
 "ignore enemy Zones of Control."
-msgstr ""
-"该单位拥有转移对手注意力的能力，可以让友军进入敌人的控制区域并不受阻碍地在对"
-"手周围移动。"
+msgstr "该单位拥有转移对手注意力的能力，可以让相邻的友军忽视敌方的控制区域。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-deaths.cfg:12
