@@ -3,30 +3,30 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-05-01 15:15+0800\n"
+"POT-Creation-Date: 2026-05-19 02:15 UTC\n"
+"PO-Revision-Date: 2026-05-29 23:20+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.9\n"
 
 #. [campaign]: id=Dusk_of_Dawn
 #. [achievement_group]
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:11
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:12
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:4
 msgid "Dusk of Dawn"
 msgstr "破晓之暮"
 
 #. [campaign]: id=Dusk_of_Dawn
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:12
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:13
 msgid "DoD"
 msgstr "DoD"
 
 #. [campaign]: id=Dusk_of_Dawn
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:18
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:19
 msgid ""
 "Deep underneath the Heart Mountains, a new tribe of trolls awakens. Help "
 "them grow and eventually fulfill Ougl Firstborn’s biggest dream."
@@ -35,26 +35,26 @@ msgstr ""
 "者奥格尔最大的梦想。"
 
 #. [campaign]: id=Dusk_of_Dawn
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:20
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:21
 msgid ""
 "This is an excerpt from the Book of Crelanu, as transcribed by the Weldyn "
 "Royal Scholars Society."
 msgstr "此段摘自《克雷拉努法书》，由维尔帝王家学会抄录。"
 
 #. [campaign]: id=Dusk_of_Dawn
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:22
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:23
 msgid "(Novice level, 4 scenarios)"
 msgstr "（新手级别，4幕场景）"
 
 #. [campaign]: id=Dusk_of_Dawn
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:26
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:27
 msgid "Easy"
 msgstr "简单"
 
 #. [campaign]: id=Dusk_of_Dawn
 #. [unit]: type=Fire Wraith, id=SK
 #. [unit]: type=Fire Wraith, id=IF
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:26
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:27
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:56
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:410
 msgid "Spark"
@@ -62,53 +62,53 @@ msgstr "火花"
 
 #. [campaign]: id=Dusk_of_Dawn
 #. [modify_unit]: id=FE
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:27
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:28
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1418
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1147
 msgid "Flame"
 msgstr "火焰"
 
 #. [campaign]: id=Dusk_of_Dawn
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:27
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:28
 msgid "Normal"
 msgstr "普通"
 
 #. [about]
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:30
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:31
 msgid "Author"
 msgstr "作者"
 
 #. [about]
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:36
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:37
 msgid "Prose and Story Editing, Code Preparation"
 msgstr "散文与故事编辑，代码准备工作"
 
 # Translated by openai with model glm-4.7-flash.
 #. [about]
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:42
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:43
 #, fuzzy
 msgid "Art - Sprites"
 msgstr "美术 - 素材"
 
 # Translated by openai with model glm-4.7-flash.
 #. [about]
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:49
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:50
 #, fuzzy
 msgid "Wild and Beast Saurian Sprites"
 msgstr "野生蜥蜴人与兽蜥蜴人插图"
 
 #. [about]
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:55
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:56
 msgid "Text Proofreading"
 msgstr "文本校对"
 
 #. [about]
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:61
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:62
 msgid "WML Assistance"
 msgstr "WML 辅助"
 
 #. [about]
-#: data/campaigns/Dusk_of_Dawn/_main.cfg:67
+#: data/campaigns/Dusk_of_Dawn/_main.cfg:68
 msgid "Beta Testing"
 msgstr "Beta 测试"
 
@@ -704,13 +704,10 @@ msgstr ""
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:806
-#, fuzzy
 msgid ""
 "...And from moment to moment he felt more and more anger from the tree folk, "
 "which waved its branches menacingly at the nearby Fire Wraith."
 msgstr ""
-"……而那来自树丛守护者的怒意，于瞬息间愈加强烈，它们挥舞着枝干，向身旁那团<b>火"
-"焰幽魂</b>投去了致命的威胁。"
 
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:820
@@ -767,16 +764,14 @@ msgstr ""
 "（Woses）”，是树丛的守护者。它带着敌意，怒视着那些它认定正在威胁嫩苗的石之生"
 "灵。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1146
-#, fuzzy
 msgid ""
 "Ougl was quick to guess that the death of any Elder Wose would only further "
 "enrage the treefolk, and resolved to keep his distance from them."
 msgstr ""
-"奥格尔敏锐地洞悉：任何长老树灵的死亡，只会令那些树人更加狂怒。于是，他决意远"
-"离它们，不敢有半分逾矩。"
+"奥格尔敏锐地洞悉：任何树人长者的死亡，只会令树族更加狂怒。于是，他决意远离它"
+"们，不敢有半分逾矩。"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [objective]: condition=lose
@@ -822,36 +817,30 @@ msgstr "当战斗的轰鸣回荡于林间，那棵古老巨木终是……苏醒
 msgid "O m m m..."
 msgstr "**阿——姆——姆……？** (O m m m...)"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1319
-#, fuzzy
 msgid ""
 "The awakened Wose Shaman spoke to Ougl in a strange way, and Ougl "
 "understood. The Wose’s name was Ommm, and it was the leader of the tree folk."
 msgstr ""
-"<i>智者克雷拉努的独白：</i>那苏醒的丛林萨满以奇异的方式与奥格尔低语，而奥格尔"
-"心领神会。那萨满的名字唤作——奥姆姆，它乃是树人众族的至高领袖。"
+"那苏醒的树人萨满以奇异的方式与奥格尔低语，而奥格尔心领神会。那树人的名字唤作"
+"奥姆姆，它乃是树族的至高领袖。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1330
-#, fuzzy
 msgid ""
 "Ommm used a mysterious magic to see the purpose of the troll’s journey, and "
 "whether they had evil intentions towards the green grove."
 msgstr ""
-"Omm 施展了神秘的魔法，窥见了巨魔此行究竟为何——是否，他们对这片翠绿的林地怀有"
-"恶念。"
+"奥姆姆施展了神秘的魔法，窥见了巨魔此行究竟为何，以及他们对这片翠绿的林地是否"
+"怀有恶念。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1336
-#, fuzzy
 msgid ""
 "It soon realized that the trolls were not to blame for the unfortunate "
 "skirmish."
-msgstr "智者很快便明白，那场不幸的遭遇战，巨魔并非始作俑者。"
+msgstr "它很快便明白，那场不幸的遭遇战，巨魔并非始作俑者。"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=OM
@@ -865,28 +854,24 @@ msgstr "“阿——姆——姆……？”"
 msgid "Ougl..."
 msgstr "奥格尔……"
 
-# Translated by openai with model gemma-4-31b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1362
-#, fuzzy
 msgid ""
 "Ougl wanted to travel further upwards, but the Wose Shaman advised him "
 "against it. The woses warned that the surface held many creatures who were "
 "not guided by goodness of heart, but by the law of strength."
 msgstr ""
-"奥格尔渴望向更高处攀登，而树人萨满却出言相诫。树人们警告他，地表之上的生灵众"
+"奥格尔渴望向更高处攀登，而树人萨满却出言相诫。树人们警告他，地表之上生灵众"
 "多，它们并不遵循善心的指引，而唯信强权之理。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1368
-#, fuzzy
 msgid ""
 "But Ougl had seen green lands now, and he began to dream of seeing more. The "
 "higher he climbed, the more green there would be."
 msgstr ""
 "然而，奥格尔已见过那片翠绿的大地，心中由此萌生了探寻更广阔绿意的渴望。他攀登"
-"得越高，那抹绿色便愈显丰盈……"
+"得越高，那抹绿色便愈显丰盈。"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
@@ -1554,10 +1539,8 @@ msgstr "无焰部落"
 msgid "Ougl the Flameless"
 msgstr "无焰者奥格尔"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:487
-#, fuzzy
 msgid ""
 "The saurian stole away Ougl’s inner flame and quenched it with magic. Bitter "
 "cold cut into Ougl’s stone-like body."
@@ -1565,30 +1548,22 @@ msgstr ""
 "蜥蜴人窃走了奥格尔体内的内焰，又以魔力将其浇灭。刺骨的严寒，无情地刺入了奥格"
 "尔那如石般的躯体。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:492
-#, fuzzy
 msgid ""
 "<b>S y s s...</b> (You will follow us wherever we go if you want to regain "
 "your inner flame, troll.)"
-msgstr "<b>嘶——嘶……</b>（若你渴望找回内焰，巨魔……，便须随我们而去。）"
+msgstr ""
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:498
-#, fuzzy
 msgid "...But Ougl had no intention of giving up so easily."
-msgstr "……但奥格尔并无如此轻易屈服的打算。"
+msgstr "……但奥格尔并无如此轻易放弃的打算。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:504
-#, fuzzy
 msgid "He suddenly shouted. Trollish words rang out in the evening air."
-msgstr ""
-"他突然大喊起来。<i>那并非兽人的嘶吼，而是巨魔的语言，在暮色中的空气里回荡。</"
-"i>"
+msgstr "他突然大喊起来。巨魔的语言，在暮色中的空气里回荡。"
 
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:513
