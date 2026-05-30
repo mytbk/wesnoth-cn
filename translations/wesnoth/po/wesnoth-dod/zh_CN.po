@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-29 23:20+0800\n"
+"PO-Revision-Date: 2026-05-30 11:17+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -922,29 +922,23 @@ msgid ""
 "of other beings despite not knowing how to speak himself."
 msgstr "这亦赋予奥格尔一种奇异的魅惑，令他虽无法言语，却能听懂万灵之声。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:35
-#, fuzzy
 msgid ""
 "The trolls soon left the woses and continued on their journey. The going was "
 "difficult, for the rocks they now climbed were very earthy and crumbly."
 msgstr ""
-"巨魔们不久便告别了树精，继续踏上旅程。前路坎坷，因为他们此刻攀爬的岩石，皆是"
-"泥土混杂、一触即碎的顽石。"
+"巨魔们不久便告别了树人，继续他们的旅程。前路坎坷，因为他们此刻攀爬的，皆是泥"
+"土混杂、一触即碎的顽石。"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:39
-#, fuzzy
 msgid ""
 "There was also less food than on the deeper levels. The trolls found only "
 "mushrooms, and Ougl disliked mushrooms. But this did not discourage him, for "
 "Ougl now had a dream and a goal for his trek."
 msgstr ""
-"<font size=\"-1\">此处食物的匮乏甚于深幽之下。巨魔们仅寻得些菌菇，奥格尔却厌"
-"恶菌菇。</font> 但此境并未令其气馁，因奥格尔心中已怀<font size=\"-1\">一梦，"
-"肩扛一程。</font>"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
@@ -953,38 +947,32 @@ msgstr ""
 msgid "Despite their incautious nature, trolls are not simple at all."
 msgstr "尽管他们行事鲁莽，巨魔绝非懵懂无知。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:47
-#, fuzzy
 msgid ""
 "When they tame their inner flame, they move in the realm of feelings and can "
 "guess the intentions of others without the need for speech."
-msgstr "当巨魔驯服其内焰，便步入情感的境界，无需言语，便能揣度他者之心。"
+msgstr "当他们驯服其内焰，便步入情感之境，无需言语，便能揣度他者之心。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:51
-#, fuzzy
 msgid ""
 "Ougl and his friends knew from the beginning that the tree folk were not "
 "evil, and they did not understand why the trees decided to attack them. If "
 "the trolls had done nothing wrong, then why were they attacked?"
 msgstr ""
-"奥格尔及其挚友自始至终明白，树灵一族并非邪恶，他们也无法理解树木为何决定向他"
-"们发起攻击。倘若巨魔未曾行恶，为何招致如此痛击？"
+"奥格尔及其挚友自始至终明白，树族并非邪恶，他们也无法理解树木为何决定向他们发"
+"起攻击。倘若巨魔未曾行恶，为何招致如此痛击？"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:56
-#, fuzzy
 msgid ""
 "The Golden Flame Tribe thought for a long time about what had happened and "
 "what might yet happen. After much travel and much thought, they happened "
 "across an underground lake."
 msgstr ""
-"金焰部落沉思良久，思索过往所历与未来将临。历经漫长跋涉与无尽思虑，他们最终邂"
-"逅了一处地下湖泊。"
+"金焰部落沉思良久，思索过往所历与未来将临。历经漫长跋涉与无尽思虑，他们最终遇"
+"到了一处地下湖泊。"
 
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #. [side]
@@ -1015,9 +1003,8 @@ msgstr "Neillei"
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:130
-#, fuzzy
 msgid "Oaserss"
-msgstr "<translate>奥萨斯——"
+msgstr ""
 
 #. [side]: type=Orcish Warlord, id=AR
 #. [side]: type=Goblin Pillager, id=NG
@@ -1035,19 +1022,15 @@ msgstr "红嚎部落"
 msgid "Agnar Red Cry"
 msgstr "红嚎阿格纳"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [side]: type=Orcish Warlord, id=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:185
-#, fuzzy
 msgid "Omag"
-msgstr "<i>奥格</i>"
+msgstr "奥玛格"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [side]: type=Goblin Pillager, id=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:206
-#, fuzzy
 msgid "Nuug The Firebug"
-msgstr "Nuug the Firebug<br>—— 火虫努格"
+msgstr "火虫努格"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [side]: type=Goblin Pillager, id=NG
@@ -1063,21 +1046,17 @@ msgstr "Uod"
 msgid "Marl"
 msgstr "马尔"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [side]: type=Saurian Oracle, id=MZ
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:248
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:101
-#, fuzzy
 msgid "Blue Blood Saurians"
 msgstr "蓝血蜥蜴人"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [side]: type=Saurian Oracle, id=MZ
 #. [unit]: type=Saurian Oracle, id=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:254
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:315
-#, fuzzy
 msgid "Moarxz Blue Blood"
 msgstr "蓝血莫阿尔克兹"
 
@@ -1102,13 +1081,11 @@ msgstr "莫阿尔克兹"
 msgid "Sonikss"
 msgstr "Sonikss"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:294
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:644
-#, fuzzy
 msgid "Defeat every enemy unit"
-msgstr "<b>击败所有敌对单位</b>"
+msgstr "击败每个敌方单位"
 
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:302
@@ -2000,7 +1977,6 @@ msgstr "是否该让 $unit.name| 取走这根树枝？"
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:100
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:123
-#, fuzzy
 msgid "This magical branch grants +2 damage to melee attacks."
 msgstr "这根魔法树枝能为近战攻击提供 +2 伤害。"
 
