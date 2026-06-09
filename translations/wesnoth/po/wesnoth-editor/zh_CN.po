@@ -1,18 +1,19 @@
 # The Battle for Wesnoth - Simplified Chinese Translations
-# Copyright (C) 2005-2022 Wesnoth development team
+# Copyright (C) 2005-2026 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 #
 # Translators and their initial years of participation:
 # Huang Huan(unicon) <unicon221@gmail.com>, 2005.
 # sylecn <sylecn@yahoo.com.cn>, 2009.
 # CloudiDust <cloudidust@gmail.com>, 2010.
+# vimacs <vimacs.hacks@gmail.com>, 2025.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.16\n"
+"Project-Id-Version: wesnoth-1.20\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-10-20 20:10-0500\n"
-"PO-Revision-Date: 2023-09-10 08:31+0800\n"
+"PO-Revision-Date: 2026-06-09 20:16+0800\n"
 "Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.9\n"
 
 #. [brush]: id=brush-1
 #: data/core/editor/brushes.cfg:6
@@ -125,7 +126,7 @@ msgstr "特殊"
 #. [editor_group]: id=elevation
 #: data/core/editor/terrain-groups.cfg:115
 msgid "elevation"
-msgstr ""
+msgstr "高低差"
 
 #. [editor_times]: id=empty
 #. Describes a scenario in the editor that has not set a time of day schedule
@@ -201,7 +202,7 @@ msgstr "窗口"
 #. [menu]: id=menu-editor-addon
 #: data/themes/editor.cfg:110
 msgid "Add-on"
-msgstr ""
+msgstr "附加组件"
 
 #. [menu]: id=menu-editor-areas
 #: data/themes/editor.cfg:119
@@ -221,7 +222,7 @@ msgstr "指定本地日程表"
 #. [menu]: id=menu-editor-unit
 #: data/themes/editor.cfg:141
 msgid "Unit"
-msgstr ""
+msgstr "单位"
 
 #. [menu]: id=menu-editor-side
 #: data/themes/editor.cfg:151
@@ -299,13 +300,11 @@ msgstr "未找到编辑器的时段设置。"
 
 #: src/editor/controller/editor_controller.cpp:868
 msgid "Add-on Files"
-msgstr ""
+msgstr "附加组件的文件"
 
 #: src/editor/controller/editor_controller.cpp:881
-#, fuzzy
-#| msgid "Clipboard support not found, contact your packager"
 msgid "Opening files is not supported, contact your packager"
-msgstr "未找到剪贴板支持，请联系你的打包者"
+msgstr "不支持打开文件，请联系你的打包者"
 
 #: src/editor/controller/editor_controller.cpp:1325
 msgid "Change Unit ID"
@@ -325,17 +324,15 @@ msgstr "名字："
 
 #: src/editor/editor_display.cpp:170
 msgid "<span color='#66ff00'><span face='DejaVuSans'>✔</span> $msg</span>"
-msgstr ""
+msgstr "<span color='#66ff00'><span face='DejaVuSans'>✔</span> $msg</span>"
 
 #: src/editor/editor_display.cpp:172
 msgid "<span color='red'><span face='DejaVuSans'>✘</span> $msg</span>"
-msgstr ""
+msgstr "<span color='red'><span face='DejaVuSans'>✘</span> $msg</span>"
 
 #: src/editor/map/context_manager.cpp:223
-#, fuzzy
-#| msgid "Map loaded from scenario"
 msgid "Load Map or Scenario"
-msgstr "已从场景中载入地图"
+msgstr "载入地图或场景"
 
 #: src/editor/map/context_manager.cpp:319 src/editor/map/map_context.cpp:1146
 msgid "New Map"
@@ -394,10 +391,8 @@ msgstr "错误"
 
 #: src/editor/map/context_manager.cpp:717
 #: src/editor/map/context_manager.cpp:766
-#, fuzzy
-#| msgid "Do you really want to quit?"
 msgid "Do you really want to save $type1 in $type2 folder?"
-msgstr "你真的要退出吗？"
+msgstr "你真的想要将$type1|保存在$type2|文件夹里吗？"
 
 #: src/editor/map/context_manager.cpp:725
 #: src/editor/map/context_manager.cpp:933
@@ -434,10 +429,8 @@ msgid "Scenario saved."
 msgstr "场景已保存。"
 
 #: src/editor/map/context_manager.cpp:909
-#, fuzzy
-#| msgid "Map saved."
 msgid "Map saved"
-msgstr "地图已保存。"
+msgstr "地图已保存"
 
 #: src/editor/map/context_manager.cpp:984
 msgid "Loaded embedded map data"
@@ -449,14 +442,8 @@ msgid "Map loaded from scenario"
 msgstr "已从场景中载入地图"
 
 #: src/editor/map/context_manager.cpp:988
-#, fuzzy
-#| msgid ""
-#| "Loaded referenced map file:\n"
-#| "$new"
 msgid "Loaded referenced map file:"
-msgstr ""
-"已载入被引用的地图文件：\n"
-"$new"
+msgstr "已载入被引用的地图文件："
 
 #: src/editor/map/editor_map.cpp:146
 #: src/editor/palette/location_palette.cpp:118
@@ -477,7 +464,7 @@ msgstr "空文件"
 
 #: src/editor/map/map_context.cpp:202
 msgid "File does not have .map, .cfg, or .mask extension"
-msgstr ""
+msgstr "该文件没有.map、.cfg或.mask扩展名"
 
 #: src/editor/map/map_context.cpp:249
 msgid ""
@@ -487,37 +474,29 @@ msgstr "此地图文件看起来像是一幕场景，但是map_data的值指向�
 
 #: src/editor/map/map_context.cpp:268
 msgid "Found the characters ‘<<’ indicating inline lua is present — aborting"
-msgstr ""
+msgstr "发现字符“<<”，这表明存在内联Lua代码——正在中止"
 
 #: src/editor/map/map_context.cpp:273
 msgid "Failed to load the scenario, attempting to load only the map."
-msgstr ""
+msgstr "场景载入失败，正在尝试仅加载地图。"
 
 #: src/editor/map/map_context.cpp:280
-#, fuzzy
-#| msgid ""
-#| "The map file looks like a scenario, but the map_data value does not point "
-#| "to an existing file"
 msgid ""
 "The map file looks like a scenario, but the map_file value does not point to "
 "an existing file"
-msgstr "此地图文件看起来像是一幕场景，但是map_data的值指向了一个不存在的文件"
+msgstr "此地图文件看起来像是一幕场景，但是map_file的值指向了一个不存在的文件"
 
 #: src/editor/map/map_context.cpp:295
 msgid "Unable to parse file to find map data"
-msgstr ""
+msgstr "无法解析文件，因此无法找到地图数据"
 
 #: src/editor/map/map_context.cpp:840 src/editor/map/map_context.cpp:880
-#, fuzzy
-#| msgid "Could not save the scenario: $msg"
 msgid "Could not save time schedule: $msg"
-msgstr "无法保存场景：$msg"
+msgstr "无法保存日程表：$msg"
 
 #: src/editor/map/map_context.cpp:874
-#, fuzzy
-#| msgid "Time Schedule Menu"
 msgid "Time schedule saved."
-msgstr "日程表菜单"
+msgstr "日程表已保存。"
 
 #: src/editor/map/map_context.cpp:920
 msgid "Could not save the scenario: $msg"
@@ -544,10 +523,8 @@ msgid "Will not work in game without extra care."
 msgstr "除非特别注意，否则不会在游戏中正常工作。"
 
 #: src/editor/palette/item_palette.cpp:33
-#, fuzzy
-#| msgid "Right-click: "
 msgid "Left-click: Place item $item | Right-click to remove"
-msgstr "右击："
+msgstr "左击：放置物品 $item | 右击：移除"
 
 #: src/editor/palette/location_palette.cpp:247
 msgid "Go To"
