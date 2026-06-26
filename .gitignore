@@ -4,3 +4,6 @@ target
 *.pyc
 *.mo
 desktop.ini
+
+.reasonix/
+.codegraph/
