@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-05 18:30+0800\n"
+"PO-Revision-Date: 2026-07-02 22:55+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -773,12 +773,10 @@ msgstr ""
 "奥格尔敏锐地洞悉：任何树人长者的死亡，只会令树族更加狂怒。于是，他决意远离它"
 "们，不敢有半分逾矩。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1159
-#, fuzzy
 msgid "Death of any of the Elder Woses located on the Great Trees"
-msgstr "<i>死亡</i>任何位于**巨树**上的**长须者**（Elder Woses）"
+msgstr "任何位于巨树上的树人长者死亡"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
@@ -1399,22 +1397,17 @@ msgstr ""
 msgid "A Beautiful World"
 msgstr "美丽的世界"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:20
-#, fuzzy
 msgid ""
 "Sessa asked the trolls how she could repay them for their help, but the "
 "trolls did not know how to speak. They pointed upwards with their hands."
 msgstr ""
-"塞莎问巨魔们，她该如何回报他们的相助，可巨魔们尚不懂言语。他们只是抬起手，指"
-"向上方。<i>（他们心中没有“恩惠”与“回报”的概念，只有对指引方向的直观本能。）</"
-"i>"
+"塞莎问巨魔们，她该如何回报他们的帮助，可巨魔们不懂言语。他们只是抬起手，指向"
+"上方。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:24
-#, fuzzy
 msgid ""
 "Fortunately, this was not the first time the Nagas had met their kind, and "
 "after a while they understood where the trolls were going."
@@ -1423,15 +1416,11 @@ msgstr "幸而，娜迦族并非初次邂逅此般生灵，没过多久，它们
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:29
-#, fuzzy
 msgid ""
 "The old wose’s directions had been too complicated for Ougl to follow. He "
 "had forgotten most of them already. But with a guide, the trolls would "
 "surely reach their goal."
 msgstr ""
-"老木精的指引过于繁复，奥格尔已然难以循其踪迹；他早已忘却大半。然而，若有引路"
-"者相伴，巨魔族群必能抵达彼方。<b>（旁白注：奥格尔的迷失并非愚钝，而是其纯粹之"
-"心无法容纳复杂的逻辑；而“引导”正是文明强加于自然之上的第一道枷锁。）</b>"
 
 #. [unit]: type=Naga Fighter, id=IA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:67
@@ -1544,33 +1533,26 @@ msgstr "当奥格尔触到那烈焰的灼热，他猛然陷入狂暴。"
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:909
-#, fuzzy
 msgid ""
 "Ougl fell to his knees. The strong troll’s gaze became absent, and his will "
 "to fight died out. His drive and vitality had faded away, and only empty "
 "space remained in his heart."
 msgstr ""
-"奥格尔双膝跪地。那巨强的目光已然涣散，他战斗的意志随之熄灭。驱动与生机皆已消"
-"散，唯余空无，留驻在他那石质的心间。"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:916
-#, fuzzy
 msgid ""
 "<b>Arg-hah!</b> (You have no chance to win against me. Do you understand? "
 "Ha, ha, ha...!)"
-msgstr "<b>Arg-hah!</b> (你绝无胜算。听明白了吗？哈，哈，哈……！)"
+msgstr "<b>啊——哈！</b> (你绝无胜算。听明白了吗？哈，哈，哈……！)"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:923
-#, fuzzy
 msgid ""
 "<b>Arg-hah!</b> (Now your leader is under our power. You trolls need a new "
 "leader. You will all follow us!)"
 msgstr ""
-"<b>Arg-hah!</b> (现在，你们的首领已落入我辈之手。你们这些巨魔需要一位新的领"
+"<b>啊——哈！</b>  (现在你们的首领已落入我辈之手。你们这些巨魔需要一位新的领"
 "袖。你们所有人，都将追随我们！)"
 
 #. [message]: speaker=narrator
@@ -1597,16 +1579,14 @@ msgstr ""
 msgid "Crelanu"
 msgstr "克雷拉努"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:1046
-#, fuzzy
 msgid ""
 "Some years later, a few members of the unfortunate Golden Flame Tribe found "
 "themselves in the far north, besieging my wizard’s tower as orcs so often do."
 msgstr ""
-"数年后，<b>金焰部落</b>中那不幸的几位幸存者流落至极北之地，正如兽人常做的那"
-"样，围困了我的法师塔。"
+"数年后，那不幸的金焰部落中的几位幸存者流落至极北之地，正如兽人常做的那样，包"
+"围了我的巫师塔。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:1053
@@ -1683,10 +1663,8 @@ msgstr "秘室守卫"
 msgid "Stone Heart"
 msgstr "石心"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:95
-#, fuzzy
 msgid "Reach the artifact (10,2)"
 msgstr "抵达神器所在地 (10,2)"
 
@@ -1761,11 +1739,9 @@ msgstr "符文之艺，使尘埃再度聚集……"
 msgid "...and a new golem loyal to Ougl is born."
 msgstr "……于是，一个效忠于奥格尔的新石魔像诞生了。"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:903
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:955
-#, fuzzy
 msgid "With a squeal of rusty machinery, the gate opens."
 msgstr "伴随着锈蚀机械的刺耳尖叫，大门开启了。"
 
@@ -1844,10 +1820,8 @@ msgstr ""
 msgid "flame tongue"
 msgstr "烈焰之舌"
 
-# Translated by openai with model gemma-4-26b-a4b.
 #. [unit_type]: id=Stone Golem, race=monster
 #: data/campaigns/Dusk_of_Dawn/units/Stone_Golem.cfg:4
-#, fuzzy
 msgid "Stone Golem"
 msgstr "石魔像"
 
