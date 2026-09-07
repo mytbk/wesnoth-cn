@@ -1,39 +1,36 @@
-Wesnoth Simplified Chinese Localization Project
+韦诺中文本地化项目
 -----------------------------------------------
 
-# Introduction
+此项目是回合制战略游戏[韦诺之战](https://wesnoth.org)的简体中文本地化项目。按照韦诺之战社区的规定，游戏的本地化由各语言的维护者进行维护，并提交翻译给官方本地化维护者。此项目用于各翻译者提交修改给简体中文本地化维护者。
 
-This is a project dedicated to the Simplified Chinese (zh_CN) localization of the open source turn-based strategy game, [the Battle for Wesnoth](https://wesnoth.org).
+# 如何参与
 
-First released in 2003, Wesnoth is one of the most polished open source games ever made. The game uses GNU Gettext to support localized text, and native support for image (game map) localization is also present. In compliance with official localization management policy, this project maintains translated assets out of the official source tree.
+欢迎大家参与韦诺之战的本地化。
 
-# How to Participate
+本项目各分支对应相应的韦诺之战分支。目前主线 1.18 版本已经翻译完成，开始翻译 master 分支。由于未翻译部分比较多，为了避免多人重复在相同的部分工作，建议翻译者先开一个 issue 说明准备翻译的部分。
 
-Anyone willing to help with the Simplified Chinese localization is welcome.
+当前正在进行文字翻译，对应 translations/wesnoth/po/ 的子目录下的 .po 文件。
 
-Most of the localization-related discussions are happening in the QQ Group 131160118.
+当前 vimacs 的工作流程是先用AI机翻，然后人工校对。目前 vimacs 采用工具 [ollama-translate](https://codeberg.org/vimacs/ollama-translate) 进行机器翻译，在 .po 文件的同级目录下有 prompt.txt 作为这个 .po 文件的翻译指引。推荐使用 [Poedit](https://poedit.net/) 编辑 .po 文件。
 
-For plain text translation, you may clone the repository or download the .po files in the `translations` directory and translate them. (The subdirectory structure of `translations` mirrors the official repositories of the Wesnoth project.)
+翻译进度参见此[翻译统计信息](https://gettext.wesnoth.org/?view=langs&version=branch&lang=zh_CN)页面。
 
-For map localization, this repository would only contain finished overlays. If you wish to localize the maps, please go to [issue #7](https://github.com/CloudiDust/wesnoth-cn/issues/7).
+# 地图本地化
 
-Please refer to the how-to links below if you are not familar with the localization workflow.
+TBD
 
-When you are ready to submit some localized assets, please file a pull request, post the resulting files in the QQ group, or send them to my mailbox (*cloudidust at gmail*), and I will take care of the rest.
+# 参考资料
 
-# Useful Links
+* 韦诺之战官方网站：https://wesnoth.org
+* Github 上的韦诺之战代码：https://github.com/wesnoth
+* 官方翻译指导：https://wiki.wesnoth.org/WesnothTranslationsHowTo
+* 官方地图本地化指导：https://wiki.wesnoth.org/MapLocalization
+* 百度贴吧韦诺之战吧：https://tieba.baidu.com/f?kw=%E9%9F%A6%E8%AF%BA%E4%B9%8B%E6%88%98&ie=utf-8
 
-Hats off to the great Wesnoth community!
+# 项目历史
 
-The following are Wesnoth's official:
+项目历史见此前的 README 文档： https://github.com/CloudiDust/wesnoth-cn/blob/17c197618f096969689ffa11e77158604604877b/README.md
 
-* Website: https://wesnoth.org
-* Github organization: https://github.com/wesnoth
-* Plain text translation how-to: https://wiki.wesnoth.org/WesnothTranslationsHowTo
-* Map localization how-to: https://wiki.wesnoth.org/MapLocalization
+> Cloudidust: Back in 2010 the work on Wesnoth's zh_CN localization was kind of in a hiatus and not quite coordinated, so I (Cloudidust), with the permission of then zh_CN translation maintainer *sylecn*, started this project and hosted it on Google Code, in a [Mercurial repository](https://code.google.com/p/wesnoth-translation-cn). In 2015 this project was moved to [Github](https://github.com/CloudiDust/wesnoth-cn), but I made a mistake: starting a new git repo instead of importing the hg one. I regret it, but if interested you can browse/download the hg repo archive for history.
 
-Also there is an unofficial [Tieba](http://tieba.baidu.com/f?kw=%E9%9F%A6%E8%AF%BA%E4%B9%8B%E6%88%98&ie=utf-8) where general discussions of the game are held.
-
-# Note: Project Origin
-
-Back in 2010 the work on Wesnoth's zh_CN localization was kind of in a hiatus and not quite coordinated, so I (Cloudidust), with the permission of then zh_CN translation maintainer *sylecn*, started this project and hosted it on Google Code, in a [Mercurial repository](https://code.google.com/p/wesnoth-translation-cn). In 2015 this project was moved to [Github](https://github.com/CloudiDust/wesnoth-cn), but I made a mistake: starting a new git repo instead of importing the hg one. I regret it, but if interested you can browse/download the hg repo archive for history.
+目前 vimacs 是本项目的维护者。
