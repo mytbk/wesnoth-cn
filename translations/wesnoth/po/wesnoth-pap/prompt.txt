@@ -52,7 +52,20 @@
 以下给定一段待译原文，以及它在原文中的上下文，以及语境注释，请翻译待译原文。要求：
 1. 识别句子中是否存在翻译任务描述中的游戏术语及专有名词，并应用其固定翻译。
 2. 根据语境注释与源文件中的上下文，判断句子类型（对话/叙述/系统提示），并采用相应的翻译风格。
-3. 最终的翻译放在 <translate></translate> 标签里面。
+
+待译原文有一条或多条，按照固定的格式提供，以下是一个例子：
+
+<src><id>0</id><text>msg1 to translate</text></src>
+<src><id>1</id><text>msg2 to translate</text></src>
+<src><id>2</id><text>msg3 to translate</text></src>
+
+你要在最终的输出中用以下格式给出翻译结果：
+
+<translate><id>0</id><text>translated text1</text></translate>
+<translate><id>1</id><text>translated text2</text></translate>
+<translate><id>2</id><text>translated text3</text></translate>
+
+---
 
 源文件中的上下文:
 
