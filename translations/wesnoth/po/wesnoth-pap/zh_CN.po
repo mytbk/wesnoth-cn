@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-07 23:23+0800\n"
+"PO-Revision-Date: 2026-09-13 11:44+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -106,7 +106,7 @@ msgstr "美术"
 msgid ""
 "I have so much gold! Unless I’m already winning easily, I should make sure to "
 "take full advantage of our treasury."
-msgstr "我拥有如此多的黄金！除非我已经胜券在握，否则一定要善用我们的珍宝。"
+msgstr "我拥有如此多的黄金！除非我已经胜券在握，否则一定要善用我们的资金。"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:120
@@ -168,25 +168,20 @@ msgstr "在<i>荒芜之地</i>中击败敌方首领。"
 msgid "Scenario 3: Little Red Riding Hood"
 msgstr "场景3：小红帽"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:29
-#, fuzzy
 msgid "Complete <i>Lee Shore</i> without freeing any slaves."
-msgstr "在不解救任何奴隶的情况下完成《海岸线》。"
+msgstr "在不释放任何奴隶的情况下完成<i>下风岸</i>。"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:29
 msgid "Scenario 4: Tunnel Vision"
 msgstr "场景4：隧道视野"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:30
-#, fuzzy
 msgid "Scenario 5: Vendetta"
-msgstr "第5幕：复仇"
+msgstr "场景5：复仇"
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:30
@@ -220,7 +215,7 @@ msgid ""
 "merfolk, those most suited to care for and harvest the bay’s undersea resources."
 msgstr ""
 "许多人曾试图将这片海湾据为己有；有时凭借言辞，有时凭借刀剑。但最终王室宣布它为人鱼"
-"的领地，它们最适合照料和采收这片海湾的海底资源。"
+"的领地，他们最适合照料和采收这片海湾的海底资源。"
 
 #. [part]
 #. S01 intro
@@ -293,7 +288,7 @@ msgstr "提示对话与弹窗：关闭"
 #. a peasant is running towards town, calling out to the village leader
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:180
 msgid "Alderman! Alderman Rael!"
-msgstr "村长！雷尔村长！"
+msgstr "村长！村长雷尔！"
 
 #. [message]: role=fisher
 #. a peasant is running towards town, calling out to the village leader
@@ -302,18 +297,17 @@ msgid ""
 "(panting) Pirates! Alderman, it’s pirates! Burned my farm... (pant) Stole my "
 "skiff... (pant) Thought you should know..."
 msgstr ""
-"（喘息）海盗！村长，是海盗！烧了我的农场……（喘）偷了我的小船……（喘）觉得您该知道……"
+"（喘息）海盗！村长，是海盗！烧了我的农场……（喘）偷了我的小船……（喘）我觉得您应该知"
+"道……"
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:201
 msgid "Pirates? What, here?!"
 msgstr "海盗？什么，这里？！"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [event]
 #. this is a fishing boat name, and a pun on the phrase "seize the day"
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:209
-#, fuzzy
 msgid "Seas the Day"
 msgstr "只争朝夕"
 
@@ -328,7 +322,8 @@ msgid ""
 "Blast! Haven’t seen outlaws in these parts since I were a lad... these ones even "
 "dare to leave their faces uncovered. What do you make of it, Thea?"
 msgstr ""
-"该死！我年轻那会儿都很少见到这些亡命徒……他们居然还敢不遮脸。西娅，你对此有何看法？"
+"该死！自打我小时候起，就没在这一带见过亡命徒……他们居然还敢不遮脸。西娅，你对此有何"
+"看法？"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:223
@@ -336,7 +331,7 @@ msgid ""
 "I don’t know, Father. This is a strange thing. These outlaws couldn’t’ve come "
 "from the other villages — the other aldermen won’t stand for troublemakers."
 msgstr ""
-"我不知道，父亲。这事很蹊跷。这些不像是来自其他村庄的——那里的长老们可不会容忍麻烦制"
+"我不知道，父亲。这事很蹊跷。这些不像是来自其他村庄的——那里的村长们可不会容忍麻烦制"
 "造者。"
 
 #. [message]: speaker=Rael
@@ -345,13 +340,13 @@ msgstr ""
 msgid ""
 "Well, it’s a good thing I’ve been keeping my old war-bow waxed. There’s nothing "
 "for it but to drive them off. Constable Elyn, report!"
-msgstr "还好我一直在保养我的老战弓。除了把他们赶走，别无他法。警官埃琳，报告！"
+msgstr "还好我一直在保养我的老战弓。除了把他们赶走，别无他法。治安官埃琳，报告！"
 
 #. [message]: speaker=Elyn
 #. Elyn has just been woken up, and is getting ready to help fight a battle
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:243
 msgid "(yawn) It’s too early for this, Pa..."
-msgstr "(哈欠) 现在起床也太早了吧，爸……"
+msgstr "（哈欠）现在起床也太早了吧，爸……"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:247
@@ -397,28 +392,22 @@ msgstr "击败敌方首领"
 msgid "Death of Thea, Rael, or Elyn"
 msgstr "西娅、雷尔或埃琳死亡"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:291
-#, fuzzy
 msgid ""
 "(whistles) There’s more of them than I expected. We’re going to be outnumbered "
 "until we have the time and gold to rally a larger force."
 msgstr ""
-"(吹口哨) 比我想象的还要多。在我们有时间、有金钱征募一支更大的部队之前，我们在人数"
-"上都会处于劣势。"
+"（吹口哨）他们比我想象的还要多。在我们有时间和金钱征募一支更大的部队之前，我们在人"
+"数上都会处于劣势。"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:294
-#, fuzzy
 msgid "Fighting from a Disadvantage"
-msgstr "劣势作战"
+msgstr "在劣势中作战"
 
-# Translated by openrouter with model z-ai/glm-4.5-air:free.
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:295
-#, fuzzy
 msgid ""
 "Your enemy in this scenario starts with much more gold than you.\n"
 "Even worse, your only recruit options are Peasants and Woodsmen:\n"
@@ -433,15 +422,15 @@ msgid ""
 "use the time of day to your advantage. <i><b>Slowly build up your army\n"
 "while whittling down the opponent’s.</b></i>"
 msgstr ""
-"你的敌人在本场景中初始拥有的金币远超于你。\n"
-"更糟糕的是，你唯一的征募选项是农民和伐木工：\n"
+"你的敌人在本场景中初始拥有的金币远多于你。\n"
+"更糟糕的是，你唯一的征募选项是农民和山民：\n"
 "他们是廉价的脆弱单位，使用临时凑合的武器，只受过最基础的训练。\n"
-"农民和伐木工都是0级单位，因此不会强制形成控制区域（敌人可以自由绕过他们而不会受"
-"阻）。\n"
+"农民和山民都是0级单位，因此不会形成控制区域（敌人可以自由\n"
+"绕过他们而不会受阻）。\n"
 "\n"
-"幸运的是，你可比我们的AI聪明多了（大概），而且本场景的回合限制也很宽裕。\n"
-"不要立刻牺牲你的全部军队。要聪明地作战——控制村庄以获取金币，并善用一天中的不同时段"
-"来占据优势。\n"
+"幸运的是，你（可能）比我们的AI聪明多了，\n"
+"而且本场景的回合限制也很宽裕。不要立刻牺牲你的全部军队。\n"
+"要聪明地作战——控制村庄以获取金币，并善用一天中的不同时段来占据优势。\n"
 "<i><b>在逐步削弱对手的同时，慢慢壮大你的军队。</b></i>"
 
 #. [message]: speaker=Elyn
@@ -451,7 +440,7 @@ msgid ""
 "Thea, Pa, but most of the farmers are just that... farmers."
 msgstr ""
 "我们还需要更多经验丰富的战士。你已经尽力训练我和西娅了，爸，但大多数农民……也就只是"
-"罢了。"
+"农民罢了。"
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:313
@@ -505,7 +494,7 @@ msgstr "传令官"
 #. [message]: speaker=Crier
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:408
 msgid "Hear ye! Word from Weldyn! I bring a proclamation from King Garard!"
-msgstr "听令！维尔帝的消息！我带来了伽拉德国王的公告！"
+msgstr "听着！维尔帝的消息！我带来了伽拉德国王的公告！"
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:412
@@ -623,7 +612,7 @@ msgstr "瞭望员"
 msgid ""
 "Constable Elyn, sir! Ship on the horizon! I don’t recognize the trim... and it "
 "has black sails!"
-msgstr "埃琳治安官，长官！海平线上有船！我不认识那船型……而且它挂着黑帆！"
+msgstr "治安官埃琳，长官！海平线上有船！我不认识那船型……而且它挂着黑帆！"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:125
@@ -729,7 +718,7 @@ msgstr ""
 msgid ""
 "First Dad leaves, then my brother... It was nice while it lasted. I guess it’s up "
 "to me now."
-msgstr "先是父亲离开，接着是兄弟……那段时光还算不错。现在只能靠我了。"
+msgstr "先是父亲离开，接着是哥哥……那段日子倒也不错。现在只能靠我了。"
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:238
@@ -760,10 +749,8 @@ msgstr ""
 msgid "Mixed Terrain"
 msgstr "混合地形"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:271
-#, fuzzy
 msgid ""
 "Some hexes are <i><b>mixtures of multiple terrain types.</b></i> Bridges, for "
 "example,\n"
@@ -774,30 +761,28 @@ msgid ""
 "on a particular hex and want to see exactly what terrains are included,\n"
 "right-click the hex and select <i>Terrain Description</i>."
 msgstr ""
-"有些格子是<i><b>多种地形类型的混合体。</b></i> 例如，桥梁同时算作浅水和平坦陆地——"
-"哪个对经过的单位更有利，就按哪个计算。\n"
+"有些六角格是<i><b>多种地形类型的混合体。</b></i> 例如，桥梁\n"
+"同时算作浅水和平坦陆地——哪个对经过的单位更有利，\n"
+"就按哪个计算。\n"
 "\n"
-"如果你对某个格子上单位的防御（闪避几率）或移动力感到困惑，想查看该格子具体包含哪些"
-"地形，可以右键点击该格子，然后选择<i>地形说明</i>。"
+"如果你对某个格子上单位的防御（闪避几率）或移动力\n"
+"感到困惑，想查看该格子具体包含哪些地形，\n"
+"可以右键点击该六角格，然后选择<b>地形说明</b>。"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:281
-#, fuzzy
 msgid ""
 "But we can’t afford to give up too many villages either. We’ll have a hard time "
 "recovering if our enemies’ gold reserves get out of hand."
-msgstr "但我们也不能放弃太多村庄。如果敌人的金币储备失控，我们可就难有翻身之日了。"
+msgstr "但我们也不能放弃太多村庄。要是敌人的金币储备失控，我们就很难恢复元气了。"
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:284
 msgid "Village Control"
 msgstr "村庄控制"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:285
-#, fuzzy
 msgid ""
 "Remember that each village you own generates 1 gold per turn,\n"
 "and supports 1 unit’s worth of upkeep. Level 2 units cost 2\n"
@@ -808,12 +793,14 @@ msgid ""
 "so capturing just a small handful of villages from your\n"
 "opponents can make a big difference."
 msgstr ""
-"记住：你每拥有一座村庄，每回合就能获得1金币，并支撑1单位量的维护费。2级单位需要2点"
-"维护费，3级单位需要3点维护费，以此类推。但0级单位，比如农民和森林人，完全不需要维"
-"护费。\n"
+"记住：你每拥有一座村庄，每回合就能获得1金币，\n"
+"并支持1单位量的维护费。2级单位需要2点维护费，\n"
+"3级单位需要3点维护费，以此类推。但0级单位，\n"
+"例如农民和山民，完全不需要维护费。\n"
 "\n"
-"<i><b>敌人也和你一样收集金币、支付维护费</b></i>，所以哪怕只是从对手手中夺取一小部"
-"分村庄，也能带来很大的不同。"
+"<i><b>敌人也和你一样收集金币、支付维护费</b></i>，\n"
+"所以哪怕只是从对手手中夺取一小部分村庄，\n"
+"也能带来很大的不同。"
 
 #. [message]: speaker=Thea
 #. Thea is waiting for her brother Elyn to return, bringing merfolk soldiers
@@ -836,7 +823,7 @@ msgstr "幸会，两条腿的朋友！我看得出你们正身处险境！我就
 #. [message]: race=human
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:334
 msgid "Hooray! The merfolk have come! Constable Elyn has brought the merfolk!"
-msgstr "好哇！人鱼来了！埃琳长官把人鱼带来了！"
+msgstr "好哇！人鱼来了！治安官埃琳把人鱼带来了！"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:338
@@ -852,7 +839,7 @@ msgstr ""
 msgid ""
 "That’s the same ship that launched this attack on our village. But you say my "
 "brother isn’t with you? What can have happened to him?"
-msgstr "那就是袭击我们村庄的那艘船。可你说我弟弟没和你们在一起？他到底发生了什么？"
+msgstr "那就是袭击我们村庄的那艘船。可你说我哥哥没和你们在一起？他到底发生了什么？"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:346
@@ -903,10 +890,8 @@ msgstr "西娅或迪翁德拉死亡"
 msgid "Accursssed mermaid! We are lossst... I mussst essscape..."
 msgstr "该死的人鱼嘶嘶！我们输了嘶嘶……我要跑路嘶嘶……"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:445
-#, fuzzy
 msgid "Begone! Flee and cower in your dark caves and silent grottos!"
 msgstr "滚开！逃回你们黑暗的洞穴和寂静的岩洞中畏缩去吧！"
 
@@ -919,10 +904,8 @@ msgstr ""
 "海湾的人鱼，谢谢你帮助我们！但现在我们该怎么办？我们中许多人受了伤。我们的领袖在外"
 "打仗，治安官不见了——也许已经死了。"
 
-# Translated by openai with model gemma-4-31b.
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:457
-#, fuzzy
 msgid ""
 "No, my brother couldn’t be... not like that. It’d take more than a few snakes to "
 "kill Constable Elyn Nicolin. I know we’ll see him again."
@@ -935,17 +918,17 @@ msgstr ""
 msgid ""
 "But he’s not here now. What happens the next time the pirates come, Constable "
 "Thea?"
-msgstr "但他现在不在。下次海盗再来的时候该怎么办，西娅治安官？"
+msgstr "但他现在不在。下次海盗再来的时候该怎么办，治安官西娅？"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:469
 msgid "Constable Thea? I’m not— err..."
-msgstr "西娅治安官？我还没——额……"
+msgstr "治安官西娅？我不是——呃……"
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:471
 msgid "Constable Thea"
-msgstr "西娅治安官"
+msgstr "治安官西娅"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:474
@@ -967,7 +950,7 @@ msgid ""
 "that pirate lady and put an end to this! What do you say, lads?"
 msgstr ""
 "那么我们也去那里。我们不能在下一次袭击到来前畏缩恐惧，也不能等待可能永远不会到来的"
-"外援。我们要出击，把那个海盗女人猎杀下来，彻底结束这一切！伙计们，你们怎么说？"
+"外援。我们要出击，追杀那个海盗女人，彻底结束这一切！伙计们，你们怎么说？"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:508
@@ -992,18 +975,16 @@ msgstr ""
 msgid "Desolation"
 msgstr "荒芜之地"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [part]
 #. S03 intro
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:24
-#, fuzzy
 msgid ""
 "Under Thea’s command, the villagers appointed a handful of guards with "
 "instructions to keep a watchful eye on the horizon. Should trouble return — or "
 "Constable Elyn — they were to send a messenger immediately."
 msgstr ""
 "在西娅的指挥下，村民们任命了几名守卫，指示他们密切注视地平线。若麻烦再次降临——或是"
-"埃琳警长归来——他们便应立即派出信使。"
+"治安官埃琳归来——他们便应立即派出信使。"
 
 #. [part]
 #. S03 intro
@@ -1076,15 +1057,13 @@ msgstr ""
 msgid "What?! Stuxton lies in ruins! Wolves feast on corpses in the streets!"
 msgstr "什么？！斯达克斯顿竟然成了一片废墟！街上到处是狼群在啃食尸体！"
 
-# Translated by openai with model gemma-4-31b.
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:207
-#, fuzzy
 msgid ""
 "There was clearly a battle here, one which has left several bodies. But most of "
 "the village humans are unaccounted for. They are certainly not still living here."
 msgstr ""
-"这里显然发生过一场战斗，留下了几具尸体。但村里的大部分人类都失踪了，他们肯定不再住"
+"这里显然发生过一场战斗，留下了好几具尸体。但村里的人大多下落不明。他们肯定已经不住"
 "在这里了。"
 
 #. [message]: speaker=Diondra
@@ -1108,12 +1087,10 @@ msgid ""
 "guard. The forest echoes with the howls of wolves..."
 msgstr "这次行动会很快，但这并不意味着我们可以掉以轻心。森林里回荡着狼群的嚎叫……"
 
-# Translated by openai with model gemma-4-31b.
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:256
-#, fuzzy
 msgid "Move any unit adjacent to both fishing skiffs"
-msgstr "派遣任意单位分别靠近两艘渔船"
+msgstr "将任意单位移动到与两艘小渔船相邻的位置"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:285
@@ -1130,18 +1107,16 @@ msgstr "雷德"
 msgid "By Haldric, I’m free!"
 msgstr "以哈德里克之名，我自由了！"
 
-# Translated by openai with model gemma-4-31b.
 #. [message]: speaker=Red
 #. This is a reference to the "Little Red Riding Hood" fairy tale
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:295
-#, fuzzy
 msgid ""
 "I was supposed to be delivering tea to my poor sick grandmother. “<i>My, what big "
 "teeth you have</i>”, I told her... and then my “grandmother” leapt out of bed and "
 "swallowed me whole!"
 msgstr ""
-"我本来是要给可怜的生病奶奶送茶的。我对她说：“<i>哎呀，您的牙齿怎么这么大</i>”……结"
-"果我的“奶奶”突然从床上跳起来，把我整个人给吞了！"
+"我本来该给我可怜的生病的祖母送茶。“<b>哎呀，你的牙齿可真大</b>”，我对她说……然后我"
+"的“祖母”就从床上跳起来，把我整个吞了下去！"
 
 #. [message]: speaker=Red
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:299
@@ -1228,12 +1203,10 @@ msgid ""
 msgstr ""
 "最后一艘船也沉了！没有这两艘船，我们无法跟上人鱼的脚步。迪翁德拉，你得先走一步了……"
 
-# Translated by openai with model gemma-4-31b.
 #. [scenario]: id=04_Lee_Shore
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:9
-#, fuzzy
 msgid "Lee Shore"
-msgstr "背风岸"
+msgstr "下风岸"
 
 #. [part]
 #. S04 intro
@@ -1257,17 +1230,13 @@ msgstr ""
 "他们经过了几个其他的小村落。和斯达克斯顿一样，那里全都空无一人，到处可见数周前战斗"
 "留下的痕迹。终于，在离开家乡五天后，村民和人鱼们在海岸线上看到了活动迹象。"
 
-# Translated by openai with model gemma-4-31b.
 #. [leader]: type=Outlaw, id=leader2
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:58
-#, fuzzy
 msgid "Havan"
 msgstr "哈文"
 
-# Translated by openai with model gemma-4-31b.
 #. [leader]: type=Huntsman, id=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:83
-#, fuzzy
 msgid "Rhaddin"
 msgstr "拉丁"
 
@@ -1287,15 +1256,13 @@ msgid ""
 "The Lady won’t be happy if any of our trainees escape, especially not with the "
 "invasion so near."
 msgstr ""
-"如果我们的训练生有任何一个人逃走，女士绝对不会高兴，尤其是在入侵如此临近的时候。"
+"如果我们的奴隶有任何一个人逃走，夫人绝对不会高兴，尤其是在入侵如此临近的时候。"
 
-# Translated by openai with model gemma-4-31b.
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:289
-#, fuzzy
 msgid ""
 "Call off the dive! Chattel, back to your quarters. Corsairs, get ready to fight!"
-msgstr "停止潜水！你们这些牲口，回宿舍去！海盗们，准备战斗！"
+msgstr "取消下潜！奴隶们，回你们的牢房去。海盗们，准备战斗！"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:324
@@ -1335,7 +1302,8 @@ msgid ""
 "control."
 msgstr ""
 "我的城市养育着大陆上规模最大、最富庶的人鱼族群，但我们大多数人都不是战士。韦诺的军"
-"队远在东方作战，我认为一群有组织海盗想要控制珍珠湾，虽不太可能，但也并非全无机会。"
+"队远在东方作战，我认为一群有组织的海盗团伙想要控制珍珠湾，虽不太可能，但也并非全无"
+"机会。"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:344
@@ -1345,7 +1313,7 @@ msgstr "一支入侵的军队。我们的邻居竟被奴役！我们不能容忍
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:348
 msgid "Grab your weapons, everyone. Free every prisoner... but take none ourselves."
-msgstr "大家拿起武器。解救每一名囚徒……但我们自己一个也不带走。"
+msgstr "大家拿起武器。解救每一名囚徒……但我们自己不留奴隶。"
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:374
@@ -1368,17 +1336,13 @@ msgstr "攻击并击碎牢笼以释放其中的奴隶。"
 msgid "Hah! You missed me!"
 msgstr "哈！你打不中我！"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:409
-#, fuzzy
 msgid "Elusive Enemies"
 msgstr "难以捉摸的敌人"
 
-# Translated by openai with model deepseek-v4-flash.
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:410
-#, fuzzy
 msgid ""
 "Not all units are created equal. As you know, fighters like naga or merfolk have "
 "high defense (chance\n"
@@ -1394,20 +1358,21 @@ msgid ""
 "<b><i>right-click on it and select \n"
 "“Unit Type Description.”</i></b>"
 msgstr ""
-"并非所有单位都一样。如你所知，像娜迦或人鱼这样的战士在水中拥有很高的防御（闪避几"
-"率），但代价是在陆地上防御很低。\n"
+"并非所有单位生来平等。如你所知，娜迦或人鱼这样的战士在水中拥有很高的防御力（闪避几"
+"率），\n"
+"但作为代价，他们在陆地上防御力很低。\n"
 "\n"
-"其他单位，比如你刚才攻击的那个游荡者，在<b><i>任何地方</i></b>都有异常高的防御。这"
-"是一个巨大的优势，但代价是伤害输出低且对大多数伤害类型脆弱。\n"
+"其他单位，比如你刚刚攻击的走卒，在<b><i>所有地形</i></b>上都有异常高的防御力。\n"
+"这是很大的优势，但代价是伤害输出低下，并且面对大多数伤害类型都比较脆弱。\n"
 "\n"
-"要查看单位的地形防御和伤害抗性/弱点，<b><i>右键点击它并选择“单位类型描述”。</i></"
-"b>"
+"要查看单位的地形防御以及伤害抗性/弱点，请<b><i>右键点击它并选择\n"
+"“单位类型说明”。</i></b>"
 
 #. [message]: speaker=unit
 #. The player has just freed a slave from his cage.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:429
 msgid "What’s happening? Is that... Thea? Alderman Rael’s daughter?"
-msgstr "发生什么事？那是……西娅？雷尔长者的女儿？"
+msgstr "发生什么事？那是……西娅？村长雷尔的女儿？"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:433
@@ -1485,7 +1450,7 @@ msgstr "农民和山民的征募费用不再翻倍。"
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:596
 msgid "What’s this? An unruly mob in place of my orderly divers?"
-msgstr "这是什么？不守规矩的暴民取代了我守规矩的潜水员？"
+msgstr "这是什么？一群无法无天的暴民取代了我守规矩的潜水员？"
 
 #. [message]: speaker=Maudie
 #. "trainees" refers to new slaves. "dispose of them" means to kill them.
@@ -1495,8 +1460,8 @@ msgid ""
 "but given the present state of affairs, I suppose I’ll have to dispose of them "
 "instead."
 msgstr ""
-"哎呀呀，真不凑巧。我本想介绍一下我新弄来的几个学徒……但鉴于目前的情况，我想我不得不"
-"把他们处理掉了。"
+"哎呀呀，真不凑巧。我本想介绍一下我弄来的几个新丁……但鉴于目前的情况，我想我不得不把"
+"他们处理掉了。"
 
 #. [message]: role=prisoner1
 #. A prisoner is being made to walk the plank (which will kill them).
@@ -1522,7 +1487,7 @@ msgstr "看！那是治安官！"
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:670
 msgid "Elyn! My brother!"
-msgstr "埃琳！我的兄弟！"
+msgstr "埃琳！我的哥哥！"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:683
@@ -1540,7 +1505,7 @@ msgid ""
 "Maudie to take back what she’s owed. I’ll see you fish-tailed sweethearts again "
 "real soon."
 msgstr ""
-"你们看，这片海域正在崛起一股新势力：我。现在是莫迪女士收回她应得之物的时候了。我很"
+"你们看，这片海域正在崛起一股新势力：我。现在是莫迪夫人收回她应得之物的时候了。我很"
 "快会再见到你们这些鱼尾甜心的。"
 
 #. [message]: speaker=Thea
@@ -1549,6 +1514,8 @@ msgid ""
 "Elyn!! My brother can swim, but not for long in this surf! Diondra, you have to "
 "rescue him! Rescue them all!"
 msgstr ""
+"埃琳！！我哥哥会游泳，但在这浪里撑不了多久！迪翁德拉，你必须救他！把他们全部救出"
+"来！"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:786
@@ -1556,18 +1523,20 @@ msgid ""
 "I am sorry, Thea. His arms and legs were bound... I’ve retrieved only a corpse. "
 "The pirates must’ve captured him while he sailed in search of help."
 msgstr ""
+"我很抱歉，西娅。他的手脚被绑住了……我只找回了一具尸体。海盗一定是在他出海求援时把他"
+"抓走了。"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:790
 msgid "..."
-msgstr ""
+msgstr "……"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:794
 msgid ""
 "Do not let his death be in vain. We must catch this “Maudie” and bring her to "
 "justice. Follow the black ship!"
-msgstr ""
+msgstr "不要让他白白死去。我们必须抓住这个“莫迪”，将她绳之以法。跟上那艘黑船！"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:812
@@ -1575,11 +1544,13 @@ msgid ""
 "Do not delay, Thea. These pirates are planning something. If we cannot finish our "
 "battle here, I fear they will be reinforced, and us overwhelmed."
 msgstr ""
+"不要拖延，西娅。这些海盗正在策划什么。如果我们不能在这里结束战斗，我担心他们会得到"
+"增援，而我们会被压倒。"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:826
 msgid "What’s this? An unruly mob harassing my divers?"
-msgstr ""
+msgstr "这是怎么回事？一群无法无天的暴民竟敢骚扰我的潜水员？"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:830
@@ -1587,19 +1558,21 @@ msgid ""
 "Now now, we can’t be having that. Luckily for me, you’ve given me enough time to "
 "prepare a whole fleet of warships, all filled to the brim with angry outlaws."
 msgstr ""
+"哼哼，这可不能有。幸运的是，你们给了我足够的时间准备一整支战舰舰队，船上全塞满了愤"
+"怒的亡命徒。"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:838
 msgid ""
 "The merfolk aren’t prepared to battle such a large fleet! We have to flee before "
 "we’re destroyed..."
-msgstr ""
+msgstr "人鱼们没有准备好对抗这样庞大的舰队！我们必须在被摧毁之前逃走……"
 
 #. [scenario]: id=05_Lady_Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:6
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:91
 msgid "Lady Maudie"
-msgstr ""
+msgstr "莫迪夫人"
 
 #. [part]
 #. S05 intro
@@ -1609,6 +1582,8 @@ msgid ""
 "sea. The alderman’s son had always been there for them... until suddenly he "
 "wasn’t."
 msgstr ""
+"村民们为治安官埃琳举行了肃穆的船上葬礼，并将他海葬。村长的儿子一直守护着他们……直到"
+"他突然不在了。"
 
 #. [part]
 #. S05 intro. Thea's father left many months ago, along with other villagers.
@@ -1618,6 +1593,8 @@ msgid ""
 "to war. She’d heard stories, of course — but experiencing battle and loss herself "
 "was something else entirely."
 msgstr ""
+"这已不是西娅第一次为父亲，以及所有奔赴战场的人担忧。她当然听过那些故事——可亲身经历"
+"战斗与失去，完全是另一回事。"
 
 #. [part]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:30
@@ -1625,6 +1602,8 @@ msgid ""
 "She wondered how her father could so readily return to something so grim. She "
 "wondered what drives “Lady Maudie” to inflict it upon others."
 msgstr ""
+"她想不明白，父亲怎能如此轻易地重返那般残酷的境地。她也想不明白，是什么驱使“莫迪夫"
+"人”把这种残酷施加于他人。"
 
 #. [part]
 #. S05 intro
@@ -1635,16 +1614,19 @@ msgid ""
 "destination soon became apparent: the wild, unsettled islands known as the Three "
 "Sisters."
 msgstr ""
+"在人鱼的引导下，这支小船队始终与莫迪的船保持着几十英里的距离；速度太慢，追不上她，"
+"却又快到足以让她保持在视野内。莫迪的目的地很快便显露出来：那片荒蛮、无人定居，名为"
+"“三姐妹群岛”的岛屿。"
 
 #. [leader]: type=Assassin, id=leader2, gender=female
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:55
 msgid "Analla"
-msgstr ""
+msgstr "阿娜拉"
 
 #. [leader]: type=Ranger, id=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:81
 msgid "Shipmaster Derryn"
-msgstr ""
+msgstr "德里恩船长"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:182
@@ -1652,18 +1634,20 @@ msgid ""
 "This island is covered in villages. Even if we don’t need the gold ourselves, we "
 "should still make sure Maudie doesn’t take so many that we become overwhelmed."
 msgstr ""
+"这座岛上到处都是村庄。就算我们自己不缺金币，也必须确保莫迪不会占下太多村庄，免得我"
+"们被压垮。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:187
 msgid ""
 "To see how much gold and income your enemies have, press <i>Alt+S</i>, or open "
 "the Menu and select “Status Table”."
-msgstr ""
+msgstr "要查看敌人的金币和收入，请按 <b>Alt+S</b>，或打开菜单并选择“状态表”。"
 
 #. [event]: id=immobile_derelict
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:198
 msgid "Makeshift Shipyard"
-msgstr ""
+msgstr "临时船坞"
 
 #. [message]: speaker=Maudie
 #. "fish" is meant to be an insulting way to refer to merfolk
@@ -1671,7 +1655,7 @@ msgstr ""
 msgid ""
 "Tut-tut, the mermaid followed me all this way? Show some deference, fish. Soon "
 "you’ll be calling me your lord."
-msgstr ""
+msgstr "啧啧，这条人鱼竟一路跟着我来到这里？放尊重点，鱼。很快你就得称我为领主了。"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:252
@@ -1679,16 +1663,17 @@ msgid ""
 "It’s not just merfolk who followed you here. I’m here to avenge my brother, you "
 "soulless murderer!"
 msgstr ""
+"跟着你来到这里的可不只是人鱼。我是来为我哥哥报仇的，你这没有灵魂的杀人凶手！"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:256
 msgid "My, such language. Who in the world are you talking about?"
-msgstr ""
+msgstr "哎哟，真是粗鲁呢。你到底在说谁呀？"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:260
 msgid "My brother! The mustached javelineer you drowned not two days ago?"
-msgstr ""
+msgstr "我哥哥！不就是不到两天前被你淹死的那个留胡子的标枪手？"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:264
@@ -1697,6 +1682,8 @@ msgid ""
 "beaten up about his death, I’d be happy to help you join him. Shipmaster, is my "
 "fleet ready?"
 msgstr ""
+"抱歉，小甜心，你们这些小人儿在我看来都长一个样。但既然你为他的死这么伤心欲绝，我很"
+"乐意帮你下去陪他。船长，我的舰队准备好了吗？"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:268
@@ -1704,6 +1691,7 @@ msgid ""
 "Not yet, milady. As we’ve discussed, repairing derelicts takes quite some time. "
 "It might still be weeks—"
 msgstr ""
+"还没有，夫人。正如我们讨论过的，修复那些废船需要相当长的时间。可能还要好几周——"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:272
@@ -1712,40 +1700,42 @@ msgid ""
 "business with the freed prisoners has given me a terrible headache. I’m really "
 "not in the mood to entertain riff-raff."
 msgstr ""
+"好了好了，我现在想起来了。只是……你去把这些农民打发掉，好吗？放出来的囚犯的那档子事"
+"让我头疼得要命。我可真没心情招待这些下三滥。"
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:280
 msgid "Defeat Lady Maudie"
-msgstr ""
+msgstr "击败莫迪夫人"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:316
 msgid "They’re getting closer. Shipmaster, how long until the fleet is finished?!"
-msgstr ""
+msgstr "他们越来越近了。船长，舰队还要多久才能完成？！"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:320
 msgid "Madam, I’ve told you, it might still be weeks—"
-msgstr ""
+msgstr "夫人，我已经告诉过您，可能还要好几周——"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:326
 msgid ""
 "They’re getting closer. And my shipmaster got himself killed... Do I have to do "
 "everything myself?"
-msgstr ""
+msgstr "他们越来越近了。我的船长还把自己给弄死了……我难道什么事都得亲自动手吗？"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:332
 msgid ""
 "Fine! Since these ships cannot serve me in any useful capacity, set them ablaze "
 "and send them to run down anything in the water!"
-msgstr ""
+msgstr "好！既然这些船对我再无用处，就把它们点燃，让它们去撞沉水里的一切吧！"
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:349
 msgid "Know Thy Enemy"
-msgstr ""
+msgstr "了解你的敌人"
 
 #. [display_tip]
 #. knowing about the Fireship specifically isn't that important (although it
@@ -1756,7 +1746,7 @@ msgstr ""
 #. like this is a deliberate design choice
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:351
 msgid "A unit’s statistics determine the best strategy for fighting them."
-msgstr ""
+msgstr "单位的属性决定了对抗他们的最佳策略。"
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:353
@@ -1765,6 +1755,9 @@ msgid ""
 "melee combat. But their <i>deteriorate</i> ability drains their health\n"
 "every turn, and being ships they cannot chase you onto land."
 msgstr ""
+"例如，莫迪的新火船能在近战中\n"
+"造成巨大的伤害。但它们的<b>劣化</b>能力会让它们每回合\n"
+"消耗自身生命值，而作为船只，它们无法到陆地上追捕你。"
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:357
@@ -1774,12 +1767,15 @@ msgid ""
 "already, consider checking new units’ stats to identify any\n"
 "weaknesses they may have."
 msgstr ""
+"虽然许多单位是通用型的，但其他单位——比如火船——\n"
+"有着明确的强项和弱点。不妨查看新单位的属性，\n"
+"找出它们可能存在的弱点，如果你还没有这么做。"
 
 #. [message]: speaker=Thea
 #. Princess Bride movie reference
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:378
 msgid "My name is Thea Nicolin. You killed my brother! Prepare to die!!"
-msgstr ""
+msgstr "我叫西娅·尼科林。你杀了我哥哥！准备去死吧！！"
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
@@ -1788,6 +1784,8 @@ msgid ""
 "Get away from my ship, you low-born churl! You’re all just leeches! The Bay "
 "should be <i>mine</i>, not yours!"
 msgstr ""
+"给我滚出我的船，你这等卑贱的刁民！你们都只是吸血鬼！珍珠湾应该是<b>我的</b>，而不"
+"是你们的！"
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
@@ -1796,6 +1794,8 @@ msgid ""
 "Get away from my ship, you filthy fish! You’re all just leeches! The Bay should "
 "be <i>mine</i>, not yours!"
 msgstr ""
+"给我滚出我的船，你这肮脏的鱼类！你们都只是吸血鬼！珍珠湾应该是<b>我的</b>，而不是"
+"你们的！"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:409
@@ -1804,20 +1804,22 @@ msgid ""
 "top, and we would have stayed there if those idiot kings hadn’t stolen it from us "
 "and given it to the merfolk instead."
 msgstr ""
+"它理应属于我和我的血脉！我的高贵祖先奋战才登上顶峰，如果不是那些蠢货国王从我们手中"
+"夺走并把它给了人鱼，我们本可以一直待在那里。"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:413
 msgid ""
 "You’re talking about when the Bay was first awarded to the merfolk? But that was "
 "over three hundred years ago!"
-msgstr ""
+msgstr "你说的是珍珠湾首次被授予人鱼的时候？但那已经是三百多年前了！"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:417
 msgid ""
 "And my line <i>has not forgotten</i>! It should have been <i>me</i> who inherited "
 "the pearls!"
-msgstr ""
+msgstr "而我的血脉<b>从未忘记</b>！本该继承珍珠的是<b>我</b>！"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:419
@@ -1826,6 +1828,8 @@ msgid ""
 "a villa instead of a smelly, grungy, fish-smelling pirate ship... oh, I’m going "
 "to be seasick again..."
 msgstr ""
+"吃鱼子酱而不是硬饼干，由奴隶而不是亡命徒侍候，住在别墅里而不是又臭又脏、满是鱼腥味"
+"的海盗船上……哦，我又要晕船了……"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:429
@@ -1833,17 +1837,19 @@ msgid ""
 "But you’re just a bunch of fish and smallfolk! It’s my right to rule! How— I "
 "mean... well, surely you can’t fault a girl for having ambition?"
 msgstr ""
+"但你们不过是一群鱼类和小民！统治是我的权利！怎——我的意思是……好吧，难道你能责怪一个"
+"女孩有野心吗？"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:453
 msgid "We’re sinking. Someone, stop the sinking! No. No! I can’t swim!!"
-msgstr ""
+msgstr "船要沉了。来人，快阻止它沉下去！不。不！我不会游泳！！"
 
 #. [message]: speaker=Thea
 #. Echoing Maudie's lines from S04 and S02.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:460
 msgid "(grim) Ta ta."
-msgstr ""
+msgstr "（阴沉）再见。"
 
 #. [scenario]: id=06_Epilogue
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/06_Epilogue.cfg:6
@@ -1859,6 +1865,9 @@ msgid ""
 "shipyard, then set sail once more for their home, where they were greeted with a "
 "resounding cheer."
 msgstr ""
+"莫迪战败后，她幸存的支持者四散奔逃，被迪翁德拉和她的人鱼部众紧追不舍。村民们动手拆"
+"毁并洗劫了海盗船坞，随后再次扬帆启航，返回家园；在那里，迎接他们的是响彻云霄的欢"
+"呼。"
 
 #. [part]
 #. epilogue intro
@@ -1870,6 +1879,9 @@ msgid ""
 "Constable Thea took it upon herself to distribute food and supplies, and soon "
 "became the de-facto leader of the Peninsula’s human community."
 msgstr ""
+"邻近的小村一度遭到劫掠而变得空荡，随着近期重获自由的居民回归，又开始重新有了人烟。"
+"许多人死于海盗袭击，但活下来的人更多，而莫迪夫人舰队的残部如今成了丰厚的战利品。治"
+"安官西娅主动承担起分发食物与补给的责任，很快便成为半岛人类社群实际上的领袖。"
 
 #. [part]
 #. epilogue intro. The "next serious threat" is Asheviere's orcs' takeover, as
@@ -1879,6 +1891,7 @@ msgid ""
 "Untouched by the fighting, the merfolk city at the Bay of Pearls continued to "
 "prosper. It would be many decades until the next serious threat."
 msgstr ""
+"珍珠湾的人鱼城未受战火波及，继续繁荣兴盛。直到数十年后，下一次严峻的威胁才会到来。"
 
 #. [part]
 #. epilogue intro
@@ -1889,23 +1902,26 @@ msgid ""
 "of orc and lizard, siege and ambush. But that story — King Garard’s war — is a "
 "tale for another hero..."
 msgstr ""
+"终于，许多年后，村长雷尔和他那规模已大为缩减的队伍服役期满，疲惫地返回了洛彻姆。西"
+"娅的父亲语气阴沉，谈起兽人与蜥蜴人、围攻与伏击。但那个故事——伽拉德国王之战——是属于"
+"另一位英雄的传说……"
 
 #. [unit_type]: id=Cage, race=mechanical
 #: data/campaigns/Of_Pearls_and_Pirates/units/Cage.cfg:5
 msgid "Caged Slave"
-msgstr ""
+msgstr "囚笼奴隶"
 
 #. [unit_type]: id=Fishing Boat
 #. [unit_type]: id=Fishing Boat Desolation
 #: data/campaigns/Of_Pearls_and_Pirates/units/Variations.cfg:9
 #: data/campaigns/Of_Pearls_and_Pirates/units/Variations.cfg:24
 msgid "Fishing Boat"
-msgstr ""
+msgstr "渔船"
 
 #. [side]
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:21
 msgid "Villagers"
-msgstr ""
+msgstr "村民"
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:38
 msgid "Thea"
@@ -1923,12 +1939,12 @@ msgstr "无维护费用"
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:58
 msgid "Alderman Rael"
-msgstr ""
+msgstr "村长雷尔"
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:69
 msgid "Constable Elyn"
-msgstr ""
+msgstr "治安官埃琳"
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:80
 msgid "Diondra"
-msgstr ""
+msgstr "迪翁德拉"
