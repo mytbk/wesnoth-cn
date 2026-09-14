@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.20\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 15:16+0800\n"
-"Last-Translator: CloudiDust <cloudidust@gmail.com>\n"
+"PO-Revision-Date: 2026-09-14 18:35+0800\n"
+"Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -2004,7 +2004,7 @@ msgid ""
 "their forces in this region. The key is Halstead."
 msgstr ""
 "请理解这一点。无论王座之上是国王还是女王，只要韦诺王权削弱，对我们就有利。为"
-"了达到这一目的，我们必须破坏他们在这一地区的势力的稳定。其关键是哈尔斯提德。"
+"了达到这一目的，我们必须破坏他们在这一地区的势力的稳定。其关键是哈尔斯特德。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:295
@@ -2036,7 +2036,7 @@ msgid ""
 msgstr ""
 "巴尔德拉斯，你得知道，在过去一周里，有几支巡逻队又冒险渡过泰河进了安努文。一"
 "个叫蕾拉娜的女人带着一支小规模的民兵反抗他们，取得了胜利，但损失惨重。然而，"
-"王室注意到了这场叛乱，并在哈尔斯提德城内集结军队。当王室军队出征时，你们那些"
+"王室注意到了这场叛乱，并在哈尔斯特德城内集结军队。当王室军队出征时，你们那些"
 "小村庄没一个能抵抗的。你们唯一的选择就是逃往更北方，到兽人领地去。"
 
 #. [message]: speaker=Harper
@@ -2062,7 +2062,7 @@ msgid ""
 "their forces before they ever arrive at their destination."
 msgstr ""
 "我不是要你们去打仗。直接与维尔帝的军队作战，无疑是愚蠢的。然而，我们还掌握着"
-"其他手段。从丹冬克到哈尔斯提德的最快路径是通过棕色丘陵和狮鹫山脉之间的通道，"
+"其他手段。从丹冬克到哈尔斯特德的最快路径是通过棕色丘陵和狮鹫山脉之间的通道，"
 "而后穿越灰色丛林。我们正处在啃噬他们的部队的最佳位置，可以在他们到达目的地之"
 "前就严重削弱他们的力量。"
 
@@ -2079,7 +2079,7 @@ msgstr "我确信你能猜得到，治安官。"
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:327
 msgid "You means to sack Halstead itself."
-msgstr "你的意思是要摧毁哈尔斯提德本身。"
+msgstr "你的意思是要摧毁哈尔斯特德本身。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:331
@@ -2229,7 +2229,7 @@ msgid ""
 "Woods, woods, woods and more woods! Bah, that general had better have a good "
 "reason for dragging me out to Halstead with all these oafs."
 msgstr ""
-"树林、树林、树林、更多树林！呸，那将军把我和这堆蠢货一起拉到哈尔斯提德，他最"
+"树林、树林、树林、更多树林！呸，那将军把我和这堆蠢货一起拉到哈尔斯特德，他最"
 "好有个不错的理由。"
 
 #. [message]
@@ -2347,7 +2347,7 @@ msgid ""
 "burn it to the ground before the Queen’s forces rally. If we does that, "
 "Weldyn won’t have no foothold in Annuvin no more."
 msgstr ""
-"是啊……艾尔文也会这样讲的。如果俺们向哈尔斯提德进军，就得在女王的军队集结之前"
+"是啊……艾尔文也会这样讲的。如果俺们向哈尔斯特德进军，就得在女王的军队集结之前"
 "把它烧成灰。要是俺们成功了，维尔帝在安努文就再也没有据点了。"
 
 #. [message]: speaker=Helicrom
@@ -2440,7 +2440,7 @@ msgstr ""
 "这座西部哨所今日完工，它高达数百步，是一块在平原上巍然屹立的巨石。这些巨大的"
 "城墙，即使对我们魔术师来说，也是令人敬畏而恐惧的。这些塔楼之高，这些城墙之"
 "固，让这壮举看起来更像是天工而非人作。我们作为微不足道的人类塑造了这座山，这"
-"几乎是不可想象的。哈尔斯提德，正如我们所命名的，是牢不可破的。没有人能够战胜"
+"几乎是不可想象的。哈尔斯特德，正如我们所命名的，是牢不可破的。没有人能够战胜"
 "这些潮水般的石头。"
 
 #. [side]: type=General, id=Dommel
@@ -2458,12 +2458,12 @@ msgstr "瓦什纳"
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:227
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:424
 msgid "Destroy the stronghold of Halstead"
-msgstr "摧毁哈尔斯提德要塞"
+msgstr "摧毁哈尔斯特德要塞"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:258
 msgid "There be it. The stronghold of Halstead."
-msgstr "就是这儿了。哈尔斯提德要塞。"
+msgstr "就是这儿了。哈尔斯特德要塞。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:271
@@ -2483,7 +2483,7 @@ msgid ""
 msgstr ""
 "是啊，你说的有些道理。古老的故事说到，在过去，埃仁撒伐和维尔帝有些强大的真法"
 "师，比现在那些只会搞政治的家伙要厉害多了。他们帮忙平整了城市之间的土地，还铸"
-"造了哈尔斯提德的城墙，用来纪念联盟。"
+"造了哈尔斯特德的城墙，用来纪念联盟。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:281
@@ -2502,7 +2502,7 @@ msgid ""
 "Previous orders of magi did help erect the fortress. What is not made known "
 "to most is that the original construction of the castle was flawed."
 msgstr ""
-"别担心，哈尔斯提德有一个弱点。巴尔德拉斯所说的有一部分是真的。以前的法师修会"
+"别担心，哈尔斯特德有一个弱点。巴尔德拉斯所说的有一部分是真的。以前的法师修会"
 "确实帮忙建立了这座堡垒。但不为大多数人所知的是，城堡最初的建造时是有缺陷的。"
 
 #. [message]: speaker=Helicrom
@@ -2566,7 +2566,7 @@ msgid ""
 "As if those could possibly be real. I would be a fool and an oaf to let a "
 "band of stinky raider orcs into Halstead without a fight."
 msgstr ""
-"就像这些可能是真的一样。如果不经一战，就让一帮臭气熏天的兽人劫匪进入哈尔斯提"
+"就像这些可能是真的一样。如果不经一战，就让一帮臭气熏天的兽人劫匪进入哈尔斯特"
 "德，那我就是个白痴蠢货。"
 
 #. [message]: speaker=Vashna
@@ -2677,7 +2677,7 @@ msgstr "那个上午，韦诺主力部队的另一支先头部队抵达了……
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:506
 msgid ""
 "I think... I think they’re trying to storm Halstead itself... the fools!"
-msgstr "我想……我想他们要强攻哈尔斯提德本身……这群傻瓜！"
+msgstr "我想……我想他们要强攻哈尔斯特德本身……这群傻瓜！"
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:525
@@ -2702,7 +2702,7 @@ msgstr "搞定了。"
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:612
 msgid "The stronghold of Halstead began to shake..."
-msgstr "哈尔斯提德要塞开始震动……"
+msgstr "哈尔斯特德要塞开始震动……"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:618
