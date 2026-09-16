@@ -36,6 +36,7 @@
 
 * 地名/族名
   * Wesnoth: 韦诺，王国
+  * Weldyn: 维尔帝，韦诺首都
   * Alduin: 奥渡因，法师之岛
   * Lintanir: 林塔尼尔，精灵森林
   * Elensefar: 埃仁撒伐，城市
