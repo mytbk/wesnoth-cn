@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-17 11:04+0800\n"
+"PO-Revision-Date: 2026-09-17 13:03+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -202,7 +202,7 @@ msgstr "第5关：全盘上钩"
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:27
 #, fuzzy
 msgid "Complete <i>Ring of Swords</i> with Garard at full hp."
-msgstr "在伽拉德满血状态下完成《剑之环》。"
+msgstr "在伽拉德满血状态下完成《刀剑之环》。"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:27
@@ -2082,7 +2082,7 @@ msgstr "那已经是很久以前的事了，艾莲德！这是关于人类的故
 #. intend "nation" more in the "people" sense than the "country" sense.
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1567
 msgid "Deoran the exile returns home; returns to a nation that scorned him, ignored his counsel and cast him away. What will become of the life he has built amongst Lintanir’s twilight eaves?"
-msgstr ""
+msgstr "流亡者德欧兰归乡了；回到一个曾蔑视他、无视他的谏言、又将他抛弃的国度。他在林塔尼尔暮色枝檐间所筑起的人生，将何去何从？"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1571
@@ -2096,11 +2096,10 @@ msgstr "我明白自己的职责！韦诺的队长从不会对忠诚有所怀疑
 msgid "Chantal—"
 msgstr "香黛尔——"
 
-# Translated by openai with model deepseek-flash.
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1588
 msgid "I already know what you’re going to say Elende! Don’t you dare; I will when I’m ready."
-msgstr ""
+msgstr "艾莲德，我已经知道你要说什么了！你别说；等我准备好，我会的。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1594
@@ -2311,72 +2310,64 @@ msgstr "伽拉德、阿兰德、莱昂内尔或梅瑟死亡"
 msgid "Don’t rush the assault, Lionel — no need to waste good men. Take some time to stage our forces outside their walls, then attack just before the second dawn."
 msgstr "别急于发动攻势，莱昂内尔——不必白白牺牲优秀的将士。先花些时间将我们的部队在城外集结部署，待到第二道曙光将至时，再发动进攻。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:447
 msgid "We have them right where we want them. Once our forces are assembled, I shall join the battle personally and savor this victory up close."
-msgstr ""
+msgstr "他们已完全落入我们的掌控。待我军集结完毕，我将亲自参战，就近品味这场胜利。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:451
 msgid "I’m surprised the Whitefangs have been driven to the brink of defeat so quickly. Chantal speaks of them as numerous and cunning... I wonder if something is amiss."
-msgstr ""
+msgstr "我真想不到白牙氏族这么快就被逼到败亡边缘。香黛尔说他们人多势众、狡诈多端……我觉得事情有些不对劲。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:463
 msgid "An orcish shaman! On occasion I’ve known some of the other clans to use their apprentices as warriors, but Clan Whitefang usually keeps theirs far from the frontline."
-msgstr ""
+msgstr "一名兽人萨满！我偶尔也见过其他氏族让学徒充当战士，但白牙氏族通常会让自己的学徒远离前线。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:467
+#, fuzzy
 msgid "What unusual magic! I don’t think I can tap into whatever fundamental forces she was using, but now that I have her equipment I’ll bet I could figure out how to imitate that draining attack... for our next battle, at least."
-msgstr ""
+msgstr "多么诡异的魔法！我想我无法驾驭她所驱使的那种根本力量，但既然拿到了她的装备，我敢打赌我能琢磨出如何模仿那种汲取攻击……至少能在下一场战斗中用上。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:493
 msgid "I have still not recruited or recalled any soldiers! That orcish shaman we defeated was standing on a keep. We should seize it and recruit our army before we attack the orcs’ main camp."
-msgstr ""
+msgstr "我还没有征募或召回任何士兵！我们击败的那名兽人萨满曾站在一座要塞上。我们应当先占领它，征募军队，再进攻兽人的主营地。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:517
 msgid "There’s more of them coming from the north! Should we go attack?"
 msgstr "北方还有更多敌军逼近！我们要主动出击吗？"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Khovak
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:521
 msgid "Stay in our fort, worm! Stick to the plan."
-msgstr ""
+msgstr "待在咱们的堡垒里，虫子！按计划行事。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
 #. "trog" is a made-up slur referring to an orc
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:534
 msgid "You’re squatting in my summer home, trogs! No more raids for you; no more pillage and plunder. Last chance to surrender!"
-msgstr ""
+msgstr "你们这群穴居佬，竟敢霸占我的避暑行宫！你们再也别想发动袭击，再也别想烧杀劫掠。这是你们最后一次投降的机会！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:538
 msgid "Up yours, pink-skin!"
 msgstr "去你妈的，粉皮崽子！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #. Delfador is telling his master Methor about the adventures he had in the
 #. last 2 scenarios
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:563
 msgid "Hello there, master, it’s nice to see you again! You’ll never believe the adventures I’ve had. Did you know there’s an elvish prophecy about me?!"
-msgstr ""
+msgstr "师父，您好啊！很高兴再见到您！您绝对想不到我经历了怎样的冒险。您知道吗，竟然有一个关于我的精灵预言？！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:567
 msgid "(smiling) Delfador, don’t make me regret teaching you that psychedelic spell! I’m just glad you’ve made it back safe and sound."
-msgstr ""
+msgstr "（微笑）德法多，别让我后悔教了你那道迷幻法术！我只庆幸你安然无恙地回来了。"
 
 #. [message]: speaker=Shogro
 #. the whitefangs orcs are luring Garard into overextending. Shogro is bait,
@@ -2385,13 +2376,12 @@ msgstr ""
 msgid "Stinking Ushka’e! This was a terrible plan..."
 msgstr "卑鄙的乌什卡尔！这真是个糟糕的计策……"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Khovak
 #. the whitefangs orcs are luring Garard into overextending. Khovak is bait,
 #. and has just died
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:606
 msgid "Human dogs! You’ve just sealed your deaths..."
-msgstr ""
+msgstr "人类狗东西！你们这是自寻死路……"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:623
@@ -2409,19 +2399,17 @@ msgstr "是！陛下，我表现得可还够格？"
 msgid "Indeed you did. Fantastic battle, everyone, the orcs are broken!"
 msgstr "确实如此。精彩绝伦的一战，各位，兽人已然溃不成军！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:651
 msgid "Footmen — down into the fort’s dungeons! Flush out any stragglers and complete our victory."
-msgstr ""
+msgstr "步兵们——下到堡垒的地牢里去！把残余的散兵游勇统统搜出来，彻底锁定我们的胜局。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
 #. Garard thinks he's won, even though he hasn't. "Wold" means "a piece of
 #. high, open, uncultivated land or moor."
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:695
 msgid "Hah! I think “Garard’s Wold” will make a good name for the new province... or perhaps “Garard’s Triumph”? What do you think, Lionel?"
-msgstr ""
+msgstr "哈哈！我觉得“伽拉德荒原”会是这个新省份的好名字……或者叫“伽拉德的凯旋”？莱昂内尔，你觉得呢？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:700
@@ -2443,11 +2431,10 @@ msgstr "我在大约一年前与白牙氏族的首领们相见，当时是林塔
 msgid "Are you even trying to fight, Delfador!? I should have known a mage would never have the stomach for true battle; get back to Alduin where you belong!"
 msgstr "你当真在战斗吗，德法多！？我早该料到，法师终究缺乏投身真正战场的胆魄；滚回奥渡因去吧，那里才是你该待的地方！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [scenario]: id=06_Ring_of_Swords
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:6
 msgid "Ring of Swords"
-msgstr ""
+msgstr "刀剑之环"
 
 #. [side]: type=Orcish Warlord, id=Ghazgir
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:45
@@ -2464,24 +2451,22 @@ msgstr "姆库"
 msgid "Irbirch"
 msgstr "伊尔比奇"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [side]: type=Orcish Leader, id=Irbirch
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:90
 msgid "Blackcrest Orcs"
-msgstr ""
+msgstr "黑冠兽人"
 
 #. [side]: type=Saurian Flanker, id=Ssisaix
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:100
 msgid "Ssisaix"
 msgstr "西塞克斯"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [side]: type=Saurian Flanker, id=Ssisaix
 #. [side]: type=Saurian Javelineer, id=Xairr
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:106 data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:122 data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:79
 msgid "Blackcrest Saurians"
-msgstr ""
+msgstr "黑冠蜥蜴人"
 
 #. [side]: type=Saurian Javelineer, id=Xairr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:116
@@ -2493,38 +2478,34 @@ msgstr "夏伊尔"
 msgid "Chief Ushka'e"
 msgstr "乌什卡尔酋长"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Ushka'e
 #. this is the whitefang chief. He's happy that Garard has walked into his
 #. trap
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:374
 msgid "You see? What did I tell you! Their king is nothing but a feeble-minded goblin runt, who does exactly what I want. The trap is sprung! Now we crush them."
-msgstr ""
+msgstr "看见没？我怎么跟你们说的！他们的国王不过是个没脑子的地精崽子，只会乖乖照我的意思做。陷阱已经发动！现在碾碎他们。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Irbirch
 #. Irbirch is a representative of clan blackcrest, now (tenuously) allied with
 #. whitefang. The "spy" references Asheviere (probably; might be an agent of
 #. Iliah-Malal instead), who came up with the plan and told it to the orcs
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:396
 msgid "Bwahaha, when did you Whitefangs become so weak as to follow the ploy of a spy? Blackcrest warriors would never have let humans advance so far into our lands!"
-msgstr ""
+msgstr "哇哈哈哈，你们白牙氏族何时变得如此软弱，竟听信一个奸细的诡计？黑冠氏族的战士绝不会让人类深入我们的土地这么远！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Ushka'e
 #. referencing clan blackcrest's saurian allies.
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:401
 msgid "Your “warriors” only survive by cowering behind your slimy lizard allies! But since Clan Blackcrest has begged so-like trembling goblins, Clan Whitefang will agree to work together."
-msgstr ""
+msgstr "你们的“战士”只配缩在你们那些黏糊糊的蜥蜴人盟友背后苟延残喘！不过既然黑冠氏族像哆哆嗦嗦的地精一样求饶，白牙氏族就答应一起干。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Irbirch
 #. neither side has actually offered to work together. Subversive messengers
 #. poised as members of each clan and manipulated them into working together
 #. against Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:406
 msgid "Since WE begged!? YOU invited US here; your messenger was quaking in his boots when he groveled before Chief Ghuvog asking for help!"
-msgstr ""
+msgstr "是我们乞求？！是你们邀请我们来的；你们的信使在古沃格酋长面前卑躬屈膝地求援时，吓得靴子都在发抖！"
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:410
@@ -2541,26 +2522,24 @@ msgstr "巴祖尔"
 msgid "Lousy chief! Lousy plan! Next time I’m doing this on my own terms!"
 msgstr "窝囊的酋长！烂透的计划！下次这事儿，我按自己的规矩来！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
 #. Garard has just realized he's surrounded
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:456
 msgid "What devilry is this? How did they sneak in behind us. I’m separated from my generals and most of my soldiers..."
-msgstr ""
+msgstr "这是什么妖术？他们是怎么偷偷绕到我们后方的？我和我的将领和大部分士兵都失散了……"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:460
 msgid "Foul orcs, come at me then! If this is where I am to fall, I shall make such a stand as to stir the gods themselves to tears!"
 msgstr "卑鄙的兽人，那就来吧！若我今日必死于此，定当力战至死，令众神亦为之动容落泪！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Irbirch
 #. Asheviere is next to Irbirch. The player is led to think she's been
 #. captured, but it's possible she actually went of her own free will to
 #. escape Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:470
 msgid "Nice speech! I wonder what your wife thinks of it? Don’t worry, we’ll have plenty of fun with her, <b><i>and</i></b> your unborn heir. Haw, haw, haw!"
-msgstr ""
+msgstr "说得可真好！不知道你妻子对此会怎么想？别担心，我们会好好陪她玩个痛快的，<b><i>还有</i></b>你那未出世的继承人。嚯，嚯，嚯！"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:494
@@ -2604,11 +2583,10 @@ msgstr "伽拉德，艾什薇尔或梅瑟死亡"
 msgid "They ssstill sssurvive! Thisss was not the plan!"
 msgstr "他们还或者嘶嘶！计划不是这样的嘶嘶！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:611
 msgid "Then send in more warriors and finish them off, you worthless Blackcrest lizards! This is <b>our</b> homeland; our ranks swell by the hour, while these humans dwindle every moment."
-msgstr ""
+msgstr "那就再派更多战士去，把他们彻底干掉，你们这些没用的黑冠蜥蜴人！这是<b>我们</b>的家园；我们的队伍时刻都在壮大，而这些人类却在不断减少。"
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:616
@@ -2620,23 +2598,22 @@ msgstr "没用的蜥蜴！连自己的命都保不住，更别提打赢这场战
 msgid "They’re being reinforced!"
 msgstr "他们正在增援！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:668
 msgid "This alliance between races is a great ill fortune! I’ve oft known orcs to recruit trolls, but seldom saurians. And with these three factions fighting together, soon all the warlords will hear of their prowess."
-msgstr ""
+msgstr "种族之间结成这样的联盟，实属大不幸！我素来知道兽人会征募巨魔，却很少听说他们征募蜥蜴人。而这三个阵营若并肩作战，很快所有军阀都会听闻他们的威势。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:672
+#, fuzzy
 msgid "It takes a great show of strength to unite the fractious orcs, but after this disaster countless more will surely flock to the Blackcrest and Whitefang banners. Orcs follow might above all else, even clan blood."
-msgstr ""
+msgstr "要团结桀骜不驯的兽人，需要展现出强大的力量；但经此一劫，必定会有无数人投奔黑冠氏族与白牙氏族的旗帜。兽人崇奉力量高于一切，甚至高于氏族血亲。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:676
 msgid "Utter madness, all of this! The orcish clans are a hornet’s nest that should never have been kicked. Pillagers and raids we can deal with, but total war is something else entirely."
-msgstr ""
+msgstr "这一切简直是彻头彻尾的疯狂！兽人氏族是个马蜂窝，本就不该去捅。掠夺与突袭我们还能应付，但全面战争完全是另一回事。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:680
@@ -2674,12 +2651,11 @@ msgstr "来赎你的王后？真可惜，她归我了！"
 msgid "Maybe once she pops out her kid you can pay me double for both! Haw, haw, haw."
 msgstr "说不定等这位太太把孩子生下来，你就能付我双倍的双份报酬啦！嚯，嚯，嚯。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Irbirch
 #. a representative of clan blackcrest has died
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:745
 msgid "Great Chief Ghuvog will avenge me! Clan Blackcrest will never rest.. until Wesnoth is... razed to... ash..."
-msgstr ""
+msgstr "伟大的古沃格酋长会为我报仇的！黑冠氏族永不罢休……直到韦诺被……夷为……灰烬……"
 
 #. [message]: speaker=Asheviere
 #. Asheviere tries to say something, but gets interrupted
@@ -2700,13 +2676,12 @@ msgstr "夫人，现在不是时候！我们得立刻带您离开这儿！"
 msgid "Garard, I—"
 msgstr "伽拉德，我——"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
 #. both Deoran and Garard talk over Asheviere. She doesn't get any agency of
 #. her own, even from Deoran (who generally stands up for her)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:778
 msgid "Not now, woman! I have a battle to fight!"
-msgstr ""
+msgstr "现在不行，女人！我有仗要打！"
 
 #. [message]: speaker=Ghazgir
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:791
@@ -2728,12 +2703,13 @@ msgstr "好精湛的技艺嘶嘶！"
 msgid "Cursessss, I am sssslain!"
 msgstr "该死嘶嘶，我被杀了嘶嘶！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Lionel
 #. Lionel appears with reinforcments to help Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:860
+#, fuzzy
 msgid "Rally behind me, men! We swore our oaths, now we do our duty. Fight, fight through to the king!"
-msgstr ""
+msgstr "向我靠拢，弟兄们！我们曾立下誓言，如今正该尽忠职守。战斗，杀出一条血路，到国王身边去！"
 
 #. [message]: speaker=Deoran
 #. the player has survived, but failed ot rescue the queen
@@ -2757,29 +2733,26 @@ msgstr "大人，小心！"
 msgid "<b><i>NNnrgh!</i></b>"
 msgstr "<b><i>嗯——啊！</i></b>"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Lionel
 #. Lionel has appeared with reinforcments to help Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:938
 msgid "By the Sceptre, I got here just in time! They caught us completely by surprise. We’re holding a corridor but I don’t know for how long — we’ve got to get you back to Fort Garard, sir."
-msgstr ""
+msgstr "以权杖之名，我总算及时赶到！他们打了我们一个措手不及。我们正守住一条通道，但不知还能撑多久——陛下，我们必须把您送回伽拉德要塞。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:942
 msgid "Lionel! I’d almost feared this was the end."
 msgstr "莱昂内尔！我几乎以为这就到了尽头。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:955
 msgid "But how did this disaster happen? We were on the eve of victory! Did someone betray our plans to the enemy? Or am I really just that predictable!?"
-msgstr ""
+msgstr "可这场灾难究竟是怎么发生的？我们明明已胜利在望！是有人把我们的计划出卖给了敌人？还是我真就那么容易被看透！？"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:959
 msgid "Couldn’t tell you, m’lord. But there’ll be time to talk later. It looks like this war is going to last a lot longer than we’d planned..."
-msgstr ""
+msgstr "我也说不清，陛下。但日后有的是时间再谈。看来这场战争会比我们预想的久得多……"
 
 #. [scenario]: id=07_The_Great_River
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:28
@@ -2791,28 +2764,25 @@ msgstr "泰河"
 msgid "Part II"
 msgstr "第二部"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:44
 msgid "The entry of Clan Blackcrest into the war opens up a new front further west, demanding swift response. Wesnoth fully mobilizes, and a series of bloody battles at the Ford of Abez end in deadlock for both sides. The ford is heavily fortified, and river commerce grinds to a halt. Many years pass, with neither side able to gain an advantage."
-msgstr ""
+msgstr "黑冠氏族参战，在更西面开辟了新的战线，要求韦诺迅速回应。韦诺全面动员，雅碧滩的一系列血战令双方陷入僵局。渡口被重兵设防，河上贸易就此停滞。多年过去，双方都未能取得优势。"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:48
 msgid "Meanwhile, Asheviere gives birth to a healthy baby boy — the Crown Prince Eldred. Under heavy pressure from both parents and via the tutelage of General Lionel, Eldred rapidly matures into a princeling soldier. Prince Arand takes Eldred under his wing, and working in tandem the uncle and nephew are able to stabilize the eastern front around Fort Garard. Whitefang orcs still firmly hold the hills, but limited settlement begins."
-msgstr ""
+msgstr "与此同时，艾什薇尔诞下一名健康的男婴——王储埃雷德。在双亲的重压之下，又经莱昂内尔将军教导，埃雷德迅速成长为一名王子战士。阿兰德亲王将埃雷德收于翼下，叔侄二人协力，稳住了伽拉德要塞周边的东部战线。白牙氏族的兽人仍牢牢占据着丘陵，但有限的定居点开始出现。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:52
 msgid "Delfador grows older, wiser, and significantly more powerful. He makes a name for himself as the king’s premier war-mage, and quickly gains a reputation as a ferocious fighter. His bold maneuvers break through orcish lines several times at the Ford of Abez, but continually become stymied by saurian reinforcements."
-msgstr ""
+msgstr "德法多年岁渐长，愈发睿智，实力也大大增强。他作为国王麾下首屈一指的战法师声名鹊起，并很快以凶猛的战士闻名。他在雅碧滩数次以大胆的战术突破兽人战线，却屡屡被蜥蜴人的增援所阻。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:56
 msgid "As Wesnoth’s casualties continue to mount, and with no end in sight, Delfador decides to take matters into his own hands. The war-mage prepares a force of mercenary northmen to sneak behind enemy lines and determine the nature of Clan Blackcrest’s orc-saurian alliance..."
-msgstr ""
+msgstr "随着韦诺的伤亡不断攀升，战争又看不到尽头，德法多决定亲自出手。这位战法师组建了一支由北方人雇佣兵组成的队伍，潜入敌后，查明黑冠氏族的兽人与蜥蜴人联盟究竟是何性质……"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:74 data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:61 data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:33 data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:31
@@ -2824,14 +2794,13 @@ msgstr "德法多的雇佣兵"
 msgid "Ysaxis"
 msgstr "伊萨克希斯"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [side]: type=Saurian Ambusher, id=Ysaxis
 #. [side]
 #. [side]: type=Orcish Sovereign, id=Ghuvog
 #. [modify_side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:91 data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:100 data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:111 data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:176 data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:615 data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:107 data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:114
 msgid "Clan Blackcrest"
-msgstr ""
+msgstr "黑冠氏族"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [side]
@@ -2872,28 +2841,29 @@ msgstr "还有女人！"
 msgid "—and women. I’ve selected you because you’re fast, you’re stealthy, and most importantly: you work for cheap. <span size='x-small'>Lousy Eldred wouldn’t give me any of my veterans.</span>"
 msgstr "——还有女人。我特意选中你们，是因为你们身手敏捷、善于潜行，最重要的是：你们收费低廉。<span size='x-small'>那个卑鄙的埃雷德，连我麾下的老兵都不肯分给我一个。</span>"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #. cross the Great River. Not at the Ford of Abez, but near.
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:387
 msgid "This is the perfect time for us to cross! It’s dawn, which means most of the orcs and saurians will be sleeping, and there’s a heavy winter fog to cover our movements. We should have time to clear this saurian outpost and sneak past the frontline before the main orcish army wakes at nightfall."
-msgstr ""
+msgstr "现在正是我们渡河的绝佳时机！黎明时分，大多数兽人和蜥蜴人都在沉睡，而且冬日的浓雾可以掩护我们的行动。我们应当有足够时间肃清这座蜥蜴人前哨，并在兽人主力于夜幕降临时醒来之前，悄悄越过前线。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Delfador
 #. there's a large metal brazier on a mountain filled with wood. If lit, the
 #. main orcish army will see it and come to fight Delfadaor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:392
+#, fuzzy
 msgid "But first, our objective must be to destroy this outpost’s signal beacon."
-msgstr ""
+msgstr "但首先，我们的目标必须是摧毁这座前哨的信号烽火。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Delfador
 #. there's a large metal braizer on a mountain filled with wood. If lit, the
 #. main orcish army will see it and come to fight Delfadaor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:403
+#, fuzzy
 msgid "Even through the fog, a beacon fire that large will be visible for miles. If the orcish host at the Ford of Abez is alerted before we can get through to the swamp, we’ll be slaughtered!"
-msgstr ""
+msgstr "即便隔着浓雾，那么大的烽火也能在数里之外望见。若我们还没能穿过此地抵达恐惧沼泽，雅碧滩的兽人大军就被惊动，我们必遭屠戮！"
 
 #. [message]: speaker=Ritharran
 #. Ritharran is a rogue mage; a half-mage, half-bandit. "Hey genius, you
@@ -2988,7 +2958,6 @@ msgstr ""
 "凭借适当的的法术与策略，本场景（就像所有战役一样）可以\n"
 "在<i><b>无需依赖运气或冒险的攻击</b></i>的情况下完成。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:702
 msgid ""
@@ -2996,8 +2965,10 @@ msgid ""
 "are in enemy vision. Because you’re playing on the highest difficulty,\n"
 "you’ll have to keep track on your own."
 msgstr ""
+"在较低难度下，本场景会特别标出哪些六角格\n"
+"处于敌人视野中。由于你正在最高难度下游戏，\n"
+"你必须自行留意。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:706
 msgid ""
@@ -3017,13 +2988,12 @@ msgstr "那家伙在来回巡逻呢！那些蜥蜴真够丑的……"
 #. an enemy has died swiftly, without making much noise
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:738
 msgid "Urk—"
-msgstr ""
+msgstr "呃——"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:742
 msgid "Excellent! That one perished swiftly, before it had a chance to raise the alarm."
-msgstr ""
+msgstr "漂亮！那家伙死得干脆，没来得及发出警报。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:754
@@ -3078,9 +3048,8 @@ msgstr "我说了嘶嘶，点燃烽火！"
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:927
-#, fuzzy
 msgid "Cursssesss, the mountain guards are ssslain, and the beacon cannot be reached!"
-msgstr "诅咒……群山守卫已遭屠戮，信标无法抵达！"
+msgstr ""
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:937
@@ -3127,11 +3096,10 @@ msgstr "重新选择法术："
 msgid "Because the scenario’s objectives have significantly changed (in a way you couldn’t have anticipated at the scenario’s start), you now have the option to change your spells."
 msgstr "因战役目标已发生明显的变化（其变化方式远超场景开局时的预料），现在你可以选择更换法术。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1029
 msgid "We must defeat these saurians and escape before nightfall, or the main orcish camp will wake and be upon us!"
-msgstr ""
+msgstr "我们必须在夜幕降临前击败这些蜥蜴人并脱身，否则兽人主力营地就会醒来并扑向我们！"
 
 #. [message]: speaker=$unit
 #. I have escaped!
@@ -3186,17 +3154,19 @@ msgstr "胜利已获！我们隐忍不发，行踪未露，实在功不可没—
 msgid "Weldyn Court"
 msgstr "维尔帝宫廷"
 
-# Translated by openai with model qwen3.5-35b-a3b.
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:106
+#, fuzzy
 msgid "“<i>Barren Throne</i>”, “<i>Angel of Ashes</i>”; don’t people have better things to do than gossip all day about this vapid prophecy? I put my trust in steel, not seers."
-msgstr ""
+msgstr "“<i>荒芜王座</i>”、“<i>灰烬天使</i>”；人们就没别的事可做，非要整天对这空洞预言嚼舌根吗？我信赖钢铁，不信先知。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:110
+#, fuzzy
 msgid "My Liege, I fear you give insufficient weight to—"
-msgstr ""
+msgstr "陛下，臣担心您对——未给予足够重视"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Garard
@@ -3605,11 +3575,12 @@ msgstr "但“土化土块”部族必须向韦诺开战！那位伟大的存在
 msgid "The “Great One”? I had thought you matriarchs led your tribe. Tell me, elder, who is this of which you speak?"
 msgstr "“伟大者”？我以为是你们的女性族长统御着氏族。请告诉我，长者，您所提及的那位究竟是何人？"
 
-# Translated by openai with model qwen3.5-35b-a3b.
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:808
+#, fuzzy
 msgid "We sssauriansss are finally united... the Great One makesss usss... ssstrong..."
-msgstr ""
+msgstr "我们蜥蜴人嘶——终于团结了……伟大者让我们嘶——强大……"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
@@ -3987,11 +3958,12 @@ msgstr "我们必须继续前行。"
 msgid "The cold chillsss me ssso! I cannot sssurvive much longer!"
 msgstr "这刺骨的寒意……折磨得我如此痛苦！我恐怕……活不久了！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=$saurian_guide_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:301
+#, fuzzy
 msgid "Ssso... cccold... Oh Great One, I have failed you..."
-msgstr ""
+msgstr "嘶……好……好冷……哦，伟大的存在，我辜负了您……"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Delfador
@@ -5715,10 +5687,8 @@ msgstr "凯兰爵士"
 msgid "Royal cavalry, form up on me! We go at once!"
 msgstr "皇家骑兵，随我列阵！即刻出发！"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [scenario]: id=12_The_Traitor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:13
-#, fuzzy
 msgid "The Traitor"
 msgstr "叛徒"
 
@@ -6102,12 +6072,10 @@ msgstr "（震惊）你——"
 msgid "Finally."
 msgstr "终于。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:407
-#, fuzzy
 msgid "Wake! Alarm—"
-msgstr "醒醒！警报——"
+msgstr "醒来！警报——"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Eldred
@@ -6116,10 +6084,8 @@ msgstr "醒醒！警报——"
 msgid "(gulp, deep breath)"
 msgstr "（深吸一口气）"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:423
-#, fuzzy
 msgid "WAKE! ALARM! DEORAN HAS SLAIN THE KING!"
 msgstr "醒来！警报！德欧兰弑君！"
 
@@ -7663,23 +7629,18 @@ msgstr "吞噬"
 msgid "This unit regains <span color='#00FF00'>30%</span> of its maximum hitpoints whenever it kills a living unit."
 msgstr "此单位每击杀一个活人单位，即可恢复其最大生命值的 30%。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [unit_type]: id=Eyestalk, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:4
-#, fuzzy
 msgid "Eyestalk"
-msgstr "触眼怪"
+msgstr "眼茎"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [unit_type]: id=Eyestalk, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:26
 msgid "Named ‘Eyestalks’ for obvious reasons, these plant-like creatures can focus their gaze onto an unsuspecting victim to draw life energy straight out of them to replenish their own. While readily flammable and almost defenseless against melee attacks, their deadly gaze from afar is not to be underestimated."
-msgstr ""
+msgstr "这些类似植物的生物因为很明显的原因而被命名为‘眼茎’。它们能够凝视毫无防备的受害者，并直接从他们身上吸取生命来补充自己。虽然它们容易着火，并且面对近战攻击时几乎完全没有防御能力，但千万不能小看远方射来的凝视的致命性。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [attack]: type=arcane
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:31
-#, fuzzy
 msgid "gaze"
 msgstr "凝视"
 
@@ -7716,12 +7677,10 @@ msgstr "银背"
 msgid "The greatest of the apes are the Silverbacks, so called for their distinctive rear coloration. Smaller than an ogre but much more muscular, the eldest of these creatures are said to possess the strength of a dozen men."
 msgstr "猿类之中最为尊强者，首推银背猿。其名源自其背部独特的色泽。其体型虽不及巨怪，却更为壮硕；传闻族中长者，力能抵十二壮士。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Silverback.cfg:31
-#, fuzzy
 msgid "fist"
-msgstr "拳"
+msgstr "拳头"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [unit_type]: id=Orcish Adept, race=orc, gender=female
@@ -7815,19 +7774,15 @@ msgstr "蜥蜴人信徒"
 msgid "Young saurians particularly keen on the magical arts are trained as Devotees. Although they still lack the strength of Augurs and Prophets, they can still use their abilities to defend their clan in times of need."
 msgstr "年轻的蜥蜴人若对魔法天资敏锐，将被培养为“侍奉者”。尽管他们尚不及预言者与先知那般力量强大，但关键时刻，仍能以自身能力守护部族。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [attack]: type=cold
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:54
-#, fuzzy
 msgid "curse"
 msgstr "诅咒"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [unit_type]: id=Saurian Juvenile, race=lizard
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Juvenile.cfg:5
-#, fuzzy
 msgid "Saurian Juvenile"
-msgstr "幼蜥"
+msgstr "蜥蜴人幼体"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [unit_type]: id=Saurian Juvenile, race=lizard
@@ -7882,12 +7837,10 @@ msgstr "咕噜，咕噜，咕噜。"
 msgid "Fsss crackle hiss."
 msgstr "嘶——！咔嚓，嘶嘶。"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:80
-#, fuzzy
 msgid "missile"
-msgstr "飞弹"
+msgstr "魔法飞弹"
 
 # Translated by openai with model qwen3.5-35b-a3b.
 #. [floating_text]
@@ -8186,31 +8139,23 @@ msgstr "我辜负了王国和使命……"
 msgid "A horse! A horse! My kingdom for a horse..."
 msgstr "战马！战马！愿用我的王国换一匹战马……"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:632
-#, fuzzy
 msgid "It’s finally over..."
-msgstr "一切都结束了……"
+msgstr "终于结束了……"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:642
-#, fuzzy
 msgid "Blasted orcs..."
 msgstr "该死的兽人……"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:654
-#, fuzzy
 msgid "Nobody can cheat death forever..."
 msgstr "无人能永远欺瞒死神……"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:665
-#, fuzzy
 msgid "Deoran, I never had a chance to tell you—"
 msgstr "德欧兰，我从未有机会告诉你——"
 
@@ -8228,10 +8173,8 @@ msgstr "老大，我这身子骨有点不太受用……"
 msgid "I ain’t feelin’ too hot..."
 msgstr "这天气……可不太妙啊……"
 
-# Translated by openai with model qwen3.5-35b-a3b.
 #. [message]: speaker=Barin
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:696
-#, fuzzy
 msgid "I shoulda never left my swamp..."
 msgstr "我本不该离开我的沼泽……"
 
