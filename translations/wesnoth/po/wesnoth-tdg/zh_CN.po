@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-17 20:49+0800\n"
+"PO-Revision-Date: 2026-09-18 15:07+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -13,6 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.9\n"
 
+# 按照战役文本来解读，“欺天”指欺骗天子、欺骗天命、欺骗天道，与预言主题呼应。按照后来人写的注释，“天”也可以指代“天下、王权、天命所归”的含义。
 #. [editor_group]: id=the_deceivers_gambit
 #. [campaign]: id=The Deceivers Gambit 1
 #. [achievement_group]
