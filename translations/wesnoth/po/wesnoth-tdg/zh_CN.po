@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 22:49+0800\n"
+"PO-Revision-Date: 2026-09-20 23:04+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -6270,8 +6270,8 @@ msgstr ""
 "……但我不是傻瓜。韦诺已经厌倦了战争，而你们的领主伽拉德最是慈悲。我会饶你一"
 "命，也会饶你麾下战士一命，但有一个条件。\n"
 "\n"
-"你必须在此立誓：将你在此地的氏族，以及伽拉德堡周边山丘中的白牙氏族，一并召集"
-"起来。你们要离开这片土地，只要我一息尚存，就永远不得返回，违者处死！"
+"你必须在此立誓：将你在此地的氏族，以及伽拉德要塞周边山丘中的白牙氏族，一并召"
+"集起来。你们要离开这片土地，只要我一息尚存，就永远不得返回，违者处死！"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:986
@@ -6593,8 +6593,8 @@ msgid ""
 "guarding Fort Garard. Come to celebrate the war’s end with us, did you? It "
 "is good to see you again."
 msgstr ""
-"孩子？真是意外之喜；我还以为你和你叔父在一起，守着伽拉德堡。你是来和我们一起"
-"庆祝战争结束的吗？很高兴再次见到你。"
+"孩子？真是意外之喜；我还以为你和你叔父在一起，守着伽拉德要塞。你是来和我们一"
+"起庆祝战争结束的吗？很高兴再次见到你。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:394
@@ -6623,8 +6623,8 @@ msgid ""
 "seized control of Fort Garard. My bodyguards and I tried to stop him, but we "
 "didn’t even get close. I barely made it out alive."
 msgstr ""
-"他找到了圣火权杖。他宣称自己有权继承王位，并夺取了伽拉德堡的控制权。我和我的"
-"护卫试图阻止他，可我们连靠近都做不到。我好不容易才活着逃出来。"
+"他找到了圣火权杖。他宣称自己有权继承王位，并夺取了伽拉德要塞的控制权。我和我"
+"的护卫试图阻止他，可我们连靠近都做不到。我好不容易才活着逃出来。"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:420
@@ -6672,7 +6672,7 @@ msgid ""
 "the only ones I still trust. Ride to Fort Garard and burn it to the ground!"
 msgstr ""
 "德法多，接管骑兵的指挥权；我的私人皇家骑兵——他们是我如今唯一还能信任的人。骑"
-"往伽拉德堡，把它烧成灰烬！"
+"往伽拉德要塞，把它烧成灰烬！"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:457
@@ -6956,8 +6956,8 @@ msgstr ""
 "然而这消息刚一传来，我和我的卫队便遭到埃雷德本人袭击，他竟胆大包天，甚至敢于"
 "在白昼动手！\n"
 "\n"
-"我杀死了他数名战士，重创了年轻的王子，在我的卫队被击溃前，勉强逃到了伽拉德"
-"堡。"
+"我杀死了他数名战士，重创了年轻的王子，在我的卫队被击溃前，勉强逃到了伽拉德要"
+"塞。"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:603
