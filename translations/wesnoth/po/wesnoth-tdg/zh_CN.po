@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 23:04+0800\n"
+"PO-Revision-Date: 2026-09-21 15:18+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -67,7 +67,7 @@ msgstr "战役设计"
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:80
 msgid "Setting and Story"
-msgstr "设定与"
+msgstr "设定与故事"
 
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:86
@@ -1196,7 +1196,7 @@ msgstr "梅瑟或学徒死亡"
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:340
 msgid "Defeat a Goblin Rouser to rout their entourage."
-msgstr "击败地精煽动者，使其随从溃散。。"
+msgstr "击败地精煽动者，使其随从溃散。"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:357
@@ -1601,7 +1601,7 @@ msgid ""
 "Apprentice, what are you doing! The king commanded us to engage the goblin "
 "raiders, not the main orcish army!"
 msgstr ""
-"学徒，你在干什么！国王命令我们去拦截地精骑手者，而不是去和兽人主力军交战！"
+"学徒，你在干什么！国王命令我们去拦截地精骑手，而不是去和兽人主力军交战！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:519
@@ -2361,7 +2361,7 @@ msgstr "德法多，德欧兰，香黛尔或卡雷兹死亡"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:483
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1414
 msgid "Kalenz and Chantal will not follow you to the next scenario."
-msgstr "卡雷兹和香黛尔不会跟着你到下一幕。"
+msgstr "卡雷兹和香黛尔不会跟着你到下一幕场景。"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:450
@@ -3341,7 +3341,7 @@ msgstr "伽拉德，艾什薇尔或梅瑟死亡"
 #. the player (and Garard) is still alive. The orcs and saurians expected them to die by now
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:607
 msgid "They ssstill sssurvive! Thisss was not the plan!"
-msgstr "他们还或者嘶嘶！计划不是这样的嘶嘶！"
+msgstr "他们还活着嘶嘶！计划不是这样的嘶嘶！"
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:611
@@ -3827,7 +3827,7 @@ msgid ""
 "be completed\n"
 "<i><b>without relying on luck or risky attacks.</b></i>"
 msgstr ""
-"凭借适当的的法术与策略，本场景（就像所有战役一样）可以\n"
+"凭借适当的法术与策略，本场景（就像所有战役一样）可以\n"
 "在<i><b>无需依赖运气或冒险的攻击</b></i>的情况下完成。"
 
 #. [object]
@@ -3847,7 +3847,7 @@ msgid ""
 "With the right spells and strategy, this scenario (like all campaigns)\n"
 "can be completed <i><b>without relying on luck or risky attacks.</b></i>"
 msgstr ""
-"凭借适当的的法术与策略，本场景（就像所有战役一样）\n"
+"凭借适当的法术与策略，本场景（就像所有战役一样）\n"
 "可以在<i><b>无需依赖运气或冒险的攻击</b></i>的情况下完成。"
 
 #. [message]: speaker=Lynyan
@@ -7039,7 +7039,7 @@ msgstr "他在那儿！抓住他！"
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:713
 msgid "Huh? Wha—"
-msgstr "？什——"
+msgstr "哈？什——"
 
 #. [scenario]: id=13_Revelry_Revisited
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:26
@@ -8669,7 +8669,7 @@ msgid ""
 "rebels. Neither side wins a decisive military victory."
 msgstr ""
 "精疲力竭的德法多仍英勇地与埃雷德——如今已是艾什薇尔——的军队作战，但来自维尔帝"
-"的援军最终击退了处于困境的的反抗军。双方都未能取得决定性的军事胜利。"
+"的援军最终击退了处于困境的反抗军。双方都未能取得决定性的军事胜利。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1566
