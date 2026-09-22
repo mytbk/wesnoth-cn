@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-21 15:32+0800\n"
+"PO-Revision-Date: 2026-09-22 12:04+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -2762,6 +2762,8 @@ msgid ""
 "Spend 16 XP to disallow magical attacks in a 3-hex radius, until cancelled."
 msgstr "消耗16点经验值，在3格范围内禁止魔法攻击，直至效果被取消。"
 
+# 注意 ash 是 Asheviere 的前三个字母，这里把 angel of ashes 翻译为“艾烬天使”体现这种双关性。
+# “艾烬”作为一个自造词，字面上读作“艾草烧成的灰烬”，但读起来就像一个称号或名字。
 #. [message]
 #. referencing the civil war when Asheviere takes power
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1810
@@ -2771,8 +2773,8 @@ msgid ""
 "of mankind will be broken, and flames shall blaze anew across the embers of "
 "Haldric’s people."
 msgstr ""
-"兄弟相争，父子相残。自荒芜的王座之上，将升起一位灰烬天使；既伟大，又可怖。人"
-"类脆弱的平衡将被打破，烈焰将在哈德里克子民的余烬中重燃。"
+"兄弟相争，父子相残。 枯朽王座之上，将升起艾烬天使；至伟亦至怖。人族之衡将倾，"
+"烈焰复燃于哈德里克子民之灰烬。"
 
 #. [event]: type=Delfador L4, id=delfador_mirror4
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1821
@@ -2790,8 +2792,7 @@ msgid ""
 "Black soot rains over Weldyn. The line of kings sundered; the ruby of the "
 "wesfolk restored. The nameless son and the ashen daughter."
 msgstr ""
-"黑色的烟灰如雨般落在维尔帝。王统崩裂；韦福克人的红宝石重归。无名之子与灰烬之"
-"女。"
+"黑烬如雨，覆维尔帝。王统崩裂；韦福克人的红宝石重归。无名之子与艾烬之女。"
 
 #. [message]
 #. referencing Delfador's choice in S10x
@@ -2802,8 +2803,8 @@ msgid ""
 "the power to alter the currents of time; to rewrite the future that is "
 "written."
 msgstr ""
-"但这一命运并非唯一的道路。奥渡因的法师，你正站在命运丝线的纽结之上，碎片的交"
-"汇之处。在短暂的一瞬，你将拥有改变时间之流的力量；改写那已然写就的未来。"
+"然此非唯一之路。奥渡因之法师，汝立于命运丝缕之结，碎片汇聚之枢。一瞬之间，汝"
+"将握改写时间之流、重订已书未来之力。"
 
 #. [message]
 #. referencing Delfador's choice in S10x. He can either listen to a drunk Garard and kill Garard's brother Arand based on false reports of a betrayal, or refuse, stay with Garard, and find out more about Arand before attacking
@@ -2813,8 +2814,8 @@ msgid ""
 "that fire that you possess, but the gleaming light of truth instead. Quench "
 "the flames of fear before all your world is consumed."
 msgstr ""
-"当那一刻来临时，请记住……勿以汝所持之火降下毁灭，当赐真理之耀光。在恐惧的烈焰"
-"吞噬你的整个世界之前，将其扑灭。"
+"当彼之时，谨记……汝所秉之火，非为毁世之焰，当化真理之耀光。扑灭恐惧之焰，免汝"
+"世界尽焚。"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1939
@@ -4050,7 +4051,7 @@ msgid ""
 "things to do than gossip all day about this vapid prophecy? I put my trust "
 "in steel, not seers."
 msgstr ""
-"“<i>荒芜王座</i>”、“<i>灰烬天使</i>”；人们就没别的事可做，非要整天对这空洞的"
+"“<b>枯朽王座</b>”、“<b>艾烬天使</b>”；人们就没别的事可做，非要整天对这空洞的"
 "预言嚼舌根吗？我信赖钢铁，不信预言家。"
 
 #. [message]: speaker=Deoran
@@ -4570,8 +4571,8 @@ msgid ""
 "possess, but the gleaming light of truth instead.”</i> Surely this was not "
 "the event that she referred to?"
 msgstr ""
-"……数十年前，一位精灵预言家曾对我言及<i>“黑暗沼泽”</i>，并嘱我：<i>“勿以所持之"
-"火降下毁灭，当赐真理之耀光。”</i>这想必并非她所指之事吧？"
+"……数十年前，一位精灵预言家曾对我言及<i>“黑暗沼泽”</i>，并嘱我：<i>“所秉之火，"
+"非为毁世之焰，当化真理之耀光。”</i>这想必并非她所指之事吧？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:915
@@ -8122,12 +8123,12 @@ msgid ""
 "what nightmares are these that are prophesied to arise from my failure? The "
 "coming years will be dark indeed."
 msgstr ""
-"我曾受此警告……<i>“勿降毁灭，当赐真理之耀光”</i>；<i>“君王世系已断”</i>——若非"
+"我曾受此警告……<i>“非为毁世之焰，当化真理之耀光”</i>；<i>“王统崩裂”</i>——若非"
 "指我袭击阿兰德，预言家所指还能为何？\n"
 "\n"
-"时至今日，我仍一无所悟！<i>“自荒芜王座之上，将升起灰烬天使”</i>——<i>“无名之子"
-"与灰烬之女”</i>——这些因我之败而注定兴起的，究竟是怎样的梦魇？此后岁月，定将晦"
-"暗无光。"
+"时至今日，我仍一无所悟！<i>“枯朽王座之上，将升起艾烬天使”</i>——<i>“无名之子与"
+"艾烬之女”</i>——这些因我之败而注定兴起的，究竟是怎样的梦魇？此后岁月，定将晦暗"
+"无光。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:153
