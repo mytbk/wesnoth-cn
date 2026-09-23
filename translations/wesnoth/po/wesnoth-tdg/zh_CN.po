@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-22 20:13+0800\n"
+"PO-Revision-Date: 2026-09-23 13:58+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: none\n"
 "Language: zh_CN\n"
@@ -938,22 +938,21 @@ msgstr "那么我这一票是决定性的一票。很好，我已经做好决定
 msgid ""
 "<i>The Deceiver weaves the twine encircling the puppets in the court of "
 "royals.</i>"
-msgstr "<i>欺天者捻线为网，缠缚王庭中的傀儡。</i>"
+msgstr "<b>欺天者捻线为网，缚朝堂众傀儡于股掌。</b>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:594
 msgid ""
 "<i>Fatherless prince and sovereignless king, the balance of man hangs upon "
 "this thread.</i>"
-msgstr "<i>无父的王子，无权的君王，人类之平衡皆系于此线。</i>"
+msgstr "<b>无父之子，失邦之王，人族存续系此一线。</b>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:598
 msgid ""
 "<i>Should force and fire brandish themselves where wisdom and pity are left "
 "wanting, this string of fate shall inexorably be sundered.</i>"
-msgstr ""
-"<i>若力量与火焰在智慧与怜悯匮乏之处逞威，命运之线必将无可挽回地断裂。</i>"
+msgstr "<b>若以力与火逞威，而置智与悯于不顾，则天命之弦，必断无疑。</b>"
 
 #. [message]: speaker=Leollyn
 #. the screen has faded back to normal, and master Leollyn is annoyed that Delfador wasn't paying attention
@@ -2741,9 +2740,7 @@ msgstr "花费4经验以获得飞行和散兵能力，直到你的下一个回�
 msgid ""
 "I see secrets in the dark; a pale spy slips their bonds. A death, a "
 "deceiver. Ringed swords, cold blood, false friends."
-msgstr ""
-"我窥见黑暗中的秘密；一位苍白的间谍挣脱桎梏。一桩死亡，一位欺世者。环纹之剑，"
-"冰冷之血，虚伪之友。"
+msgstr "暗中窥秘，素衣细作挣脱枷锁。一死，一欺。环纹之剑，冰冷之血，虚伪之友。"
 
 #. [message]
 #. referencing Delfador's adventures in scenarios 8-10, where he works with (or kills) poachers to fight saurians, then fights undead and a ghost given the appearance of a living drake.
@@ -2752,8 +2749,8 @@ msgid ""
 "The dark swamp looms. Purses and poachers, mirror and smoke. A figure of "
 "shadow cloaked in the spirits of the dead. Battles won while wars are lost."
 msgstr ""
-"黑暗沼泽迫近。钱袋与偷猎者，镜与烟。一道身披亡者之灵的暗影。赢得了战斗，却输"
-"掉了战争。"
+"黑暗沼泽将临。钱袋与偷猎者，镜与烟。暗影一道，披亡者之灵。赢得了战斗，却输掉"
+"了战争。"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1785
