@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-24 22:48+0800\n"
+"PO-Revision-Date: 2026-09-25 21:03+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -67,7 +67,7 @@ msgid ""
 "<i>Of Pearls and Pirates</i>"
 msgstr ""
 "传奇续章：\n"
-"<i>珍珠与海盗</i>"
+"《珍珠与海盗》"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:56
@@ -122,7 +122,7 @@ msgstr "美工和图形设计"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:19
 msgid "Defeat Urza Mathin in <i>Born to the Banner</i>."
-msgstr "在<i>为旗而生</i>中击败乌扎·马辛。"
+msgstr "在《为旗而生》中击败乌扎·马辛。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:19
@@ -132,19 +132,17 @@ msgstr "场景1：暴徒克星"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:20
 msgid "Defeat Urza Fastik in <i>Proven by the Sword</i>."
-msgstr "在<i>以剑为证</i>中击败乌扎·法斯提克。"
+msgstr "在《以剑为证》中击败乌扎·法斯提克。"
 
-# Translated by openai with model deepseek-flash.
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:20
-#, fuzzy
 msgid "Scenario 2: Trapper Trapper"
-msgstr "场景 2：捕兽者捕兽者"
+msgstr "场景2：陷阱猎人落网"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:21
 msgid "Personally defeat Urza Nalmath in <i>Vale of Tears</i>."
-msgstr "在<i>泪滴山谷</i>中亲自击败乌扎·纳尔马什。"
+msgstr "在《泪滴山谷》中亲自击败乌扎·纳尔马什。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:21
@@ -154,7 +152,7 @@ msgstr "场景3：盗贼杀手"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:22
 msgid "Defeat all enemy units in <i>Choice in the Fog</i>."
-msgstr "在 <i>雾中抉择</i> 中击败所有敌方单位。"
+msgstr "在《雾中抉择》中击败所有敌方单位。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:22
@@ -164,7 +162,7 @@ msgstr "场景4：焦土政策"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:23
 msgid "Complete <i>The Long March</i> in 10 turns or less."
-msgstr "在10回合内完成<i>长途行军</i>。"
+msgstr "在10回合内完成《长途行军》。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:23
@@ -174,7 +172,7 @@ msgstr "场景5a：急行军"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:24
 msgid "Defeat any enemy leader in <i>Pebbles in the Flood</i>."
-msgstr "在<i>狂洪危卵</i>中击败任意敌方首领。"
+msgstr "在《狂洪危卵》中击败任意敌方首领。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:24
@@ -186,31 +184,27 @@ msgstr "场景5b：似不可能"
 msgid ""
 "Complete the campaign after playing the secret <i>Into the Depths</i> "
 "scenario."
-msgstr "在打完秘密的<i>深入地下</i>场景之后完成战役。"
+msgstr "在打完秘密的《深入地下》场景之后完成战役。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:25
 msgid "Scenario 5c: Rocks Fall, Everyone Dies"
 msgstr "场景5c：山崩地裂，无人幸免"
 
-# Translated by openai with model deepseek-flash.
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:26
-#, fuzzy
 msgid "Lose <i>Vengeance</i> by defeating your enemy."
-msgstr "因击败你的敌人而输掉 <b>复仇</b>。"
+msgstr "因击败你的敌人而输掉《复仇怒火》。"
 
-# Translated by openai with model deepseek-flash.
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:26
-#, fuzzy
 msgid "Scenario 6a: Oops..."
-msgstr "场景 6a：哎呀……"
+msgstr "场景6a：哎呀……"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:27
 msgid "Complete <i>The Tides of War</i> before receiving reinforcements."
-msgstr "在获得增援前完成<i>战争之潮</i>。"
+msgstr "在获得增援前完成《战争之潮》。"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:27
@@ -3538,12 +3532,10 @@ msgstr ""
 msgid "...Humans, we should leave."
 msgstr "……人类，我们该走了。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:686
-#, fuzzy
 msgid "What? But what about rescuing—"
-msgstr "什么？那救援——"
+msgstr "什么？可救援怎么办——"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:690
@@ -3623,11 +3615,9 @@ msgid ""
 "Mebrin and his undead on our own."
 msgstr "看来这就是依靠亡命徒的代价……我们得靠自己了结梅布林和他的亡灵了。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:863
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:235
-#, fuzzy
 msgid "Who comes... My old tormentors?"
 msgstr "谁来了……我昔日的折磨者？"
 
@@ -3650,7 +3640,6 @@ msgstr ""
 "哈德里克在上！我差点还希望那位女士说对了，可现在……不管那精灵生前是什么，死后"
 "他都变成了远比那糟糕得多的东西。"
 
-# Translated by openai with model deepseek-flash.
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:868
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:240
@@ -3679,8 +3668,8 @@ msgid ""
 "I unchained myself from the shallow-mindedness of my kind and passed over "
 "into enlightenment."
 msgstr ""
-"梅布林？不，凡人，如今我被称为玛尔·莫布林。这是我从同族的浅薄心智中挣脱，踏入"
-"启蒙之境时取的名字。"
+"梅布林？不，凡人，如今我被称为玛尔·莫布林。这是我从同族的浅薄心智中挣脱，跨入"
+"开悟之境时取的名字。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:880
@@ -3728,9 +3717,9 @@ msgid ""
 "strand of black magic left my hands, there would be no turning back. But I "
 "would suffer this humiliation no longer..."
 msgstr ""
-"你们以为我软弱；在你们的鞭子下毫无力量。但我已经复仇了——我教会了你们那些孱弱"
-"同族无法控制力量的召唤之法，这些力量以你们种族的污秽和贪婪为食。我知道，一旦"
-"第一缕黑魔法离开我的手，就再也无法回头。但我不会再忍受这种羞辱了……"
+"你们以为我软弱；在你们的鞭子下毫无力量。但我已经复仇了——我教会了你们召唤那些"
+"你们孱弱同族无法驾驭的力量，那些以你们种族的污秽与贪婪为食的力量。我知道，一"
+"旦第一缕黑魔法离开我的手，就再也无法回头。但我不会再忍受这种羞辱了……"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:905
@@ -3739,8 +3728,8 @@ msgid ""
 "brought you under my thrall! The Urza brothers sought to enslave me, but it "
 "is they who became my slaves in the end."
 msgstr ""
-"你们只满足于些微把戏，你们这些蜉蝣甚至从未注意到，我正慢慢把你们纳入我的奴役"
-"之下！乌扎兄弟想奴役我，但最终成为我奴隶的却是他们。"
+"你们只满足于微末伎俩，你们这些蜉蝣甚至从未注意到，我正慢慢把你们纳入我的奴役"
+"之下！乌扎兄弟想奴役我，但最终是他们成为了我的奴隶。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:915
@@ -3771,9 +3760,9 @@ msgid ""
 "thrall! The Urza brothers sought to enslave me, but it is they who became my "
 "slaves in the end."
 msgstr ""
-"我教会了你们那些孱弱同族无法控制力量的召唤之法，这些力量以你们种族的污秽和贪"
-"婪为食。你们只满足于些微把戏，你们这些蜉蝣甚至从未注意到，我正慢慢把你们纳入"
-"我的奴役之下！乌扎兄弟想奴役我，但最终成为我奴隶的却是他们。"
+"我教会了你们召唤那些你们孱弱同族无法驾驭的力量，那些以你们种族的污秽与贪婪为"
+"食的力量。你们只满足于微末伎俩，你们这些蜉蝣甚至从未注意到，我正慢慢把你们纳"
+"入我的奴役之下！乌扎兄弟想奴役我，但最终是他们成为了我的奴隶。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:952
@@ -3783,9 +3772,9 @@ msgid ""
 "bones will dance for my pleasure! I’ll make humanity into the mindless "
 "slaves that you all deserve to be!"
 msgstr ""
-"起来吧，我的仆从，让所有鼠辈颤抖！人类将从这绿色世界上被抹去。你们的尸体会为"
-"我效劳！你们的骨头会为取悦我而跳舞！我要把人类变成你们全都活该成为的那种无脑"
-"奴隶！"
+"起来吧，我的仆从，让所有鼠辈颤抖！人类将从这绿色世界上被抹去。你们的尸体会侍"
+"奉我！你们的骸骨会为取悦我而舞！我要把人类变成你们全都活该成为的那种无脑奴"
+"隶！"
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:956
@@ -4529,7 +4518,6 @@ msgstr "梅布林……"
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:230
-#, fuzzy
 msgid ""
 "I taught the summoning of powers beyond the control of the feeble mudlings, "
 "powers that fed upon their race’s filth and greed. Content with only meagre "
@@ -4539,25 +4527,23 @@ msgid ""
 msgstr ""
 "我教他们召唤那些孱弱泥巴种无法驾驭的力量，那些以他们种族的污秽与贪婪为食的力"
 "量。他们满足于微末伎俩，甚至从未察觉我正慢慢将他们置于我的奴役之下！乌扎兄弟"
-"想奴役我，但最终成为我奴隶的却是他们。"
+"想奴役我，但最终是他们成为了我的奴隶。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:234
 msgid "Mebrin, please..."
 msgstr "梅布林, 求你了……"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:238
-#, fuzzy
 msgid ""
 "I am called Mal M’Brin now, Ethiliel. It is the name I took when I unchained "
 "myself from the shallow-mindedness of the elves and passed over into "
 "enlightenment. In a way, I am grateful to these humans. They, though "
 "indirectly, have opened my eyes to power I would have never thought possible."
 msgstr ""
-"我现在叫玛尔·莫布林，艾茜莉尔。这是我从精灵的浅薄狭隘中解脱、跨入开悟之境时取"
-"的名字。某种意义上，我要感谢这些人类。虽然只是间接地，但他们让我看到了我从未"
+"我现在叫玛尔·莫布林，艾茜莉尔。这是我从精灵的浅薄心智中解脱、跨入开悟之境时取"
+"的名字。某种意义上，我要感谢这些人类。他们，虽然只是间接地，让我看到了我从未"
 "想过可能拥有的力量。"
 
 #. [message]: speaker=Deoran
@@ -5175,49 +5161,42 @@ msgstr ""
 msgid "Defeat the undead leader"
 msgstr "击败亡灵首领"
 
-# Translated by openai with model deepseek-flash.
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:238
-#, fuzzy
 msgid ""
 "Gods... that skull, those eyes. I had almost hoped the lady was right, but "
 "now... even in the Estmarks I never thought I’d live to lay eyes on an lich."
 msgstr ""
-"老天……那颗头骨，那双眼睛。我差点就希望那位女士是对的，可现在……就算在东疆，我"
-"也从没想过自己活到能亲眼见到一个巫妖。"
+"诸神啊……那颗头骨，那双眼睛。我差点还希望那位女士说对了，可现在……就算在东界，"
+"我也没想过自己能活着亲眼见到一个巫妖。"
 
-# Translated by openai with model deepseek-flash.
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:263
-#, fuzzy
 msgid ""
 "You’ve gone mad! Whatever you once were, you are nothing but evil now! Once "
 "Captain Mari and I defeat you, these lands will finally be safe."
 msgstr ""
-"你疯了！不管你曾经是什么，你现在只剩邪恶！等玛芮上尉和我打败你，这些土地终将"
-"安全。"
+"你疯了！无论你曾经是什么，你现在除了邪恶什么也不是！一旦我和玛芮队长击败你，"
+"这片土地终将安全。"
 
-# Translated by openai with model deepseek-flash.
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:264
-#, fuzzy
 msgid ""
 "You’ve gone mad! Whatever you once were, you are nothing but evil now! Once "
 "Sir Gerrick and I defeat you, these lands will finally be safe."
 msgstr ""
-"你疯了！不管你曾经是什么，你现在只剩邪恶！等格里克爵士和我打败你，这些土地终"
-"将安全。"
+"你疯了！无论你曾经是什么，你现在除了邪恶什么也不是！一旦我和格里克爵士击败"
+"你，这片土地终将安全。"
 
 # Translated by openai with model deepseek-flash.
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:265
-#, fuzzy
 msgid ""
 "You’ve gone mad! Whatever you once were, you are nothing but evil now! Once "
 "Minister Hylas and I defeat you, these lands will finally be safe."
 msgstr ""
-"你疯了！不管你曾经是什么，你现在只剩邪恶！等海拉斯辅佐官和我打败你，这些土地"
-"终将安全。"
+"你疯了！无论你曾经是什么，你现在除了邪恶什么也不是！一旦我和格里克爵士击败"
+"你，这片土地终将安全。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:277
@@ -5344,16 +5323,15 @@ msgstr ""
 # We will make them into the mindless slaves that they deserve to be!
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:482
-#, fuzzy
 msgid ""
 "For if I was wise before, I have now become omniscient! The race of man "
 "shall be stricken off the face of the green world. Your corpses will serve "
 "me! Your bones will dance for my pleasure! I’ll make humanity into the "
 "mindless slaves that you all deserve to be!"
 msgstr ""
-"因为如果我从前算得上睿智，如今我已无所不知！人类将从这绿色世界的地表上被抹"
-"去。你们的尸体会侍奉我！你们的骸骨会为取悦我而舞！我要把人类变成你们全都活该"
-"成为的无脑奴隶！"
+"因为如果我从前算得上睿智，如今我已无所不知！人类将从这绿色世界上被抹去。你们"
+"的尸体会侍奉我！你们的骸骨会为取悦我而舞！我要把人类变成你们全都活该成为的那"
+"种无脑奴隶！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:514
@@ -5366,12 +5344,13 @@ msgid ""
 "You think yourself wise, to have followed me down into these dark depths? "
 "You have only sown the seeds of your own destruction!"
 msgstr ""
+"你以为自己很聪明，跟着我下到这片黑暗深处？你不过是在为自己播下毁灭的种子！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:528
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:589
 msgid "What the— it’s a cave-in!"
-msgstr ""
+msgstr "什么——塌方了！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:532
@@ -5379,6 +5358,8 @@ msgid ""
 "Accursed humans, you fools will never leave this place. While you frittered "
 "away your final days, Ethiliel has already begun to avenge me."
 msgstr ""
+"该死的人类，你们这些蠢货永远别想离开这里。就在你们虚度最后时光的时候，艾茜莉"
+"尔早已开始为我复仇了。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:536
@@ -5387,6 +5368,8 @@ msgid ""
 "intentions... You and I may both perish today, but my revenge has already "
 "begun..."
 msgstr ""
+"我感受过她的情绪，感受过她的意图，<b><i>助长</i></b>着她的意图……你我或许都会"
+"在今天消亡，但我的复仇早已开始……"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:593
@@ -5395,6 +5378,8 @@ msgid ""
 "vengeance on your race requires me to destroy myself, it will be well worth "
 "the sacrifice!"
 msgstr ""
+"该死的人类，你们这些蠢货永远别想离开这里。哪怕向你们这个种族复仇需要我毁灭自"
+"己，这牺牲也完全值得！"
 
 #. [scenario]: id=06a_Vengeance
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:14
@@ -5407,38 +5392,37 @@ msgstr "复仇怒火"
 msgid "Aethenwood"
 msgstr "艾森丛林"
 
-# Translated by openai with model qwen3.6-35b-a3b.
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:275
 msgid "Town Cellars"
-msgstr ""
+msgstr "城镇地窖"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:417
 msgid ""
 "C’mon, keep movin’, everyone get underground. We don’ have much time left "
 "’til—"
-msgstr ""
+msgstr "快，继续走，所有人都到地下去。我们没剩多少时间了，等到——"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:418
 msgid ""
 "Could you go any slower? Come on, everyone get underground. We don’t have "
 "much time left until—"
-msgstr ""
+msgstr "你还能再慢点吗？快点，所有人都到地下去。我们没多少时间了，等到——"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:422
 msgid ""
 "This is your last warning, humans. Return to us our sage or I shall be "
 "forced to resume our attack!"
-msgstr ""
+msgstr "这是最后的警告，人类。把我们的贤者还回来，否则我将被迫恢复进攻！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:436
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1124
 msgid "Ethiliel! What’s going on here? What have you done?!"
-msgstr ""
+msgstr "艾茜莉尔！这里怎么回事？你干了什么？！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:440
@@ -5447,6 +5431,8 @@ msgid ""
 "that snake Afalas! Does this mean you humans have reconsidered your "
 "decisions, and have finally freed Mebrin from his bonds?"
 msgstr ""
+"德欧兰——很好，你来了。更好的是，我看到你不再庇护那条毒蛇阿法拉斯了！这是否意"
+"味着你们人类已经重新考虑了自己的决定，终于把梅布林从束缚中放了出来？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:444
@@ -5455,6 +5441,8 @@ msgid ""
 "my own two eyes, heard his ravings with my own two ears! I watched him raise "
 "the dead up out of the ground!"
 msgstr ""
+"梅布林死了，艾茜莉尔。阿法拉斯是对的。我亲眼看见了巫妖玛尔·莫布林，亲耳听见了"
+"他的疯言疯语！我亲眼看着他让死者从地下唤起来！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:448
@@ -5463,6 +5451,8 @@ msgid ""
 "things of which you accuse? I have known Mebrin my whole life — you, "
 "scarcely four months. Who shall I believe?"
 msgstr ""
+"那他的尸体在哪儿，蜉蝣？你指控的那些可怕事情，证据又在哪儿？我认识梅布林一辈"
+"子——你，才不过四个月。我该相信谁？"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:452
@@ -5470,6 +5460,8 @@ msgid ""
 "No, I felt Mebrin’s elfin presence. I felt him reaching out to me, I felt "
 "him in pain! No elf would fall to undeath, much less our wisest teacher."
 msgstr ""
+"不，我感受到了梅布林的精灵气息。我感觉到他在向我伸出手，我感觉到他在痛苦中！"
+"没有精灵会堕为亡灵，更别说我们最睿智的老师了。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:456
@@ -5478,12 +5470,14 @@ msgid ""
 "fool humans’ stubbornness will be all of your undoing! Until you return "
 "Mebrin to us I have no choice but to cut you down!"
 msgstr ""
+"我不知道你们为什么就是不肯承认你们到底对他做了什么——你们这些愚蠢人类的固执会"
+"把你们全毁掉！除非你们把梅布林还给我们，否则我只能把你们砍倒！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:460
 msgid ""
 "Ethiliel, listen to yourself! ...there’s no reasoning with her, is there?"
-msgstr ""
+msgstr "艾茜莉尔，听听你自己在说什么！……根本没法跟她讲道理，对吧？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:479
@@ -5491,6 +5485,8 @@ msgid ""
 "Whether this rage is Ethiliel herself, Mebrin’s dark influence, or a mix of "
 "both, it’s clear that words alone are not going to change her mind."
 msgstr ""
+"无论这怒火是艾茜莉尔本人的，还是梅布林的黑暗影响，抑或两者兼有，显然光靠言语"
+"改变不了她的主意。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:482
@@ -5498,13 +5494,15 @@ msgid ""
 "Guess it’s time to take her down, then? Not my favorite plan, but what’s one "
 "little elf after an entire undead lich?"
 msgstr ""
+"那看来该撂倒她了？不是我喜欢的打法，可连整整一个亡灵巫妖都打过了，一个小精灵"
+"又算啥？"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:483
 msgid ""
 "Time to take her down by force? Shame to break a pretty face, but nothin’ "
 "can be as bad as fightin’ that lich."
-msgstr ""
+msgstr "该动武撂倒她了？可惜了那张漂亮脸蛋，可再糟也糟不过跟那巫妖干仗。"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:484
@@ -5512,6 +5510,8 @@ msgid ""
 "Then it seems our only option is the violent one. This is not my preferred "
 "course of action, but I will do what I must."
 msgstr ""
+"那么看来，我们唯一的选择便是诉诸武力了。这并非我所愿采取的手段，但我必须做我"
+"该做的事。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:488
@@ -5522,6 +5522,9 @@ msgid ""
 "Aethenwood. And she’s not evil, she just... really believes she’s doing the "
 "right thing."
 msgstr ""
+"不，绝对不行。我和艾茜莉尔相处得够久，足以理解她和她的文化。如果我们主动进攻"
+"并杀死一位如此重要的精灵，那么在我们的有生之年，韦诺与艾森丛林之间将再无和"
+"平。她并不邪恶，她只是……真心相信自己做得对。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:492
@@ -5530,6 +5533,8 @@ msgid ""
 "hold the walls — the self-righteous fury that drives Ethiliel can only burn "
 "for so long. Once the dust settles, the elves may finally be willing to talk."
 msgstr ""
+"我们转而前往韦斯廷。我们将在那里与城镇守军会合，守住城墙——那股自认正义、驱使"
+"着艾茜莉尔的怒火烧不了太久。等尘埃落定，精灵也许终将愿意谈判。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:501
@@ -5537,13 +5542,15 @@ msgid ""
 "Reach Westin before it falls,\n"
 "then survive until turns run out"
 msgstr ""
+"在韦斯廷陷落前抵达，\n"
+"然后坚持到回合耗尽"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:506
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:573
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:707
 msgid "The town cellars are breached"
-msgstr ""
+msgstr "城镇地窖被攻破"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:514
@@ -5556,7 +5563,7 @@ msgstr "艾茜莉尔死亡"
 #. [note]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:519
 msgid "To ‘reach Westin’, move any unit adjacent to an ally"
-msgstr ""
+msgstr "要“抵达韦斯廷”，移动任意单位使其与友军相邻"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:531
@@ -5565,20 +5572,22 @@ msgid ""
 "Urza brothers have conspired to kidnap our sage, but it is not too late! "
 "Give new orders to Deoran, to return Mebrin to his home!"
 msgstr ""
+"我听见了阿法拉斯的话。我看见了德欧兰的选择。我知道韦斯廷和乌扎兄弟合谋绑架了"
+"我们的贤者，但还不算晚！给德欧兰下达新命令，把梅布林送回他的家园！"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:534
 msgid ""
 "Lay off it, woman! I already told you we don’t have the slightest clue what "
 "you’re talking about!"
-msgstr ""
+msgstr "省省吧，女人！我早说过，我们压根不知道你在说什么！"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:535
 msgid ""
 "We cannot give what we do not have, elf. Whatever has driven you to such "
 "desperation, I urge you to reconsider."
-msgstr ""
+msgstr "我们无法交出我们没有的东西，精灵。无论是什么让你如此绝望，我劝你三思。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:539
@@ -5587,6 +5596,8 @@ msgid ""
 "this! I have known Mebrin my whole life — you, scarcely a day now. Who shall "
 "I believe?"
 msgstr ""
+"不，我感觉到梅布林在呼唤我。我感觉到他在痛苦！他需要我这样做！我认识梅布林一"
+"辈子——而你们，到现在还不到一天。我该相信谁？"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:543
@@ -5595,6 +5606,8 @@ msgid ""
 "fool humans’ stubbornness will be all of your undoing! Until Deoran returns "
 "Mebrin to us I have no choice but to cut you down!"
 msgstr ""
+"我不知道你们为什么就是不肯承认你们到底对他做了什么——你们这些愚蠢人类的固执会"
+"把你们全毁掉！在德欧兰把梅布林还给我们之前，我别无选择，只能把你们砍倒！"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:547
@@ -5603,6 +5616,8 @@ msgid ""
 "his soldiers were here to help solve it. We shall have to fight as best we "
 "can alone."
 msgstr ""
+"看来我们年轻的德欧兰惹了不小的麻烦——要是他和他的士兵在这儿帮忙解决就好了。我"
+"们只能独自尽力而战了。"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:548
@@ -5610,6 +5625,8 @@ msgid ""
 "Figures this’d all be the rookie’s fault. I knew I should’ve gone with to "
 "keep him out of trouble... Guess it’s up to us to keep the town safe."
 msgstr ""
+"果然这都得怪那菜鸟。我就知道该跟着去，免得他惹麻烦……看来只能靠我们守住镇子"
+"了。"
 
 #. [else]
 #. [event]
@@ -5623,6 +5640,8 @@ msgid ""
 "our trapdoor shut an’ barred. If we’re lucky, we can clean up this mess "
 "without any more gettin’ hurt."
 msgstr ""
+"是啊……大多数平民都安全待在地下地窖里了，活板门也关好闩上了。运气好的话，咱们"
+"能把这烂摊子收拾干净，不再有人受伤。"
 
 #. [else]
 #. [event]
@@ -5635,6 +5654,8 @@ msgid ""
 "with the trapdoor shut and barred. If we’re lucky, we can clean up this mess "
 "without any more getting hurt."
 msgstr ""
+"嗯……大部分平民都安全待在地下地窖里了，活板门也关好闩上了。运气好的话，我们能"
+"把这场乱子收拾干净，不再有人受伤。"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:555
@@ -5643,6 +5664,8 @@ msgid ""
 "elves would cut us down. We cannot attack, or we risk provoking an all-out "
 "war. Our only choice is to hold the town, and hope the elves see sense."
 msgstr ""
+"于是我们陷入了进退两难。我们不能逃，否则精灵会把我们砍倒。我们不能进攻，否则"
+"可能挑起全面战争。我们唯一的选择是守住镇子，指望精灵恢复理智。"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:556
@@ -5651,12 +5674,14 @@ msgid ""
 "cut us down. Can’t attack, or we provoke an all-out war. Guess our only "
 "option is to hold the town and hope the elves see sense."
 msgstr ""
+"进退两难。逃不了，一逃精灵就会砍倒我们。不能打，一打就是全面开战。看来只能守"
+"住镇子，指望精灵恢复理智了。"
 
 #. [message]: speaker=unit
 #. highlight that the similar-sounding Westin and Weldyn are different places
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:602
 msgid "For Weldyn! For Westin! For our home!!"
-msgstr ""
+msgstr "为了维尔帝！为了韦斯廷！为了我们的家园！！"
 
 #. [message]
 #. explicitly using the word "objectives" to remind the player that breaching the cellar door is a defeat condition
@@ -5664,14 +5689,14 @@ msgstr ""
 msgid ""
 "The elves are trying to break into the cellars! Remember our objectives — if "
 "they get among the refugees, all will be lost."
-msgstr ""
+msgstr "精灵正试图闯入地窖！记住我们的目标——一旦他们冲到难民中间，一切就完了。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:635
 msgid ""
 "Look out, more elves at the perimeter! No, wait... it’s Sir Deoran. He’s "
 "alive!"
-msgstr ""
+msgstr "当心，外围又来了更多精灵！不，等等……是德欧兰爵士。他还活着！"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:636
@@ -5679,6 +5704,7 @@ msgid ""
 "Take care! More elves approach our ramparts. No, wait... ’tis Commander "
 "Deoran. He comes to our aid!"
 msgstr ""
+"小心！更多精灵正逼近我们的壁垒。不，等等……是德欧兰指挥官。他来支援我们了！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:641
@@ -5687,6 +5713,8 @@ msgid ""
 "sorry to confess that this whole problem with the elves is rather my doing. "
 "The full story is too long to speak of now."
 msgstr ""
+"朋友们，你们好！看到镇墙仍矗立着，我松了口气，但我得抱歉地承认，和精灵之间的"
+"这场麻烦多半是我造成的。事情的全部经过现在说来话长。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:644
@@ -5695,13 +5723,15 @@ msgid ""
 "know who that is? In his absence, we have instead focused our efforts on "
 "protecting the townsfolk."
 msgstr ""
+"精灵要求我们交出某个叫“梅布林”的人——我猜你知道那是谁？既然他不在，我们只好把"
+"精力放在保护镇民上。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:645
 msgid ""
 "Figures this’d all be the rookie’s fault. While you’ve been running around "
 "causing problems, we’ve been trying to actually keep the town safe."
-msgstr ""
+msgstr "果然这都得怪那菜鸟。你到处乱跑惹麻烦的时候，我们可是在努力保住镇子。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:654
@@ -5710,6 +5740,8 @@ msgid ""
 "complete understanding of the situation than do I. If you wish to command "
 "the defense, our soldiers are at your service."
 msgstr ""
+"德欧兰，你对付这些精灵最有经验，也比我更了解局势。如果你愿意指挥防御，我们的"
+"士兵听你调遣。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:655
@@ -5718,11 +5750,13 @@ msgid ""
 "an’ a better idea o’ what’s really goin’ on. If you want to take charge, my "
 "boys’re yours to command."
 msgstr ""
+"德欧兰，听起来你对付这些精灵最有经验，也更清楚到底是怎么回事。你要是想接管指"
+"挥，我的弟兄们就听你调遣。"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:665
 msgid "Assume command of Westin’s defense"
-msgstr ""
+msgstr "接管韦斯廷防务"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:681
@@ -5731,11 +5765,13 @@ msgid ""
 "daunting the armies that oppose us, we must weather this shadow and defend "
 "our homes!"
 msgstr ""
+"我将接管指挥。现在稳住，南疆卫队的士兵们！无论与我们为敌的军队多么令人生畏，"
+"我们都必须挺过这片阴影，保卫我们的家园！"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:686
 msgid "Leave Westin’s defenders under AI control"
-msgstr ""
+msgstr "让韦斯廷守军由AI控制"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:690
@@ -5744,13 +5780,15 @@ msgid ""
 "matter how daunting the armies that oppose us, we must weather this shadow "
 "and defend our homes!"
 msgstr ""
+"韦斯廷的指挥权仍归你。稳住，南疆卫队的士兵们！无论与我们为敌的军队多么令人生"
+"畏，我们都必须挺过这片阴影，保卫我们的家园！"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:730
 msgid ""
 "You mayflies should never have interfered in our affairs. Now all your kind "
 "shall pay the price."
-msgstr ""
+msgstr "你们这些蜉蝣本就不该插手我们的事务。现在，你们所有同类都要付出代价。"
 
 #. [then]
 #. [else]
@@ -5761,6 +5799,8 @@ msgid ""
 "The capital garrison alone would make Westin’s walls impenetrable, if only "
 "they could have been contacted in time!"
 msgstr ""
+"我真恨我们如此孤立，远离北方那些大城。若能及时联系上首都驻军，仅凭他们就能让"
+"韦斯廷的城墙坚不可摧！"
 
 #. [then]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:746
@@ -5769,6 +5809,8 @@ msgid ""
 "the north. The capital garrison alone would make our walls impenetrable, if "
 "only they could have been contacted in time."
 msgstr ""
+"我们的孤立确实令人痛惜，远离北方那些大城。若能与他们及时取得联系，仅凭首都驻"
+"军便足以让我们的城墙坚不可摧。"
 
 #. [else]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:752
@@ -5777,6 +5819,8 @@ msgid ""
 "capital garrison alone would make our walls unbreakable, if only they "
 "could’ve been reached in time!"
 msgstr ""
+"我真恨咱们这么孤立，离北方那些大城那么远。要是能及时联系上，光凭首都驻军就能"
+"让咱们的城墙牢不可破！"
 
 #. [then]
 #. [event]
@@ -5788,6 +5832,9 @@ msgid ""
 "Prince Arand’s ambitions for this place, I doubt anybody — you and me "
 "included — would much care what happened here."
 msgstr ""
+"那得看维尔帝愿不愿意费心帮这种穷乡僻壤。南方行省首府，没错，可那也说明不了什"
+"么。要不是阿兰德亲王对这儿有野心，我看没人——包括你和我——会太在乎这里出什么"
+"事。"
 
 #. [then]
 #. [event]
@@ -5799,6 +5846,8 @@ msgid ""
 "have any significance at all — as well as the reason you were deployed here, "
 "Deoran."
 msgstr ""
+"即便如此，韦斯廷也又小又偏远，因此容易被别人忽视。阿兰德亲王对这里的野心，是"
+"我们还能有点分量的主要原因——也是你被派驻此地的原因，德欧兰。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:771
@@ -5808,6 +5857,8 @@ msgid ""
 "all ’is time up in Weldyn with the king, we might’ve not gotten in such "
 "trouble in th’ first place..."
 msgstr ""
+"那当然啦，要是亲王当初亲自来这儿，而不是整天待在维尔帝陪国王，咱们一开始也不"
+"至于惹上这种麻烦……"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:772
@@ -5817,38 +5868,40 @@ msgid ""
 "all his time up at Weldyn with the king, we might’ve not gotten in such "
 "trouble in the first place..."
 msgstr ""
+"当然，要是亲王当初亲自来这儿，而不是一直待在维尔帝陪国王，我们一开始也不至于"
+"惹上这种麻烦……"
 
 #. [message]
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:844
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:675
 msgid "They’ve come around behind us! Stand fast, soldiers of the South Guard!"
-msgstr ""
+msgstr "他们绕到我们背后了！坚守，南疆卫队的士兵们！"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:856
 msgid ""
 "My kin will avenge me! For every one of us you strike down... more will "
 "come..."
-msgstr ""
+msgstr "我的族人会为我报仇！你们每打倒我们一个……就会有更多人赶来……"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:863
 msgid ""
 "Every elf who dies only serves to further enrage the rest, drawing more "
 "warriors out of the Aethenwood!"
-msgstr ""
+msgstr "每一个死去的精灵只会让其余精灵更加愤怒，从艾森丛林引来更多战士！"
 
 #. [floating_text]
 #. $unit.cost will be the value of the unit; likely between 14 and 40. If translation is an issue, the exact cost can be omitted.
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:897
 msgid "$unit.cost gold refunded"
-msgstr ""
+msgstr "归还 $unit.cost 金币"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:932
 msgid "Mebrin, I’m sorry... I tried..."
-msgstr ""
+msgstr "梅布林，对不起……我尽力了……"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:939
@@ -5857,11 +5910,13 @@ msgid ""
 "Ethiliel is dead! Even if we win by force of arms today, there will never "
 "again be peace between Wesnoth and the Aethenwood... We’ve started a war..."
 msgstr ""
+"艾茜莉尔死了！就算我们今天靠武力取胜，韦诺与艾森丛林之间也再不会有和平……我们"
+"挑起了一场战争……"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:986
 msgid "Ethiliel! What in Irdya is going on here?"
-msgstr ""
+msgstr "艾茜莉尔！伊迪亚啊，这里到底出了什么事？"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:990
@@ -5869,6 +5924,8 @@ msgid ""
 "These snakes have captured Mebrin, and committed who knows what horrible "
 "atrocities against him! Galdrad, we must take him back!"
 msgstr ""
+"这些毒蛇抓走了梅布林，还对他犯下了天知道什么骇人暴行！伽德拉德，我们必须把他"
+"夺回来！"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:994
@@ -5876,16 +5933,17 @@ msgid ""
 "Kidnapped Mebrin? I have heard otherwise. Ethiliel, this is Urza Afalas of "
 "the humans."
 msgstr ""
+"绑架了梅布林？我听到的可不是这样。艾茜莉尔，这位是人类的乌扎·阿法拉斯。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1006
 msgid "We’ve met. This absolute scum, pig of a mudling—"
-msgstr ""
+msgstr "我们见过。这个彻头彻尾的人渣，泥巴佬的猪——"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1022
 msgid "Argh!"
-msgstr ""
+msgstr "呃啊！"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1030
@@ -5893,6 +5951,8 @@ msgid ""
 "Enough, Ethiliel! I can corroborate the humans’ story. Some days ago, this "
 "outlaw came to me with unlikely words."
 msgstr ""
+"够了，艾茜莉尔！我可以证实人类的说辞。几天前，这个亡命徒来找我，说了一些难以"
+"置信的话。"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1034
@@ -5901,6 +5961,8 @@ msgid ""
 "wantin’ my head. I could’a ran and hid, but I wanted to make things right. I "
 "went and found Mebrin’s bones, and brought them to the Aethenwood."
 msgstr ""
+"……没错，我去了。我听说那些巡林者在南边林子里，知道他们想要我的脑袋。我本可以"
+"跑路躲起来，可我想把事情摆平。我去找到了梅布林的遗骨，把它们带到了艾森丛林。"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1038
@@ -5909,6 +5971,8 @@ msgid ""
 "beings, and we still know justice an’ truth. My brothers an’ I did wrong. "
 "It’s my responsibility to make things right."
 msgstr ""
+"你们也许觉得我们人类全是罪犯和亡命徒，但我们一样是活着的生灵，也懂什么公道和"
+"真相。我和我兄弟做错了事。把事情摆平是我的责任。"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1042
@@ -5917,13 +5981,15 @@ msgid ""
 "my anger he produced the skull of a lich. The druids confirmed it — the "
 "skull was Mebrin’s."
 msgstr ""
+"阿法拉斯的话本可能让他被关起来，甚至更糟，但在我怒火最盛的时候，他拿出了一颗"
+"巫妖的头骨。德鲁伊们证实了——那头骨是梅布林的。"
 
 #. [message]
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1046
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1157
 msgid "The Mebrin I know is so gentle. So wise! It cannot be... can it?"
-msgstr ""
+msgstr "我认识的梅布林那么温和。那么睿智！这不可能……对吧？"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1050
@@ -5932,12 +5998,14 @@ msgid ""
 "But if Mebrin really did turn to undeath, then I have been the cause of so "
 "much meaningless bloodshed."
 msgstr ""
+"我不想相信人类的话。我无法承受去相信……但如果梅布林真的堕落成了亡灵，那这么多"
+"毫无意义的流血就是因我而起。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1054
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1169
 msgid "It’s true, isn’t it..."
-msgstr ""
+msgstr "这是真的，对吧……"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1069
@@ -5946,11 +6014,13 @@ msgid ""
 "you, too, are capable of courage and loyalty. Vengeance only begets more "
 "vengeance. You — and your brothers, posthumously — are forgiven."
 msgstr ""
+"乌扎·阿法拉斯，谢谢你。我现在明白，不是所有人类都一样，你也能有勇气和忠诚。复"
+"仇只会招致更多复仇。你——还有你的兄弟们，虽已身死——都得到了原谅。"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1073
 msgid "<i>You</i> forgive <i>me</i>! After all the blood—"
-msgstr ""
+msgstr "<b>你</b>原谅<b>我</b>！流了那么多血之后——"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1077
@@ -5959,6 +6029,8 @@ msgid ""
 "have been away from your people for far too long. Our attack against Westin "
 "is over."
 msgstr ""
+"而乌扎·阿法拉斯也宽宏大量地接受了你的原谅。现在来吧，艾茜莉尔。你离开族人太久"
+"了。我们对韦斯廷的进攻结束了。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1128
@@ -5967,6 +6039,8 @@ msgid ""
 "Westin would eventually cave and summon you back. Does this mean you have "
 "reconsidered your decisions, and have finally freed Mebrin from his bonds?"
 msgstr ""
+"德欧兰——很好，你终于来了。我就知道，压力够大时，韦斯廷最终会屈服，把你召回"
+"来。这是否意味着你重新考虑了你的决定，终于把梅布林从他的束缚中解放出来了？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1132
@@ -5975,6 +6049,8 @@ msgid ""
 "M’Brin with my own two eyes, heard his ravings with my own two ears! I "
 "watched him raise the dead up out of the ground!"
 msgstr ""
+"没人召我来，艾茜莉尔。阿法拉斯说得对。我亲眼看见了巫妖玛尔·莫布林，亲耳听到了"
+"他的疯言疯语！我亲眼看着他让死者从地里爬起来！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1136
@@ -5983,6 +6059,8 @@ msgid ""
 "evidence for the horrible things of which you accuse? No elf would fall to "
 "undeath, much less our wisest teacher."
 msgstr ""
+"更多谎言，令人愤怒的谎言！他的尸体在哪儿，蜉蝣？你指控的那些可怕事情，证据在"
+"哪儿？没有精灵会堕落成亡灵，更别说我们最睿智的老师了。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1141
@@ -5990,6 +6068,8 @@ msgid ""
 "No elf could fall to undeath? What is this, then? I show you the skull of a "
 "lich, unmistakably elven, and unmistakably undead!"
 msgstr ""
+"没有精灵会堕落成亡灵？那这是什么？我给你看一个巫妖的头骨——精灵特征无可置疑，"
+"亡灵身份也无可置疑！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1145
@@ -5998,6 +6078,8 @@ msgid ""
 "ourselves nearly to exhaustion. When at last the lich was on the brink of "
 "defeat, with his last gasp of foul magic he collapsed his cave on us."
 msgstr ""
+"我和我的部下把玛尔·莫布林一路追进地底深处，几乎把自己逼到精疲力竭。当那巫妖终"
+"于濒临败亡时，他用最后一口气施展邪恶魔法，让洞穴塌在我们头上。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1149
@@ -6007,13 +6089,16 @@ msgid ""
 "the skull of our vanquished foe. You recognize its elven features, Ethiliel, "
 "do you not?"
 msgstr ""
+"许多人丧命，包括梅布林本人。但经过人类和巨魔数日的苦干，我们挖开出路，动身前"
+"往韦斯廷，带上了被我们击败的敌人的头骨。艾茜莉尔，你认得它的精灵特征，不是"
+"吗？"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1161
 msgid ""
 "You believe, but you do not want to believe. Please, Ethiliel — enough blood "
 "has been shed today."
-msgstr ""
+msgstr "你信了，只是不愿相信。艾茜莉尔，求你了——今天流的血已经够多了。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1165
@@ -6021,6 +6106,8 @@ msgid ""
 "Mebrin... oh Mebrin... a lich!? But if Mebrin really did turn to undeath, "
 "then I have been the cause of so much meaningless bloodshed."
 msgstr ""
+"梅布林……哦，梅布林……一个巫妖！？可如果梅布林真的变成了亡灵，那我就是这么多毫"
+"无意义流血的起因。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1184
@@ -6028,17 +6115,19 @@ msgid ""
 "Deoran, thank you. I see now that not all humans are alike, and that you, "
 "too, are capable of courage and loyalty."
 msgstr ""
+"德欧兰，谢谢你。我现在明白了，并非所有人类都一样，而你也能够表现出勇气与忠"
+"诚。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:1188
 msgid ""
 "Vengeance only begets more vengeance. Our attack against Westin is over."
-msgstr ""
+msgstr "复仇只会招致更多复仇。我们对韦斯廷的进攻结束了。"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:8
 msgid "Survive until reinforcements arrive on turn 13, then defeat Mal M’Brin"
-msgstr ""
+msgstr "坚持到第13回合援军抵达，然后击败玛尔·莫布林"
 
 #. [scenario]: id=06b_The_Tides_of_War
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:16
@@ -6059,6 +6148,8 @@ msgid ""
 "It takes one hell of a soldier to keep on fighting’ after losin’ an arm. I "
 "wish I’d gotten to know ’er better. Now I’ll never get the chance."
 msgstr ""
+"丢了一条胳膊还能接着打，那得是多硬的兵。我真希望当初能多了解她一些。现在再没"
+"机会了。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:375
@@ -6067,6 +6158,8 @@ msgid ""
 "Another poor soul claimed by the spreading darkness. If only we’d had more "
 "time to prepare... but we’ve done our best."
 msgstr ""
+"又一个可怜的灵魂被蔓延的黑暗吞噬了。要是我们有更多时间准备就好了……但我们已尽"
+"了全力。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:376
@@ -6076,6 +6169,9 @@ msgid ""
 "farmers and woodsmen. They’re not trained for battle, but will benefit "
 "greatly from your leadership, Deoran."
 msgstr ""
+"又一个可怜的灵魂被蔓延的黑暗吞噬了。至少她的牺牲没有白费：我们有足够时间召集"
+"了本地区大部分农民和山民。他们未受过战斗训练，但会从你的领导中获益良多，德欧"
+"兰。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:377
@@ -6085,6 +6181,8 @@ msgid ""
 "farmers and woodsmen, as well as recall the small squad of fencers manning "
 "Fort Tahn."
 msgstr ""
+"又一个可怜的灵魂被蔓延的黑暗吞噬了。至少她的牺牲没有白费：我们有足够时间召集"
+"了本地区大部分农民和山民，还召回了驻守塔恩要塞的剑客小队。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:378
@@ -6094,6 +6192,8 @@ msgid ""
 "of the region’s farmers and woodsmen, as well as recall the squad of fencers "
 "manning Fort Tahn."
 msgstr ""
+"又一个可怜的灵魂被蔓延的黑暗吞噬了。至少她的牺牲没有白费：我们有足够时间召"
+"集、训练并装备了本地区大部分农民和山民，还召回了驻守塔恩要塞的剑客小队。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:385
@@ -6113,6 +6213,7 @@ msgid ""
 "We must stand fast against the undead and defend our homes! We fight for the "
 "fallen! We fight for Wesnoth!"
 msgstr ""
+"我们必须坚守阵地，抗击亡灵，保卫家园！我们为阵亡者而战！我们为韦诺而战！"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:399
@@ -6129,6 +6230,8 @@ msgid ""
 "Shame. I didn’t really get a chance to know him, but I know you don’t "
 "survive to his age unless you’re one hell of a soldier. He’ll be missed."
 msgstr ""
+"可惜。我其实没机会真正认识他，但我知道，能活到他那个年纪，肯定不是一般的战"
+"士。会有人怀念他的。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:407
@@ -6138,6 +6241,9 @@ msgid ""
 "farmers and woodsmen. They’re not trained for battle, but will benefit "
 "greatly from your leadership, Deoran."
 msgstr ""
+"又一个可怜的灵魂被蔓延的黑暗吞噬了。至少他的牺牲没有白费：我们有足够时间召集"
+"了本地区大部分农民和山民。他们未受过战斗训练，但会从你的领导中获益良多，德欧"
+"兰。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:408
@@ -6147,6 +6253,8 @@ msgid ""
 "farmers and woodsmen, as well as recall the small squad of heavy infantrymen "
 "manning Fort Tahn."
 msgstr ""
+"又一个可怜的灵魂被蔓延的黑暗吞噬了。至少他的牺牲没有白费：我们有足够时间召集"
+"了本地区大部分农民和山民，还召回了驻守塔恩要塞的重装步兵小队。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:409
@@ -6156,6 +6264,8 @@ msgid ""
 "of the region’s farmers and woodsmen, as well as recall the small squad of "
 "heavy infantry manning Fort Tahn."
 msgstr ""
+"又一个可怜的灵魂被蔓延的黑暗吞噬了。至少他的牺牲没有白费：我们有足够时间召"
+"集、训练并装备了本地区大部分农民和山民，还召回了驻守塔恩要塞的重装步兵小队。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:416
@@ -6182,6 +6292,8 @@ msgid ""
 "Th’ good minister turned down the luxurious life o’ a city mage to come down "
 "’ere an’ care for us rural folk. ’e was a good man."
 msgstr ""
+"那位好辅佐官，放着城里法师的舒坦日子不过，偏跑到咱这乡下来照看咱这些乡下人。"
+"他是个好人。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:437
@@ -6189,6 +6301,8 @@ msgid ""
 "Me, I’d have taken the life of luxury — but maybe the world needs crazy "
 "people like Hylas. If only we’d had more time... but we’ve done our best."
 msgstr ""
+"换我，早去过奢华日子了——可这世界也许就需要海拉斯这样的疯子。要是再多点时间就"
+"好了……可我们已经尽力了。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:438
@@ -6198,6 +6312,9 @@ msgid ""
 "the region’s farmers and woodsmen. They’re not trained for battle, but will "
 "benefit greatly from your leadership, Deoran."
 msgstr ""
+"换我，早去过奢华日子了。可这世界也许就需要他这样的疯子——海拉斯的牺牲给我们争"
+"取了足够时间，召集了本地区大部分农民和山民。他们未受过战斗训练，但会从你的领"
+"导中获益良多，德欧兰。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:439
@@ -6207,6 +6324,8 @@ msgid ""
 "the region’s farmers and woodsmen, as well as recall the small squad of "
 "mages manning Fort Tahn."
 msgstr ""
+"换我，早去过奢华日子了。可这世界也许就需要他这样的疯子——海拉斯的牺牲给我们争"
+"取了足够时间，召集了本地区大部分农民和山民，还召回了驻守塔恩要塞的法师小队。"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:440
@@ -6216,6 +6335,9 @@ msgid ""
 "and equip most of the region’s farmers and woodsmen, as well as recall the "
 "small squad of mages manning Fort Tahn."
 msgstr ""
+"换我，早去过奢华日子了。可这世界也许就需要他这样的疯子——海拉斯的牺牲给我们争"
+"取了足够时间，召集、训练并装备了本地区大部分农民和山民，还召回了驻守塔恩要塞"
+"的法师小队。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:447
@@ -6235,6 +6357,8 @@ msgid ""
 "   with $peasants.length peasants/woodsmen and $soldiers.length extra "
 "soldiers!"
 msgstr ""
+"你在上一场景中存活了 $pebbles_defense_length 回合！德欧兰开局时\n"
+"   带有 $peasants.length 名农民/山民和 $soldiers.length 名额外士兵！"
 
 #. [else]
 #. $pebbles_defense_length will be between 3 and 10. $peasants.length will be 3 or greater
@@ -6243,6 +6367,8 @@ msgid ""
 "You survived $pebbles_defense_length turns last scenario!\n"
 "   Deoran starts this scenario with $peasants.length extra peasants/woodsmen!"
 msgstr ""
+"你在上一场景中存活了 $pebbles_defense_length 回合！\n"
+"   德欧兰在本场景开局时带有 $peasants.length 名额外农民/山民！"
 
 #. [then]
 #. $pebbles_defense_length will be 37 or greater. $soldiers.length will be around 12-14 or greater
@@ -6252,6 +6378,9 @@ msgid ""
 "   with $soldiers.length extra soldiers and $"
 "( ($pebbles_defense_length-36)*3 ) extra gold!"
 msgstr ""
+"你在上一场景中存活了 $pebbles_defense_length 回合！德欧兰开局时\n"
+"   带有 $soldiers.length 名额外士兵和 $( ($pebbles_defense_length-36)*3 ) 枚"
+"额外金币！"
 
 #. [else]
 #. $pebbles_defense_length will be 3 or greater. $soldiers.length will be 3 or greater
@@ -6260,6 +6389,8 @@ msgid ""
 "You survived $pebbles_defense_length turns last scenario!\n"
 "   Deoran starts this scenario with $soldiers.length extra soldiers."
 msgstr ""
+"你在上一场景中存活了 $pebbles_defense_length 回合！\n"
+"   德欧兰在本场景开局时带有 $soldiers.length 名额外士兵。"
 
 #. [else]
 #. $pebbles_defense_length will be less than 3
@@ -6268,6 +6399,8 @@ msgid ""
 "You survived only $pebbles_defense_length turns last scenario.\n"
 "   Deoran has not had time to prepare additional defenders."
 msgstr ""
+"你上一场战斗只坚持了 $pebbles_defense_length 回合。\n"
+"   德欧兰没时间准备额外的守军。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:541
@@ -6290,17 +6423,17 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:557
 msgid "For mistress Mari! For all the fallen!"
-msgstr ""
+msgstr "为了玛芮大人！为了所有阵亡者！"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:558
 msgid "For master Gerrick! For all the fallen!"
-msgstr ""
+msgstr "为了格里克大人！为了所有阵亡者！"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:559
 msgid "For master Hylas! For all the fallen!"
-msgstr ""
+msgstr "为了海拉斯大人！为了所有阵亡者！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:575
@@ -6309,6 +6442,8 @@ msgid ""
 "the great cities of the north. The capital garrison alone would make short "
 "work of this lich, if only we could have contacted them in time!"
 msgstr ""
+"要是艾茜莉尔没有逃走就好了！我真恨我们如此孤立，远离北方那些大城。只要我们能"
+"及时联络上他们，单凭首都守军就能轻松解决这个巫妖！"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:595
@@ -6397,17 +6532,17 @@ msgstr ""
 msgid ""
 "Ungrateful elves! I offer you secrets beyond your comprehension! I offer you "
 "immortality itself!"
-msgstr ""
+msgstr "不知感恩的精灵！我赐予你们无法理解的秘密！我赐予你们永生本身！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:805
 msgid "Did you hear that!? There are horns blowing in the west!"
-msgstr ""
+msgstr "听见了吗！？西边有号角声！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:830
 msgid "Mebrin! This has gone far enough."
-msgstr ""
+msgstr "梅布林！这已经太过分了。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:834
@@ -6415,6 +6550,7 @@ msgid ""
 "Ethiliel, my student... How pleased am I to see you again! What wonderful "
 "secrets have I to share..."
 msgstr ""
+"艾茜莉尔，我的学生……再次见到你，我多么高兴啊！我有那么多奇妙的秘密要分享……"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:838
@@ -6424,6 +6560,8 @@ msgid ""
 "infinity at the brink of death, Ethiliel... If you thought me wise before, I "
 "have now become omniscient!"
 msgstr ""
+"我已触及万物核心的虚空，并开始探究远超任何在世精灵所知的秘术。死亡边缘蕴藏着"
+"无限，艾茜莉尔……如果你以前认为我睿智，如今我已无所不知！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:842
@@ -6453,6 +6591,8 @@ msgid ""
 "rid of. I shall deal with you personally. You were always more of a hands-on "
 "learner, after all..."
 msgstr ""
+"这就是你回来的原因？呸，我看你还有不少愚蠢要摆脱。我会亲自对付你。毕竟，你一"
+"向更喜欢亲身实践的学习方式……"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:921
@@ -6461,6 +6601,8 @@ msgid ""
 "my cowardice at the river. With me come warriors of the Aethenwood — "
 "together, men and elves shall finally put my teacher’s tortured soul to rest."
 msgstr ""
+"德欧兰，梅布林既是我族之过，也是你方之过。请原谅我在河边的怯懦。随我而来的是"
+"艾森丛林的战士——人类与精灵终将合力，让我饱受折磨的老师安息。"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:963
@@ -6470,9 +6612,9 @@ msgid ""
 "serve us! Their bones will dance for our pleasure! We’ll make humanity into "
 "the mindless slaves that they all deserve to be!"
 msgstr ""
-"你为什么要帮助这些蠢货，艾茜莉尔？加入我吧！站在我这边！人类将要从绿色的世界"
-"上被清除。他们的尸体将为我们服务！他们的骸骨将为我们起舞！我们会把他们变成没"
-"有心智的奴隶，正如他们全部应得的那样！"
+"你为什么要帮助这些蠢货，艾茜莉尔？加入我吧！站在我这边！人类将从这绿色世界上"
+"被抹去。他们的尸体会侍奉我！他们的骸骨会为取悦我而舞！我要把人类变成他们全都"
+"活该成为的那种无脑奴隶！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:967
@@ -6519,6 +6661,8 @@ msgid ""
 "I curse you, Deoran of Wesnoth! I curse you... may you one day know the same "
 "pain that your kind have inflicted on me..."
 msgstr ""
+"我诅咒你，韦诺的德欧兰！我诅咒你……愿你有朝一日尝到你的族类加诸于我身上的同样"
+"痛苦……"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1005
@@ -6594,6 +6738,12 @@ msgid ""
 "In full view of the line of infantry, man and elf shook hands. Ethiliel made "
 "a full, lengthy, teary apology."
 msgstr ""
+"雾气散去，艾茜莉尔与德欧兰并肩而立，面对着矛墙。他们的面容已疲惫不堪，像悲伤"
+"与倦怠的面具。然而，当德欧兰对韦诺的士兵们开口时，声音却清晰得惊人：<b>“停"
+"下！今天流的血已经够多了，无论人类还是精灵。艾森丛林不再战斗了。”</b>\n"
+"\n"
+"在步兵队列众目睽睽之下，人类与精灵握了手。艾茜莉尔做了一番完整、冗长、含泪的"
+"道歉。"
 
 #. [part]
 #. Epilogue text
@@ -6605,6 +6755,9 @@ msgid ""
 "their homes and bury the dead to the north of the town, where many mounds "
 "joined the small garden of graves already there."
 msgstr ""
+"一连数日，艾森丛林的医者们拼命救治尽可能多的伤员，无论精灵还是人类。起初他们"
+"遭到愤怒对待，随后才被勉强接受。村民们着手重建家园，并将死者埋葬在城镇以北，"
+"那里已有小小墓园，许多坟丘加入其中。"
 
 #. [part]
 #. Epilogue text
@@ -6616,6 +6769,10 @@ msgid ""
 "While years of rebuilding lay ahead for Westin, they’d take place in harmony "
 "thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
+"于是，人类与精灵再次作为盟友站到一起，道歉已致，友谊重续。\n"
+"\n"
+"尽管韦斯廷面前仍有数年重建之路，但多亏德欧兰的领导与南疆卫队的英勇，这一切将"
+"得以和谐有序地进行。"
 
 #. [part]
 #. Epilogue text
@@ -6630,6 +6787,12 @@ msgid ""
 "Deoran rode to the forefront of the line of infantry, his hand outstretched. "
 "With a silent handshake, man and elf made peace."
 msgstr ""
+"雾气散去，艾茜莉尔独自站在那里，面对着矛墙。她的脸像一张悲伤与疲惫的面具，然"
+"而当她向韦诺的士兵们开口时，声音却清晰得惊人：<b>“停下！我的过错已经让今天流"
+"的血够多了，无论人类还是精灵。艾森丛林希望结束我们的进攻。”</b>\n"
+"\n"
+"德欧兰骑马来到步兵队列最前方，伸出手。一次无声的握手中，人类与精灵达成了和"
+"平。"
 
 #. [part]
 #. Epilogue text
@@ -6641,6 +6804,11 @@ msgid ""
 "While years of rebuilding lay ahead for Westin, they’d take place in harmony "
 "thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
+"于是，一项不稳固的协议就此达成；在往后的日子里，它将为人类与精灵之间重续友谊"
+"开辟道路。\n"
+"\n"
+"尽管韦斯廷面前仍有数年重建之路，但多亏德欧兰的领导与南疆卫队的英勇，这一切将"
+"得以和谐有序地进行。"
 
 #. [part]
 #. Epilogue text
@@ -6658,6 +6826,12 @@ msgid ""
 "through the ashen clouds. As the sunlight broke through, the wind passed, "
 "and all was still."
 msgstr ""
+"巫妖最后的死亡尖啸回荡在战场上，他骷髅般的身躯开始崩解。他的头骨落向地面，腐"
+"朽的骨骼化为灰烬，被寒风卷走，又一个不死的灵魂被抛回无尽的时间长河。\n"
+"\n"
+"主人的力量消失后，亡灵战士重归死寂，崩解成无生命的骨堆。沙沙作响的风如轻柔的"
+"溪流拂过战场，携着阵亡者的灵魂升向天空，那里太阳开始穿透灰烬般的云层。阳光破"
+"云而出，风停了，一切归于寂静。"
 
 #. [part]
 #. Epilogue text
@@ -6670,6 +6844,10 @@ msgid ""
 "the dead to the north of the town, where many new mounds joined the small "
 "garden of graves already there."
 msgstr ""
+"韦诺的士兵们缓缓抬起额前的头盔。战斗结束了。亡灵已经消失。\n"
+"\n"
+"在接下来的日子里，村民们着手重建家园，并将死者埋葬在城镇以北，那里已有小小墓"
+"园，许多新坟加入其中。"
 
 #. [part]
 #. Epilogue text
@@ -6680,6 +6858,8 @@ msgid ""
 "out to rebuild their homes and bury the dead to the north of the town, where "
 "many mounds joined the small garden of graves already there."
 msgstr ""
+"数日来，艾森丛林的医者拼命救治尽可能多的伤员，无论人类还是精灵。村民们着手重"
+"建家园，并将死者埋葬在城镇以北，那里已有小小墓园，许多坟丘加入其中。"
 
 #. [part]
 #. Epilogue text
@@ -6696,6 +6876,13 @@ msgid ""
 "shield and bearing them back with him to Westin. Those he placed atop "
 "Gerrick’s mound, where they became a symbol of sacrifice, loyalty and valor."
 msgstr ""
+"最终，德欧兰率队前往南港小村。那里的农舍已被砸成断壁残垣，鲜血与折断的武器四"
+"下散落。他默默诅咒那巫妖，因为战场遗址上不见尸首；但在内心深处，他知道，那些"
+"为了韦斯廷挺过亡灵猛攻而英勇献出生命的人，命运便是如此。\n"
+"\n"
+"\n"
+"不过，找到格里克爵士的长柄刀与盾牌并将它们带回韦斯廷，多少给了他一点慰藉。他"
+"将这些置于格里克的坟冢之上，它们在那里成为牺牲、忠诚与勇武的象征。"
 
 #. [part]
 #. Epilogue text
@@ -6712,6 +6899,13 @@ msgid ""
 "book and bearing them back with him to Westin. Those he placed atop Hylas’s "
 "mound, where they became a symbol of sacrifice, loyalty and valor."
 msgstr ""
+"最终，德欧兰率队前往南港小村。那里的农舍已被砸成断壁残垣，鲜血与折断的武器四"
+"下散落。他默默诅咒那巫妖，因为战场遗址上不见尸首；但在内心深处，他知道，那些"
+"为了韦斯廷挺过亡灵猛攻而英勇献出生命的人，命运便是如此。\n"
+"\n"
+"\n"
+"不过，找到海拉斯辅佐官的法杖与书并将它们带回韦斯廷，多少给了他一点慰藉。他将"
+"这些置于海拉斯的坟冢之上，它们在那里成为牺牲、忠诚与勇武的象征。"
 
 #. [part]
 #. Epilogue text
@@ -6728,7 +6922,15 @@ msgid ""
 "and bearing them back with him to Westin. Those he placed atop Mari’s mound, "
 "where they became a symbol of sacrifice, loyalty and valor."
 msgstr ""
+"最终，德欧兰率队前往南港小村。那里的农舍已被砸成断壁残垣，鲜血与折断的武器四"
+"下散落。他默默诅咒那巫妖，因为战场遗址上不见尸首；但在内心深处，他知道，那些"
+"为了韦斯廷挺过亡灵猛攻而英勇献出生命的人，命运便是如此。\n"
+"\n"
+"\n"
+"不过，找到玛芮队长的剑与弹弓并将它们带回韦斯廷，多少给了他一点慰藉。他将这些"
+"置于玛芮的坟冢之上，它们在那里成为牺牲、忠诚与勇武的象征。"
 
+# Translated by openai with model deepseek-flash.
 #. [part]
 #. Epilogue text
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:147
@@ -6738,6 +6940,10 @@ msgid ""
 "While years of rebuilding lay ahead for Westin, they’d take place in harmony "
 "thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
+"于是，人类独自挺立，赢得了对亡灵的胜利。\n"
+"\n"
+"尽管韦斯廷面前仍有数年重建之路，但多亏德欧兰的领导与南疆卫队的英勇，这一切将"
+"得以和谐有序地进行。"
 
 #. [part]
 #. Epilogue text
@@ -6749,6 +6955,10 @@ msgid ""
 "While years of rebuilding lay ahead for Westin, they’d take place in harmony "
 "thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
+"于是，人类与精灵并肩而立，共同赢得了对亡灵的胜利。\n"
+"\n"
+"尽管韦斯廷面前仍有数年重建之路，但多亏德欧兰的领导与南疆卫队的英勇，这一切将"
+"得以和谐有序地进行。"
 
 #. [unit]: type=Prince of Wesnoth, id=Arand
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:236
@@ -6763,12 +6973,12 @@ msgstr "国王伽拉德二世"
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:282
 msgid "Some weeks after the battle..."
-msgstr ""
+msgstr "战斗结束后数周……"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:288
 msgid "<b><i>This</i></b> is the perfect town you promised me, brother?"
-msgstr ""
+msgstr "<b><i>这</i></b>就是你答应我的完美城镇，兄弟？"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:295
@@ -6780,6 +6990,10 @@ msgid ""
 "No, I do not think I shall be investing any more resources in this little "
 "project of yours, Arand."
 msgstr ""
+"河里堆着瓦砾，街上淌着血，几乎见不到一个人影。而这还是在我派出了最聪明的年轻"
+"军官之一<b><i>之后</i></b>？看来他终究没那么聪明。\n"
+"\n"
+"不，我想我不会再为你这个小项目投入更多资源了，阿兰德。"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:301
@@ -6788,6 +7002,8 @@ msgid ""
 "barely a year ago, at which time our plan of expansion seemed to be going "
 "splendidly."
 msgstr ""
+"我必须承认……情况似乎有些恶化了。我上次来访才不过一年前，那时我们的扩张计划似"
+"乎进展得十分顺利。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:305
@@ -6796,33 +7012,35 @@ msgid ""
 "settling lands barren and empty. I respect a good fight; lust for one, even. "
 "But what glory is there to be won in a listless place like this?"
 msgstr ""
+"这次南方的小实验已经让我看清：定居于荒芜空旷之地毫无所得。我敬重一场好仗，甚"
+"至渴望一场。但在这种死气沉沉的地方，又能赢得什么荣耀？"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:309
 msgid "No. We’ve tried things your way, brother. Now it’s time for mine."
-msgstr ""
+msgstr "不。我们已经按你的方式试过了，兄弟。现在该按我的方式来了。"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:325
 msgid "Oh, and Arand?"
-msgstr ""
+msgstr "哦，还有，阿兰德？"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:329
 msgid "—yes, Your Majesty?"
-msgstr ""
+msgstr "——是，陛下？"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:333
 msgid "Nice statue."
-msgstr ""
+msgstr "雕像不错。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:346
 msgid ""
 "Congratulations! You’ve completed <i>The South Guard</i> and should now "
 "understand the fundamentals of Wesnoth."
-msgstr ""
+msgstr "恭喜！你已完成《南疆卫队》，现在应当明白韦诺之战的基本要素了。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:348
@@ -6832,6 +7050,9 @@ msgid ""
 "follows different characters. <i>Of Pearls and Pirates</i> also includes "
 "some minor tutorial elements, and leads into a broader story arc."
 msgstr ""
+"下一部推荐的战役（也是时间线上的下一部战役）是《珍珠与海盗》，它设定在一个沿"
+"海小村庄，并跟随不同角色展开。《珍珠与海盗》还包含一些简单的教学要素，并将引"
+"向一个更宏大的故事线。"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:350
@@ -6840,6 +7061,8 @@ msgid ""
 "novice-level Wesnoth campaigns, like <i>A Tale of Two Brothers</i> or "
 "<i>Dusk of Dawn</i>."
 msgstr ""
+"或者，若想在韦诺时间线的不同节点游玩，可以试试其他新手级韦诺战役，如《兄弟传"
+"说》或《破晓之暮》。"
 
 #. [unit_type]: id=Cavalryman Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran1_Cavalryman.cfg:35
@@ -6865,6 +7088,8 @@ msgid ""
 "Cavalryman, but lacks the Cavalryman’s blade and impact resistances. This "
 "was done to simplify the unit, so as not to overwhelm new players."
 msgstr ""
+"如果你是资深玩家，你会注意到德欧兰是以骑兵为原型，但缺少骑兵的刃器和冲击抗"
+"性。这样做是为了简化该单位，以免让新玩家不知所措。"
 
 #. [unit_type]: id=Dragoon Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran2_Dragoon.cfg:26
@@ -6874,6 +7099,8 @@ msgid ""
 "leaders and powerful warriors, these men patrol the countryside and "
 "eliminate any and all threats to peace in the frontier villages."
 msgstr ""
+"韦诺军队中更有天赋的骑兵会接受使用弩的训练，并配备远为强健的战马。作为得力的"
+"领袖和强大的战士，这些人巡守乡野，清除对边境村庄和平的一切威胁。"
 
 #. [unit_type]: id=Cavalier Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran3_Cavalier.cfg:27
@@ -6884,6 +7111,9 @@ msgid ""
 "strength, however, lies in their ability to inspire great courage in their "
 "men, who fight fearlessly and tenaciously under their command."
 msgstr ""
+"骑兵精于在马背上使用剑与弩，巡逻时能迅速穿越遥远距离，并拥有敏锐的目光，能发"
+"现并消灭各种危险。然而，他们最大的力量在于激励部下鼓起莫大勇气，使他们在自己"
+"的指挥下无畏而顽强地作战。"
 
 #. [unit_type]: id=Veteran Infantryman, race=human
 #. [unit_type]: id=Master Infantryman, race=human
@@ -6896,6 +7126,9 @@ msgid ""
 "not nobility, and all have shown great courage in battle. One of these "
 "veteran fighters in a battle line will stiffen it considerably."
 msgstr ""
+"重装步兵中最优秀、最杰出者负责边境城镇与村庄的驻防和防御。他们在近战中战力无"
+"可匹敌，是从老兵而非贵族中选拔而来，并且都在战斗中展现出极大的勇气。战线上若"
+"有一名这样的老兵，整条阵线都会稳固得多。"
 
 #. [attack]: type=blade
 #: data/campaigns/The_South_Guard/units/Gerrick2_Veteran_Infantryman.cfg:20
@@ -6918,24 +7151,24 @@ msgstr "笼中精灵"
 msgid ""
 "A small cage of sturdy metal bars. Prolonged occupancy would be highly "
 "unpleasant."
-msgstr ""
+msgstr "一个由坚固金属栏杆做成的小笼子。长时间待在里面会非常难受。"
 
 #. [unit_type]: id=Quintain, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Quintain.cfg:4
 msgid "Quintain"
-msgstr ""
+msgstr "刺靶"
 
 #. [unit_type]: id=Quintain, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Quintain.cfg:17
 msgid ""
 "Quintains are used to practice swordplay and jousting on. It would be "
 "extremely unusual to be attacked by one."
-msgstr ""
+msgstr "刺靶用于练习剑术和马上长枪比武。被一个刺靶攻击是极不寻常的事。"
 
 #. [unit_type]: id=Statue, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Statue.cfg:4
 msgid "Statue"
-msgstr ""
+msgstr "雕像"
 
 #. [unit_type]: id=Statue, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Statue.cfg:20
@@ -6943,18 +7176,20 @@ msgid ""
 "A life-sized statue made of heavy Dulatus granite. This one is carved in the "
 "likeness of Garard II, the current king of Wesnoth."
 msgstr ""
+"一尊真人大小的雕像，由沉重的杜拉图斯花岗岩制成。这一尊雕刻的是韦诺现任国王伽"
+"拉德二世的样子。"
 
 #. [unit_type]: id=Trapdoor, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Trapdoor.cfg:5
 msgid "Cellar Trapdoor"
-msgstr ""
+msgstr "地窖活板门"
 
 #. [unit_type]: id=Trapdoor, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Trapdoor.cfg:10
 msgid ""
 "A sturdy trapdoor of seasoned oak, protecting the town’s inhabitants from "
 "the chaos above."
-msgstr ""
+msgstr "一扇坚固的风干橡木活板门，保护镇上的居民免受上方混乱的侵扰。"
 
 #. [unit_type]: id=Veteran Fencer, race=human, gender=female
 #. [unit_type]: id=Master Fencer, race=human, gender=female
@@ -6971,17 +7206,24 @@ msgid ""
 "combat. Though such an injury prevents the use of bows and crossbows, slings "
 "can be wielded one-handed, and make for a competent substitute."
 msgstr ""
+"剑客属于这样一种思想流派：他们认为大多数士兵在战斗中穿着的盔甲恰恰是他们最大"
+"的敌人。盔甲只能减轻打击，而闪避则能让防御者毫发无伤。能够稳定地躲开任何攻击"
+"招式，是只有体格强健者才能享有的奢侈，而且只有那些经受过严苛训练的人才能做"
+"到。\n"
+"\n"
+"偶尔失去肢体，是无甲战斗的不幸副作用。虽然这种伤残会使人无法使用弓和弩，但弹"
+"弓可以单手使用，足以成为合格的替代品。"
 
 #. [variation]
 #. name is hidden
 #: data/campaigns/The_South_Guard/units/Mari2.cfg:101
 msgid "Observer"
-msgstr ""
+msgstr "观察者"
 
 #. [unit_type]: id=Master Fencer, race=human, gender=female
 #: data/campaigns/The_South_Guard/units/Mari3.cfg:4
 msgid "Master Fencer"
-msgstr ""
+msgstr "大师剑客"
 
 #. [unit_type]: id=King of Wesnoth, race=human
 #: data/campaigns/The_South_Guard/units/NPC_Garard.cfg:17
@@ -6991,17 +7233,17 @@ msgstr "韦诺国王"
 #. [attack]
 #: data/campaigns/The_South_Guard/units/NPC_Garard.cfg:39
 msgid "longsword"
-msgstr ""
+msgstr "长剑"
 
 #. [attack]
 #: data/campaigns/The_South_Guard/units/NPC_Garard.cfg:46
 msgid "lance"
-msgstr ""
+msgstr "长枪"
 
 #. [unit_type]: id=Townsfolk, race=human, gender=male,female
 #: data/campaigns/The_South_Guard/units/NPC_Townsfolk.cfg:4
 msgid "Townsfolk"
-msgstr ""
+msgstr "市民"
 
 #. [unit_type]: id=Townsfolk, race=human, gender=male,female
 #: data/campaigns/The_South_Guard/units/NPC_Townsfolk.cfg:18
@@ -7011,6 +7253,9 @@ msgid ""
 "almost universally lack the strength that comes from a life of physical "
 "labour, and thus are not conscripted as often as peasants."
 msgstr ""
+"市民是城市居民，他们试图以非暴力的方式发家致富，无论是商人、工匠，还是贵族家"
+"中的仆役。他们几乎都缺乏体力劳动所造就的强健体魄，因此不像农民那样常被征召入"
+"伍。"
 
 #: data/campaigns/The_South_Guard/utils/_initial.cfg:357
 msgid "Click a mouse button or press the spacebar to continue..."
@@ -7048,6 +7293,28 @@ msgid ""
 "but don’t feel like you’re required to save-load in \n"
 "order to win!"
 msgstr ""
+"我注意到你最近频繁读取存档。\n"
+"如果这是你喜欢的玩法，那就按你的方式玩吧！\n"
+"\n"
+"但如果你反复存读档，是因为觉得命中与未命中\n"
+"不公平，试试重新开始战役，并\n"
+"选择<i><b>“随机性降低的随机数生成器”</b></i>而不是<i><b>“默认的随机数生成"
+"器”</b></i>。\n"
+"你也可以调低难度：\n"
+"载入“场景开始”存档时，有一个\n"
+"小小的<i><b>“更改难度”</b></i>复选框可以勾选。\n"
+"\n"
+"或者，你也可以回到之前的\n"
+"回合甚至场景，选择不同的策略，\n"
+"或者多带些金币过去。\n"
+"\n"
+"我们平衡战役时以尽量少存读档为前提，\n"
+"开发期间也在完全不存读档的情况下\n"
+"通关了所有战役。并不是说非得\n"
+"无损通关。\n"
+"\n"
+"如果存读档能让游戏更有趣，那就尽情存读档吧，\n"
+"但别觉得必须靠存读档才能获胜！"
 
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:99
 msgid "Mal M’Brin"
@@ -7095,6 +7362,8 @@ msgid ""
 "we could still manage to win by force of arms, Westin is doomed without its "
 "people..."
 msgstr ""
+"他们冲破了活板门，闯进了难民地窖！就算我们还能靠武力取胜，没有人民，韦斯廷也"
+"完了……"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:211
@@ -7104,7 +7373,7 @@ msgstr "吃我一剑！"
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:227
 msgid "Yeah... I should’ve figured I wouldn’t get a happy ending..."
-msgstr ""
+msgstr "是啊……我早该想到，自己不会有什么好下场……"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:246
@@ -7131,6 +7400,11 @@ msgid ""
 "For a full description of what one of your units can do, <b><i>right-click "
 "it and select “Unit Type Description.”</i></b>"
 msgstr ""
+"你的一个单位已达到最大经验值，并晋升了一级！它现在强大得多，并且已经完全恢"
+"复！\n"
+"\n"
+"要详细了解你的某个单位能做什么，请<b><i>右键点击它并选择“单位类型描述”。</"
+"i></b>"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:94
@@ -7148,6 +7422,17 @@ msgid ""
 "a gold boost (“early finish bonus”) \n"
 "in the next scenario, so don’t delay!"
 msgstr ""
+"\n"
+"大多数场景都有回合限制，如\n"
+"左上角所示。\n"
+"通常，回合耗尽会\n"
+"导致失败——查看你的\n"
+"<i><b>目标</b></i>：点击左上角的 <i><b>“菜单”</b></i>\n"
+"按钮（或使用快捷键 <i><b>Ctrl+J</b></i>）。\n"
+"\n"
+"提前完成通常会在\n"
+"下一场景中奖励\n"
+"金币加成（“提前过关奖励”），所以别拖延！"
 
 #. [message]: id=Ethiliel,Hylas {NOT race=mechanical}
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:129
@@ -7155,6 +7440,8 @@ msgid ""
 "My healing magic is potent, but I cannot use it to heal myself. I’ll have to "
 "spend some time in a village to recover."
 msgstr ""
+"我的治疗魔法效力强大，但我不能用它来治疗自己。我得在村庄里休整一段时间才能恢"
+"复。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:151
@@ -7164,6 +7451,9 @@ msgid ""
 "attacks)</i>, but because the dummy has no ranged weapon of its own it was "
 "unable to retaliate."
 msgstr ""
+"我刚刚进行了一次<i><b>远程攻击</b></i>！我必须紧挨着这个刺靶站立 <b>（是的，"
+"这与大多数游戏处理远程攻击的方式不同）</b>，但因为假人自身没有远程武器，它无"
+"法反击。"
 
 #. [message]: speaker=unit
 #. second_unit may be a Walking Corpse, Ghoul, Skeleton, or one of their advancements
@@ -7174,6 +7464,9 @@ msgid ""
 "handle ranged attacks)</i>, but because the $second_unit.language_name has "
 "no ranged weapon of its own it was unable to retaliate."
 msgstr ""
+"我刚刚进行了一次<i><b>远程攻击</b></i>！我必须紧挨着这个 "
+"$second_unit.language_name 站立 <b>（是的，这与大多数游戏处理远程攻击的方式不"
+"同）</b>，但因为 $second_unit.language_name 自身没有远程武器，它无法反击。"
 
 #. [message]: speaker=unit
 #. second_unit may be a Thug (always male) or one of its advancements
@@ -7184,6 +7477,9 @@ msgid ""
 "handle ranged attacks)</i>, but because the $second_unit.language_name has "
 "no ranged weapon of his own he was unable to retaliate."
 msgstr ""
+"我刚刚进行了一次<i><b>远程攻击</b></i>！我必须紧挨着这个 "
+"$second_unit.language_name 站立 <b>（是的，这与大多数游戏处理远程攻击的方式不"
+"同）</b>，但因为 $second_unit.language_name 自身没有远程武器，他无法反击。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:191
@@ -7197,14 +7493,14 @@ msgstr "我们的弓和矛对这些骷髅几乎没么用！我们的箭除了空
 msgid ""
 "To see what damage resistances and vulnerabilities a unit has, right-click "
 "it and select “Unit Type Description.”"
-msgstr ""
+msgstr "要查看一个单位有哪些伤害抗性和弱点，右键点击它并选择“单位类型说明”。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:220
 msgid ""
 "I perish! Such wasted potential! I’d gained much experience, and was close "
 "to becoming something more..."
-msgstr ""
+msgstr "我阵亡了！潜力白白浪费了！我积累了许多经验，眼看就要变得更强大……"
 
 #. [message]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:226
@@ -7213,6 +7509,8 @@ msgid ""
 "experienced soldiers, so that they can eventually advance to powerful Level "
 "2 veterans."
 msgstr ""
+"你的一个高经验单位阵亡了！注意保护有经验的士兵，这样他们最终能晋升为强大的2级"
+"老兵。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:248
@@ -7220,6 +7518,7 @@ msgid ""
 "Argh, I fall! All my hard-won battle experience is lost! I will not be easy "
 "to replace, Deoran..."
 msgstr ""
+"呃啊，我倒下了！我辛苦得来的战斗经验全没了！我可不是那么容易替代的，德欧兰……"
 
 #. [message]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:254
@@ -7227,6 +7526,8 @@ msgid ""
 "One of your high-level veterans has died! Take care to protect your promoted "
 "soldiers, so that you can recall them in future battles."
 msgstr ""
+"你的一名高级老兵阵亡了！注意保护你晋升过的士兵，这样你就能在未来的战斗中召回"
+"他们。"
 
 #. [message]: speaker=unit
 #. $consecutive_misses will be 3 or higher. Alternatively, can be translated along the lines of "I missed all my strikes!"
@@ -7236,6 +7537,8 @@ msgid ""
 "had a high chance to evade. I might have had better odds attacking a "
 "different enemy."
 msgstr ""
+"我 $consecutive_misses 次攻击全部落空！我已尽力，但这个敌人的闪避几率很高。我"
+"攻击另一个敌人也许胜算更大。"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:314
@@ -7244,11 +7547,13 @@ msgid ""
 "luck and mitigate bad luck. After all, both good and bad luck are equally "
 "likely!"
 msgstr ""
+"优秀的指挥官懂得概率，既知道如何利用好运气，也知道如何减轻坏运气的影响。毕"
+"竟，好运气和坏运气出现的可能性是一样的！"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:323
 msgid "Managing Luck"
-msgstr ""
+msgstr "管理运气"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:325
@@ -7271,6 +7576,23 @@ msgid ""
 "<i><b>“Reduced RNG”</b></i> when starting a new \n"
 "campaign."
 msgstr ""
+"韦诺之战是一款讲究灵活策略的游戏，\n"
+"而非确定性的计算。\n"
+"一切按计划进行时，任何人都能获胜。\n"
+"韦诺的技巧和精通，在于制定\n"
+"一套能<i><b>减轻坏运气影响</b></i>，同时\n"
+"又能<i><b>利用好运气</b></i>的策略。坏运气\n"
+"和好运气都不可避免，所以要\n"
+"准备好应对两者！\n"
+"\n"
+"高手玩家对此如此精通，\n"
+"以至于他们能在最高难度下\n"
+"不依赖存读档打通每个战役！\n"
+"\n"
+"话虽如此，如果你确实更喜欢\n"
+"更确定的体验，可以在开始新\n"
+"战役时选择<i><b>“随机性降低的\n"
+"随机数生成器”</b></i>。"
 
 #. [message]: speaker=unit
 #. $consecutive_hits will be 3 or higher. Alternatively, can be translated along the lines of "I got lucky and hit all my strikes!"
@@ -7280,6 +7602,8 @@ msgid ""
 "happen, but a good commander knows how to win without relying on it. After "
 "all, bad luck happens just as often as good luck!"
 msgstr ""
+"我运气不错，所有 $consecutive_hits 次攻击全部命中！好运气有时会发生，但优秀的"
+"指挥官知道如何不依赖它取胜。毕竟，坏运气出现的频率和好运气一样高！"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:390
@@ -7288,6 +7612,8 @@ msgid ""
 "chance to evade! That’s unlucky, but bad luck happens just as often as good "
 "luck — a good commander knows how to plan around both!"
 msgstr ""
+"我的 $consecutive_misses 次攻击全部落空，尽管敌人闪避的几率很低！这确实不走"
+"运，但坏运气出现的频率和好运气一样高——优秀的指挥官懂得如何把两者都纳入计划！"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:413
@@ -7297,11 +7623,13 @@ msgid ""
 "to hit, but sometimes I also hit strikes that I was likely to miss — like "
 "now!"
 msgstr ""
+"我的 $consecutive_hits 次攻击全部命中，尽管敌人闪避的几率很高！运气是双向的——"
+"有时我本该命中却未命中，但有时我也会命中本不太可能命中的攻击——就像现在！"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:423
 msgid "Allies"
-msgstr ""
+msgstr "盟友"
 
 #. [display_tip]
 #. while this message is partly to explain about allies, it's mostly to 1) remind the player about Alt+S and 2) explain how Peasants and Woodsmen work (since the player may control them soon)
@@ -7316,11 +7644,19 @@ msgid ""
 "thus do not exert a Zone of Control</i></b>. Enemies can move\n"
 "around them unhindered."
 msgstr ""
+"盟友既可以是基础的、无法移动的守卫，也可以是\n"
+"拥有自己的收入、首领和 AI 的完整阵营。要查看\n"
+"每一方拥有多少金币和收入，请按 <b><i>Alt+S</i></b>。\n"
+"\n"
+"在本场景中，你的盟友包括农民和山民。\n"
+"和陆行僵尸一样，<b><i>农民和山民是 0 级，\n"
+"因此不会施加控制区域</i></b>。敌人可以不受阻碍地\n"
+"绕过他们。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:443
 msgid "Accelerated Speed"
-msgstr ""
+msgstr "加速"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:445
@@ -7329,11 +7665,14 @@ msgid ""
 "you can enable <i><b>Accelerated Speed</b></i> and/or \n"
 "<i><b>Skip AI Moves</b></i> in the Preferences menu."
 msgstr ""
+"如果移动和战斗耗时太长，\n"
+"你可以在首选项菜单中启用\n"
+"<i><b>加速</b></i>和/或<i><b>略过AI移动</b></i>。"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:457
 msgid "Building a Powerful Army"
-msgstr ""
+msgstr "打造一支强大的军队"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:459
@@ -7352,16 +7691,26 @@ msgid ""
 "powerful\n"
 "army.</b></i>"
 msgstr ""
+"单位每次攻击都会获得经验，每次击杀则获得多得多的经验。\n"
+"<i><b>大多数战役都期望</b></i>你在每场战斗之间召回同一批老兵，\n"
+"积累经验，最终攒出<i><b>一支由强大的 2 级\n"
+"或 3 级单位组成的队伍。</b></i>\n"
+"\n"
+"如果你现在没有多少 2 级或 3 级单位，不要绝望！\n"
+"本战役并非过于困难，即使军队较弱也能通关，\n"
+"尽管可能需要娴熟的战术。但在未来的\n"
+"战役中，<i><b>务必保护你的老兵，把他们培养成一支强大的\n"
+"军队。</b></i>"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:471
 msgid "Sacrificial Lambs"
-msgstr ""
+msgstr "牺牲品"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:473
 msgid "On the topic of protecting veterans..."
-msgstr ""
+msgstr "说到保护老兵……"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:475
@@ -7378,6 +7727,17 @@ msgid ""
 "veterans from the worst of the \n"
 "enemy's attacks."
 msgstr ""
+"在具有挑战性的场景中，通常\n"
+"不可能保护每一个单位。\n"
+"\n"
+"与其把你的老兵\n"
+"直接送进绞肉机，通常\n"
+"最好的做法是让他们配合\n"
+"新兵或可牺牲单位行动。\n"
+"\n"
+"这样做有助于让你的\n"
+"老兵避开敌人最猛烈的\n"
+"攻击。"
 
 #. [part]
 #. Intro to scenario 4
@@ -7413,6 +7773,10 @@ msgid ""
 "into memory, a new threat made itself known in the form of subtle footfalls "
 "amongst the trees..."
 msgstr ""
+"在乌扎·阿法拉斯引导下，德欧兰和他的队伍向北行进，重新渡过黑河。\n"
+"\n"
+"森林不祥的阴霾似乎在他们身后消散，疲惫的士兵们正返回人类之地。然而，就在黑暗"
+"魔法渐渐化为记忆之际，新的威胁以树林间细微的脚步声显露出来……"
 
 #. [part]
 #. Intro to scenario 5
@@ -7426,6 +7790,10 @@ msgid ""
 "into memory, a new threat made itself known in the form of subtle footfalls "
 "amongst the trees..."
 msgstr ""
+"乌扎·阿法拉斯不在，德欧兰和他的队伍向北行进，重新渡过黑河。\n"
+"\n"
+"森林不祥的阴霾似乎在他们身后消散，疲惫的士兵们正返回人类之地。然而，就在黑暗"
+"魔法渐渐化为记忆之际，新的威胁以树林间细微的脚步声显露出来……"
 
 #. [part]
 #. Intro to scenario 5b
