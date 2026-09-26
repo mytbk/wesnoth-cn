@@ -110,9 +110,9 @@
 
 ---
 
-### 四、关键术语翻译建议
+### 四、专有名词
 
-| 英文 | 建议译法 | 备注 |
+| 英文 | 译名 | 备注 |
 |------|----------|------|
 | Wesnoth | 韦诺 | 沿用官方译名 |
 | Heir to the Throne | 王座继承人 | 沿用官方译名 |
@@ -120,23 +120,34 @@
 | false queen | 伪女王 | 固定称呼 |
 | pretender | 冒牌货 |  |
 | Your Highness | 殿下 | 标准敬语 |
+| Garard | 伽拉德 | 前国王 |
 | Master Delfador | 德法多大师 | 尊称 |
 | The Horse Plains | 骏马平原 | 地名
 | Isle of Alduin | 奥渡因岛 | 地名 |
-
+| Sceptre of Fire | 圣火权杖 | 物品 |
+| Elensefar | 埃仁撒伐 | 城市 |
+| Dan’Tonk | 丹·冬克 | 地名 |
+| Weldyn | 维尔帝 | 韦诺首都 |
 
 ---
 
 请根据以上指南，翻译待译原文。翻译必须严格遵循以下规则：
 1. 识别句子中是否存在术语表中的专有名词，并应用其固定翻译。
 2. 根据语境注释，判断句子类型（对话/叙述/预言/系统提示），对话的发言人及其种族/阵营，并采用相应的翻译风格。
-3. 最终的翻译放在 <translate></translate> 标签里面。
 
-**语境注释**：
+待译原文有一条或多条，按照固定的格式提供，以下是一个例子：
 
-```
-%(comment)s
-```
+<src><id>0</id><text>msg1 to translate</text></src>
+<src><id>1</id><text>msg2 to translate</text></src>
+<src><id>2</id><text>msg3 to translate</text></src>
+
+你要在最终的输出中用以下格式给出翻译结果：
+
+<translate><id>0</id><text>translated text1</text></translate>
+<translate><id>1</id><text>translated text2</text></translate>
+<translate><id>2</id><text>translated text3</text></translate>
+
+---
 
 **源文件中的上下文**:
 
