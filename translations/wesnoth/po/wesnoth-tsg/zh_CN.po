@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-25 21:03+0800\n"
+"PO-Revision-Date: 2026-09-26 10:35+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -51,7 +51,6 @@ msgstr ""
 "的不幸冲突，他很快就遇到了更黑暗的势力。召集南疆卫队并保卫自己的家园！\n"
 "\n"
 "<i><b>这是推荐的入门战役。</b></i>\n"
-"\n"
 "\n"
 
 #. [campaign]: id=The_South_Guard
@@ -674,7 +673,7 @@ msgstr ""
 "<b>征募</b>新单位。\n"
 "\n"
 "绝大多数场景中，指挥官阵亡即告败北。多派德欧兰历练以积攒经验，但别莽过头把自"
-"个儿搭进去——这菜鸟可还欠着火候呢！"
+"个儿搭进去！"
 
 #. [disallow_end_turn]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:641
@@ -1710,7 +1709,7 @@ msgid ""
 "of Control — she can move freely around enemy units without being stopped."
 msgstr ""
 "玛芮的地形防御力（她闪避敌人攻击的概率）异常之高。她的<i><b>散兵</b></i>能力"
-"使她能够无视敌人的控制范围——她可以毫无阻碍地在敌方单位间自由穿梭。"
+"使她能够无视敌人的控制区域——她可以毫无阻碍地在敌方单位间自由穿梭。"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:270
@@ -2902,7 +2901,7 @@ msgid ""
 "would be a great risk for us to venture so far afield, isolated from Westin "
 "and in unknown territories."
 msgstr ""
-"我必须同意玛芮上尉的看法——梅布林生还的希望渺茫……而且我们若远离韦斯廷，深入未"
+"我必须同意玛芮队长的看法——梅布林生还的希望渺茫……而且我们若远离韦斯廷，深入未"
 "知领地，确实是极大的冒险。"
 
 #. [companion_message]: speaker=Deoran
