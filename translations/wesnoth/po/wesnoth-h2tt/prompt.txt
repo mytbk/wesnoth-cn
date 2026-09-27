@@ -93,6 +93,7 @@
 - **台词风格：** 简单幼稚、自吹自擂、兴奋激动
 - **翻译要点：** 幼稚可笑，突出喜剧效果
 
+
 ---
 
 ### 三、种族/阵营语言特征总表
@@ -112,22 +113,42 @@
 
 ### 四、专有名词
 
+#### 人名
+
+- Garard: 伽拉德，前国王
+- Harper: 哈珀
+- Lord Maddock: 马多克领主
+- Baldras: 巴尔德拉斯
+- Helicrom: 赫里克罗姆
+- Moremirmu: 莫密尔姆，法师
+- Chantal: 香黛尔，精灵
+
+#### 地名
+
+- Weldyn: 维尔帝，韦诺首都
+- Isle of Alduin: 奥渡因岛，法师学院所在地
+- Aethenwood: 艾森丛林，精灵所在的森林
+- Wesmere: 韦弥尔，精灵森林
+- Three Sisters: 三姐妹群岛
+- Elensefar: 埃仁撒伐，城市
+- Dan’Tonk: 丹·冬克，地名
+- Halstead: 哈尔斯特德，曾经是一个要塞
+- Tath: 塔斯
+- Ford of Abez: 雅碧滩
+- Glamdrol: 戈拉姆多，一个兽人部落的首都
+
+#### 其他词语和惯用短语
+
 | 英文 | 译名 | 备注 |
 |------|----------|------|
 | Wesnoth | 韦诺 | 沿用官方译名 |
 | Heir to the Throne | 王座继承人 | 沿用官方译名 |
-| Aethenwood | 艾森丛林 | 音译+意译 |
 | false queen | 伪女王 | 固定称呼 |
 | pretender | 冒牌货 |  |
 | Your Highness | 殿下 | 标准敬语 |
-| Garard | 伽拉德 | 前国王 |
 | Master Delfador | 德法多大师 | 尊称 |
 | The Horse Plains | 骏马平原 | 地名
-| Isle of Alduin | 奥渡因岛 | 地名 |
 | Sceptre of Fire | 圣火权杖 | 物品 |
-| Elensefar | 埃仁撒伐 | 城市 |
-| Dan’Tonk | 丹·冬克 | 地名 |
-| Weldyn | 维尔帝 | 韦诺首都 |
 
 ---
 

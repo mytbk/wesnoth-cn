@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-26 18:07+0800\n"
+"PO-Revision-Date: 2026-09-27 11:32+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -2025,11 +2025,9 @@ msgstr ""
 "科纳德的道具：<span color='#EFBF04'><b>每回合恢复1点生命值。\n"
 "科纳德每持有一件其他魔法道具，此数值便翻倍（2、4、8，以此类推）。</b></span>"
 
-# Translated by openai with model deepseek-flash.
 #. [side]: type=Shock Trooper, id=Kaelor
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:427
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:31
-#, fuzzy
 msgid "Brother Kaelor"
 msgstr "凯洛尔修士"
 
@@ -2042,10 +2040,8 @@ msgstr ""
 "挺进，弟兄们！我们必须消灭这些可憎之物，并为我们的弟兄召来援军，免得他们堕入"
 "下方的黑暗！"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:448
-#, fuzzy
 msgid ""
 "Lo! Konrad, a fellow brother of the order stands in need! Shall we answer "
 "the call?"
@@ -2055,118 +2051,92 @@ msgstr "看哪！科纳德，教团的一位弟兄正需要援助！我们可要
 msgid "Valley of Death II"
 msgstr "亡魂谷 II"
 
-# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:491
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:552
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:128
-#, fuzzy
 msgid "Sister Myrilell"
 msgstr "米瑞莱尔修女"
 
-# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:492
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:133
-#, fuzzy
 msgid "Gwatharry"
 msgstr "格瓦萨里"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:517
-#, fuzzy
 msgid ""
 "Fear not, Gwatharry, for Brother Kaelor has gone south to fetch help. May "
 "the Light speed him on his journey."
 msgstr "不必害怕，格瓦萨里，凯洛尔修士已南下求援。愿圣光助他一路顺遂。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gwatharry
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:521
-#, fuzzy
 msgid ""
 "And may he return soon. The sacred seal continues to weaken, and undead are "
 "starting to slip through..."
 msgstr "但愿他能早日归来。神圣封印仍在持续减弱，亡灵已经开始渗透出来了……"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gwatharry
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:526
-#, fuzzy
 msgid ""
 "The seal is broken! The texts are burned! Yea, the very Light itself has "
 "forsaken us..."
 msgstr "封印已破！典籍已焚！是啊，就连光明本身也已弃我们而去……"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:530
-#, fuzzy
 msgid ""
 "Doubt not, brother, for our faith is our shield. The warriors have gone for "
 "aid, and aid shall soon come."
 msgstr ""
 "莫要怀疑，弟兄，因为我们的信仰便是我们的盾牌。战士们已去求援，援兵不久便至。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:538
-#, fuzzy
 msgid ""
 "Strangers... and do I see Brother Moremirmu among their number? Your are "
 "sorely needed, Brother!"
-msgstr "陌生人……我是否在他们之中看到了莫雷米尔弟兄？我们亟需你，弟兄！"
+msgstr "陌生人……我是否在他们之中看到了莫密尔姆弟兄？我们非常需要你，弟兄！"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:543
-#, fuzzy
 msgid ""
 "Are you the help we have been waiting for, stranger? Your aid would be most "
 "welcome."
 msgstr "陌生人，你便是我们久候的援手吗？若你相助，我们将不胜感激。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:563
-#, fuzzy
 msgid ""
 "Our home — and all the living of Irdya — are safe thanks to you, righteous "
 "prince. May the Lords of Light shine their blessings down upon you as you "
 "journey forth on your quest of inheritance."
 msgstr ""
-"我们的家园——以及伊尔迪亚的一切生灵——都因你而安然无恙，正义的王子。愿光明诸主"
-"在你踏上继承王位之旅时，将祝福照耀于你。"
+"我们的家园——以及伊迪亚的一切生灵——都因你而安然无恙，正义的王子。愿光明诸主在"
+"你踏上继承王位之旅时，将祝福照耀于你。"
 
-# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:573
-#, fuzzy
 msgid "Grey Wood"
-msgstr "灰木林"
+msgstr "灰色丛林"
 
-# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:578
-#, fuzzy
 msgid "Mya"
 msgstr "米娅"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:603
-#, fuzzy
 msgid ""
 "There is a cloaked figure watching me from the edge of the Grey Woods... "
 "Hello! Who’s there?"
-msgstr "灰木林边缘有个披斗篷的身影正看着我……喂！谁在那儿？"
+msgstr "灰色丛林边缘有个披斗篷的身影正看着我……喂！谁在那儿？"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #. this is a hint that there's a special event if the player brings Harper here
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:621
-#, fuzzy
 msgid ""
 "She’s fled! I’ve no hope of tracking anyone through such an overgrown "
 "forest. We need someone who already knows the way..."
@@ -2174,11 +2144,9 @@ msgstr ""
 "她跑了！在这样枝蔓丛生的森林里，我根本没办法追踪任何人。我们需要一个已经认得"
 "路的人……"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: role=grey_woods_explainer
 #. this is a hint that there's a special event if the player brings Harper here
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:639
-#, fuzzy
 msgid ""
 "Konrad, that looked like a Shadow Mage! I heard stories about them, but I "
 "never met one. I were too young back then. Only Baldras and Harper really "
@@ -2187,37 +2155,29 @@ msgstr ""
 "科纳德，那看起来像个暗影法师！我听过他们的传闻，但从没见过一个。那会儿我还太"
 "小。只有巴尔德拉斯和哈珀真正认识他们。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:660
-#, fuzzy
 msgid ""
 "Hey, wait! You’re a Shadow Mage! One o’ Helicrom’s. Wait — it’s me, Harper!"
-msgstr "嘿，等等！你是个暗影法师！赫利克罗姆的手下。等等——是我啊，哈珀！"
+msgstr "嘿，等等！你是个暗影法师！赫里克罗姆的手下。等等——是我啊，哈珀！"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:664
-#, fuzzy
 msgid ""
 "Konrad, I’ve told you stories about them Shadow Mages. How they helped "
 "Baldras an’ me bring down Halstead?"
 msgstr ""
-"科纳德，我跟你说过那些暗影法师的故事。他们帮巴尔德拉斯和俺扳倒哈尔斯特德的"
-"事，还记得吗？"
+"科纳德，我跟你说过那些暗影法师的故事吧？他们是怎么帮巴尔德拉斯和俺搞垮哈尔斯"
+"特德的？"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:672
-#, fuzzy
 msgid ""
 "Little Harper? This is a surprise. You’re marching alongside Prince Konrad?"
 msgstr "小哈珀？真是意外。你竟和科纳德王子同行？"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:676
-#, fuzzy
 msgid ""
 "And now you’ve brought him right to our doorstep. Last I remember, you "
 "outlaws were helping us destabilize the crown, not fighting to supplant and "
@@ -2232,39 +2192,33 @@ msgid ""
 "Hey now, it ain’t as bad as all that. Asheviere is the evil one, not Konrad!"
 msgstr "嘿，话不能这么说，事情没那么糟。艾什薇尔才是邪恶之人，不是科纳德！"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:684
-#, fuzzy
 msgid ""
 "Be that as it may, a strong throne is not in the interest of the Grey Woods. "
 "I believe Helicrom made that clear when you and he first met."
 msgstr ""
-"话虽如此，强大的王权并不符合灰林的利益。我想赫利克罗姆在你和他初次见面时已经"
-"把这一点说得很清楚了。"
+"话虽如此，强大的王权并不符合灰色丛林的利益。我想赫里克罗姆在你和他初次见面时"
+"已经把这一点说得很清楚了。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:688
-#, fuzzy
 msgid ""
 "I understand that you want to be left alone, and I mean you no harm. Harper "
 "has vouched for me. Perhaps we can make a deal?"
 msgstr ""
-"我明白你们不想受到打扰，我对你们没有恶意。哈珀已经为我作保。也许我们可以做个"
-"交易？"
+"我明白你们不想被打扰，我也无意伤害你们。哈珀为我作了担保。也许我们可以谈个交"
+"易？"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:690
-#, fuzzy
 msgid ""
 "Help me overthrow Asheviere now, and once I am king I will ensure that none "
 "of the crown’s agents interfere with whatever your business is in the Grey "
 "Woods. Provided that business causes nobody any harm."
 msgstr ""
-"现在帮我推翻艾什薇尔，等我登上王位，我会确保王室的手下不会干涉你们在灰林的营"
-"生——前提是这些营生不伤害任何人。"
+"现在帮我推翻艾什薇尔，等我登上王位，我会确保王室的手下不会干涉你们在灰色丛林"
+"的营生——前提是这些营生不伤害任何人。"
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:694
@@ -2390,11 +2344,13 @@ msgid ""
 "Give me a moment to reconnect and let them know I’m still alive. Maybe I can "
 "convince them to help support our cause."
 msgstr ""
+"给我一点时间重新联络他们，让他们知道我还活着。也许我能说服他们支持我们的事"
+"业。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:943
 msgid "Great news! My grandparents have agreed to pledge 60 gold to our cause."
-msgstr ""
+msgstr "好消息！我的祖父母已经同意为我们的事业认捐60金币。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:948
@@ -2402,6 +2358,8 @@ msgid ""
 "Well done, and my thanks. That’s a great deal of wealth for a single family "
 "to contribute. You and they have my gratitude for such a generous gift."
 msgstr ""
+"干得好，也谢谢你。对单个家族来说，能捐出这么多财富，实在难得。你和你的家人如"
+"此慷慨，我感激不尽。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:952
@@ -2410,6 +2368,8 @@ msgid ""
 "interest once you assume the throne. I had to offer very generous terms — "
 "apparently you’re a “high-risk investment.”"
 msgstr ""
+"呃，这个嘛，其实这更像是贷款，而不是赠礼。等你登上王位后要连本带利偿还。我不"
+"得不开出非常优厚的条件——看来你算是一项“高风险投资”。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:956
@@ -2417,28 +2377,30 @@ msgid ""
 "You can accept the coin now, or wait for a more opportune time. Don’t worry "
 "about repayment: that can be dealt with after we defeat the queen."
 msgstr ""
+"你可以现在收下金币，也可以等个更合适的时机。别担心还款的事：等我们打败女王后"
+"再处理也不迟。"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:963
 msgid "Are you ready to make use of my family’s coin?"
-msgstr ""
+msgstr "你准备动用我家族的金币了吗？"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:970
 msgid "Accept 60 gold from Elrian’s family"
-msgstr ""
+msgstr "接受艾尔利安家族提供的60金币"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:979
 msgid ""
 "I accept the gold, and am grateful for it. Their generosity will be repaid "
 "in kind once I am king."
-msgstr ""
+msgstr "我接受这些金币，心怀感激。等我成为国王，定会以同样的慷慨回报他们。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:986
 msgid "Not yet"
-msgstr ""
+msgstr "暂不"
 
 #. [message]: speaker=Konrad
 #. referencing the tunnel used by Bazur and Isolde in Asheviere's Dogs
@@ -2447,6 +2409,8 @@ msgid ""
 "Delfador says that there was once a tunnel connecting Tath and Dan’Tonk. "
 "During the war it was used to great effect against the city defenders."
 msgstr ""
+"德法多说，曾经有一条隧道连接塔斯和丹·冬克。战争期间，它曾被用来对付守城部队，"
+"发挥了极大作用。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1005
@@ -2454,6 +2418,8 @@ msgid ""
 "But even if the tunnel still exists, and has not been deliberately collapsed "
 "by Asheviere, it is surely too well-guarded for us to attempt to use it."
 msgstr ""
+"但就算那条隧道仍在，也没有被艾什薇尔刻意炸塌，它的守备也肯定过于严密，我们无"
+"法尝试使用。"
 
 #. [message]: speaker=Konrad
 #. referencing the "discipline" scenario of Asheviere's Dogs
@@ -2463,6 +2429,8 @@ msgid ""
 "fighting over. It never fully recovered from the damage it took during "
 "Asheviere’s rise to power."
 msgstr ""
+"塔斯是座不错的城镇，但战略意义不足以让我们为它开战。它始终未能从艾什薇尔崛起"
+"期间遭受的破坏中完全恢复。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1065
@@ -2476,7 +2444,7 @@ msgstr "丹·冬克"
 msgid ""
 "Dan’Tonk. Delfador says this is the largest city in Wesnoth, and the source "
 "of most of Asheviere’s footmen."
-msgstr ""
+msgstr "丹·冬克。德法多说，这是韦诺最大的城市，也是艾什薇尔大部分步兵的来源。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1096
@@ -2485,6 +2453,8 @@ msgid ""
 "we’ve helped Maddock repel her attack, they’ve begun transporting soldiers "
 "and weapons from the front back towards Dan’Tonk."
 msgstr ""
+"这里也曾是艾什薇尔入侵埃仁撒伐的集结地。既然我们已帮助马多克击退了她的进攻，"
+"他们便开始把士兵和武器从前线运回丹·冬克。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1102
@@ -2493,6 +2463,8 @@ msgid ""
 "she’s taken the city, they’ve begun transporting soldiers and weapons from "
 "the front back towards Dan’Tonk."
 msgstr ""
+"这里也曾是艾什薇尔入侵埃仁撒伐的集结地。如今她已攻占那座城市，他们便开始把士"
+"兵和武器从前线运回丹·冬克。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1108
@@ -2501,6 +2473,8 @@ msgid ""
 "attacks draw to a close, they’ve begun transporting soldiers and weapons "
 "from the front back towards Dan’Tonk."
 msgstr ""
+"这里也是艾什薇尔入侵西部的集结地。随着她的攻势接近尾声，他们已开始把士兵和武"
+"器从前线运回丹·冬克。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1113
@@ -2509,13 +2483,15 @@ msgid ""
 "able to intercept and pilfer some of those inbound sabers, spears, and bows "
 "for our own arsenal!"
 msgstr ""
+"虽然城里到处都是守卫，但如果我们迅速出击，也许能截住并顺走一些正运来的军刀、"
+"长矛和弓，充实我们自己的军械库！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1119
 msgid ""
 "A fog has rolled in and several weapon shipments are approaching Dan’Tonk. "
 "Everyone, are we ready?"
-msgstr ""
+msgstr "雾气已经漫上来，几批武器正在向丹·冬克运来。各位，准备好了吗？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1136
@@ -2525,10 +2501,12 @@ msgid ""
 "collection of sabers, spears, and bows — everything we need to outfit new "
 "Fencers, Spearmen, and Bowmen!"
 msgstr ""
+"我们已深入韦诺腹地，劫掠了女王的武器，还能活着讲述这段传奇！我们从货车里收集"
+"了大批军刀、长矛和弓——足够装备新的剑客、矛兵和弓手！"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1138
 msgid "Konrad can now recruit Fencers, Spearmen, and Bowmen!"
-msgstr ""
+msgstr "科纳德现在可以征募剑客、矛兵和弓手了！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1144
@@ -2538,6 +2516,8 @@ msgid ""
 "promote Bowmen, we’ve pillaged a large collection of sabers and spears for "
 "our Fencers and Spearmen!"
 msgstr ""
+"我们深入韦诺腹地并成功脱身——还带回了比以前更多的武器！虽然我们缺少装备和升级"
+"弓手的物资，但我们为剑客和矛兵劫掠了大批军刀和长矛！"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1146
 msgid "Konrad can now recruit Spearmen and Fencers!"
@@ -2551,6 +2531,8 @@ msgid ""
 "but we’ve at least obtained a large collection of sabers — perfect for "
 "training Fencers."
 msgstr ""
+"我们深入韦诺腹地并成功脱身——还带回了比以前更多的武器！我真希望我们多劫掠几支"
+"商队，但至少我们弄到了大批军刀——正好用来训练剑客。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1154
 msgid "Konrad can now recruit Fencers!"
@@ -2563,6 +2545,8 @@ msgid ""
 "pillage to train even a single new soldier type! We shall have to make-do "
 "with the weapons and fighters we already have."
 msgstr ""
+"我们深入韦诺腹地并成功脱身——但劫掠到的东西太少，连一种新兵种都训练不出来！我"
+"们只能靠现有的武器和战士勉强应付了。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1168
@@ -2570,6 +2554,8 @@ msgid ""
 "No point going back — the city surroundings are better-fortified now than "
 "ever, and we can’t expect the same trick to work twice."
 msgstr ""
+"回去没有意义——城市周边如今比以往更加戒备森严，我们不能指望同一个把戏奏效两"
+"次。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1177
@@ -2582,17 +2568,17 @@ msgstr "雅碧滩"
 msgid ""
 "Crossin’ through Stoneskin ford? Dat’ll be $bm_ford_cost gold for passage, "
 "whelp."
-msgstr ""
+msgstr "想过石皮渡口？过路费得 $bm_ford_cost 金币，小崽子。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1215
 msgid "You know da deal, softskin. Pay up."
-msgstr ""
+msgstr "规矩你懂，软皮。掏钱。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1219
 msgid "What!? But I already paid you!"
-msgstr ""
+msgstr "什么！？可我已经付过你钱了！"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1224
@@ -2600,30 +2586,32 @@ msgid ""
 "Fee works every time, both ways. Das why Dosh be givin’ you the membership "
 "discount, see? Only $bm_ford_cost gold for repeat customers."
 msgstr ""
+"过路费每次都收，来回都算。所以多什才给你会员折扣，懂不？回头客只要 "
+"$bm_ford_cost 金币。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1237
 msgid "Pay ($bm_ford_cost gold)"
-msgstr ""
+msgstr "支付（$bm_ford_cost 金币）"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1245
 msgid "You don’t got ’nuff gold, softskin. Come back later."
-msgstr ""
+msgstr "你金币不够，软皮。回头再来吧。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1258
 msgid ""
 "This is practically highway robbery, but we don’t have time to stop and "
 "fight. Take your gold and let us through."
-msgstr ""
+msgstr "这简直就是拦路抢劫，但我们没时间停下来打。拿上你的金币，让我们过去。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1274
 msgid ""
 "Wow. Two-hunnerd fifty gold... you make me richest troll who ever lived! "
 "Konrad good troll-friend."
-msgstr ""
+msgstr "哇。两百五十金币……你让俺成了有史以来最富的巨魔！科纳德是巨魔的好朋友。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1278
@@ -2632,57 +2620,59 @@ msgid ""
 "join Konrad, help you out with throne. We done ’nuff time making friends. "
 "Now’s time for smashing bad guys."
 msgstr ""
+"既然多什这么有钱了，再收渡口费也没啥意思。不如干脆加入科纳德，帮你夺回王座。"
+"咱们交朋友的时间也够多了。现在该去砸烂坏蛋了。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1293
 msgid "You okay in da head, softskin? Das one-hunnerd gold you done paid me."
-msgstr ""
+msgstr "你脑子没毛病吧，软皮？你已经付给俺一百金币了。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1295
 msgid ""
 "Maybe Dosh otta be charging more... fifty gold next time. Only a real troll-"
 "friend would keep paying."
-msgstr ""
+msgstr "也许多什该多收点……下次收五十金币。只有真正的巨魔朋友才会一直付钱。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1302
 msgid ""
 "You payin’ Dosh a lot o’ coins, Konrad. My retirement fund got seventy gold "
 "in it now!"
-msgstr ""
+msgstr "你给多什付了好多金币啊，科纳德。俺的养老金现在都有七十金币了！"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1308
 msgid "You a good customer, softskin. Das forty gold you done paid me so far."
-msgstr ""
+msgstr "你是好顾客，软皮。到现在你已经付给俺四十金币了。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1314
 msgid "Pleasure doin’ business with you."
-msgstr ""
+msgstr "跟你做买卖真高兴。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1325
 msgid "Refuse"
-msgstr ""
+msgstr "拒绝"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1330
 msgid "The heir of Wesnoth does not bow to extortion. Have at you, troll!"
-msgstr ""
+msgstr "韦诺的继承人不向敲诈低头。放马过来吧，巨魔！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1336
 msgid "Paying once was bad enough. I’m taking my gold back!"
-msgstr ""
+msgstr "付过一次就够糟了。我要把金币拿回来！"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1361
 msgid ""
 "Dosh glad Konrad and he didn’t have to fight. Fighting with Konrad much "
 "better than fighting against him!"
-msgstr ""
+msgstr "多什高兴，科纳德和他不用打架。跟科纳德一起打，比打科纳德好多啦！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1378
@@ -2690,32 +2680,36 @@ msgid ""
 "We taught those highwaymen a lesson they won’t soon forget. Now the ford is "
 "free for all, as it should be."
 msgstr ""
+"我们给那些车匪上了一课，他们不会很快忘记。现在渡口向所有人开放，本就该如此。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1384
 msgid "The ford is free for all to cross!"
-msgstr ""
+msgstr "渡口对所有人开放，谁都可以过河了！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:11
 msgid "Glamdrol Fortress"
-msgstr ""
+msgstr "戈拉姆多要塞"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:19
 msgid "Glamdrol"
-msgstr ""
+msgstr "戈拉姆多"
 
+# 见后面的一条翻译者注释："living" 翻译为　”有生命“，不包括德法多召唤的元素体
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:22
 msgid ""
 "Item for Konrad: <span color='#EFBF04'><b>whenever one of Konrad’s living "
 "allies dies,\n"
 "all others gain regeneration for one turn.</b></span>"
 msgstr ""
+"科纳德的道具：<span color='#EFBF04'><b>每当科纳德的任一有生命的盟友死亡时，\n"
+"其他所有盟友获得再生能力，持续一回合。</b></span>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:70
 msgid "We approach the walls of a great orcish fortress. Glamdrol!"
-msgstr ""
+msgstr "我们正在靠近一座巨大的兽人要塞的城墙。戈拉姆多！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:74
@@ -2723,6 +2717,8 @@ msgid ""
 "Most orcish tribes live as nomads, but Delfador says they take great pride "
 "in possessing Glamdrol — or in defeating the last possessor."
 msgstr ""
+"大多数兽人部落都过着游牧生活，但德法多说，他们极为自豪于占有戈拉姆多——或是击"
+"败上一个占有者。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:80
@@ -2731,6 +2727,8 @@ msgid ""
 "valuables they can find. Perhaps it’s time we gave them a taste of their own "
 "medicine!"
 msgstr ""
+"兽人经常劫掠韦诺的村庄和城镇，抢走他们能找到的一切金币和财物。也许现在该让他"
+"们尝尝自己的苦头了！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:150
@@ -2739,6 +2737,8 @@ msgid ""
 "paying our agreed-upon $bm_s22_gold_cost gold to our Stoneskin friends, we "
 "still have $gold gold remaining for our next battle."
 msgstr ""
+"我们闯进了兽人的一座巨大要塞，又成功脱身！如今，在按约定付给石皮朋友们 "
+"$bm_s22_gold_cost 金币后，我们仍有 $gold 金币留待下一场战斗。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:155
@@ -2748,6 +2748,8 @@ msgid ""
 "$bm_s22_gold_cost gold to our Stoneskin friends, we still have $gold gold "
 "remaining for our next battle."
 msgstr ""
+"我们闯进了兽人的一座巨大要塞，又成功脱身！而且得到了丰厚回报！即便按约定付给"
+"石皮朋友们 $bm_s22_gold_cost 金币，我们仍有 $gold 金币留待下一场战斗。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:164
@@ -2756,6 +2758,8 @@ msgid ""
 "we only managed to pillage $gold gold for our next battle, at least we have "
 "survived."
 msgstr ""
+"我们闯进了兽人的一座巨大要塞，又成功脱身！虽然我们只为下一场战斗掠夺到 $gold "
+"金币，但至少我们活了下来。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:169
@@ -2764,6 +2768,8 @@ msgid ""
 "have been well-rewarded for it, for we now have $gold gold stockpiled for "
 "our next battle."
 msgstr ""
+"我们闯进了兽人的一座巨大要塞，又成功脱身！而且得到了丰厚回报，因为我们现在已"
+"为下一场战斗积攒了 $gold 金币。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:178
@@ -2771,10 +2777,12 @@ msgid ""
 "Perhaps most importantly, we defeated the orcs’ shaman and took her magical "
 "horn! I shall wear it myself, and blow it whenever its magic is in need."
 msgstr ""
+"也许最重要的是，我们击败了兽人萨满，夺走了她的魔法号角！我要亲自佩戴它，并在"
+"需要它的魔法时吹响它。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:183
 msgid "Horn of Glamdrol"
-msgstr ""
+msgstr "戈拉姆多号角"
 
 #. "allies" includes both the player side and allied sides. "living" excludes Delfador's elementals. When one ally dies, other allies gain the "regenerates" ability for one turn.
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:185
@@ -2782,43 +2790,45 @@ msgid ""
 "This nondescript horn is infused with powerful orcish magic. Whenever one of "
 "Konrad’s living allies dies, all others gain regeneration for one turn."
 msgstr ""
+"这只看似普通的号角灌注着强大的兽人魔法。每当科纳德的任一有生命的盟友死亡时，"
+"其他所有盟友获得再生能力，持续一回合。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:192
 msgid ""
 "If only we had been able to defeat the orcs’ shaman and claim her magical "
 "horn..."
-msgstr ""
+msgstr "要是我们当时能击败兽人萨满，夺得她的魔法号角就好了……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:205
 msgid ""
 "With the original orcish owners wiped out, our friends in the Stoneskin clan "
 "now hold the city."
-msgstr ""
+msgstr "原有的兽人占有者已被消灭，我们石皮氏族的朋友们如今占据了这座城市。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:210
 msgid "Glamdrol has been wiped clean of orcs!"
-msgstr ""
+msgstr "戈拉姆多的兽人已被彻底肃清！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:216
 msgid ""
 "We’d best keep our distance. The orcs will be watching for any more raids!"
-msgstr ""
+msgstr "我们最好保持距离。兽人肯定会提防任何进一步的袭击！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:233
 msgid "Jotha"
-msgstr ""
+msgstr "乔萨"
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:251
 msgid ""
 "What do you want? You here to trade? Jotha’s got nothin’ to trade but some "
 "old fish."
-msgstr ""
+msgstr "你想干什么？你是来交易的吗？礁沙除了几条老鱼，没什么可交易的。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:255
@@ -2826,6 +2836,8 @@ msgid ""
 "Is this your home, strange merman? The bay is warm, but fishing alone so far "
 "north must make for a lonely life."
 msgstr ""
+"这里就是你的家吗，奇怪的人鱼？这片海湾很温暖，但在这么北的地方独自捕鱼，日子"
+"一定很孤独吧。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:269
@@ -2834,6 +2846,8 @@ msgid ""
 "instead of slaving away as a trawler! We already have merfolk among our "
 "number — you’ll feel right at home."
 msgstr ""
+"我有个提议。来加入我的军队吧，为正义而战，总比当拖网渔夫苦熬日子强！我们队伍"
+"里已经有人鱼了——你会觉得像在自己家一样。"
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:273
@@ -2842,11 +2856,13 @@ msgid ""
 "still ain’t working fer free. 10 gold and I’ll join you, and you’ll still "
 "have to pay to recall me each battle."
 msgstr ""
+"你说还有其他的人鱼？嗯……冲这个我给你打个折，可我还是不会白干活。10金币，我就"
+"加入你；不过每场战斗召我回来，你还是得付钱。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:278
 msgid "Pay 10 gold"
-msgstr ""
+msgstr "支付10金币"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:298
@@ -2855,6 +2871,8 @@ msgid ""
 "instead of slaving away as a trawler! I would be glad to welcome one of the "
 "noble mermen to our ranks."
 msgstr ""
+"我有个提议。来加入我的军队吧，为正义而战，总比当拖网渔夫苦熬日子强！我会很乐"
+"意欢迎一位高贵的人鱼加入我们的行列。"
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:302
@@ -2863,35 +2881,39 @@ msgid ""
 "but I still ain’t working fer free. 30 gold and I’ll join you, and you’ll "
 "still have to pay to recall me each battle."
 msgstr ""
+"加入你的军队，你是这么说的？嗯……我倒不介意离开这个水塘，可我还是不会白干活。"
+"30金币，我就加入你；不过每场战斗召我回来，你还是得付钱。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:307
 msgid "Pay 30 gold."
-msgstr ""
+msgstr "支付30金币。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:328
 msgid ""
 "I would like to agree to your offer, but I don’t have enough gold right now. "
 "Would you consider lowering your price?"
-msgstr ""
+msgstr "我很想接受你的提议，可我现在金币不够。你愿意降点价吗？"
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:332
 msgid "No gold, no Jotha. Now go away and stop bothering me."
-msgstr ""
+msgstr "没钱，就没礁沙。快走开，别烦我。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:348
 msgid ""
 "Welcome to the rebellion against Asheviere, friend merman. I am glad to have "
 "you on our side."
-msgstr ""
+msgstr "欢迎加入反抗艾什薇尔的反抗军，人鱼朋友。我很高兴你能站在我们这边。"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:361
+#, fuzzy
 msgid "Ashen’s Maw"
-msgstr ""
+msgstr "灰烬之喉"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:370
@@ -2916,7 +2938,7 @@ msgstr "北国之冬"
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:400
 msgid "... three parts essence of bark, one part yeti tongue..."
-msgstr ""
+msgstr "……三份树皮精华，一份雪人舌头……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:404
@@ -2924,18 +2946,19 @@ msgid ""
 "Hello, strange woman! What are you doing alone so far north? And in the "
 "middle of a blizzard too!"
 msgstr ""
+"你好，奇怪的女士！你怎么一个人跑到这么北的地方来了？而且还是在暴风雪里！"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:408
 msgid "... a distillation of fire, elixir of the right-eye..."
-msgstr ""
+msgstr "……火的蒸馏液，右眼灵药……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:412
 msgid ""
 "Hello? Hello!? ...she’s very engrossed in something, and still hasn’t "
 "noticed us."
-msgstr ""
+msgstr "喂？喂！？……她全神贯注地忙着什么，还是没注意到我们。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:419
@@ -2945,6 +2968,8 @@ msgid ""
 "middle of winter. We should speak to this woman and see if she needs any "
 "help."
 msgstr ""
+"北陆很危险，不适合独自游荡，尤其是在这么猛烈的暴风雪中心，<b><i>尤其</i></b>"
+"是在隆冬时节。我们该去和这位女士谈谈，看看她是否需要帮助。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:424
@@ -2953,18 +2978,20 @@ msgid ""
 "the center of such a fierce snowstorm. We should speak to this woman and see "
 "if she needs any help."
 msgstr ""
+"北陆很危险，不适合独自游荡，尤其是在这么猛烈的暴风雪中心。我们该去和这位女士"
+"谈谈，看看她是否需要帮助。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:456
 msgid "Wesmere Forest"
-msgstr ""
+msgstr "韦弥尔森林"
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:487
 msgid ""
 "By order of the lady Chantal, Wesmere forest is closed to outsiders. Be off "
 "with you."
-msgstr ""
+msgstr "奉香黛尔女士之命，韦弥尔森林禁止外人进入。快离开吧。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:491
@@ -2972,30 +2999,32 @@ msgid ""
 "Good elf, I am Konrad, heir to the throne of Wesnoth, child of the "
 "Aethenwood and ally of Wesmere. I am no outsider, but come as a friend!"
 msgstr ""
+"善良的精灵，我是科纳德，韦诺王座的继承人，艾森丛林之子，韦弥尔的盟友。我并非"
+"外人，而是以朋友身份前来！"
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:495
 msgid ""
 "Apologies, but I have my orders. None can enter here. Even you, Your Royal "
 "Highness."
-msgstr ""
+msgstr "抱歉，但我有令在身。任何人不得入内。即便是您也不行，殿下。"
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:500
 msgid ""
 "By order of the lady Chantal, Wesmere forest is closed to outsiders. Even "
 "you, Your Royal Highness."
-msgstr ""
+msgstr "奉香黛尔女士之命，韦弥尔森林禁止外人进入。即便是您也不行，殿下。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:511
 msgid "Even me, guard of Wesmere?"
-msgstr ""
+msgstr "连我也不行吗，韦弥尔的守卫？"
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:515
 msgid "High Lord Kalenz! Speaking to me!?"
-msgstr ""
+msgstr "最高领主卡雷兹！竟然在跟我说话！？"
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:519
@@ -3003,20 +3032,22 @@ msgid ""
 "Err, well, I was told not to let anyone in... but surely you and any "
 "companions of yours are an exception. Go on, and speak to your granddaughter."
 msgstr ""
+"呃，这个嘛，我接到命令不许任何人进入……但您和您的同伴当然另当别论。进去吧，去"
+"和您的孙女谈谈。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:526
 msgid "How strange..."
-msgstr ""
+msgstr "真奇怪……"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:547
 msgid "An Old Friend"
-msgstr ""
+msgstr "一位老朋友"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:565
 msgid "Great-grandfather?! What is the meaning of this?"
-msgstr ""
+msgstr "曾祖父？！这是怎么回事？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:569
@@ -3024,6 +3055,8 @@ msgid ""
 "What is the meaning of this, indeed. The borders of Wesmere closed, even to "
 "Konrad and his retinue? What sort of trouble ails you, Chantal?"
 msgstr ""
+"确实，这究竟是怎么回事？韦弥尔的边境竟然封闭，连科纳德及其随从都被拒之门外？"
+"你为何事烦忧，香黛尔？"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:573
@@ -3032,26 +3065,28 @@ msgid ""
 "confrontation, but I know it is for the best that you are here, and that my "
 "hand is forced."
 msgstr ""
+"一位老朋友回来了，卡雷兹……我本希望能推迟这场对峙，但我知道你在这里是最好不过"
+"的，而我已别无选择。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:580
 msgid ""
 "This is a matter of a personal nature, Konrad. If you do not object, I would "
 "prefer if Kalenz and I did this alone."
-msgstr ""
+msgstr "科纳德，这是私事。如果你不反对，我更希望卡雷兹和我单独处理此事。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:594
 msgid ""
 "This is a matter of a personal nature, Konrad. Kalenz is not here, and I "
 "would rather handle things myself."
-msgstr ""
+msgstr "科纳德，这是私事。卡雷兹不在这里，我宁愿自己处理此事。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:615
 msgid ""
 "Thank you for your patience, Konrad. Kalenz and I are finished with our task."
-msgstr ""
+msgstr "感谢你的耐心等候，科纳德。卡雷兹和我已经完成了我们的任务。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:619
@@ -3060,18 +3095,20 @@ msgid ""
 "most of us must stay here to protect our domain, the shamans of Wesmere are "
 "ready to follow you."
 msgstr ""
+"随着我的心伤开始愈合，我们精灵也将帮助治愈你的军队。虽然我们大多数人必须留在"
+"此地守护我们的领地，但韦弥尔的萨满们已准备好追随你。"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:621
 msgid ""
 "Or, if you wish, I can personally accompany you on your quest to overthrow "
 "the dark queen."
-msgstr ""
+msgstr "或者，如果你愿意，我可以亲自随你踏上推翻黑暗女王的征途。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:626
 msgid "Learn to recruit Elvish Shamans"
-msgstr ""
+msgstr "学会征募精灵萨满"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:630
@@ -3079,6 +3116,8 @@ msgid ""
 "I am glad we can help you, Konrad, for the dark queen has many deaths to "
 "answer for. Asheviere will rue the day she made an enemy of the elves."
 msgstr ""
+"我很高兴我们能帮到你，科纳德，因为那位黑暗女王欠下的血债实在太多。艾什薇尔终"
+"会为她与精灵为敌的那一天追悔莫及。"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:632
@@ -3088,7 +3127,7 @@ msgstr "科纳德现在可以征募精灵萨满了！"
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:636
 msgid "Gain Chantal as a loyal companion"
-msgstr ""
+msgstr "让香黛尔成为忠诚的伙伴"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:640
@@ -3097,30 +3136,32 @@ msgid ""
 "deaths to answer for. Asheviere will rue the day she made an enemy of the "
 "elves."
 msgstr ""
+"我很高兴能与你一同踏上征程，科纳德，因为那位黑暗女王欠下的血债实在太多。艾什"
+"薇尔终会为她与精灵为敌的那一天追悔莫及。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:669
 msgid ""
 "I would like to agree to your offer, but I don’t have enough gold! Perhaps "
 "another time, lizard."
-msgstr ""
+msgstr "我倒想答应你的提议，可我的金币不够！也许改天吧，蜥蜴。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:700
 msgid ""
 "Whew! This has been grueling, but I feel as light on my feet as a fencer. I "
 "am grateful for your tutelage, Tirix."
-msgstr ""
+msgstr "呼！这可真够累人的，但我觉得脚步轻快得像剑客。提里克斯，多谢你的指点。"
 
 #. [object]: id=saurian_training, description={DESC}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:706
 msgid "Saurian Footwork"
-msgstr ""
+msgstr "蜥蜴人步法"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:720
 msgid "Tirix"
-msgstr ""
+msgstr "提里克斯"
 
 #. [message]: speaker=Tirix
 #. Slow, slow! It is disgusting how all you tall ones are so slow!
@@ -3128,7 +3169,7 @@ msgstr ""
 msgid ""
 "Ssslow, ssslow! It isss disssgusssting how you tall onesss are all ssso "
 "ssslow!"
-msgstr ""
+msgstr "慢嘶嘶，慢嘶嘶！你们这些高个子全都这么慢，真令人恶心嘶嘶！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:744
@@ -3136,6 +3177,8 @@ msgid ""
 "What do you mean, lizard? Both my legs and my sword-arm are perfectly quick "
 "— as you will soon find out if you wish me any ill-intent."
 msgstr ""
+"你什么意思，蜥蜴？我的双腿和持剑的手臂都敏捷得很——你若对我有半点恶意，很快就"
+"会领教到。"
 
 #. [message]: speaker=Tirix
 #. Psssh... I know your kind; tall, and clumsy. Tirix can teach you speed... yes, speed... But only if you pay. It shall not be cheap.
@@ -3144,11 +3187,13 @@ msgid ""
 "Psssh... I know your kind; tall, and clumsssy. Tirix can teach you "
 "ssspeed... yesss, ssspeed... But only if you pay. It ssshall not be cheap."
 msgstr ""
+"嘶嘶……我了解你们这种家伙；又高又笨手笨脚嘶嘶。提里克斯能教你速度嘶嘶……对嘶"
+"嘶，速度嘶嘶……但你得付钱。这可不会便宜嘶嘶。"
 
 #. [message]: speaker=Tirix
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:754
 msgid "Have you returned to learn the waysss of ssspeed, human?"
-msgstr ""
+msgstr "你回来是想学速度之道吗嘶嘶，人类？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:768
@@ -3157,11 +3202,13 @@ msgid ""
 "have no time to spare for lengthy training. Perhaps we will meet again "
 "another day."
 msgstr ""
+"多谢你的好意，但我正急着北上与导师会面，抽不出时间做漫长的训练。也许改天再会"
+"吧。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:778
 msgid "50 gold; physical training: <b>Konrad gains +1MP</b>"
-msgstr ""
+msgstr "50金币；体能训练：<b>科纳德获得 +1 移动力</b>"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:781
@@ -3169,11 +3216,13 @@ msgid ""
 "After rigorous physical training with the saurians of the Swamp of Dread, "
 "Konrad has gained <b>+1MP</b>."
 msgstr ""
+"在恐惧沼泽的蜥蜴人指导下进行了严格的体能训练后，科纳德获得了 <b>+1 移动力</"
+"b>。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:787
 msgid "100 gold; magical training: <b>Konrad gains +2MP</b>"
-msgstr ""
+msgstr "100金币；魔法训练：<b>科纳德获得 +2 移动力</b>"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:790
@@ -3181,12 +3230,14 @@ msgid ""
 "After rigorous physical and magical training with the saurians of the Swamp "
 "of Dread, Konrad has gained <b>+2MP</b>."
 msgstr ""
+"在恐惧沼泽的蜥蜴人指导下进行了严格的体能与魔法训练后，科纳德获得了 <b>+2 移动"
+"力</b>。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:797
 msgid ""
 "150 gold; legendary training: <b>Konrad gains +2MP and <i>skirmisher</i></b>"
-msgstr ""
+msgstr "150金币；传奇训练：<b>科纳德获得 +2 移动力和<i>散兵</i>能力</b>"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:800
@@ -3195,20 +3246,22 @@ msgid ""
 "of Dread, Konrad has gained <b>+2MP</b> and the <b><i>skirmisher</i></b> "
 "ability."
 msgstr ""
+"在恐惧沼泽的蜥蜴人指导下进行了严格的体能与魔法训练后，科纳德获得了<b>+2 移动"
+"力</b>以及<b><i>散兵</i></b>能力。"
 
 #. [message]: speaker=Tirix
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:823
 msgid ""
 "Good, good, much better. Not so ssslow any more! I have no time or "
 "interessst in more training."
-msgstr ""
+msgstr "好，好，好多了。不再那么慢吞吞了嘶嘶！我没时间，也没兴趣再训练了。"
 
 #. [message]: speaker={KONRAD_OR_NOBODY}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:840
 msgid ""
 "What happened here was such a tragedy... do you know anything more than I "
 "do, Ulfdain?"
-msgstr ""
+msgstr "这里发生的事真是一场惨剧……乌尔夫戴恩，你可知道些我不知道的事？"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:844
@@ -3217,6 +3270,8 @@ msgid ""
 "slaughter. My father an’ his father alike perished defendin’ th’ West Gate, "
 "an’ soon after fell the Doors, an’ our King Thunedain with them."
 msgstr ""
+"嗯哪……那是个劫难与壮举并存的年头，火、血跟屠杀遍地都是。俺爹和他爹都死在守西"
+"门上，没过多久，大门也陷落了，咱们的国王图内戴恩也跟他们一块儿去了。"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:848
