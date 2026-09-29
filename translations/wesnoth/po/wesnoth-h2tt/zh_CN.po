@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-27 11:32+0800\n"
+"PO-Revision-Date: 2026-09-29 21:59+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -497,10 +497,8 @@ msgid ""
 msgstr ""
 "在乔萨在场、埃仁撒伐获得自由、矮人之门受到鼓舞的情况下完成<i>韦诺之战</i>。"
 
-# Translated by openai with model deepseek-flash.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:71
-#, fuzzy
 msgid "Asleep at the Wheel"
 msgstr "玩忽职守"
 
@@ -3281,6 +3279,9 @@ msgid ""
 "once-proud people. Or betrayin’ their kin to start anew in human lands, like "
 "me..."
 msgstr ""
+"那些年里，俺们大半的精气神都死掉了。自那以后，俺们矮人就成了一支没落的族类，"
+"在自己的坑道里哭哭啼啼，曾经骄傲的族人如今只剩苟延残喘的渣滓。要么就背叛亲"
+"族，去人类的地界另谋生路，就像俺这样……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:852
@@ -3288,6 +3289,8 @@ msgid ""
 "I’ve never-before heard you speak so grimly, Ulfdain. I’m sorry for your "
 "loss. Is there nothing we can do to restore Knalga to its former glory?"
 msgstr ""
+"乌尔夫戴恩，我从没听你说过这么悲观的话。对你失去的一切，我很难过。难道我们真"
+"的无能为力，无法让纳尔迦恢复昔日的荣光吗？"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:856
@@ -3296,6 +3299,8 @@ msgid ""
 "besides. No, there ain’t no use cryin’ over it. Ah’ve given up hope; it’s "
 "only death in battle tha’ I wish fer now..."
 msgstr ""
+"除非你能把北边的兽人统统打退，还有巨魔和亡灵，那才成。不，为这事哭也没用。俺"
+"已经断了指望；如今俺只求战死沙场……"
 
 #. [message]: speaker={KONRAD_OR_NOBODY}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:871
@@ -3304,13 +3309,15 @@ msgid ""
 "restore Knalga to its former glory? Do you know anything more than I do, my "
 "dwarvish friend?"
 msgstr ""
+"这里发生的事真是场惨剧……难道我们真的无法让纳尔迦恢复昔日荣光吗？我的矮人朋"
+"友，你知道的比我多吗？"
 
 #. [message]: speaker=$dwarf_id
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:875
 msgid ""
 "Aye, but ’tis not a time we dwarves like to talk about. The West Gate "
 "fallen, the Dwarven Doors sacked..."
-msgstr ""
+msgstr "唉，是啊，可那不是俺们矮人愿意提起的年代。西门陷落，矮人之门遭劫……"
 
 #. [message]: speaker=$dwarf_id
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:879
@@ -3320,6 +3327,9 @@ msgid ""
 "people in decline, sniveling in our tunnels, th’ dyin’ dregs of a once-proud "
 "people..."
 msgstr ""
+"不，你什么也做不了，除非你能把北边的兽人统统打退，还有巨魔和亡灵。俺们矮人注"
+"定要成为一支没落的族类，在自己的坑道里哭哭啼啼，曾经骄傲的族人如今只剩苟延残"
+"喘的渣滓……"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:924
@@ -3337,6 +3347,8 @@ msgid ""
 "orcish masters. We can fight our way south to exit the caves of Knalga, "
 "while freeing as many slaves as possible on our way!"
 msgstr ""
+"曾经繁荣的自由城邦——矮人之门，如今满是奴隶和他们的兽人主子。我们可以一路向南"
+"杀出去，离开纳尔迦的洞窟，同时沿途尽可能多地解救奴隶！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:982
@@ -3345,6 +3357,8 @@ msgid ""
 "orcish masters. We can fight our way north to reach the caves of Knalga, "
 "while freeing as many slaves as possible on our way!"
 msgstr ""
+"曾经繁荣的自由城邦——矮人之门，如今满是奴隶和他们的兽人主子。我们可以一路向北"
+"杀过去，抵达纳尔迦的洞窟，同时沿途尽可能多地解救奴隶！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1014
@@ -3352,6 +3366,8 @@ msgid ""
 "We have cleared the Doors of orcs! It sounds as though they mean to return "
 "in the future, but at least for now we will be able to pass unmolested."
 msgstr ""
+"我们肃清了矮人之门里的兽人！听他们的口气，将来还打算回来，但至少眼下我们可以"
+"不受骚扰地通过了。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1019
@@ -3361,20 +3377,22 @@ msgid ""
 "slaves while they are on alert. At least we will henceforth be able to pass "
 "unmolested."
 msgstr ""
+"我们一路杀穿了矮人之门！兽人今后再也不敢轻易来招惹我们，但在他们的戒备之下，"
+"我们也无法再解救更多奴隶。至少从现在起，我们可以不受骚扰地通过了。"
 
 #. [message]: role=doors_orc
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1044
 msgid ""
 "Get back to work, pinkskin! Show your masters a proper work ethic and maybe "
 "you’ll be spared the lash!"
-msgstr ""
+msgstr "滚回去干活，粉皮！给主子们好好卖力，也许就不用挨鞭子！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1049
 msgid ""
 "Slaves? This is a travesty! Weren’t the Dwarven Doors once a great center of "
 "civilization?"
-msgstr ""
+msgstr "奴隶？这简直是暴行！矮人之门难道不曾是伟大文明的中心吗？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1053
@@ -3383,11 +3401,15 @@ msgid ""
 "not stop the orcish war-horde. And now it’s a slave city under the heel of "
 "the orcs!"
 msgstr ""
+"他们与纳尔迦的联盟曾十分牢固，但即便人类与矮人联手，也挡不住兽人大军。如今它"
+"竟成了兽人铁蹄下的奴隶之城！"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1068
+#, fuzzy
 msgid "Caverns of Chaincolt"
-msgstr ""
+msgstr "钱科尔特洞窟"
 
 #. [scenario]: id=28_The_Lost_General
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1079
@@ -3400,13 +3422,15 @@ msgid ""
 "Weapon for Konrad: <span color='#EFBF04'><b>+3 melee damage, <i>drains</i> "
 "special on melee attacks</b></span>"
 msgstr ""
+"科纳德的武器：<span color='#EFBF04'><b>+3 近战伤害，近战攻击获得<i>吸血</i>特"
+"攻</b></span>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1102
 msgid ""
 "These old halls were ruined long ago, but there may still be something of "
 "value inside."
-msgstr ""
+msgstr "这些古老厅堂很早以前就荒废了，但里面也许还有些值钱的东西。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1117
@@ -3415,6 +3439,8 @@ msgid ""
 "or merely moved. There might have been treasure here, once, but all that is "
 "left now is rubble and excrement."
 msgstr ""
+"曾经盘踞在这些古老厅堂里的巨魔已经不见踪影；不是被杀光了，就是搬走了。这里也"
+"许曾有过财宝，但如今只剩下碎石和粪便。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1130
@@ -3422,13 +3448,15 @@ msgid ""
 "I’m glad to be out into the sun and fresh air again. I may not despise caves "
 "so much as an elf, but I’m no dwarf either."
 msgstr ""
+"我很高兴能重见阳光、呼吸新鲜空气。我或许不像精灵那样憎恶洞穴，但我也不是矮"
+"人。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1137
 msgid ""
 "There’s nothing more of value here — at least nothing that we have the time "
 "or skill to unearth."
-msgstr ""
+msgstr "这里再没什么值钱的东西了——至少没有我们还有时间或本事去发掘的东西。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1156
@@ -3437,10 +3465,13 @@ msgid ""
 "tragedy when the kingdom of the dwarves was shattered by the orcs and their "
 "allies. Now all that’s left here are trolls and ruins."
 msgstr ""
+"纳尔迦的西门！我听说过这个地方……矮人的王国被兽人及其盟友粉碎时，那是一场可怕"
+"的惨剧。如今这里只剩下巨魔和废墟。"
 
+# Translated by openai with model deepseek-flash.
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1170
 msgid "Greater Knalga"
-msgstr ""
+msgstr "大纳尔迦"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1175
@@ -3454,29 +3485,35 @@ msgstr "格尔达"
 msgid "Relgorn"
 msgstr "瑞尔高恩"
 
+# Translated by openai with model deepseek-flash.
 #. [scenario]: id=29_Digging_for_Dwarves
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1187
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:9
+#, fuzzy
 msgid "Digging for Dwarves"
-msgstr ""
+msgstr "挖掘矮人"
 
+# Translated by openai with model deepseek-flash.
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1191
+#, fuzzy
 msgid ""
 "New Recruits\n"
 "<i><b>Choose Two</b></i>:"
 msgstr ""
+"新兵招募\n"
+"<i><b>选择两名</b></i>："
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1222
 msgid ""
 "What now, human? I already told ye, no-one gets in without someone to vouch "
 "for ’em."
-msgstr ""
+msgstr "又咋了，人类？俺早跟你说过，没人作保，谁也别想进去。"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1227
 msgid "Another attack! Up axes, and make ready to repel the invaders!"
-msgstr ""
+msgstr "又有敌袭！抄起斧头，准备击退入侵者！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1231
@@ -3484,6 +3521,8 @@ msgid ""
 "Peace, dwarves of Knalga! I am a man of Wesnoth, not an orc or a troll, and "
 "I come as a friend."
 msgstr ""
+"住手，纳尔迦的矮人们！我是韦诺人，不是兽人，也不是巨魔，我是以朋友的身份来"
+"的。"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1235
@@ -3491,6 +3530,8 @@ msgid ""
 "A man? Haven’t seen many o’ yer kind since our friends at the Doors fell, "
 "an’ you ain’t one o’ their’s. Who says we should trust ye?"
 msgstr ""
+"人类？自从俺们在矮人之门的朋友陷落之后，俺就没见过多少你们这种人，而且你也不"
+"是他们那边的。谁说俺们该信你？"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1251
@@ -3498,6 +3539,7 @@ msgid ""
 "Let us in, ye chicken-hearted cad! Cannae a dwarf return to ’is home without "
 "bein’ set upon like some horde o’ trolls?"
 msgstr ""
+"让俺们进去，你这胆小的孬种！难道矮人回自己家，还得像碰上一群巨魔似的挨打吗？"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1255
@@ -3505,7 +3547,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1308
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1336
 msgid "I dunno..."
-msgstr ""
+msgstr "俺不知道……"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1260
@@ -3514,6 +3556,8 @@ msgid ""
 "a Bloodaxe now too!? Get across th’ bridge then, quickly-now, afore th’ orcs "
 "find ye."
 msgstr ""
+"乌尔夫戴恩！？俺好多年没见过你了，自从你离开去韦诺之后就没见过——你现在还成了"
+"血斧！？那就赶紧过桥，快点儿，趁兽人还没发现你。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1265
@@ -3521,6 +3565,8 @@ msgid ""
 "Ulfdain!? I ain’t seen you in years, not since you left fer Wesnoth! Get "
 "across th’ bridge then, quickly-now, afore th’ orcs find ye."
 msgstr ""
+"乌尔夫戴恩！？俺好多年没见过你了，自从你离开去韦诺之后就没见过！那就赶紧过"
+"桥，快点儿，趁兽人还没发现你。"
 
 #. [message]: speaker=Somf
 #. [message]: role=doors_vouch_peasant
@@ -3530,6 +3576,8 @@ msgid ""
 "I’m from the Doors, your old human allies! And I’m free now, thanks to this "
 "boy Konrad and his army! They’re good people, and I’ll vouch for ’em."
 msgstr ""
+"我来自矮人之门，你们从前的人类盟友！多亏了科纳德这小子和他的军队，我现在自由"
+"了！他们是好人，我愿为他们作保。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1289
@@ -3537,6 +3585,7 @@ msgid ""
 "Ah, let ’em in, Geldar. They ain’t orcs, trolls, or undead, an’ that’s good "
 "enough for now."
 msgstr ""
+"啊，让他们进来吧，格尔达。他们不是兽人、巨魔，也不是亡灵，眼下这便够了。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1312
@@ -3545,13 +3594,14 @@ msgid ""
 "Ah, let ’em in, Geldar. They ain’t orcs, trolls, or undead, an’ that’s good "
 "enough for me."
 msgstr ""
+"啊，让他们进来吧，格尔达。他们不是兽人、巨魔，也不是亡灵，对俺来说这就够了。"
 
 #. [message]: role=doors_vouch_peasant
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1332
 msgid ""
 "Ah’m a dwarf, gatekeeper, an’ I’ll vouch for them. Lower yer axes an’ let us "
 "in, ye hear?"
-msgstr ""
+msgstr "俺是个矮人，看门的，俺替他们作保。把斧头放下，让俺们进去，听见没？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1353
@@ -3559,6 +3609,8 @@ msgid ""
 "I am Konrad, nephew of Garard, son of Arand and heir to the throne of "
 "Wesnoth! I give my word — you can trust me, dwarf."
 msgstr ""
+"我是科纳德，伽拉德的侄子，阿兰德之子，韦诺王座的继承人！我以名誉担保——你可以"
+"信任我，矮人。"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1357
@@ -3567,6 +3619,8 @@ msgid ""
 "here before. Even if you really are a prince, you ain’t gettin’ ’cross the "
 "east bridge lest ye’ve got someone to vouch for ye."
 msgstr ""
+"哼，随你怎么说。以前也有替兽人卖命的冒牌货想偷偷溜进来。就算你真是王子，除非"
+"有人替你作保，否则你别想过东桥。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1372
@@ -3574,6 +3628,7 @@ msgid ""
 "What brings you to th’ East Gate o’ Knalga, friends? You be wantin’ "
 "somethin’ from us, don’t you?"
 msgstr ""
+"什么风把你们吹到纳尔迦东门来了，朋友们？你们准是想从俺们这儿要点什么，对吧？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1376
@@ -3582,6 +3637,8 @@ msgid ""
 "instead. I help with a problem someone is having, and then they send some "
 "spare fighters to join my army. Can you and I arrange anything like that?"
 msgstr ""
+"嗯，老实说，通常反倒是别人想从<i><b>我</b></i>这里得到些什么。我帮人解决麻"
+"烦，然后他们就会派些多余的战士加入我的军队。你我能不能也这样安排？"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1380
@@ -3591,6 +3648,9 @@ msgid ""
 "ruin, an’ ye got the gall to ask if we have extra axe-arms to send out with "
 "ye?"
 msgstr ""
+"多余的战士？自从巨魔拿下杜拉希尔之后，俺就没听过这么好笑的玩笑！你正走在俺们"
+"帝国的尸骸之间，它早已腐烂破败，你居然还有脸问俺们有没有多余的持斧战士能跟你"
+"出征？"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1384
@@ -3598,18 +3658,20 @@ msgid ""
 "I’m afraid Geldar’s right. But problems — now problems we’ve got plenty of. "
 "Orc attacks, troll attacks, undead attacks. ’an now down in th’ mines—"
 msgstr ""
+"俺怕格尔达说得对。可麻烦——要说麻烦，咱现在可有一大堆。兽人袭击、巨魔袭击、亡"
+"灵袭击。这会儿矿井下还——"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1388
 msgid "Relgorn, hush. That ain’t somethin’ fer outsiders to hear about."
-msgstr ""
+msgstr "瑞尔高恩，闭嘴。这可不是让外人听见的事。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1392
 msgid ""
 "Do ye got a better idea? We already tried t’ split ourselves up an’ help, "
 "an’ tha’s when trolls took the gatehouse!"
-msgstr ""
+msgstr "你有更好的主意？咱早试过分头去帮忙了，结果巨魔就是那会儿夺了门楼！"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1397
@@ -3619,6 +3681,8 @@ msgid ""
 "cave-in down in th’ old mines. You get ’em out, we’ll make it worth yer "
 "while."
 msgstr ""
+"听着，人类……俺信你，只因有人给你作过保，懂没？你只要知道，咱有些族人被困在老"
+"矿井的塌方里了。你把他们救出来，咱不会亏待你。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1409
@@ -3626,13 +3690,15 @@ msgid ""
 "Some o’ our people’re trapped in a cave-in down in th’ old mines. Tha’s all "
 "ye need to know. You get ’em out, an’ we’ll make it worth yer while."
 msgstr ""
+"咱有些族人被困在老矿井的塌方里了。你只要知道这个就成。你把他们救出来，咱不会"
+"亏待你。"
 
 #. [message]: speaker=Ragaril
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1427
 msgid ""
 "Thank ye again, Konrad. May ye have better luck saving your home than we’ve "
 "had for ours."
-msgstr ""
+msgstr "再谢你一次，科纳德。愿你拯救家乡的运气，比咱当初救自己的家园时好些。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1461
@@ -3641,6 +3707,8 @@ msgid ""
 "trolls an’ undead squattin’ in our halls, and e’en trustworthily helped us "
 "in the heart o’ Knalga itself."
 msgstr ""
+"这是咋回事？科纳德，你把兽人赶出了大门，把盘踞在咱厅堂里的巨魔和亡灵杀了个干"
+"净，还讲信义，在纳尔迦腹地帮了咱。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1465
@@ -3649,6 +3717,8 @@ msgid ""
 "many o’ the Doors-folk are still with ’em, enslaved. But ye’ve given us "
 "dwarves more breathin’ room than we’ve had in many a year."
 msgstr ""
+"俺知道巨魔还会回来。俺知道兽人也会回来，还知道许多大门人仍被他们奴役着。可你"
+"给咱矮人的喘气空儿，比咱多少年来有过的都多。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1470
@@ -3657,19 +3727,19 @@ msgid ""
 "anyway. I’m sendin’ the best lads in Knalga to help you fight that queen o’ "
 "yers."
 msgstr ""
+"俺知道你说过，帮咱不图啥报答，可不管咋说，你也得收下。俺这就把纳尔迦最棒的小"
+"子们派去，帮你打你们那位女王。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1474
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid ""
 "Konrad can now recruit Dwarvish Steelclads, Stalwarts, Thunderguards, and "
 "Berserkers!"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "科纳德现在可以招募矮人铁甲兵、坚守者、雷霆卫士和狂熊战士了！"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1499
 msgid "???"
-msgstr ""
+msgstr "？？？"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1500
 msgid ""
@@ -3685,6 +3755,17 @@ msgid ""
 "will disable all achievements (except for <i>“Asleep\n"
 "at the Wheel”</i>). Are you sure?"
 msgstr ""
+"穿过这个漩涡将扭曲现实，\n"
+"让科纳德能游玩无限数量的场景，\n"
+"并禁用迫使他继续前进的定时事件。\n"
+"\n"
+"每多游玩一个超出正常数量的场景，\n"
+"艾什薇尔在最终场景中就会\n"
+"获得 +$s50_extra_income_per_scenario 的额外收入。\n"
+"\n"
+"使用这个漩涡很可能并不平衡，并且\n"
+"会禁用所有成就（<i>“玩忽职守”</i>除外）。\n"
+"你确定吗？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1525
@@ -3692,16 +3773,18 @@ msgid ""
 "There is a strange whirlpool here, clearly magical in nature... I wonder "
 "what would happen if we allowed ourselves to be pulled in?"
 msgstr ""
+"这里有个奇怪的漩涡，显然带有魔法……要是我们任由它把我们吸进去，不知道会发生什"
+"么？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1546
 msgid "Oh... my head! What just happened?"
-msgstr ""
+msgstr "噢……我的头！刚才到底发生了什么？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1553
 msgid "There is nothing here of note. Was there ever?"
-msgstr ""
+msgstr "这里没有什么值得留意的东西。曾经有过吗？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:25
@@ -3710,36 +3793,27 @@ msgid ""
 "miles on end. There’s no reason to wander any deeper this way, at least not "
 "right now."
 msgstr ""
+"这里有数不清的洞穴和熔岩隧道，蜿蜒曲折绵延数里。没有理由再往这边深入了，至少"
+"现在没有。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:36
 msgid ""
 "The Sceptre is quite real, I assure you. Perhaps you have forgotten our "
 "lessons..."
-msgstr ""
+msgstr "权杖确有其物，我向你保证。也许你已经忘记了我们上过的那些课……"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:54
-#, fuzzy
-#| msgid ""
-#| "The Sceptre of Fire is the most ancient artifact of the realm of Wesnoth. "
-#| "It was forged by the dwarves of Knalga at the request of King Haldric II. "
-#| "It took their finest smiths years to make it, but soon after it was "
-#| "completed, the makers were chased underground, attacked by the elves. "
-#| "None know exactly what occurred, but the Sceptre was lost somewhere in "
-#| "the great caverns. Years have passed, and the fortunes of the dwarves "
-#| "have waxed and waned, but the Sceptre has never been found."
 msgid ""
 "The Ruby— now Sceptre of Fire is the symbol of the kings of Wesnoth, forged "
 "by the dwarves of Knalga at the behest of King Haldric II. It took their "
 "finest smiths years to make it, but soon after it was completed, the makers "
 "were chased underground, attacked by the elves."
 msgstr ""
-"圣火权杖是韦诺王国最古老的信物，是纳尔迦矮人受先王哈德里克二世所托而铸造的。"
-"矮人最优秀的匠人们花费了数年才造好它，但是完成后不久，铸造者们在地下被人追"
-"踪，还被精灵所攻击。没有人知道究竟发生了什么，但圣火权杖就此失落在那些巨大的"
-"洞穴中。很多年过去了，矮人们的财宝时而增多、时而减少，但圣火权杖始终都没有被"
-"找到。"
+"那颗红宝石——如今被称为圣火权杖——是韦诺诸王的象征，由纳尔迦的矮人奉国王哈德里"
+"克二世之命锻造。他们最优秀的工匠耗费数年才将其制成，但完工后不久，精灵便发起"
+"袭击，将制作者们赶入地下。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:58
@@ -3748,6 +3822,8 @@ msgid ""
 "great caverns. Years have passed, and the fortunes of the dwarves have waxed "
 "and waned, but the Sceptre has never been found."
 msgstr ""
+"无人确切知晓当时发生了什么，但权杖遗失在巨大洞窟的某处。岁月流逝，矮人的命运"
+"盛衰起落，可权杖始终未被寻获。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:69
@@ -3756,6 +3832,8 @@ msgid ""
 "that if your mentor searches for the Sceptre here, his magic is sure to find "
 "it."
 msgstr ""
+"直到如今。预言的丝线正在流转，科纳德——早有预言昭示，若你的导师在此处寻找权"
+"杖，他的魔法必定能找到它。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:74
@@ -3764,6 +3842,8 @@ msgid ""
 "if your mentor searched for the Sceptre here, his magic would be sure to "
 "find it. And he has."
 msgstr ""
+"直到如今。预言的丝线正在流转，科纳德——早有预言昭示，若你的导师在此处寻找权"
+"杖，他的魔法必能找到它。而他确实找到了。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:79
@@ -3772,6 +3852,8 @@ msgid ""
 "that you must someday hold the Sceptre if peace is ever to find Wesnoth... "
 "or the elves."
 msgstr ""
+"我虽不知其如何发生，也不确知缘由，但同样有启示昭示：若和平终将降临韦诺……抑或"
+"降临精灵，你终有一日必须执掌权杖。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:84
@@ -3780,6 +3862,8 @@ msgid ""
 "that if I searched for the Sceptre here, my magic would be sure to find it. "
 "And I have."
 msgstr ""
+"直到如今。预言的丝线正在流转，科纳德——早有预言昭示，若我在此处寻找权杖，我的"
+"魔法必能找到它。而我确实找到了。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:103
@@ -3788,6 +3872,8 @@ msgid ""
 "the Sceptre, and reclaim the kingdom! If there’s augury about it we’re "
 "guaranteed to succeed, right?"
 msgstr ""
+"好吧，那就这样。我们还在等什么？搜遍这些洞窟，拿到权杖，夺回王国！既然有预言"
+"为证，我们肯定能成功，对吧？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:108
@@ -3796,6 +3882,8 @@ msgid ""
 "reclaim the kingdom! If there’s augury about it we’re guaranteed to succeed, "
 "right?"
 msgstr ""
+"好吧，那就这样。我们还在等什么？去拿到权杖，夺回王国！既然有预言为证，我们肯"
+"定能成功，对吧？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:113
@@ -3803,6 +3891,8 @@ msgid ""
 "No, no, no! This is <b><i>precisely</i></b> what I was worried about. You "
 "are not guaranteed to succeed, nor are you invincible!"
 msgstr ""
+"不，不，不！这<b><i>正是</i></b>我担心的事。你并不能保证成功，也并非刀枪不"
+"入！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:117
@@ -3811,11 +3901,13 @@ msgid ""
 "and my haste, I ruined quite nearly everything. You already know the story "
 "of my folly."
 msgstr ""
+"我年轻时也曾身处类似的境地。由于我的傲慢和急躁，我几乎毁掉了一切。你已经知道"
+"我那次愚行的故事。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:121
 msgid "My father, Prince Arand."
-msgstr ""
+msgstr "我的父亲，阿兰德亲王。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:126
@@ -3823,6 +3915,8 @@ msgid ""
 "Quite right. Do not become overconfident, Konrad. I am searching for the "
 "Sceptre now. Once it is found, I promise you shall most certainly have it."
 msgstr ""
+"说得对。不要太过自信，科纳德。我现在正在寻找权杖。一旦寻获，我向你保证，你必"
+"将得到它。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:131
@@ -3830,6 +3924,8 @@ msgid ""
 "Quite right. Do not become overconfident, Konrad. We may be about to claim "
 "the Sceptre, but we have not done so yet. And you are not yet king."
 msgstr ""
+"说得对。不要太过自信，科纳德。我们或许即将夺得权杖，但尚未成功。而你也还不是"
+"国王。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:136
@@ -3837,6 +3933,7 @@ msgid ""
 "But no matter what, please — be forgiving, be wise, and above all be kind. "
 "For that is where I failed."
 msgstr ""
+"但无论如何，请你——要宽容，要明智，最重要的是要仁慈。因为那正是我的失败之处。"
 
 #. [scenario]: id=30_The_Sceptre_of_Fire
 #. [object]: id=sceptre_of_fire, type=fire, type=fire, type=fire, type=fire
@@ -3849,7 +3946,7 @@ msgstr "圣火权杖"
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:156
 msgid ""
 "Weapon for Konrad: <span color='#EFBF04'><b>The Sceptre of Fire</b></span>"
-msgstr ""
+msgstr "科纳德的武器：<span color='#EFBF04'><b>圣火权杖</b></span>"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:178
@@ -3857,6 +3954,7 @@ msgid ""
 "Hello, Konrad! I am most glad to see you again. Have you and Kalenz been "
 "taking good care of yourselves?"
 msgstr ""
+"你好，科纳德！再次见到你，我真是太高兴了。你和卡雷兹一直都有好好照顾自己吗？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:182
@@ -3864,20 +3962,22 @@ msgid ""
 "Delfador, at last! So this is where you went off to! What quest could "
 "possibly bring you into this maze of tiny caves and tunnels?"
 msgstr ""
+"德法多，终于找到你了！原来你跑到这里来了！究竟是什么任务，竟会把你带到这片满"
+"是狭小洞穴和隧道的迷宫？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:186
 msgid ""
 "Well, I suppose I must tell you eventually... Konrad, I am searching for the "
 "Sceptre of Fire."
-msgstr ""
+msgstr "好吧，我想终究得告诉你……科纳德，我正在寻找圣火权杖。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:190
 msgid ""
 "The Sceptre of Fire? The youngfolk at Blackwater Port always said that was "
 "just an old myth."
-msgstr ""
+msgstr "圣火权杖？黑水港的年轻人总说那不过是个古老的传说。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:200
@@ -3885,20 +3985,22 @@ msgid ""
 "I have come, Delfador! So this is where you went off to! It is good to see "
 "you again, even if it is in such an unpleasant maze of caves and tunnels."
 msgstr ""
+"我来了，德法多！原来你跑到这儿来了！能再见到你真好，哪怕是在这么一片令人讨厌"
+"的洞穴和隧道迷宫里。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:204
 msgid ""
 "You say you are searching for the Sceptre of Fire? The youngfolk at "
 "Blackwater Port always said that was just an old myth!"
-msgstr ""
+msgstr "你说你在寻找圣火权杖？黑水港的年轻人总说，那不过是个古老的传说！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:219
 msgid ""
 "I am glad to see you have returned, Konrad. Are you ready to proceed onto "
 "the next phase of your adventures?"
-msgstr ""
+msgstr "很高兴见你归来，科纳德。你准备好进入下一阶段的冒险了吗？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:230
@@ -3906,6 +4008,8 @@ msgid ""
 "I have not located the Sceptre yet, but I am making progress. I shall send a "
 "messenger once we are ready to retrieve it — perhaps after your next battle."
 msgstr ""
+"我尚未找到权杖，但已有进展。待我们准备好取回它时，我会派一名信使——或许就在你"
+"下一场战斗之后。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:235
@@ -3914,6 +4018,8 @@ msgid ""
 "messenger once we are ready to retrieve it — perhaps in $"
 "( $bm_milestone_scepter - $bm_turns ) battles’ time."
 msgstr ""
+"我尚未找到权杖，但已有进展。待我们准备好取回它时，我会派一名信使——或许再过 $"
+"( $bm_milestone_scepter - $bm_turns ) 场战斗。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:240
@@ -3923,6 +4029,8 @@ msgid ""
 "and continue exploring the Great Continent. You have done much good already, "
 "but there are countless others who still need your help."
 msgstr ""
+"找到权杖将是我们冒险旅程中的一个重大转折点，科纳德。在那之前，我劝你利用好你"
+"的自由，继续探索伟大大陆。你已做了许多善事，但还有无数人需要你的帮助。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:244
@@ -3931,6 +4039,8 @@ msgid ""
 "although doing so may afford us more time for our future endeavors, it will "
 "also mark the end of your deeds in this region."
 msgstr ""
+"若你愿意，也可以与我同行，加快搜寻；但你须知，这样做虽能为我们今后的行动争取"
+"更多时间，却也意味着你在此地的事迹将就此终结。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:254
@@ -3939,6 +4049,8 @@ msgid ""
 "located the object of our search, but we will need to work together to "
 "retrieve it."
 msgstr ""
+"好极了，你来得很快。谢谢你，科纳德。我已确信找到了我们搜寻的目标，但我们得协"
+"力才能取回它。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:260
@@ -3947,13 +4059,15 @@ msgid ""
 "The surrounding caverns are crawling with all manner of monsters, doubtless "
 "drawn by its power."
 msgstr ""
+"这就是那条隧道，圣火权杖便沉睡其下；它是君王的象征。周围的洞窟里爬满了各种怪"
+"物，无疑都是被它的力量吸引而来。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:264
 msgid ""
 "Together, we shall clear the tunnels and claim your birthright once and for "
 "all."
-msgstr ""
+msgstr "我们将一同清理隧道，一劳永逸地夺回你与生俱来的继承权。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:336
@@ -3961,6 +4075,8 @@ msgid ""
 "The lava continues to rise! Hurry, Konrad — I have cast a spell to hasten "
 "our flight, but you must decide in which direction we go!"
 msgstr ""
+"岩浆还在不断上涨！快，科纳德——我已施法加速我们的撤离，但你必须决定我们往哪个"
+"方向走！"
 
 #. [scenario]: id=31_Plunging_Into_Darkness
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:355
@@ -3970,13 +4086,15 @@ msgstr "突入黑暗"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:383
 msgid "<b>Replacement Weapons</b> — Permanent Modifier"
-msgstr ""
+msgstr "<b>替换武器</b> — 永久修正"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:384
 msgid ""
 "Your veteran recalls cost <span color='red'>twice as much</span>.\n"
 "Your level 0-1 recruits refund <span color='#00FF00'>half their cost</span>."
 msgstr ""
+"你召回老兵的费用会是 <span color='red'>两倍</span>。\n"
+"你征募 0-1 级单位时，将返还 <span color='#00FF00'>其费用的一半</span>。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:386
 msgid ""
@@ -3984,6 +4102,8 @@ msgid ""
 "Troll excrement coats the walls while insects and vermin churn in the dirt, "
 "all with a horrifying buzz of flies and smell of rot."
 msgstr ""
+"这座拱门通向一座古老的矮人军械库，早已沦为废墟。巨魔的粪便糊满墙壁，昆虫和鼠"
+"虫在泥土里翻涌，苍蝇发出骇人的嗡嗡声，腐烂的臭气弥漫四周。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:388
 msgid ""
@@ -3991,26 +4111,31 @@ msgid ""
 "but the specialized equipment wielded by our veteran soldiers will surely "
 "suffer from decay."
 msgstr ""
+"若我们朝这个方向逃走，能收集到无数低劣武器，但我们老兵手中的精制装备必定会因"
+"腐朽而损毁。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:396
 msgid "No permanent modifier."
-msgstr ""
+msgstr "无永久修正。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:398
 msgid ""
 "This passageway is broad and even, with clear air and a gentle upwards "
 "slope. I even feel a slight breeze!"
 msgstr ""
+"这条通道宽阔平坦，空气清新，还有一段缓缓向上的斜坡。我甚至感到了一丝微风！"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:400
 msgid ""
 "This seems the perfect path for our escape — if we flee in this direction we "
 "shall gain no boon but suffer no penalty."
 msgstr ""
+"这似乎是完美的逃跑路线——若我们朝这个方向逃走，既不会得到好处，也不会受到惩"
+"罚。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:408
 msgid "<b>Memory Magic</b> — Permanent Modifier"
-msgstr ""
+msgstr "<b>记忆魔法</b> — 永久修正"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:409
 msgid ""
@@ -4018,6 +4143,8 @@ msgid ""
 "advance.\n"
 "Your other units require <span color='red'>75% more XP</span> to advance."
 msgstr ""
+"你的满级单位晋升所需经验<span color='#00FF00'>减少 75%</span>。\n"
+"你的其他单位晋升所需经验<span color='red'>增加 75%</span>。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:411
 msgid ""
@@ -4025,18 +4152,22 @@ msgid ""
 "faint smell of lavender and cinnamon in the air. Is this magic? Some remnant "
 "of the Sceptre’s internment, perhaps?"
 msgstr ""
+"这个方向有光点在墙壁上舞动，空气中还飘着淡淡的薰衣草和肉桂气味。这是魔法吗？"
+"也许是权杖被埋葬时留下的某种残余？"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:413
 msgid ""
 "I am not sure what will happen if we flee this way, but already I can feel "
 "something moving within my mind... affecting my memories..."
 msgstr ""
+"我不确定若我们朝这边逃走会发生什么，但我已经能感觉到有什么东西在我脑海中游"
+"动……影响着我的记忆……"
 
 #. [floating_text]
 #. $recruit_cost will be half of unit's value unit; likely between 10 and 25
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:486
 msgid "$recruit_cost gold refunded"
-msgstr ""
+msgstr "返还 $recruit_cost 金币"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:503
 msgid "The Swamp of Dread"
@@ -4048,6 +4179,8 @@ msgid ""
 "Finally! Our journey under the mountains has been long and difficult, but at "
 "last we return to the open continent — and with a powerful new ally!"
 msgstr ""
+"终于！我们在山底下的旅程漫长而艰难，但总算重返开阔的大陆——还带回来一位强大的"
+"新盟友！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:518
@@ -4055,6 +4188,7 @@ msgid ""
 "If you’re serious about overthrowing my mother, just my support won’t be "
 "enough. And she’s certainly not about to give up the throne just for my sake."
 msgstr ""
+"如果你当真要推翻我母亲，光靠我的支持可不够。况且，她绝不会为了我而放弃王位。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:522
@@ -4063,6 +4197,8 @@ msgid ""
 "the orcish tribes — all these bolster Weldyn’s armies. The more we can "
 "defeat, the weaker Asheviere will become."
 msgstr ""
+"不，我们得先瓦解她的盟友。丹·冬克、马上氏族、兽人部落——这些都在壮大维尔帝的军"
+"队。我们击败的越多，艾什薇尔就会越虚弱。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:526
@@ -4071,6 +4207,8 @@ msgid ""
 "among the elves of the Lintanir — I have spent time there before. There are "
 "woses in the east as well, and drakes; who knows what else may await us!"
 msgstr ""
+"否则的话，我们就必须为自己争取更多盟友！也许能在林塔尼尔的精灵中找到朋友——我"
+"以前曾在那里待过。东边还有树人，还有龙人；谁知道还有什么在等着我们！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:539
@@ -4078,6 +4216,8 @@ msgid ""
 "This was a difficult battle, but without it we would never have become "
 "allied with Li’sar. We should count ourselves lucky to have fought it."
 msgstr ""
+"这是一场艰苦的战斗，但若没有它，我们就永远无法与莉莎结盟。我们应当庆幸自己打"
+"了这一仗。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:13
 msgid "Snow Plains"
@@ -4088,17 +4228,19 @@ msgstr "覆雪平原"
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1106
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1213
 msgid "Defeated Faction:"
-msgstr ""
+msgstr "已击败阵营："
 
+# Translated by openai with model deepseek-flash.
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:27
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:75
+#, fuzzy
 msgid "Urag Fell-Handed"
-msgstr ""
+msgstr "乌拉格·凶掌"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:47
 msgid "Look there, in the cage! Is that who she seems to be?"
-msgstr ""
+msgstr "看那边，笼子里！那真的是她吗？"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:52
@@ -4106,15 +4248,21 @@ msgid ""
 "Then it’s agreed? You’ll release and repatriate me to my queen’s service, in "
 "return for a to-be-negotiated ransom from the royal treasury?"
 msgstr ""
+"那么，就这么说定了？你会释放我，并把我送回女王麾下效力，作为交换，王室国库会"
+"支付一笔有待商定的赎金？"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=urag_tifer
 #. "witch" is a derogatory term here. Mirya (a Silver Mage) would probably prefer to be called a mage, or maybe a wizard.
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:57
+#, fuzzy
 msgid ""
 "Rrr... deal. No more mucking around in these freezing mountains while the "
 "other chiefs feed like pigs in Wesnoth. Ha! Lucky for me that we happened to "
 "run into each other, witch."
 msgstr ""
+"呃……成交。不用再在这冻死人的山里瞎折腾了，其他酋长都在韦诺像猪一样大吃大喝。"
+"哈！咱俩能撞上，算我走运，巫婆。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:63
@@ -4122,6 +4270,7 @@ msgid ""
 "The fates must have a sense of humor — here is imprisoned the very mage who "
 "tried to burn us alive back in the volcano."
 msgstr ""
+"命运真爱捉弄人——当初在火山里想把我们活活烧死的那个法师，如今竟被囚禁在这里。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:67
@@ -4129,24 +4278,30 @@ msgid ""
 "It sounds as though she stands on the verge of freedom. But if we strike "
 "now, we can prevent her from ever rejoining Asheviere."
 msgstr ""
+"听起来她马上就要重获自由了。但如果我们现在动手，就能让她再也无法回到艾什薇尔"
+"麾下。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:84
 msgid "An ignominious end for a mage who’s caused us so much trouble."
-msgstr ""
+msgstr "对于给我们造成这么多麻烦的法师来说，这可真是一个不光彩的结局。"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:86
+#, fuzzy
 msgid ""
 "From what Li’sar tells me, Mirya has recruited orcish clans for Asheviere in "
 "the past. It is good that we stopped her before she could bring this one "
 "into their fold too."
 msgstr ""
+"据莉莎告诉我，米尔雅过去曾为艾什薇尔招募兽人部族。幸好我们及时阻止了她，没让"
+"她把这支部族也拉拢过去。"
 
 #. [message]: speaker=urag_tifer
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:92
 msgid "Get out of here, humans. You already got what you came for!"
-msgstr ""
+msgstr "滚出这里，人类。你们已经拿到想要的东西了！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:102
@@ -4157,13 +4312,15 @@ msgstr "白牙山"
 msgid "A Crisis of Leadership"
 msgstr "领导危机"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:145
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:270
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1980
+#, fuzzy
 msgid "Fagh-mok the Flattered"
-msgstr ""
+msgstr "法格莫克·受奉承者"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:158
@@ -4172,6 +4329,8 @@ msgid ""
 "orcish clan of the same name. They are allies of Asheviere’s, and powerful "
 "enemies of ours."
 msgstr ""
+"务必谨慎，科纳德。我们正在接近白牙山脉，那里盘踞着同名的庞大兽人氏族。他们是"
+"艾什薇尔的盟友，也是我们强劲的敌人。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:162
@@ -4179,13 +4338,15 @@ msgid ""
 "Even the great armies of yesteryear lacked the strength to defeat them in "
 "their home. We should do our best to slip quietly past."
 msgstr ""
+"纵然是往昔的强大军队，也无力在他们的家园中击败他们。我们最好尽可能悄无声息地"
+"绕过去。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:166
 msgid ""
 "Your warning comes too late, Delfador. One of their leaders has already "
 "spotted us!"
-msgstr ""
+msgstr "你的警告来得太迟了，德法多。他们的一个首领已经发现我们了！"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:172
@@ -4193,22 +4354,28 @@ msgid ""
 "Peace, pinkski— humans! Hah, don’t you look scared to see me. You must be "
 "the great Prince Konrad!"
 msgstr ""
+"别紧张，粉皮——人类！哈，瞧你们见了我吓成那副样子。你一定就是伟大的科纳德王"
+"子！"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Faghmok
 #. his real name is Fagh-mok the Flattered, but he's lying to make himself sound better.
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:177
+#, fuzzy
 msgid ""
 "I am Fagh-mok the Honorable, honest warrior of the chief’s guard. The nasty "
 "queen Asheviere told us all sorts of things about you, prince. But I’m sure "
 "it’s all lies."
 msgstr ""
+"我是法格莫克·可敬者，酋长卫队中诚实的战士。那个恶毒的女王艾什薇尔跟我们说了许"
+"多关于你的事，王子。但我确信那全都是谎言。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:181
 msgid ""
 "You are no friend of the dark queen, then? Yet your clan fights alongside "
 "her as an ally."
-msgstr ""
+msgstr "那么你不是黑暗女王的朋友？可你的部族却作为盟友与她并肩作战。"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:185
@@ -4216,6 +4383,8 @@ msgid ""
 "They have been misled! Our foolish chief dares to oppose you, oh mighty "
 "Konrad! But if there were to be a new chief... myself, for example..."
 msgstr ""
+"他们都是被误导了！我们那个愚蠢的酋长竟敢与你为敌，哦，强大的科纳德！不过要是"
+"能有一位新酋长……比如说我自己……"
 
 #. [message]: speaker=Faghmok
 #. [message]: role=weldyn3
@@ -4250,12 +4419,12 @@ msgstr "……"
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:193
 msgid "If you’re interested, come meet me just outside our camp."
-msgstr ""
+msgstr "如果你有兴趣，就到我们营地外来见我。"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:203
 msgid "Ha ha ha, I knew you’d come find me. Very good."
-msgstr ""
+msgstr "哈哈哈，我就知道你会来找我。很好。"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:207
@@ -4264,6 +4433,8 @@ msgid ""
 "our camp. Once you’re there, it’ll be up to you to kill the old chief — and "
 "then I can take over!"
 msgstr ""
+"俺准备好把你和三名最精锐的士兵偷偷带进咱们营地中心。到了那儿，杀老酋长就靠你"
+"了——然后俺就能接管！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:211
@@ -4271,6 +4442,8 @@ msgid ""
 "Or, once we’re separated from our army you will capture us and turn us over "
 "to Asheviere. Why should I take such a great risk on the word of a stranger?"
 msgstr ""
+"或者，一旦我们与大军分开，你就会抓住我们，把我们交给艾什薇尔。我凭什么仅凭一"
+"个陌生人的话就冒这么大的风险？"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:215
@@ -4279,6 +4452,8 @@ msgid ""
 "have some guarantee... fine, I’ll stay prisoner with your army until you "
 "safely return. Now what do you say?"
 msgstr ""
+"呸，除非你杀掉老酋长，俺就当不上酋长！可你要是非得要个保证……好吧，俺就留在你"
+"的军队里当人质，直到你平安回来。现在你说怎么样？"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:220
@@ -4286,6 +4461,8 @@ msgid ""
 "When you’re ready, I can sneak you and three of your best soldiers into the "
 "center of our camp. And then you can kill the chief! What do you say?"
 msgstr ""
+"等你准备好，俺可以把你和三名最精锐的士兵偷偷带进咱们营地中心。然后你就能杀掉"
+"酋长！你说怎么样？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:225
@@ -4294,20 +4471,22 @@ msgid ""
 "accuracy and power to quickly defeat enemies even within their own "
 "fortifications. Are we prepared?"
 msgstr ""
+"嗯……如果这是一场刺杀，我们就需要经验丰富、足够精准且强大到能在敌方堡垒内迅速"
+"击溃敌人的老兵。我们准备好了吗？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:269
 msgid ""
 "With the Whitefangs embroiled in civil war, Asheviere is more vulnerable "
 "than ever! I wonder who the eventual victor will be..."
-msgstr ""
+msgstr "白牙陷入内战，艾什薇尔比以往任何时候都更加脆弱！真想知道最终谁会获胜……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:275
 msgid ""
 "With the Whitefangs embroiled in civil war, Asheviere is more vulnerable "
 "than ever."
-msgstr ""
+msgstr "白牙陷入内战，艾什薇尔比以往任何时候都更加脆弱。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:285
@@ -4318,15 +4497,19 @@ msgstr "阿坎-索丽亚"
 msgid "Cliffs of Thoria"
 msgstr "索丽亚之崖"
 
+# Translated by openai with model deepseek-flash.
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:296
+#, fuzzy
 msgid "New Companion for Li’sar:"
-msgstr ""
+msgstr "莉莎的新同伴："
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:299
 msgid ""
 "Reinforcements: <span color='#EFBF04'><b>Li’sar will start future scenarios "
 "with double income and +50 gold.</b></span>"
 msgstr ""
+"增援：<span color='#EFBF04'><b>莉莎将在后续场景中以双倍收入和 +50 金币开局。"
+"</b></span>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:315
@@ -4334,40 +4517,33 @@ msgid ""
 "Look — winged shapes swooping on the horizon. And I hear the shouts and "
 "screams of men! A battle is being fought on the river!"
 msgstr ""
+"看——天边有带翅膀的身影正俯冲而下。我还听到人们的喊叫和惨叫！河上正在交战！"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:322
-#, fuzzy
-#| msgid ""
-#| "We should indeed seek refuge there, my lord, but not by going east along "
-#| "the river. Its name means ‘The River of Bones’. Great and evil creatures "
-#| "lurk along its banks, its waters are not fit to drink, and it runs over "
-#| "the Cliffs of Thoria. It has been many centuries since any man or elf has "
-#| "passed over the Cliffs and survived. No, Prince, we must choose another "
-#| "way."
 msgid ""
 "That is the river that is known as Longlier to men, called Arkan-thoria in "
 "my people’s ancient tongue. Its name means ‘The River of Bones’. Great and "
 "evil creatures lurk along its banks, its waters are not fit to drink, and it "
 "runs over the Cliffs of Thoria."
 msgstr ""
-"我们应该在此寻找庇护所，殿下，而不是沿着河向东去。此河之名意为“万骨河”，巨大"
-"而邪恶的怪兽潜伏在岸边，河水也不能饮用。它一直通往索利亚之崖，数百年来，从来"
-"没有人或者精灵能够活着翻越山崖。不，王子，我们必须选择另一条路。"
+"这条河，人类称之为“绵长之河”，而在我们族人的古语中称为“阿坎-索丽亚”。其名意为"
+"‘白骨之河’。强大而邪恶的生灵潜伏在两岸，河水不宜饮用，它从索丽亚之崖上倾泻而"
+"下。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:326
 msgid ""
 "It has been many centuries since any man or elf has passed over the Cliffs "
 "and survived. Be cautious, prince."
-msgstr ""
+msgstr "数百年来，从来没有人或者精灵能够活着翻越山崖。务必谨慎，王子。"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:347
 msgid ""
 "I can’t thank you enough for saving me, Your Highness. I would have been "
 "dead a dozen times over."
-msgstr ""
+msgstr "殿下，您救了我，我感激不尽。不然我早就死过十几回了。"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:351
@@ -4376,6 +4552,8 @@ msgid ""
 "bad state right now, but give me a few animals and some supplies to go "
 "relieve them, and we’ll be ready to reinforce you for your next battles."
 msgstr ""
+"其余幸存者还在上游，距此有一周的行军路程。他们现在状况很糟，但只要给我几头牲"
+"口和一些补给，让我去接应他们，我们就能准备好为你的接下来战斗提供增援。"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:358
@@ -4385,7 +4563,7 @@ msgstr "增援部队"
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:359
 msgid "Li’sar will start future scenarios with double income and +50 gold."
-msgstr ""
+msgstr "莉莎将在后续场景中以双倍收入和 +50 金币开局。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:365
@@ -4393,6 +4571,8 @@ msgid ""
 "There are still some drakes here, but there’s no longer any reason to fight. "
 "We did a good thing by rescuing Warven and his allies."
 msgstr ""
+"这里还有一些龙人，但已经没有再战斗的理由了。我们救出沃尔文和他的盟友，是做了"
+"一件好事。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:387
@@ -4402,16 +4582,20 @@ msgid ""
 "the woses are, I expect the elves of Lintanir will have much to speak with "
 "us about."
 msgstr ""
+"我们正在接近林塔尼尔森林的外围。德法多曾告诉我，这里居住着一群树人，但今天树"
+"木却寂静无声。不管树人们去了哪里，我想林塔尼尔的精灵们都会有很多话要对我们"
+"说。"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:402
 msgid "Underground Channels"
 msgstr "地下通道"
 
+# Translated by openai with model deepseek-flash. Original text: Death of
+# Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:406
 #, fuzzy
-#| msgid "Death of Delfador"
 msgid "New Recruit for Delfador:"
-msgstr "德法多死亡"
+msgstr "为德法多招募新兵："
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:427
@@ -4419,13 +4603,15 @@ msgid ""
 "The river travels underground here, and there is an awful stench of rot and "
 "decay. Has some undead creature taken up residence inside?"
 msgstr ""
+"这条河在这里潜入地下，还散发着一股腐烂衰败的恶臭。是不是有什么亡灵生物在里面"
+"安了家？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:431
 msgid ""
 "I am not sure what benefit we could gain from fighting in such a place, but "
 "it is always our duty to destroy evil."
-msgstr ""
+msgstr "我不确定在这种地方战斗能有什么好处，但铲除邪恶始终是我们的职责。"
 
 #. [side]: id=Haralamdum, type=Ancient Wose
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:439
@@ -4440,19 +4626,19 @@ msgid ""
 "Goodbye ... young Master Delfador ... Prince Konrad ... hum dum da dum ... "
 "and good luck. I hope my gift will be useful to you."
 msgstr ""
+"再见……年轻的德法多大师……科纳德王子……呼姆，杜姆，达，杜姆……祝你们好运。希望我"
+"的礼物对你们有用。"
 
 #. [message]: speaker=Haralamdum
 #. Hello again.
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:453
-#, fuzzy
-#| msgid "So hasty. Har alam dum."
 msgid "Hello ... again. Har alam dum ..."
-msgstr "这么急。哈，啊啦呣，哒呣。"
+msgstr "你好……又见面了。哈，拉兰，杜姆……"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:463
 msgid "Lintanir Forest"
-msgstr ""
+msgstr "林塔尼尔森林"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:471
@@ -4466,18 +4652,13 @@ msgstr "帕兰德拉"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:509
-#, fuzzy
-#| msgid ""
-#| "At last, friends, we have almost reached the Lintanir Forest, the home of "
-#| "the North Elves. I was born not far east of here...more years ago than I "
-#| "care to remember."
 msgid ""
 "At last! Friends, we have finally reached the Lintanir Forest, home of the "
 "North Elves. I was born not far east of here... more years ago than I care "
 "to remember."
 msgstr ""
-"终于，朋友们，我们快到林塔尼尔森林了，北方精灵的家园。我是在离这儿不远的东面"
-"出生的……在很多年以前，我都懒得去记住了。"
+"终于，朋友们，我们到林塔尼尔森林了，北方精灵的家园。我是在离这儿不远的东面出"
+"生的……在很多年以前，我都懒得去记住了。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:513
@@ -4486,13 +4667,15 @@ msgid ""
 "Aethenwood. Lord Kalenz has told me much about his home in the Lintanir. I "
 "am honored to meet you."
 msgstr ""
+"致敬，精灵们！我是科纳德，韦诺王座的继承人，艾森丛林之子。卡雷兹领主向我讲述"
+"了许多关于他在林塔尼尔家园的事。很荣幸见到你们。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:517
 msgid ""
 "Greetings, Konrad. I have heard much about you as well. Welcome to the "
 "Lintanir Forest."
-msgstr ""
+msgstr "幸会，科纳德。我也久闻你的大名。欢迎来到林塔尼尔森林。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:526
@@ -4500,28 +4683,25 @@ msgid ""
 "Hail, elves! I am Konrad, heir to the throne of Wesnoth, son of the "
 "Aethenwood and friend of Lord Kalenz."
 msgstr ""
+"致敬，精灵们！我是科纳德，韦诺王座的继承人，艾森丛林之子，也是卡雷兹领主的朋"
+"友。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:530
 msgid ""
 "Greetings, Konrad. I have heard much about you. Welcome to the Lintanir "
 "Forest, home of the North Elves."
-msgstr ""
+msgstr "幸会，科纳德。我久闻你的大名。欢迎来到林塔尼尔森林，北方精灵的家园。"
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:542
-#, fuzzy
-#| msgid ""
-#| "How quickly does the race of men mature! Only twenty-one winters have "
-#| "passed since I last laid eyes on you, Konrad, yet you are now a grown "
-#| "man. A proven warrior stands before me!"
 msgid ""
 "How quickly does the race of men mature! Only seventeen winters have passed "
 "since I last laid eyes on you, Konrad, yet you are now a grown man. A proven "
 "warrior stands before me!"
 msgstr ""
-"人类成长得真快啊！自我上一次见到你开始，仅仅只过了二十一个冬天，科纳德，但你"
-"现在已经长大成人了。我面前傲立的，是一位历战的勇士！"
+"人类成长得真快啊！自我上一次见到你开始，仅仅只过了十七个冬天，科纳德，但你现"
+"在已经长大成人了。我面前傲立的，是一位历战的勇士！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:546
@@ -4535,6 +4715,8 @@ msgid ""
 "rampaging across Wesnoth, Parandra helped me rescue you from the royal "
 "palace."
 msgstr ""
+"科纳德，这位是帕兰德拉。当艾什薇尔初掌大权、她的兽人开始在韦诺各地肆虐时，帕"
+"兰德拉帮助我从王宫中救出了你。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:554
@@ -4543,10 +4725,6 @@ msgstr "我竟然不知道！谢谢您，女士。能再次见到您，我很高
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:558
-#, fuzzy
-#| msgid ""
-#| "Rescued him from my mother? Seventeen years ago Konrad would’ve been an "
-#| "infant. What is this you’re talking about? "
 msgid ""
 "Rescued him from my mother? Seventeen years ago Konrad would’ve been an "
 "infant. What is this you’re talking about?"
@@ -4571,6 +4749,8 @@ msgid ""
 "have shown me many things of which I didn’t wish to believe regarding my "
 "mother. I trust that you speak the truth."
 msgstr ""
+"若在不久之前，我定会痛斥这种显而易见的谎言。但科纳德和德法多让我看到了许多我"
+"本不愿相信的关于我母亲的事。我相信你所言属实。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:576
@@ -4578,19 +4758,17 @@ msgid ""
 "But now I hold the Sceptre — our symbol of rulership — and my mother’s time "
 "as queen draws short. I have a chance to do better!"
 msgstr ""
+"但现在我手握权杖——我们统御之权的象征——而我母亲身为女王的日子所剩无几。我有机"
+"会做得更好！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:580
-#, fuzzy
-#| msgid ""
-#| "Young lady, there is some good in you, but the throne is not yours to "
-#| "claim. Konrad has the Sceptre. He will take the throne."
 msgid ""
 "Though you have the Sceptre, my lady, it is not your place to rule. Your "
 "line was tainted when Asheviere orchestrated her husband’s downfall."
 msgstr ""
-"年轻的女士，你的内心里有着善良的部分。但王座不是属于你的。科纳德持有着权杖，"
-"他才应该得到王座。"
+"虽然你拥有权杖，女士，但你并无统治的资格。当艾什薇尔一手策划她丈夫的倒台时，"
+"你的血脉便已蒙污。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:585
@@ -4599,19 +4777,17 @@ msgid ""
 "of rulership. My mother’s time as queen draws short. With the Sceptre, as "
 "queen, I have a chance to do better."
 msgstr ""
+"但正因如此，我必须从你手中夺走权杖，科纳德——它是我们统御之权的象征。我母亲身"
+"为女王的日子已所剩无几。有了权杖，身为女王，我便有机会做得更好。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:589
-#, fuzzy
-#| msgid ""
-#| "Young lady, there is some good in you, but the throne is not yours to "
-#| "claim. Konrad has the Sceptre. He will take the throne."
 msgid ""
 "My lady, there is some good in you, but the throne is not yours to claim. "
 "Your line was tainted when Asheviere orchestrated her husband’s downfall."
 msgstr ""
-"年轻的女士，你的内心里有着善良的部分。但王座不是属于你的。科纳德持有着权杖，"
-"他才应该得到王座。"
+"女士，你心中确有几分善念，但王座并非你所能觊觎。当艾什薇尔一手策划她丈夫的倒"
+"台时，你的血脉便已蒙污。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:594
@@ -4620,11 +4796,13 @@ msgid ""
 "raised him as my own, as penance for my part in Garard’s fall. Konrad shall "
 "be king."
 msgstr ""
+"科纳德才是合法继承人；他是阿兰德之子、伽拉德的侄子。我将他视如己出抚养长大，"
+"以此为我参与伽拉德垮台一事赎罪。科纳德必将为王。"
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:604
 msgid "(gestures to Delfador)"
-msgstr ""
+msgstr "（向德法多示意）"
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:610
@@ -4660,12 +4838,12 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:622
 msgid "Hmph. Perhaps you are right, perhaps not. We shall see."
-msgstr ""
+msgstr "哼。也许你说得对，也许不对。我们走着瞧。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:632
 msgid "*Ahem*"
-msgstr ""
+msgstr "*咳*"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:640
@@ -4674,6 +4852,9 @@ msgid ""
 "Now we have. The Lintanir has magic to offer you and your companions; aid on "
 "your quest against the dark queen."
 msgstr ""
+"……科纳德，我曾向你许诺，若我们有朝一日抵达我的家园，便会从那里给予你援助。如"
+"今我们到了。林塔尼尔有魔法可赐予你与你的同伴；在你对抗黑暗女王的征途中助你一"
+"臂之力。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:645
@@ -4682,6 +4863,8 @@ msgid ""
 "the elves. The Lintanir has magic to offer you and your companions; aid on "
 "your quest against the dark queen."
 msgstr ""
+"……科纳德，你已经证明自己是艾什薇尔的敌人，也是精灵的朋友。林塔尼尔有魔法可以"
+"赐予你和你的同伴；在你对抗黑暗女王的征途中助你一臂之力。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:650
@@ -4690,29 +4873,25 @@ msgid ""
 "chestplate of black steel, and a great sword of fire. Choose one, and it "
 "shall be yours."
 msgstr ""
+"我们手中持有三件传说之物：一本树人传说秘典、一件黑钢胸甲，以及一柄烈焰之剑。"
+"选一件吧，它便归你所有。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:654
 msgid ""
 "You are as generous as you are wise, Lord Kalenz. Please, tell us more about "
 "these artifacts you offer."
-msgstr ""
+msgstr "您既慷慨又睿智，卡雷兹领主。请您再给我们讲讲您所赠的这些宝物吧。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:659
-#, fuzzy
-#| msgid ""
-#| "All routes are dangerous, though there is some hope along this path. "
-#| "Rest, and then go forth, friends. Fortune has smiled upon you so far, "
-#| "despite great dangers. Perhaps she will continue to do so."
 msgid ""
 "Now I wish you luck, Konrad, and you Li’sar. Let us rest, and then once more "
 "go forth. Fortune has smiled upon us so far, despite great dangers. Perhaps "
 "she will continue to do so."
 msgstr ""
-"任何一条路都会有重重危险，虽然在路途上也会有希望存在。好好休息，而后前行，朋"
-"友们。到现在为止，命运女神一直在向你们微笑，尽管你们也遇到过巨大的危险。也许"
-"她还会继续眷顾你们的。"
+"现在，我祝你好运，科纳德，也祝你好运，莉莎。让我们休整片刻，然后再度启程。尽"
+"管危机重重，命运女神迄今仍眷顾我们。或许她会继续如此。或许她会继续眷顾你们。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:668
@@ -4720,6 +4899,8 @@ msgid ""
 "But enough introductions. Konrad, is the Lord Kalenz with you? There is much "
 "that the three of us ought to speak about."
 msgstr ""
+"不过，介绍就到此为止吧。科纳德，卡雷兹领主和你们在一起吗？我们三人有许多事应"
+"当谈谈。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:672
@@ -4728,30 +4909,30 @@ msgid ""
 "towards Lintanir Forest. He has not arrived safely? That is ill news, for he "
 "seemed a wise elf and a staunch ally."
 msgstr ""
+"那位可敬的领主不久前在战斗中负伤，随后向东退往林塔尼尔森林。他还没有平安抵达"
+"吗？那可不是好消息，因为他看上去是位睿智的精灵，也是位坚定的盟友。"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:676
+#, fuzzy
 msgid ""
 "That bodes ill indeed. I do not believe he has perished, for Kalenz "
 "represents the best of us, and has survived many trials in times past. But I "
 "fear he has been waylaid by some mischief."
 msgstr ""
+"这确实是不祥之兆。我不相信他已殒命，因为卡雷兹代表了我们中最优秀者，过去也经"
+"历过无数磨难的考验。但我担心他途中遭了什么祸事拦截。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:680
-#, fuzzy
-#| msgid ""
-#| "All routes are dangerous, though there is some hope along this path. "
-#| "Rest, and then go forth, friends. Fortune has smiled upon you so far, "
-#| "despite great dangers. Perhaps she will continue to do so."
 msgid ""
 "I can do little but wish you luck, Konrad, and you Li’sar. Rest, and then go "
 "forth. Fortune has smiled upon you so far, despite great dangers. Perhaps "
 "she will continue to do so."
 msgstr ""
-"任何一条路都会有重重危险，虽然在路途上也会有希望存在。好好休息，而后前行，朋"
-"友们。到现在为止，命运女神一直在向你们微笑，尽管你们也遇到过巨大的危险。也许"
-"她还会继续眷顾你们的。"
+"我除了祝你好运，科纳德，也祝你好运，莉莎，别无他法。休整之后，就再次出发吧。"
+"尽管危机重重，命运女神迄今仍眷顾我们。或许她会继续眷顾你们。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:703
@@ -4759,6 +4940,8 @@ msgid ""
 "I know little of woses, but I know they are not warriors. What secret lore "
 "might they have that could be of use on the battlefield?"
 msgstr ""
+"我对树人所知不多，但我知道他们并非战士。他们能有什么秘传知识可在战场上派上用"
+"场呢？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:707
@@ -4767,6 +4950,8 @@ msgid ""
 "It is a magical tome; a record of the life-sap of Elilmaldur-Rithrandil, "
 "eldest of the Green Isle."
 msgstr ""
+"林间之道；在树木之间迅速穿行而不被察觉的技艺。这是一本魔法典籍，记载着绿岛最"
+"古老者艾利梅度•瑞斯温迪尔的生命汁液。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:711
@@ -4776,6 +4961,9 @@ msgid ""
 "I believe you will gain great affinity with the forest, its nature and ways, "
 "and all the creatures within it."
 msgstr ""
+"对许多人而言，这本秘典似乎满是关于枝枝叶叶的无谓之谈。但科纳德，你是在森林中"
+"长大的。若你选择带走它，我相信你将与森林、其天性及规律，以及林中一切生灵建立"
+"起深厚的亲和。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:718
@@ -4784,6 +4972,8 @@ msgid ""
 "ability — invisibility in forest — as well as improved forest movement and "
 "70% forest defense."
 msgstr ""
+"取得树人传说秘典将使<b>科纳德</b>获得<i>伏击</i>能力——在森林中隐形——并提升在"
+"森林的移动力，以及在森林70%的防御力。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:732
@@ -4791,6 +4981,8 @@ msgid ""
 "You called this a sword of fire, Kalenz, but it looks little different from "
 "my own. Is there a command word, perhaps?"
 msgstr ""
+"卡雷兹，您称它为烈焰之剑，可它看起来和我的剑没多大区别。是不是还需要一句命令"
+"咒语？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:738
@@ -4798,50 +4990,37 @@ msgid ""
 "This is a wizard’s sword, Konrad; I sense its power. With such an enchanted "
 "weapon, even one as old as me would make a capable swordsman."
 msgstr ""
+"这是一柄巫师之剑，科纳德；我能感知到它的力量。持有这样一柄附魔武器，即便年迈"
+"如我，也能成为一名称职的剑士。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:742
-#, fuzzy
-#| msgid ""
-#| "I believe it belonged to Ila’alion, a mighty Marshal of the Wood. It was "
-#| "enchanted as a boon to him by your elvish friends in the south. He was "
-#| "visiting their home as an envoy from us North Elves and was called upon "
-#| "to vanquish some beast or other."
 msgid ""
 "Yes, it once belonged to Ila’alion, a mighty sorceresses. It was enchanted "
 "as a boon to her by your elvish friends in the south, but it brought her "
 "only disaster."
 msgstr ""
-"我相信这把剑属于伊拉·艾利温，强大的森林元帅之一。你们在南方的精灵朋友们为这把"
-"剑注入了魔力，并送给他作为礼物。当时他正作为我们北方精灵的使节，前往南方消灭"
-"某只野兽或者其它的什么东西。"
+"是的，它曾属于强大的女巫伊拉·艾利温。你南方的精灵朋友曾将它附魔，作为给她的恩"
+"赐，但它只给她带来了灾祸。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:744
-#, fuzzy
-#| msgid ""
-#| "His fellow marshals... well, one could say they were slow to come to "
-#| "Ila’alion’s aid as he held this very plain against an orcish incursion. "
-#| "They resented his arrogance as the bearer of the sword, and indignation "
-#| "is a powerful force amongst my people at times. The sword has been lost "
-#| "in orcish territory ever since."
 msgid ""
 "Her fellow enchantresses... well, one could say they were slow to come to "
 "Ila’alion’s aid as she held this very forest against an orcish incursion. "
 "They resented her arrogance as the bearer of the sword, and indignation is a "
 "powerful force amongst my people at times."
 msgstr ""
-"其它的元帅们……嗯，我们可以说他们没来得及助伊拉·艾利温一臂之力。那时他正在对抗"
-"兽人的入侵，守卫的正是这片平原。兽人们非常厌恶他作为宝剑持有者的傲慢态度，而"
-"有时候，愤怒对我的族人而言是一种强大的力量。自那之后，宝剑就失落在兽人的领土"
-"上了。"
+"她的女附魔师同伴们……这么说吧，当伊拉·艾利温坚守这片森林、抵御兽人入侵时，她们"
+"迟迟未去援助她。她们憎恶她身为持剑者的傲慢，而愤恨有时会在我族之中化作一股强"
+"大的力量。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:751
 msgid ""
 "Taking the Flaming Sword will grant <b>Delfador</b> a new melee attack, "
 "hitting for 7-4 fire damage."
-msgstr ""
+msgstr "取得烈焰神剑将使<b>德法多</b>获得一项新的近战攻击，造成 7-4 火焰伤害。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:765
@@ -4850,6 +5029,8 @@ msgid ""
 "made. Not even among the best smiths of Weldyn have I seen its like. How did "
 "the Lintanir come by it?"
 msgstr ""
+"那是一件非凡的护甲，卡雷兹，而且我认为它并非精灵打造。即便在维尔帝最优秀的工"
+"匠之中，我也没见过与之相似的作品。林塔尼尔是怎么得到它的？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:769
@@ -4858,6 +5039,8 @@ msgid ""
 "clove our steel blades as if they were saplings, and its enchanted armor "
 "deflected our strongest magics and hottest fires."
 msgstr ""
+"许多年前，我们曾受到一位强大亡灵领主的侵扰。它的战斧劈开我们的钢刃，如同斩断"
+"树苗；它那附魔护甲则挡开了我们最强大的魔法和最炽烈的火焰。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:773
@@ -4866,6 +5049,8 @@ msgid ""
 "lord of the undead and taking its armor as spoil. If you choose to wear it, "
 "Li’sar, do so humbly — it was paid for in blood."
 msgstr ""
+"我们耗时极长、代价惨重，才终于获胜，摧毁了那位亡灵领主，并将它的护甲作为战利"
+"品取走。莉莎，若你选择穿上它，便应心存谦卑——它是以鲜血换来的。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:780
@@ -4873,58 +5058,48 @@ msgid ""
 "Taking the Void Armor will grant <b>Li’sar</b> immunity to slows, poison, "
 "fire damage, cold damage, and arcane damage."
 msgstr ""
+"拿取虚空战甲将使<b>莉莎</b>免疫减速、毒素、火焰伤害、冰寒伤害和奥术伤害。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:795
 msgid "As you wish. The wose lore is yours."
-msgstr ""
+msgstr "如你所愿。树人学识归你所有。"
 
 #. [event]: id=boon_wose_lore
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:801
-#, fuzzy
-#| msgid ""
-#| "This massive book is filled with the Lore and Legends of the Wose. Any "
-#| "who read it learn deeply of the ways of the twig and leaf, the tree and "
-#| "the forest."
 msgid ""
 "This massive book is filled with the Lore and Legends of the Wose. Konrad "
 "gains the <i>ambush</i> ability, improved forest movement, and 70% forest "
 "defense."
 msgstr ""
-"这本厚重的书里写满了树人的传说和传奇。任何阅读它的人，都能深刻地学习到枝、"
-"叶、树、林的生存之道。"
+"这本厚重的书满载着树人的学识与传说。科纳德获得<i>伏击</i>能力，森林移动力提"
+"升，并获得70%的森林防御力。"
 
 #. [dummy]: id=wose_lore
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:806
 msgid "wose lore"
-msgstr "树人的传说"
+msgstr "树人传说"
 
 #. [dummy]: id=wose_lore
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:807
 msgid "This unit has 70% defense, full movement, and invisibility in forest."
-msgstr ""
+msgstr "该单位在森林中拥有70%防御、满额移动力，并且隐形。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:841
 msgid "As you wish. The flaming sword is yours."
-msgstr ""
+msgstr "如你所愿。烈焰神剑归你所有。"
 
 #. [event]: id=boon_flaming_sword # used in smalltalk.cfg, type=fire
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:847
-#, fuzzy
-#| msgid ""
-#| "This massive blade was created centuries ago by long-forgotten elvish "
-#| "forgemasters, who imbued the bluish steel with an inner magical fire. "
-#| "Tongues of flame dance on the surface, giving the metal a flawless "
-#| "mirrored finish."
 msgid ""
 "This massive blade was created centuries ago by long-forgotten elvish "
 "forgemasters, who imbued the bluish steel with an inner magical fire. "
 "Delfador gains a new melee attack, dealing 7-4 fire damage."
 msgstr ""
 "这把巨大的剑是在几百年前，由早已被忘却的精灵铸剑大师所铸造。他们在泛着蓝光的"
-"剑刃之中，注入了充满魔法的火之神力。火舌在宝剑的表面跳跃，将它打磨成了完美无"
-"瑕的镜面。"
+"剑刃之中，注入了充满魔法的火之神力。德法多获得了一种新的近战攻击方式，它能产"
+"生 7-4 火焰伤害输出。"
 
 #. [event]: id=boon_flaming_sword # used in smalltalk.cfg, type=fire
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:851
@@ -4934,7 +5109,7 @@ msgstr "烈焰神剑"
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:866
 msgid "As you wish. The void armor is yours."
-msgstr ""
+msgstr "如你所愿。虚空战甲归你所有。"
 
 #. [event]: id=boon_void_armor
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:872
@@ -4942,6 +5117,8 @@ msgid ""
 "This beautiful chest plate is crafted from shimmering black steel. Li’sar "
 "gains immunity to slows, poison, fire damage, cold damage, and arcane damage."
 msgstr ""
+"这件精美的胸甲由闪烁着微光的黑钢锻造而成。莉莎获得对减速、毒素、火焰伤害、冰"
+"寒伤害和奥术伤害的免疫。"
 
 #. [dummy]: id=void_armor
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:877
@@ -4953,17 +5130,17 @@ msgstr "虚空战甲"
 msgid ""
 "This unit has immunity to slows, poison, fire damage, cold damage, and "
 "arcane damage."
-msgstr ""
+msgstr "该单位免疫减速、毒素、火焰伤害、冰寒伤害和奥术伤害。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:903
 msgid "Fort Garard"
-msgstr ""
+msgstr "伽拉德要塞"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:918
 msgid "The ruins of Fort Garard. This is where my father died."
-msgstr ""
+msgstr "伽拉德要塞的废墟。我父亲就是在这里死的。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:922
@@ -4972,26 +5149,32 @@ msgid ""
 "my haste and my arrogance. Had I been but a breath wiser that night, all "
 "might have been different..."
 msgstr ""
+"是的。你知道那段往事。那是我最黑暗的日子里最黑暗的时刻；一桩源于我的急躁与傲"
+"慢的罪过。那晚我若能再明智一分，一切或许都会不同……"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:934
 msgid "Estmark Hills"
 msgstr "东界丘陵"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:937
+#, fuzzy
 msgid "N. Outpost"
-msgstr ""
+msgstr "北哨站"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:939
+#, fuzzy
 msgid "S. Outpost"
-msgstr ""
+msgstr "南哨站"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:950
 msgid "Parthyn"
-msgstr ""
+msgstr "帕辛"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:951
@@ -5004,6 +5187,7 @@ msgid ""
 "Halt! Your Highness Li’sar, by order of Her Majesty The Queen you are "
 "branded a traitor and an enemy of the state. Prepare to be apprehended."
 msgstr ""
+"站住！莉莎殿下，奉女王陛下之命，你已被认定为叛徒和国家的敌人。准备束手就擒。"
 
 #. [message]: speaker=Lisar # no variation; use her default portrait (which now includes the Sceptre)
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:998
@@ -5011,6 +5195,8 @@ msgid ""
 "A traitor? This is the Sceptre of Fire, symbol of the kings of Wesnoth, and "
 "I return after claiming it at great cost from the caverns of the north."
 msgstr ""
+"叛徒？这是圣火权杖，韦诺诸王的象征；我自北方洞窟中以巨大代价夺得它，如今归"
+"来。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1002
@@ -5019,13 +5205,15 @@ msgid ""
 "just general. And now I hold the Sceptre, not my mother. Stand aside or die, "
 "soldier."
 msgstr ""
+"你知道艾什薇尔已被证明是个糟糕的统治者。你知道我一直是个公正的将军。如今持有"
+"权杖的是我，不是我的母亲。让开，否则就死，士兵。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1012
 msgid ""
 "Leave my cousin out of this. You know who I am. And now you see I hold the "
 "Sceptre."
-msgstr ""
+msgstr "别把我的表姐牵扯进来。你知道我是谁。现在你也看到了，权杖在我手中。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1016
@@ -5034,6 +5222,8 @@ msgid ""
 "land is suffering. I know it, you know it, even Li’sar knows it; Asheviere’s "
 "own daughter driven to revolt."
 msgstr ""
+"你从艾什薇尔那里听到了关于我这场战争的谎言——现在听听真相。这片土地正在受苦。"
+"我知道，你知道，就连莉莎也知道；艾什薇尔的亲生女儿都被逼得起来反抗。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1026
@@ -5043,22 +5233,25 @@ msgid ""
 "mine, it shall save you and I both from the terror that is Asheviere. You "
 "will let us pass."
 msgstr ""
+"公主与我一同取得了圣火权杖，那王者之杖。在哈德里克手中，它曾使我们免遭巫妖领"
+"主荼毒；在我手中，它也将把你我从艾什薇尔这个恐怖中拯救出来。你会放我们过去"
+"的。"
 
 #. [message]: role=soradoc_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1036
 msgid "(whispering back and forth)"
-msgstr ""
+msgstr "（来回低声耳语）"
 
 #. [message]: role=soradoc_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1043
 msgid "Go. You were never here."
-msgstr ""
+msgstr "走吧。你从未来过这里。"
 
 #. [message]: role=soradoc_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1048
 msgid ""
 "... and if you do win against Asheviere, please remember our actions today."
-msgstr ""
+msgstr "……如果你真能战胜艾什薇尔，请记住我们今天的行动。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1068
@@ -5101,7 +5294,7 @@ msgstr "氏族的考验"
 #. [message]: speaker=Alric
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1120
 msgid "So! The young prince has found his way to the lands of the Horse Lords."
-msgstr ""
+msgstr "瞧瞧！年轻的王子竟找到了通往骏马领主领地的路。"
 
 #. [message]: speaker=Daryn
 #. "old stick" refers to the sceptre of fire
@@ -5109,21 +5302,21 @@ msgstr ""
 msgid ""
 "Do not expect us, too, to bend the knee just because the princess holds an "
 "old stick."
-msgstr ""
+msgstr "别指望我们也会因为公主拿着一根旧棍子就屈膝臣服。"
 
 #. [message]: speaker=Daryn
 #. "old stick" refers to the sceptre of fire
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1136
 msgid ""
 "Do not expect us, too, to bend the knee just because you hold an old stick."
-msgstr ""
+msgstr "别指望我们也会因为你拿着一根旧棍子就屈膝臣服。"
 
 #. [message]: speaker=Ruga
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1141
 msgid ""
 "You are two children and an old man. What right have you to challenge the "
 "throne?"
-msgstr ""
+msgstr "你们不过是两个孩子和一个老头。凭什么挑战王座？"
 
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1156
@@ -5131,6 +5324,8 @@ msgid ""
 "We have come to the Horse Plains, Konrad — the lands of my birth and the "
 "home of my kin. Perhaps I can persuade them where you could not."
 msgstr ""
+"我们来到骏马平原了，科纳德——这里是我出生之地，也是我族人的家园。也许我能说服"
+"他们，而你不能。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1168
@@ -5138,6 +5333,8 @@ msgid ""
 "The Horse Clans are powerful and proud. If we cannot prove ourselves to them "
 "now, we shall surely have to battle them later, when we attack Weldyn."
 msgstr ""
+"马上氏族强大而骄傲。如果我们现在不能向他们证明自己，那等日后进攻维尔帝时，就"
+"必定得与他们兵戎相见。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1190
@@ -5145,13 +5342,15 @@ msgid ""
 "Do not forget your pledge, lords of the clans. When Asheviere calls you for "
 "aid, let her pleas fall upon deaf ears."
 msgstr ""
+"别忘记你们的誓言，各氏族领主。当艾什薇尔向你们求援时，让她的恳求沦为耳边风"
+"吧。"
 
 #. [message]: id=Alric,Daryn,Bayar,Ruga
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1196
 msgid ""
 "You have proven yourselves worthy, Your Royal Highnesses, worthy even to "
 "claim the throne. I bow my head."
-msgstr ""
+msgstr "你们已证明了自己的价值，高贵的殿下，甚至无愧于继承王座。我向你们俯首。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1263
@@ -5160,6 +5359,8 @@ msgid ""
 "conquest of my mother’s early days. Its conscripts have made up the bulk of "
 "her footmen ever since."
 msgstr ""
+"停！我们正在接近城墙环绕的丹·冬克。那是我母亲早年最辉煌的征服。自那以后，它征"
+"召的兵员就成了她步兵的主力。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1268
@@ -5168,14 +5369,20 @@ msgid ""
 "tried again to seize their eggs, but thanks to our help the gryphons have "
 "become strong enough to fight back!"
 msgstr ""
+"那些……在城墙上方俯冲的是狮鹫吗？艾什薇尔一定又试图夺取它们的蛋，但多亏我们的"
+"帮助，狮鹫已经强大到能够反击了！"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1273
+#, fuzzy
 msgid ""
 "That was a dark day... I remember it well. I urged the baron to flee, but in "
 "the end we chose to stand and fight — and it cost him his life. So many "
 "regrets..."
 msgstr ""
+"那是黑暗的一天……我记忆犹新。我曾劝男爵逃走，但最终我们还是选择坚守迎战——他也"
+"因此丧命。太多遗憾了……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1282
@@ -5184,20 +5391,22 @@ msgid ""
 "Dan’Tonk’s footmen to flank us. If we strike now, we can do enough damage to "
 "prevent them from marching against us later."
 msgstr ""
+"等我们有一天围攻维尔帝时，艾什薇尔肯定会召来丹·冬克的步兵包抄我们。如果我们现"
+"在出击，就能造成足够的破坏，让他们日后无法进军对抗我们。"
 
 #. [message]: role=dantonk_contain_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1324
 msgid ""
 "We’re all set up, my lady, and we’ve blocked the roads with rubble. They "
 "won’t get through easily."
-msgstr ""
+msgstr "一切都布置好了，女士，我们还用碎石堵住了道路。他们没那么容易通过。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1328
 msgid ""
 "Well done, everyone — our flank is secure. Asheviere’s position in Weldyn "
 "grows weaker each day."
-msgstr ""
+msgstr "大家干得好——我们的侧翼安全了。艾什薇尔在维尔帝的处境正一天天变弱。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1334
@@ -5207,11 +5416,13 @@ msgid ""
 "blocked the road and have left behind enough guards to make any sortie "
 "difficult."
 msgstr ""
+"尽管丹·冬克仍在敌人手中，但已大为削弱。我们既没有时间，也没有补给来打一场持久"
+"围城战，所以我们堵住了道路，并留下足够的守卫，让敌军任何出击都变得困难。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1375
 msgid "Stockpiles"
-msgstr ""
+msgstr "物资储备"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1401
@@ -5220,6 +5431,8 @@ msgid ""
 "farms suffer under Mother’s exorbitant taxes, those surrounding Weldyn — the "
 "core of her power base — have grown rich and fat."
 msgstr ""
+"科纳德，我们现在已深入韦诺腹地。西部的农场在母亲苛重的赋税下苦苦挣扎，而维尔"
+"帝周边的那些农场——她权力根基的核心——却已变得富得流油。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1405
@@ -5227,6 +5440,8 @@ msgid ""
 "It’s an unsavory proposal, but I believe our best strategy is to burn the "
 "locals’ farms to deprive my mother of their resources."
 msgstr ""
+"这提议并不光彩，但我认为，最好的策略就是烧毁当地人的农场，让我母亲得不到这些"
+"资源。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1407
@@ -5235,6 +5450,8 @@ msgid ""
 "wealthy farmer can survive losing a few herds or a single year’s harvest. We "
 "won’t, if Asheviere defeats us in the end."
 msgstr ""
+"我不是建议强征或杀害任何人——他们都是无辜的。但富裕的农民就算损失几群牲畜，或"
+"是一年的收成，也还能撑下去。可如果艾什薇尔最终击败了我们，我们就撑不下去了。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1418
@@ -5243,21 +5460,23 @@ msgid ""
 "strategy, but I am not enthused about the prospect. Of course, Weldyn will "
 "surely pose a frighteningly difficult challenge if we do not..."
 msgstr ""
+"这主意确实不光彩。焚毁这一带的农场也许是合理的军事策略，但我对这种事实在提不"
+"起热情。当然，要是我们不这么做，维尔帝肯定会是一场艰难得可怕的挑战……"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1420
 msgid "Burn the farms (default difficulty)"
-msgstr ""
+msgstr "烧毁农场（默认难度）"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1438
 msgid "Don’t (extra difficulty)"
-msgstr ""
+msgstr "不烧（额外的难度）"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1451
 msgid "★Weldyn"
-msgstr ""
+msgstr "★维尔帝"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1459
 msgid "The Battle for Wesnoth"
@@ -5266,7 +5485,7 @@ msgstr "韦诺之战"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1503
 msgid "No turning back now."
-msgstr ""
+msgstr "现在已无退路。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1531
@@ -5275,13 +5494,15 @@ msgid ""
 "we choose, but it may be wiser to first fight elsewhere and cut off her "
 "allies."
 msgstr ""
+"韦诺的首都就在眼前。只要愿意，我们现在就可以挑战艾什薇尔，但先去别处作战、切"
+"断她与盟友的联系，或许更为明智。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1535
 msgid ""
 "I suspect that no matter what we do, we will be forced into a final "
 "confrontation eventually."
-msgstr ""
+msgstr "我怀疑，不管我们怎么做，最终都难免会被逼入一场最后的决战。"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:4
@@ -5305,14 +5526,16 @@ msgstr "莉莎"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:479
 msgid "Explore Wesnoth"
-msgstr ""
+msgstr "探索韦诺"
 
+# Translated by openai with model deepseek-flash.
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:503
 msgid ""
 "Build up your army ($( $bm_milestone_scepter - $bm_turns ) battles remaining)"
 msgstr ""
 
+# Translated by openai with model deepseek-flash.
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:511
 msgid "Build up your army (1 battle remaining)"
@@ -5320,10 +5543,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:524
-#, fuzzy
-#| msgid "Death of Delfador"
 msgid "Reunite with Delfador"
-msgstr "德法多死亡"
+msgstr "与德法多重新会合"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:533
@@ -5332,33 +5553,32 @@ msgstr "寻找德法多"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:542
-#, fuzzy
-#| msgid "The Sceptre of Fire"
 msgid "Claim the Sceptre of Fire"
-msgstr "圣火权杖"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:550
 msgid "Choose a path and escape the rising lava"
-msgstr ""
+msgstr "选择一条路线，逃离不断上涨的岩浆"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:563
 msgid ""
 "Prepare to fight Asheviere ($( $bm_milestone_finale - $bm_turns ) battles "
 "remaining)"
-msgstr ""
+msgstr "准备迎战艾什薇尔（剩余 $( $bm_milestone_finale - $bm_turns ) 场战斗）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:572
 msgid "Prepare to fight Asheviere (1 battle remaining)"
-msgstr ""
+msgstr "准备迎战艾什薇尔（剩余 1 场战斗）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:579
 msgid "Defeat the Dark Queen and reclaim your throne."
-msgstr ""
+msgstr "击败黑暗女王，夺回你的王座。"
 
+# Translated by openai with model deepseek-flash.
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:596
 msgid "Explore Wesnoth and build up your army"
@@ -5366,15 +5586,13 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:600
-#, fuzzy
-#| msgid "And you really think that you can find the Sceptre of Fire?"
 msgid "When you’re ready, find Delfador and claim the Sceptre of Fire"
-msgstr "您真的认为您可以找到圣火权杖吗？"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:612
 msgid "When you’re ready, defeat the Dark Queen and reclaim your throne"
-msgstr ""
+msgstr "准备好后，击败黑暗女王并夺回你的王座"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:636
@@ -5383,13 +5601,15 @@ msgid ""
 "battles will have longer nights and shorter days, often with more snow and "
 "ice. Summer battles are the opposite."
 msgstr ""
+"提示：每完成一场战斗，季节就会更替。冬季的战斗夜晚更长、白昼更短，往往会有更"
+"多的雪和冰。夏季的战斗则相反。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:638
 msgid ""
 "Right now it’s winter. You can see the current season in the top-right-hand "
 "corner."
-msgstr ""
+msgstr "现在是冬季。你可以在右上角看到当前季节。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:651

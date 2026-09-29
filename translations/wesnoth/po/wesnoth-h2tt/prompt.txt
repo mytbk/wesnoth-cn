@@ -128,6 +128,7 @@
 - Weldyn: 维尔帝，韦诺首都
 - Isle of Alduin: 奥渡因岛，法师学院所在地
 - Aethenwood: 艾森丛林，精灵所在的森林
+- Lintanir Forest: 林塔尼尔森林，精灵森林
 - Wesmere: 韦弥尔，精灵森林
 - Three Sisters: 三姐妹群岛
 - Elensefar: 埃仁撒伐，城市
