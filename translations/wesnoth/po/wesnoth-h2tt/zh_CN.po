@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-29 21:59+0800\n"
+"PO-Revision-Date: 2026-09-30 23:32+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -5531,15 +5531,17 @@ msgstr "探索韦诺"
 # Translated by openai with model deepseek-flash.
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:503
+#, fuzzy
 msgid ""
 "Build up your army ($( $bm_milestone_scepter - $bm_turns ) battles remaining)"
-msgstr ""
+msgstr "扩充你的军队（剩余 $( $bm_milestone_scepter - $bm_turns ) 场战斗）"
 
 # Translated by openai with model deepseek-flash.
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:511
+#, fuzzy
 msgid "Build up your army (1 battle remaining)"
-msgstr ""
+msgstr "扩充你的军队（剩余 1 场战斗）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:524
@@ -5549,12 +5551,12 @@ msgstr "与德法多重新会合"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:533
 msgid "Find Delfador"
-msgstr "寻找德法多"
+msgstr "找到德法多"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:542
 msgid "Claim the Sceptre of Fire"
-msgstr ""
+msgstr "夺取圣火权杖"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:550
@@ -5581,13 +5583,14 @@ msgstr "击败黑暗女王，夺回你的王座。"
 # Translated by openai with model deepseek-flash.
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:596
+#, fuzzy
 msgid "Explore Wesnoth and build up your army"
-msgstr ""
+msgstr "探索韦诺并扩充你的军队"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:600
 msgid "When you’re ready, find Delfador and claim the Sceptre of Fire"
-msgstr ""
+msgstr "准备好后，找到德法多并夺取圣火权杖"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:612
@@ -5618,6 +5621,8 @@ msgid ""
 "final battle. If you want to (non-canonically) remove that limit, there’s a "
 "secret in the Great Ocean that can help."
 msgstr ""
+"提示：在最终决战之前，科纳德只有进行有限数量场景的时间。如果你想（非正统地）"
+"移除这个限制，泰洋之中有一处秘密可以帮助你。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:664
@@ -5625,6 +5630,7 @@ msgid ""
 "Tip: Konrad will start most battle scenarios with 75 gold, plus any "
 "carryover from your last battle."
 msgstr ""
+"提示：科纳德在大多数战斗场景开始时会有 75 金币，外加上一场战斗结余的金币。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:677
@@ -5632,6 +5638,8 @@ msgid ""
 "Tip: This campaign’s difficulty setting affects both the strength of your "
 "enemies and the number of scenarios you can play before the final battle."
 msgstr ""
+"提示：本战役的难度设置既会影响敌人的强度，也会影响你在最终决战前可进行的场景"
+"数量。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:679
@@ -5639,6 +5647,8 @@ msgid ""
 "However, if you adjust the difficulty mid-campaign, the number of scenarios "
 "won’t change (or else you might end up stuck in an unplayable area)."
 msgstr ""
+"不过，如果你在战役中途调整难度，场景数量不会改变（否则你可能会卡在一个无法游"
+"玩的区域）。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:692
@@ -5646,6 +5656,8 @@ msgid ""
 "Tip: This campaign has many secrets and special interactions. Some are "
 "hinted at in the achievements list (viewable on the Wesnoth main menu)."
 msgstr ""
+"提示：本战役有许多秘密和特殊互动。其中一些在成就列表中有暗示（可在韦诺主菜单"
+"中查看）。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:705
@@ -5655,6 +5667,9 @@ msgid ""
 "eggs to major power-ups. Companion dialogue and backstories may hint as to "
 "where these events can be found."
 msgstr ""
+"提示：科纳德的大多数可选同伴（莫密尔姆、哈尔迪尔等）在世界地图或某些场景中都"
+"有特殊事件，从彩蛋到重大强化不等。同伴对话和背景故事可能会暗示这些事件的触发"
+"地点。"
 
 #. [then]
 #. [else]
@@ -5666,7 +5681,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1322
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:230
 msgid "Familiar"
-msgstr ""
+msgstr "魔宠"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:749
@@ -5674,23 +5689,17 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1328
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:237
 msgid "Kraa! Kraa! Kraa!"
-msgstr ""
+msgstr "嘎！嘎！嘎！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:753
-#, fuzzy
-#| msgid ""
-#| "I am afraid there is no time for rest, Konrad. Asheviere has laid siege "
-#| "to Elensefar, breaking the century-old treaty between Wesnoth and the "
-#| "Elense city-state. If the city falls, there is no telling how many other "
-#| "lands she may swallow up!"
 msgid ""
 "What’s this? Blackwing brings ill tidings — men of the Crown lay siege to "
 "Elensefar! Asheviere has broken the century-old treaty between Wesnoth and "
 "the Elense city-state."
 msgstr ""
-"科纳德，恐怕我们没时间休息了。艾什薇尔已经撕毁了韦诺和埃仁斯城邦之间上百年的"
-"盟约，开始围攻埃仁撒伐。如果埃仁撒伐沦陷，不知道她还会再吞下多少土地！"
+"这是怎么回事？黑翼带来了凶讯——王室军队正在围攻埃仁撒伐！艾什薇尔撕毁了韦诺与"
+"埃仁斯城邦之间延续百年的条约。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:757
@@ -5700,13 +5709,14 @@ msgid ""
 "reaches. If Elensefar should fall, we would lose a great ally in our quest "
 "against Asheviere."
 msgstr ""
+"马多克领主或许不是最可靠的盟友，但他和他的金币在维系西部边陲的相对自由上起了"
+"关键作用。倘若埃仁撒伐陷落，我们在对抗艾什薇尔的征途中就会失去一位伟大的盟"
+"友。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:761
-#, fuzzy
-#| msgid "Then we must make it to that tunnel!"
 msgid "Then we must go to his aid at once!"
-msgstr "那么我们必须想办法到达那条坑道！"
+msgstr "那我们必须立刻去援助他！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:765
@@ -5715,6 +5725,8 @@ msgid ""
 "aid Elensefar, but to do so would mean leaving you to face the Continent "
 "alone..."
 msgstr ""
+"不，年轻的王子。那场战斗对你而言太过危险了。我可以去援助埃仁撒伐，但那样做就"
+"意味着要留你独自面对泰陆……"
 
 #. [message]: speaker=Delfador
 #. Konrad has something to day, and Delfador is promting him.
@@ -5725,19 +5737,19 @@ msgstr "它是什么，科纳德？"
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:786
 msgid "Ask Delfador to stay with Konrad for one more battle"
-msgstr ""
+msgstr "请求德法多再与科纳德并肩作战一场"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:790
 msgid ""
 "Yes, you’re quite right. We shall fight one more battle together, and secure "
 "allies for you before I depart."
-msgstr ""
+msgstr "是的，你说得很对。我们会再并肩作战一场，并在我离去之前为你争取盟友。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:802
 msgid "Ask Delfador to leave (gain Delfador’s raven as a loyal companion)"
-msgstr ""
+msgstr "请求德法多离开（获得德法多的渡鸦作为忠诚同伴）"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:806
@@ -5745,13 +5757,15 @@ msgid ""
 "Very well. You will have to do without my elementals, but I can at least "
 "leave with you my familiar — the venerable Blackwing. Care for him well."
 msgstr ""
+"很好。你将不得不在没有我的元素召唤物助战的情况下行动，但至少我可以把我的魔宠"
+"——令人尊敬的黑翼——留给你。好好照料他。"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:818
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:935
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:974
 msgid "Cooo..."
-msgstr ""
+msgstr "咕……"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:846
@@ -5759,6 +5773,8 @@ msgid ""
 "Well done, Konrad! I couldn’t be more proud of your wisdom in battle; you’re "
 "truly well on your way to becoming the prince you were always meant to be."
 msgstr ""
+"干得好，科纳德！你在战斗中展现的智慧让我无比自豪；你确实正稳步成为你注定要成"
+"为的那位王子。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:857
@@ -5766,27 +5782,23 @@ msgid ""
 "I had a good teacher! And now that we’ve helped the people here, all kinds "
 "of new places are suddenly open to us. Where shall we go to next?"
 msgstr ""
+"多亏有位好老师！既然我们已经帮助了这里的人民，形形色色的新地方突然都向我们敞"
+"开了。接下来我们去哪里？"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:871
 msgid "What’s going on, Delfador? Is something the matter?"
-msgstr ""
+msgstr "怎么了，德法多？出什么事了吗？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:875
-#, fuzzy
-#| msgid ""
-#| "I am afraid there is no time for rest, Konrad. Asheviere has laid siege "
-#| "to Elensefar, breaking the century-old treaty between Wesnoth and the "
-#| "Elense city-state. If the city falls, there is no telling how many other "
-#| "lands she may swallow up!"
 msgid ""
 "I’m afraid so, young prince. Blackwing brings ill tidings, for my suspicions "
 "have been confirmed — Asheviere lays siege to Elensefar, breaking the "
 "century-old treaty between Wesnoth and the Elense city-state."
 msgstr ""
-"科纳德，恐怕我们没时间休息了。艾什薇尔已经撕毁了韦诺和埃仁斯城邦之间上百年的"
-"盟约，开始围攻埃仁撒伐。如果埃仁撒伐沦陷，不知道她还会再吞下多少土地！"
+"恐怕正是如此，年轻的王子。黑翼带来了凶讯，因为我的怀疑已经得到证实——艾什薇尔"
+"正在围攻埃仁撒伐，撕毁了韦诺与埃仁斯城邦之间延续百年的条约。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:879
@@ -5796,6 +5808,9 @@ msgid ""
 "reaches. If Elensefar should fall, we would lose a great ally in our quest "
 "against Asheviere. I must depart at once to aid in the defense!"
 msgstr ""
+"马多克领主或许不是最可靠的盟友，但他和他的金币在维持西部边陲的相对自由上却至"
+"关重要。倘若埃仁撒伐陷落，我们对抗艾什薇尔的征途就会失去一位伟大的盟友。我必"
+"须立刻动身前去协助防守！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:883
@@ -5803,6 +5818,8 @@ msgid ""
 "Then I am to journey on alone? I fear my quest will be difficult without "
 "your guidance and magic... but what must be must be."
 msgstr ""
+"那我就要独自继续旅途了？没有你的指引和魔法，我担心前路会十分艰难……但该来的总"
+"会来。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:894
@@ -5811,6 +5828,8 @@ msgid ""
 "the Aethenwood — and you will doubtless find many more among the other "
 "denizens of the Great Continent."
 msgstr ""
+"你并非孤身一人，科纳德。你已经找到了新的盟友——艾森丛林温雅的精灵——而且毫无疑"
+"问，你还会在泰陆的其他居民中找到更多盟友。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:902
@@ -5819,6 +5838,8 @@ msgid ""
 "Blackwater Port — and you will doubtless find many more among the other "
 "denizens of the Great Continent."
 msgstr ""
+"你并非孤身一人，科纳德。你已经找到了新的盟友——黑水港的王室骑士——而且毫无疑"
+"问，你还会在泰陆的其他居民中找到更多盟友。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:911
@@ -5827,6 +5848,8 @@ msgid ""
 "Pearls merfolk — and you will doubtless find many more among the other "
 "denizens of the Great Continent."
 msgstr ""
+"你并非孤身一人，科纳德。你已经找到了新的盟友——珍珠湾高贵的人鱼——而且毫无疑"
+"问，你还会在泰陆的其他居民中找到更多盟友。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:918
@@ -5834,6 +5857,8 @@ msgid ""
 "Not alone, Konrad. Already you have gained new allies, and you will "
 "doubtless find many more among the other denizens of the Great Continent."
 msgstr ""
+"你并非孤身一人，科纳德。你已经获得了新的盟友，而且毫无疑问，你还会在泰陆的其"
+"他居民中找到更多盟友。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:926
@@ -5842,6 +5867,8 @@ msgid ""
 "for you to recruit — perhaps elves, horsemen, or merfolk — but it was not to "
 "be."
 msgstr ""
+"恐怕是的。我原本还希望我们已经获得你可以征募的新盟友——或许是精灵、骑师或人鱼"
+"——但终究未能如愿。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:930
@@ -5849,6 +5876,8 @@ msgid ""
 "You will have to do without my elementals, but I can at least leave with you "
 "my familiar — the venerable Blackwing. Care for him well."
 msgstr ""
+"你将不得不在没有我的元素召唤物助战的情况下行动，但至少我可以把我的魔宠——令人"
+"尊敬的黑翼——留给你。好好照料他。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:951
@@ -5856,6 +5885,7 @@ msgid ""
 "I had a good teacher! And now that I’ve gained new allies, you are free to "
 "travel to Elensefar and aid in its defense."
 msgstr ""
+"多亏有位好老师！如今我已获得新盟友，你可以放心前往埃仁撒伐，协助防守了。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:955
@@ -5863,6 +5893,7 @@ msgid ""
 "As we agreed. I am loathe to leave you without my magic, but right now Lord "
 "Maddock needs it more."
 msgstr ""
+"正如我们约定好的。我很不愿让你失去我的魔法支援，但眼下马多克领主更需要它。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:961
@@ -5870,6 +5901,8 @@ msgid ""
 "I had a good teacher! But although we’ve fought a battle, I still have no "
 "allies for me to recruit. Must you still leave?"
 msgstr ""
+"多亏有位好老师！可尽管我们打了一仗，我仍然没有可征募的盟友。你还是一定要走"
+"吗？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:965
@@ -5878,6 +5911,8 @@ msgid ""
 "least leave with you my familiar — the venerable Blackwing. Care for him "
 "well."
 msgstr ""
+"恐怕是的。你将不得不在没有我的元素召唤物助战的情况下行动，但至少我可以把我的"
+"魔宠——令人尊敬的黑翼——留给你。好好照料他。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:992
@@ -5885,6 +5920,8 @@ msgid ""
 "Without any soldiers to recruit, I must advise selecting an easy battle for "
 "your next fight. Perhaps one of the islands will be appropriate."
 msgstr ""
+"既然你没有任何可征募的士兵，我必须建议你下一场选择一场较轻松的战斗。或许其中"
+"一座岛屿会比较合适。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:998
@@ -5893,6 +5930,8 @@ msgid ""
 "utmost to prepare you for the difficult quest that lies ahead. You have "
 "trusted me, and for that I am grateful."
 msgstr ""
+"至于我的指引，这个嘛……我已尽我所能将你抚养成人，并竭尽全力为你面前艰巨的征途"
+"做好准备。你信任过我，为此我心怀感激。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1002
@@ -5901,6 +5940,8 @@ msgid ""
 "succeed where I failed; my trust that you shall yet restore the throne of "
 "Wesnoth! I know that you will make me proud."
 msgstr ""
+"现在，轮到我信任你了。我相信你能在我失败之处取得成功；我相信你终将光复韦诺的"
+"王座！我知道你会让我为你骄傲。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1006
@@ -5924,55 +5965,66 @@ msgstr "德法多"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1042
 msgid "It’s up to me then. I won’t let Wesnoth down."
-msgstr ""
+msgstr "那就全靠我了。我不会让韦诺失望的。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1085
 msgid "Well?"
-msgstr ""
+msgstr "怎么样？"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1089
 msgid ""
 "Battle plan approved, Your Highness. And your mother adds — remember what "
 "happened to Eldred."
-msgstr ""
+msgstr "作战计划已获批准，殿下。您母亲还补充道——记住埃雷德的下场。"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1093
+#, fuzzy
 msgid ""
 "I know the risks, but Elensefar has dragged on for far too long already. "
 "Wizard or no, we have to finish things before we overextend."
 msgstr ""
+"我知道有风险，但埃仁撒伐的战事已经拖得太久了。不管有没有法师，我们都必须在战"
+"线过度延伸之前做个了结。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1123
 msgid "Well done, Konrad. We must now consider how to proceed."
-msgstr ""
+msgstr "干得好，科纳德。我们现在必须考虑下一步该如何行动。"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1127
+#, fuzzy
 msgid ""
 "Our victory at Elensefar has been a great blow to Asheviere, but her thumb "
 "firmly remains upon the core cities of central Wesnoth. We have not the "
 "strength to challenge her in her domain. Even if we did, such a war would "
 "kill untold numbers."
 msgstr ""
+"我们在埃仁撒伐的胜利对艾什薇尔是一次沉重打击，但她的铁腕仍牢牢掌控着韦诺中部"
+"的核心城市。我们没有力量在她的领地上挑战她。就算有，这样的战争也会夺去无数人"
+"的性命。"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1131
+#, fuzzy
 msgid "This is a crucial moment. We must be sure to act rightly..."
-msgstr ""
+msgstr "这是关键时刻。我们必须确保行事得当……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1145
 msgid "Look there! A boat approaches!"
-msgstr ""
+msgstr "看那边！有艘船过来了！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1157
 msgid "Look there! Someone comes!"
-msgstr ""
+msgstr "看那边！有人来了！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1174
@@ -5980,12 +6032,14 @@ msgid ""
 "Not just someone! Konrad, this is Kalenz, High Lord of all elves and a close "
 "ally and friend."
 msgstr ""
+"不是普通人！科纳德，这位是卡雷兹，全体精灵的最高领主，也是我们亲密的盟友和朋"
+"友。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1178
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1249
 msgid "Kalenz! Delfador has told me so much about you!"
-msgstr ""
+msgstr "卡雷兹！德法多跟我讲过好多关于您的事！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1182
@@ -5993,6 +6047,8 @@ msgid ""
 "Thank you for offering us asylum — even the elves of the Aethenwood "
 "recognize your authority. It’s a high honor to finally meet you in person."
 msgstr ""
+"感谢您为我们提供庇护——就连艾森丛林的精灵也承认您的权威。能终于亲眼见到您，是"
+"我的莫大荣幸。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1186
@@ -6001,6 +6057,8 @@ msgid ""
 "young, shortly after the deaths... of your brothers. From what I hear of "
 "your actions, Delfador would be proud of the king you are becoming."
 msgstr ""
+"我也深感荣幸，科纳德吾友。自你年幼时——就在你兄弟亡故后不久——我便再未见过你。"
+"就我听闻的你的作为来看，德法多会为你正在成长为的国王感到骄傲。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1190
@@ -6009,25 +6067,27 @@ msgid ""
 "Forest. Your mentor called upon the advice of the elvish sages some weeks "
 "ago, Konrad."
 msgstr ""
+"但此行并非闲来叙旧，因为我从林塔尼尔森林带来了消息。科纳德，你的导师数周前曾"
+"向精灵贤者们征询建议。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1194
 msgid ""
 "Delfador, the strands of prophecy are moving — you know she of whom I speak. "
 "May we take a moment in private?"
-msgstr ""
+msgstr "德法多，预言的丝线正在牵动——你知道我说的是谁。我们可否私下稍谈片刻？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1209
 msgid "Then it shall be done. I depart for the Heart Mountains at once."
-msgstr ""
+msgstr "那么，此事就这么定了。我即刻动身前往心之山脉。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1213
 msgid ""
 "You’re leaving just like that? We’ve hardly had a moment of peace together "
 "since the Aethenwood!"
-msgstr ""
+msgstr "您就这么走了？自艾森丛林以来，我们几乎没能一起享受过片刻安宁！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1217
@@ -6035,11 +6095,12 @@ msgid ""
 "I am afraid so, Konrad. An urgent matter has come up that demands my "
 "attention. It is something you need not concern yourself with just yet."
 msgstr ""
+"恐怕是的，科纳德。出了一件紧急要事，需要我亲自处理。此事你眼下还不必操心。"
 
 #. [message]: speaker={KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1231
 msgid "Gone! And with hardly a word. What’s this quest about, Kalenz?"
-msgstr ""
+msgstr "走了！几乎连一句话也没留下。卡雷兹，这趟任务究竟是为了什么？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1241
@@ -6047,6 +6108,8 @@ msgid ""
 "Who are you, stranger? Your ears are forked, but I don’t recognize you from "
 "the Aethenwood — even your clothes look foreign. Friend or foe?"
 msgstr ""
+"你是谁，陌生人？你的耳朵是尖的，可我在艾森丛林里没见过你——就连你的衣着也透着"
+"异乡气。是敌是友？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1245
@@ -6054,6 +6117,7 @@ msgid ""
 "Friend, Konrad. I am Kalenz, eldest in the Lintanir and High Lord of all "
 "elves. Greetings."
 msgstr ""
+"是友，科纳德。我是卡雷兹，林塔尼尔最年长者，全体精灵的最高领主。谨致问候。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1253
@@ -6062,6 +6126,8 @@ msgid ""
 "recognize your authority. I am sorry for the price they paid. It’s a high "
 "honor to finally meet you in person."
 msgstr ""
+"感谢您为我们提供庇护——就连艾森丛林的精灵也承认您的权威。他们为此付出的代价，"
+"我深感歉疚。能终于亲自见到您，是我的莫大荣幸。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1257
@@ -6070,6 +6136,8 @@ msgid ""
 "young, shortly after the deaths of your brothers. From what I hear of your "
 "actions, you should be proud of the king you are becoming."
 msgstr ""
+"我也深感荣幸，科纳德吾友。自你年幼时——就在你兄弟亡故后不久——我便再未见过你。"
+"据我所闻你的作为，你应当为自己正在成为的国王而自豪。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1261
@@ -6078,13 +6146,15 @@ msgid ""
 "of Elensefar — that which was defended so staunchly by your mentor Delfador "
 "and Lord Maddock — has been conquered."
 msgstr ""
+"但此行并非闲来叙旧，因为我带来了噩耗。埃仁撒伐城——那座由你的导师德法多与马多"
+"克领主曾如此顽强守卫的城市——已经陷落。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1265
 msgid ""
 "No! Has Delfador been taken prisoner? Is he hurt? We must march at once to "
 "his aid!"
-msgstr ""
+msgstr "不！德法多被俘了吗？他受伤了吗？我们必须立刻进军救他！"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1269
@@ -6092,6 +6162,8 @@ msgid ""
 "Your mentor is alive and well, Konrad. He could not rejoin you here today, "
 "but he left you a brief message. Ahem..."
 msgstr ""
+"你的导师安然无恙，科纳德。他今日无法在此与你会合，但给你留了一则简短口信。咳"
+"咳……"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1275
@@ -6100,6 +6172,8 @@ msgid ""
 "up that demands my attention. It is something you need not concern yourself "
 "with just yet."
 msgstr ""
+"我即刻动身前往心之山脉，科纳德。有件紧急事务亟需我去处理。此事你暂且无须挂"
+"怀。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1280
@@ -6107,6 +6181,8 @@ msgid ""
 "That’s it? We’ve hardly had a moment of peace together since the Aethenwood, "
 "and this is all he has to say. Kalenz, what is this quest about?"
 msgstr ""
+"就这些？自从离开艾森丛林以来，我们几乎没一起享受过片刻安宁，而这就是他全部要"
+"说的话。卡雷兹，这究竟是什么任务？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1288
@@ -6114,6 +6190,8 @@ msgid ""
 "Delfador is your guardian, and I shall respect his wish for silence on the "
 "matter. But in his absence, I shall be glad to accompany you on your travels."
 msgstr ""
+"德法多是你的守护者，我会尊重他对此事保持缄默的意愿。但他不在时，我很乐意伴你"
+"踏上旅途。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1292
@@ -6122,23 +6200,25 @@ msgid ""
 "brightening hearts, kindling hope, and freeing still more of your kind from "
 "their oppressive queen."
 msgstr ""
+"我们必须共同继续你与他早已开启的事业——点亮人心，点燃希望，并让你更多的同胞摆"
+"脱那位压迫他们的女王。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1315
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:216
 msgid "Messenger"
-msgstr ""
+msgstr "信使"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1319
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:222
 msgid "Fsss... crackle crackle hiss!"
-msgstr ""
+msgstr "嘶嘶……噼啪噼啪嘶——！"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1343
 msgid "A message from Delfador. He has found the Sceptre of Fire!"
-msgstr ""
+msgstr "德法多传来消息。他找到了圣火权杖！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1349
@@ -6146,18 +6226,20 @@ msgid ""
 "We must go at once! Once we hold the sceptre of my fathers; the symbol of "
 "the kings of Wesnoth, surely Asheviere can no longer hope to oppose us."
 msgstr ""
+"我们必须立刻出发！一旦我们握有我列祖列宗的权杖——韦诺诸王的象征——艾什薇尔就再"
+"也不能指望与我们为敌了。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1353
 msgid "Indeed. Let us make haste, before some misfortune befalls it..."
-msgstr ""
+msgstr "不错。我们得赶快，免得它横遭不测……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1358
 msgid ""
 "The Sceptre of Fire? I thought that was just a myth! This is the quest he’s "
 "been off doing so secretly?"
-msgstr ""
+msgstr "圣火权杖？我还以为那只是传说！这就是他一直在暗中追寻的任务？"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1362
@@ -6165,11 +6247,13 @@ msgid ""
 "Indeed. Delfador will explain more once we three reunite. He is deep in the "
 "Heart Mountains to the northeast — you must go to him at once, Konrad."
 msgstr ""
+"不错。等我们三人重聚，德法多会解释更多。他正在东北方心之山脉的深处——科纳德，"
+"你必须立刻去找他。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1373
 msgid "A message from Delfador! He has found the Sceptre of Fire!"
-msgstr ""
+msgstr "德法多传来消息！他找到了圣火权杖！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1377
@@ -6177,6 +6261,8 @@ msgid ""
 "We must go at once! Once we hold the sceptre of my fathers; the symbol of "
 "the king of Wesnoth, surely Asheviere can no longer hope to oppose us."
 msgstr ""
+"我们必须立刻出发！一旦我们握有我列祖列宗的权杖——韦诺诸王的象征——艾什薇尔就再"
+"也不能指望与我们为敌了。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1382
@@ -6184,6 +6270,8 @@ msgid ""
 "A message from Delfador! He has found... the Sceptre of Fire?! I thought the "
 "Sceptre was just a myth! This is the quest he’s been off doing so secretly?"
 msgstr ""
+"德法多传来消息！他找到了……圣火权杖？！我还以为权杖只是传说！这就是他一直在暗"
+"中追寻的任务？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1386
@@ -6191,11 +6279,13 @@ msgid ""
 "I suppose Delfador will explain more once we reunite. The message says he is "
 "deep in the Heart Mountains to the northeast — I must go to him at once."
 msgstr ""
+"我想等我们重聚后，德法多会解释更多。消息说他在东北方心之山脉的深处——我必须立"
+"刻去找他。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1407
 msgid "You already been paid for by da wizzard. Go on thru, softskin."
-msgstr ""
+msgstr "法师已经替你付过钱咧。过去吧，软皮。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1432
@@ -6203,6 +6293,8 @@ msgid ""
 "Any other time I would have insisted on stopping to help these poor people! "
 "But I’ve been instructed to meet with Delfador at once."
 msgstr ""
+"若是别的时候，我一定会坚持停下来帮助这些可怜的人！但我奉命必须立刻去见德法"
+"多。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1436
@@ -6211,6 +6303,8 @@ msgid ""
 "closed to us. But I can still loop around to the west, north, then east, "
 "through the Caverns of Chaincolt."
 msgstr ""
+"德法多就在此地北边。附近兽人太多，矮人之门对我们关闭了。但我还可以绕道西边，"
+"向北，再折向东，穿过锁链马洞窟。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1454
@@ -6218,19 +6312,21 @@ msgid ""
 "There is no time to stop and fight — I must meet with Delfador and claim the "
 "Sceptre. He is deep within the Heart Mountains, somewhere to the northeast."
 msgstr ""
+"没时间停下来战斗了——我必须去见德法多并取得权杖。他正在东北方某处的心之山脉深"
+"处。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1496
 msgid ""
 "Crossin’ through Stoneskin ford? Dat’ll be $ford_cost gold for passage, "
 "whelp."
-msgstr ""
+msgstr "想过石皮渡口？过路费得 $ford_cost 金币，小崽子。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1500
 msgid ""
 "Clan Stoneskin is an ally of the crown. Let me by or face the consequences."
-msgstr ""
+msgstr "石皮氏族是王室的盟友。让我过去，否则后果自负。"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1504
@@ -6238,24 +6334,32 @@ msgid ""
 "Das right, miss princess. An bein’ our allies, I’m sure you wooden mind "
 "donatin’ dem $ford_cost gold pieces."
 msgstr ""
+"没错，公主小姐。既然你们是俺们的盟友，俺想你不会介意捐上这 $ford_cost 金币"
+"吧。"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1537
+#, fuzzy
 msgid "Good news or bad news, Mirya. Are we too late?"
-msgstr ""
+msgstr "好消息还是坏消息，米尔娅。我们来晚了吗？"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1541
+#, fuzzy
 msgid ""
 "They definitely have a lead on the Sceptre — of that I’m certain, Your "
 "Highness. But your “cousin” has only just arrived. They can’t yet have "
 "reached it."
 msgstr ""
+"他们肯定已经掌握了圣火权杖的线索——这点我确信，殿下。但您那位“表亲”才刚刚抵"
+"达。他们不可能已经赶到那里。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1545
 msgid "Then there’s still a chance. Double-quick, men!"
-msgstr ""
+msgstr "那就还有机会。快步前进，士兵们！"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1571
@@ -6264,6 +6368,8 @@ msgid ""
 "Weldyn, will your decision hold? You would do well to learn the lesson on "
 "loyalty that your mother did not."
 msgstr ""
+"你能选择帮助我们，这很好，莉莎。但当我们逼近维尔帝时，你的决心还能坚定吗？你"
+"最好学会你母亲未曾学会的忠诚一课。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1575
@@ -6271,6 +6377,8 @@ msgid ""
 "I am not a fool. I fought you because I believed it was best for Wesnoth. "
 "Now I fight my mother for the same reason."
 msgstr ""
+"我不是傻瓜。我曾与你们对战，因为我相信那对韦诺最有利。如今我反抗母亲，也是出"
+"于同样的理由。"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1579
@@ -6307,6 +6415,8 @@ msgid ""
 "You are all lucky. You do not know what Wesnoth has been like these past "
 "many years. There is no peace. I have never known peace."
 msgstr ""
+"你们都很幸运。你们不知道这些年来韦诺是什么模样。这里没有和平。我从未体会过和"
+"平。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1595
@@ -6335,14 +6445,16 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1617
 msgid "Crier"
-msgstr ""
+msgstr "传令官"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1621
+#, fuzzy
 msgid ""
 "Hear ye, hear ye! I bring tidings to the Lord Konrad from Her Majesty the "
 "Queen!"
-msgstr ""
+msgstr "听啊，听啊！我带来女王陛下致科纳德领主的讯息！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1627
@@ -6350,46 +6462,47 @@ msgid ""
 "A message from Asheviere? I wonder what new trickery this is. Speak what you "
 "have come to say, courier."
 msgstr ""
+"艾什薇尔传来的消息？我倒想知道这又是什么新把戏。信使，说吧，你此来所为何事。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1648
 msgid "Kalenz, Lord of the Lintanir."
-msgstr ""
+msgstr "卡雷兹，林塔尼尔领主。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1649
 msgid "Ethiliel, Lady of the Aethenwood."
-msgstr ""
+msgstr "艾茜莉尔，艾森丛林女领主。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1650
 msgid "Kaylan, Lord of Blackwater."
-msgstr ""
+msgstr "凯兰，黑水港领主。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1651
 msgid "Maddock, Lord of Elensefar."
-msgstr "马多克，埃仁撒伐的领主。"
+msgstr "马多克，埃仁撒伐领主。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1652
 msgid "Galdrad, Champion of the Aethenwood."
-msgstr ""
+msgstr "伽德拉德，艾森丛林的冠军。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1653
 msgid "Delurin, Three Sisters outlaw."
-msgstr ""
+msgstr "德鲁林，三姐妹群岛亡命徒。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1654
 msgid "Reglok, Elensefar thieves’ guildmaster."
-msgstr ""
+msgstr "瑞格罗克，埃仁撒伐盗贼公会会长。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1655
 msgid "Harper, Three Sisters outlaw."
-msgstr ""
+msgstr "哈珀，三姐妹群岛亡命徒。"
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1661
@@ -6399,6 +6512,8 @@ msgid ""
 "righteous execution of the following condemned criminals and rebel "
 "sympathizers:"
 msgstr ""
+"听啊！科纳德领主及其追随者须知晓，三周后将在维尔帝发生之事——即对下列被判有罪"
+"的罪犯与叛乱同情者进行公正而正义的处决："
 
 #. [message]: speaker=crier
 #. $message is a list of names and titles, generated depending on Konrad's actions. For example: "Maddock, Lord of Elensefar. Ethiliel, Lady of the Aethenwood. Delurin, Three Sisters outlaw. "
@@ -6406,7 +6521,7 @@ msgstr ""
 msgid ""
 "$message|And one thousand twenty-eight other rebel partisans from the "
 "western and northern reaches."
-msgstr ""
+msgstr "$message|以及来自西部和北部边远地区的一千零二十八名其他叛乱游击分子。"
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1670
@@ -6416,6 +6531,9 @@ msgid ""
 "righteous execution of one thousand twenty-eight condemned partisans and "
 "rebel sympathizers from the western and northern reaches."
 msgstr ""
+"听啊！科纳德领主及其追随者须知晓，三周后将在维尔帝发生之事——即对来自西部和北"
+"部边远地区的一千零二十八名被判有罪的游击分子与叛乱同情者进行公正而正义的处"
+"决。"
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1676
@@ -6423,6 +6541,8 @@ msgid ""
 "The Queen laments such a loss of life as regrettable, but necessary in Her "
 "Judgement to ensure the continued safety and stability of Her Kingdom."
 msgstr ""
+"女王陛下哀叹如此生命损失令人遗憾，但依其裁决，为确保王国长治久安，此乃必要之"
+"举。"
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1678
@@ -6430,11 +6550,13 @@ msgid ""
 "The Lord Konrad is warned to discontinue his campaign of terror and keep "
 "well away from Weldyn, lest the same tragic fate befall him as well."
 msgstr ""
+"科纳德领主亦受警告：停止其恐怖行动，远离维尔帝，以免同样的悲惨命运也降临于"
+"他。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1689
 msgid "A mass execution!? Sweet Haldric, all those people. We have to act!"
-msgstr ""
+msgstr "大规模处决！？仁慈的哈德里克啊，那么多人。我们必须行动！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1693
@@ -6442,11 +6564,12 @@ msgid ""
 "... but what did Asheviere hope to gain by telling us? Could she mean to "
 "catch us in some trap?"
 msgstr ""
+"……但艾什薇尔告诉我们这些，究竟想得到什么？她会不会是想诱我们落入什么陷阱？"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1697
 msgid "How naïve can you be? Of course it's a trap!"
-msgstr ""
+msgstr "你还能再天真到什么地步？这当然是个陷阱！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1701
@@ -6455,6 +6578,8 @@ msgid ""
 "where she and all her allies will be ready to catch us and crush us. We "
 "don’t even know if these people really have been captured."
 msgstr ""
+"我母亲清楚你的想法。她料定你会直奔维尔帝，而她和所有盟友都会在那里等着抓住我"
+"们、碾碎我们。我们甚至不知道这些人是否真的被抓了。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1705
@@ -6463,6 +6588,8 @@ msgid ""
 "she says and stay well away, while we continue whittling down her base of "
 "power."
 msgstr ""
+"我们该无视她的挑衅。最明智的做法就是如她所愿，离得远远的，同时继续逐步削弱她"
+"的权力根基。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1709
@@ -6471,6 +6598,8 @@ msgid ""
 "oppose the dark queen. Even ignoring our morals, what message would such an "
 "act send? Who would still support us after such a display?"
 msgstr ""
+"这些被判罪的人是我的朋友和盟友；是冒着一切风险反抗黑暗女王的反抗军。即便抛开"
+"道义不谈，坐视不理又会传递出什么信息？若我们如此表现，还有谁会继续支持我们？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1713
@@ -6478,6 +6607,8 @@ msgid ""
 "If we are to rule Wesnoth, we must prove ourselves better than Asheviere, "
 "not equal. We must defeat her before she can carry out her executions."
 msgstr ""
+"若我们要统治韦诺，就必须证明自己比艾什薇尔更优秀，而非与她同等。我们必须赶在"
+"她执行处决之前击败她。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1717
@@ -6485,13 +6616,13 @@ msgid ""
 "Konrad speaks wisdom. Risky though it may be, we should march at once to "
 "Weldyn. There is no time to spare."
 msgstr ""
+"科纳德所言明智。尽管此行或有风险，我们仍应立即向维尔帝进军。没有时间可以浪费"
+"了。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1721
-#, fuzzy
-#| msgid "Very well. We will fight you."
 msgid "Very well. This is it, then."
-msgstr "很好。我们将与你们作战。"
+msgstr "很好。那么，就是现在了。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1745
@@ -6499,6 +6630,7 @@ msgid ""
 "Asheviere has left us no time to stop and fight. We must reach Weldyn before "
 "she can carry out her executions."
 msgstr ""
+"艾什薇尔没给我们留下停下来交战的时间。我们必须赶在她执行处决之前抵达维尔帝。"
 
 #. [scenario]: id=01_The_Elves_Besieged
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:14
@@ -6514,34 +6646,26 @@ msgid ""
 "this is your first time playing Heir to the Throne, you may want to try a "
 "lower difficulty."
 msgstr ""
+"注意：“极难”难度是为已经熟知本战役诸多秘密的玩家准备的，旨在提供一种令人胆寒"
+"的艰难挑战。如果你是第一次玩《王座继承人》，不妨先试试更低的难度。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:43
-#, fuzzy
-#| msgid ""
-#| "In the twenty-eighth year of the reign of Garard II, King of Wesnoth, the "
-#| "kingdom was plunged into a bitter war with the Orcs of the North."
 msgid ""
 "In the twenty-eighth year of the reign of Garard II, King of Wesnoth, the "
 "kingdom made bitter war against the Orcs of the North."
-msgstr ""
-"在韦诺之王伽拉德二世统治的第二十八个年头，王国陷入了与北方兽人的苦战之中。"
+msgstr "在韦诺之王伽拉德二世统治的第二十八个年头，王国与北方兽人展开了苦战。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:47
-#, fuzzy
-#| msgid ""
-#| "The Northern host encamped at Galcadar, by the Ford of Abez, and the King "
-#| "led his forces to meet them. Splitting his army in two, he led one half "
-#| "while his son, the Crown Prince Eldred, led the other."
 msgid ""
 "The Northern host encamped at Galcadar, by the Ford of Abez, and the King "
 "led his forces to meet them. Years of war brought Wesnoth to the brink of "
 "ruin, but at long last victory was won through the actions of Garard’s arch-"
 "mage, Delfador."
 msgstr ""
-"北方部落在雅碧滩旁的伽尔卡达扎营。国王领军前去迎战。他兵分两路，自己指挥一半"
-"军队，而他的儿子，太子埃雷德，则指挥另一半。"
+"北方部落在雅碧滩旁的伽尔卡达扎营，国王领军前去迎战。多年战火使韦诺濒临覆灭，"
+"但最终，凭借伽拉德的大法师德法多之力，胜利终于降临。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:51
@@ -6551,6 +6675,9 @@ msgid ""
 "grown into a wise ruler. Unfortunately for Garard, his son was also "
 "ambitious... and treacherous."
 msgstr ""
+"伽拉德之子、王储埃雷德，也加入了国王庆祝胜利的狂欢。埃雷德聪慧而志向远大，或"
+"许有朝一日能成长为一位贤明的君主。可惜对伽拉德而言，他的儿子同样野心勃勃……而"
+"且阴险狡诈。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:55
@@ -6559,69 +6686,48 @@ msgid ""
 "blood. Seizing the crown for himself, the young prince led his father’s army "
 "south towards Weldyn."
 msgstr ""
+"在伽拉德凯旋的巅峰时刻，埃雷德冷血地弑杀了年迈的国王。年轻的王子夺过王冠，率"
+"领父亲的军队南下维尔帝。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:59
-#, fuzzy
-#| msgid ""
-#| "Garard’s queen, Asheviere, looked on with glee, having come to watch the "
-#| "battle from a nearby hill. The rule of her son would surely satisfy her "
-#| "lust for power far better than her husband’s had."
 msgid ""
 "Garard’s queen, Asheviere, looked on with glee, having orchestrated much of "
 "her son’s treachery. The rule of Eldred would surely satisfy her lust for "
 "power far better than her husband’s had."
 msgstr ""
-"伽拉德的王后，艾什薇尔，本是来到附近小山上旁观这场战斗的，她欣喜地注视着所发"
-"生的一切。她的儿子的统治必能更好地满足她对权力的贪欲，在这一点上远远胜过自己"
-"的丈夫。"
+"伽拉德的王后艾什薇尔在一旁幸灾乐祸——她儿子的背叛，多半是她一手促成。埃雷德的"
+"统治，必能更好地满足她对权力的贪欲，在这一点上远远胜过自己的丈夫。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:63
-#, fuzzy
-#| msgid ""
-#| "But Garard’s arch-mage, Delfador, had escaped the battle and, riding with "
-#| "haste, reached Weldyn first. He mustered a force of loyalists to fight "
-#| "Eldred and avenge the King’s death. The loyalist army marched north to "
-#| "meet Eldred."
 msgid ""
 "But Delfador the arch-mage had not fallen alongside his king. Returning from "
 "a distant battle, he mustered a force of loyalists to fight the young prince "
 "and avenge the King’s death. The loyalist army marched south to meet Eldred."
 msgstr ""
-"但伽拉德的大法师，德法多，从战斗中逃了出来，快马加鞭抢先一步到达了维尔帝。他"
-"召集了一支忠诚的军队与埃雷德作战，为国王之死复仇。忠诚派军队向北行军，迎战埃"
-"雷德。"
+"但大法师德法多并未与他的国王一同倒下。他从远方战场归来，召集起一支忠诚的军队"
+"与年轻王子作战，为国王之死复仇。忠诚派军队南下，迎战埃雷德。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:67
-#, fuzzy
-#| msgid ""
-#| "Eldred made war upon Delfador and his forces with his mother’s advice "
-#| "ringing in his ears: <i>“Fight no one great or small except the old mage, "
-#| "whose head should be severed from his shoulders.”</i>"
 msgid ""
 "Eldred made war upon the loyalists with his mother’s advice ringing in his "
 "ears: <i>“Fight no one great or small except the old mage, whose head should "
 "be severed from his shoulders.”</i>"
 msgstr ""
-"埃雷德向德法多和他的军队宣战。他母亲的忠告回绕在他的耳际：<b>“除了那个老法师"
-"之外，不要与任何人作战。一定要让他人头落地。”</b>"
+"埃雷德向忠诚派军队开战，他母亲的忠告回绕在他的耳际：<b>“除了那个老法师之外，"
+"不要与任何人作战。一定要让他人头落地。”</b>"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:71
-#, fuzzy
-#| msgid ""
-#| "And Eldred did indeed meet Delfador face-to-face in battle, in the "
-#| "hinterlands near Tath. Sword clashed against staff, as the wise old mage "
-#| "fought the brash young warrior."
 msgid ""
 "And Eldred did indeed meet Delfador face-to-face in battle, along the high "
 "road to Weldyn. Sword clashed against staff, as the wise old mage fought the "
 "brash young warrior."
 msgstr ""
-"在塔斯附近的海岸上，埃雷德也确实与德法多在战斗中面对面了。宝剑与法杖碰撞在了"
-"一起，智慧的年老法师大战莽撞的年轻武士。"
+"在通往维尔帝的大道上，埃雷德也确实与德法多在战斗中面对面了。宝剑与法杖碰撞在"
+"了一起，智慧的年老法师大战莽撞的年轻武士。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:75
@@ -6634,12 +6740,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:79
-#, fuzzy
-#| msgid ""
-#| "Asheviere herself then took command of the army and led it back to "
-#| "Weldyn. Knowing that the King’s young nephews were next in line to the "
-#| "throne, she ordered them all killed, and declared herself Queen of "
-#| "Wesnoth."
 msgid ""
 "Asheviere herself then took command of the army and led it back to Weldyn. "
 "Knowing that the King’s young nephews were next in line to the throne, she "
@@ -6647,7 +6747,8 @@ msgid ""
 "any lord bold enough to oppose her."
 msgstr ""
 "于是，艾什薇尔自己接管了军队的指挥权并领军回到了维尔帝。她知道国王的年轻侄子"
-"们是下一顺位的王位继承人，便下令把他们全杀了，并宣布自己为韦诺的女王。"
+"们是下一顺位的王位继承人，便下令把他们全杀了，并宣布自己为韦诺的女王；凡有胆"
+"敢反对她的领主，都被她铲除。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:83
@@ -6672,13 +6773,13 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:151
 msgid "10 gold"
-msgstr ""
+msgstr "10 金币"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:151
 msgid ""
 "A little gold for use in magical experiments. I’m sure it won’t be missed."
-msgstr ""
+msgstr "一点金币，正好用来做魔法实验。我敢说没人会发现少了它。"
 
 #. [message]: speaker=narrator
 #. this is Delfador trying to wake up a sleeping Konrad, as heard from Konrad's perspective
@@ -6690,7 +6791,7 @@ msgstr "科纳德！"
 #. this is Delfador trying to wake up a sleeping Konrad, as heard from Konrad's perspective
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:206
 msgid "Konrad, wake up!"
-msgstr ""
+msgstr "科纳德，醒醒！"
 
 #. [message]: speaker=Konrad
 #. the "dream" Konrad refers to is the intro storytext. This is a justification for the artwork (especially Delfador's age) not matching the characters' appearances.
@@ -6699,13 +6800,15 @@ msgid ""
 "<i>(yawn)</i> What a vivid dream. Asheviere and Eldred, Delfador and Garard, "
 "just like in the histories..."
 msgstr ""
+"<b>（哈欠）</b>好逼真的梦。艾什薇尔和埃雷德，德法多和伽拉德，就跟史书里写的一"
+"样……"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:231
 msgid ""
 "Wake up, wake up, wake up! Curse you Konrad, get up and get out here! We’re "
 "under attack!"
-msgstr ""
+msgstr "醒醒，醒醒，快醒醒！该死的科纳德，快起来到外面来！我们遭到攻击了！"
 
 #. [message]: speaker=Konrad
 #. Konrad has heard Delfador calling him but is not concerned. In the past, Delfador has often surprised Konrad with training. In reality, there's a real battle beginning
@@ -6714,12 +6817,14 @@ msgid ""
 "I’m up, I’m up. What’s the “attack” today, Delfador? Orcs in the walls? Magi "
 "under my bedsheets?"
 msgstr ""
+"我起了，我起了。德法多，今天的“攻击”又是什么？墙里冒出兽人？还是我床单底下藏"
+"着法师？"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:253
 msgid ""
 "No, you daft child, nothing like that! Grab your sword and come outside!"
-msgstr ""
+msgstr "不是，你这傻孩子，根本不是那样！快拿上你的剑，到外面来！"
 
 #. [message]: speaker=Konrad
 #. the intent of this is to show that 1) Konrad trains regularly with Delfador and 2) Konrad is living with and on friendly terms with elves, particulary Ethiliel
@@ -6728,11 +6833,13 @@ msgid ""
 "Well, I’d better do as he says. Last time I missed battle training, Ethiliel "
 "made me spend all week transcribing her poetry. <i>(shudder)</i>"
 msgstr ""
+"好吧，我最好还是照他说的做。上次我错过战斗训练，艾茜莉尔让我整整一周都在抄写"
+"她的诗。<b>（寒战）</b>"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:303
 msgid "Explore your home"
-msgstr ""
+msgstr "探索你的家"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:307
@@ -6743,7 +6850,7 @@ msgstr "遇见德法多"
 #. the player has moved Konrad to his bed
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:338
 msgid "No time to rest! Got to train hard if I ever want to be a good king."
-msgstr ""
+msgstr "没时间休息！要想当个好国王，就得刻苦训练。"
 
 #. [message]: speaker=Konrad
 #. the player has moved Konrad near a writing desk. This foreshadows Asheviere's large-scale invasion
@@ -6753,6 +6860,8 @@ msgid ""
 "missive finds you well. Lord Maddock’s latest report is worrying: the recent "
 "mobilization suggests...</i>”"
 msgstr ""
+"看来德法多写了一封信，才写了一半。“<b>凯兰爵士，愿此信送达时您一切安好。马多"
+"克领主最新的报告令人担忧：近期的动员表明……</b>”"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:358
@@ -6906,15 +7015,11 @@ msgstr ""
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1183
-#, fuzzy
-#| msgid ""
-#| "We will fight them, but you must escape, Konrad. It is imperative that "
-#| "you escape!"
 msgid ""
 "Asheviere is all of our enemy. We will fight the invaders, but you must "
 "escape, Konrad. Lord Kalenz has commanded your safety. It is imperative that "
 "you escape!"
-msgstr "我们会和他们战斗，但你必须逃出去，科纳德。这是命令，逃出去！"
+msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1187
@@ -7081,11 +7186,8 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1519
-#, fuzzy
-#| msgid ""
-#| "Oh, no! We have run out of time, they have arrived with reinforcements..."
 msgid "We have run out of time! There can be no more escape..."
-msgstr "哦，不！我们没有时间了！敌人的增援来了……"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:192
@@ -7471,10 +7573,8 @@ msgstr ""
 #. if Kaylan is protected, Konrad will learn to recruit Cavalrymen and Horsemen
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:340
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:348
-#, fuzzy
-#| msgid "Konrad can now recruit Cavalrymen and Horsemen!"
 msgid "Protect Sir Kaylan: recruit Cavalrymen and Horsemen"
-msgstr "科纳德现在可以征募骑兵和骑师了！"
+msgstr "保护凯兰爵士：征募骑兵和骑师"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:361
@@ -7529,10 +7629,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:407
-#, fuzzy
-#| msgid "Robryn"
 msgid "Gaebryn"
-msgstr "罗伯林"
+msgstr ""
 
 #. [message]: speaker=Vygwyn
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:411
