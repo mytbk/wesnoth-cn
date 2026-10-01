@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-01 16:52+0800\n"
+"PO-Revision-Date: 2026-10-01 23:45+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -11170,19 +11170,19 @@ msgstr "击败巴尔林"
 msgid ""
 "You’d think these gryphons would show a little more gratitude, instead of "
 "trying to kill us..."
-msgstr ""
+msgstr "你本以为这些狮鹫多少会有点感恩之心，而不是想杀了我们……"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:483
 msgid ""
 "Ah, humbug. Now the queen’ll ne’er get her gryphons... an’ I’ll ne’er get my "
 "gold..."
-msgstr ""
+msgstr "唉，真晦气。现在女王再也拿不到她的狮鹫了……俺也再也拿不到俺的金子了……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:490
 msgid "Even on his deathbed, money is all he cares about."
-msgstr ""
+msgstr "就算快死了，他满脑子还是钱。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:498
@@ -11198,7 +11198,7 @@ msgstr ""
 msgid ""
 "Argh, this is takin’ too long. I’d better send a messenger to Dan’Tonk an’ "
 "call for help."
-msgstr ""
+msgstr "呃啊，这拖得也太久了。俺得派个信使去丹·冬克求援。"
 
 #. [message]: role=messenger
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:533
@@ -11206,6 +11206,8 @@ msgid ""
 "Ah’m back, Burlin! An’ I’ve brought a whole army with me — th’ queen’s "
 "pretty excited to finally capture the rebel prince!"
 msgstr ""
+"俺回来啦，巴尔林！俺还带了一整支军队来——女王可兴奋坏了，终于能抓住那个叛军王"
+"子了！"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:7
@@ -11217,7 +11219,7 @@ msgstr "亡魂谷"
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:37
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:100
 msgid "Warrior Monks"
-msgstr ""
+msgstr "武僧"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:233
@@ -11226,6 +11228,8 @@ msgid ""
 "find aid. You must return with us to help our home, else all may soon be "
 "lost!"
 msgstr ""
+"向你们致意，陌生人！封印正在失效，资深修女派我们外出寻求援助。你们必须随我们"
+"回去帮助我们的家园，否则一切可能很快就会失去！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:237
@@ -11233,6 +11237,7 @@ msgid ""
 "Don’t worry, warrior, we’ve already been to your home and fought to restore "
 "the seals! Your people are safe."
 msgstr ""
+"别担心，战士，我们已经去过你的家园，并为修复封印而战！你的同胞们安全了。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:241
@@ -11241,12 +11246,14 @@ msgid ""
 "us in battle against these undead stragglers, and my warriors and I shall be "
 "glad to join you."
 msgstr ""
+"这是真的吗？真是喜讯！年轻人，我对你感激不尽。助我们击败这些亡灵散兵，我和我"
+"的战士们将乐于加入你们。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:247
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:281
 msgid "Hail, strangers! How have these undead come to trouble you?"
-msgstr ""
+msgstr "向你们致意，陌生人！这些亡灵怎么会来侵扰你们？"
 
 #. [message]: speaker=Moremirmu
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy infantry) of Moremirmu's order
@@ -11256,6 +11263,8 @@ msgid ""
 "again lay eyes upon a fellow brother of the faith. But what are undead doing "
 "so near to our hallowed home?"
 msgstr ""
+"陌生人？不，科纳德，他们是我的弟兄！凯洛尔，能再次见到同一信仰的弟兄，真是太"
+"好了。可亡灵为何会出现在我们神圣的家园附近？"
 
 #. [message]: speaker=Kaelor
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy infantry) of Kaleor's order
@@ -11264,6 +11273,8 @@ msgid ""
 "Grim tidings, brother Moremirmu! The seals are failing, and the sister "
 "senior sent us to cut through these restless dead and find aid for our home!"
 msgstr ""
+"噩耗，莫密尔姆弟兄！封印正在失效，资深修女派我们杀穿这些躁动不安的亡者，为我"
+"们的家园寻求援助！"
 
 #. [message]: speaker=Moremirmu
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy infantry) of Moremirmu's order
@@ -11273,11 +11284,13 @@ msgid ""
 "brother. Yet now have I returned — and with me comes a lost prince and his "
 "warriors most righteous, ready to aid you!"
 msgstr ""
+"封印？以光明之名！弟兄，我离家实在太久了。如今我终于归来——随我而来的还有一位"
+"失落的王子和他最为正义的战士们，他们已准备好援助你们！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:267
 msgid "I don’t understand. Moremirmu, what’s going on?"
-msgstr ""
+msgstr "我不明白。莫密尔姆，这是怎么回事？"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:271
@@ -11287,6 +11300,9 @@ msgid ""
 "my home, yet Kaelor reports that it is weakening. Undead have begun to slip "
 "through."
 msgstr ""
+"科纳德，他们是光明的同道仆从。他们来自我的家乡——一座向北数日路程的修道院。有"
+"一股强大的魔法保护着我的家乡，但凯洛尔报告说它正在减弱。亡灵已经开始渗透进"
+"来。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:275
@@ -11294,6 +11310,8 @@ msgid ""
 "We must fight through these undead and go at once to their aid, for without "
 "our help they may soon lose all!"
 msgstr ""
+"我们必须杀穿这些亡灵，立刻前去援助他们，因为没有我们的帮助，他们可能很快就会"
+"失去一切！"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:285
@@ -11302,13 +11320,15 @@ msgid ""
 "sister senior sent us to cut through these restless dead and find aid for "
 "our home! But who are you to ask, stranger of the south?"
 msgstr ""
+"不，是我们来麻烦他们才对！封印正在失效，资深修女派我们杀穿这些躁动不安的亡"
+"者，为我们的家园寻求援助！可你又是谁，南方的陌生人？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:289
 msgid ""
 "Well met. I am Konrad. But I don’t understand — you said you’re looking for "
 "help?"
-msgstr ""
+msgstr "幸会。我是科纳德。但我不明白——你说你们在寻求援助？"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:293
@@ -11316,6 +11336,8 @@ msgid ""
 "Indeed. I come from a monastery, some days travel northwards. A powerful "
 "magic that once protected my home has weakened, and I was sent to seek aid."
 msgstr ""
+"不错。我来自一座修道院，向北数日路程。曾保护我家乡的强大魔法已经减弱，我被派"
+"出来寻求援助。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:297
@@ -11324,6 +11346,8 @@ msgid ""
 "alongside me to vanquish these undead now, then return with us north and "
 "help our home. Otherwise, all shall soon be lost!"
 msgstr ""
+"但若你们侍奉光明而非黑暗，那么你们就是那援助！现在与我并肩作战，消灭这些亡"
+"灵，然后随我们北返，帮助我们的家园。否则，一切很快就会失去！"
 
 #. [objective]: condition=win
 #. [objective]: description=<span strikethrough='true' color='#A9A9A9'>, condition=win
@@ -11331,12 +11355,12 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:313
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:321
 msgid "Protect Kaelor: recruit Heavy Infantrymen"
-msgstr ""
+msgstr "保护凯洛尔：征募重装步兵"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:349
 msgid "Kaelor, who are you people? How did all these undead come to be here?"
-msgstr ""
+msgstr "凯洛尔，你们究竟是什么人？这些亡灵怎么会出现在这里？"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:353
@@ -11344,6 +11368,8 @@ msgid ""
 "The hills to the north — now the home of my order — were once a wholly "
 "accursed place, blighted by necromancy and consumed by darkness."
 msgstr ""
+"北方的丘陵——如今是我修会的家园——曾是一片彻底受诅咒之地，被死灵法术腐化，被黑"
+"暗吞噬。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:357
@@ -11353,6 +11379,9 @@ msgid ""
 "are stragglers of Ras-Tabahn’s. We only know that centuries ago, the crown "
 "used the ruby to seal them underground with powerful magic."
 msgstr ""
+"我们不知那邪恶从何而来。有人认为这些死灵法师是从西方入侵后幸存的巫妖领主；另"
+"一些人相信他们是拉斯-塔班的残部。我们只知道，数百年前，王室曾用红宝石以强大魔"
+"法将他们封印在地下。"
 
 #. [message]: speaker=$speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:361
@@ -11361,6 +11390,8 @@ msgid ""
 "to cleanse this place of evil. We built our monastery here to ensure that "
 "the darkness never escapes."
 msgstr ""
+"我们修会的男女成员，身为光明的仆从，以净化此地邪恶为己任。我们在此修建修道"
+"院，以确保黑暗永不逃脱。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:365
@@ -11368,11 +11399,13 @@ msgid ""
 "But it has been decades since the Crown sent to us men or supplies, and the "
 "power of our order has waned. Now the seals are beginning to fail..."
 msgstr ""
+"但王室已有数十年未向我们派遣人手或补给，本修会的力量也已衰微。如今，封印已开"
+"始崩坏……"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:380
 msgid "My light fades..."
-msgstr ""
+msgstr "我的光芒消逝了……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:384
@@ -11380,6 +11413,7 @@ msgid ""
 "Those armored warriors would surely have been of great help in our fight for "
 "the crown. If only we could have protected them..."
 msgstr ""
+"那些披甲武士本会在我们争夺王位时提供极大助力。要是我们能保护好他们就好了……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:408
@@ -11387,6 +11421,8 @@ msgid ""
 "This ruined skeleton bears a curious amulet. Magical, perhaps? There is an "
 "inscription explaining its function..."
 msgstr ""
+"这具残破的骷髅佩戴着一枚奇特的护身符。也许是魔法物品？上面有一段铭文说明了它"
+"的用途……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:420
@@ -11395,6 +11431,8 @@ msgid ""
 "have been a craftsman of legendary skill. Fortune has smiled upon us today — "
 "I will take this artifact for myself."
 msgstr ""
+"真奇怪。死后，这具骷髅成了傀儡。但生前，他或她必定是位拥有传奇技艺的工匠。今"
+"日命运眷顾了我们——这件宝物我就收下了。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:439
@@ -11403,6 +11441,8 @@ msgid ""
 "already rescued, there is nothing to prevent my brothers and I from joining "
 "you on your quest, Konrad."
 msgstr ""
+"看哪，我们得胜了！既然封印已然复原，家园也已得救，再没有什么能阻止我和弟兄们"
+"加入你的征程，科纳德。"
 
 #. [message]: speaker=Kaelor
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy infantry) of Kaleor's order
@@ -11412,6 +11452,8 @@ msgid ""
 "good warrior. My brothers and I would be honored to continue fighting by "
 "your side."
 msgstr ""
+"看哪！善良的战士，我们对黑暗势力赢得了辉煌的胜利。我和弟兄们将深感荣幸，能继"
+"续在你身旁战斗。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:449
@@ -11420,6 +11462,8 @@ msgid ""
 "stems from what lies to the north! I implore you, brave Konrad, travel north "
 "and rescue my home!"
 msgstr ""
+"然而这些许可憎之物不过是飞蛾，被源自北方的黑暗烈焰引来罢了！我恳求你，勇敢的"
+"科纳德，北上拯救我的家园！"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:454
@@ -11433,13 +11477,15 @@ msgid ""
 "slain, we have lost the opportunity to gain a new ally in our fight for the "
 "crown."
 msgstr ""
+"亡灵已被击败！然而武僧首领已遭杀害，我们在争夺王位之战中失去了赢得新盟友的机"
+"会。"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:484
 msgid ""
 "Make haste, Konrad! Should we tarry too long, the seals shall surely break "
 "and our home shall surely be destroyed!"
-msgstr ""
+msgstr "快，科纳德！若我们耽搁太久，封印必将崩裂，我们的家园必将毁灭！"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:495
@@ -11447,6 +11493,8 @@ msgid ""
 "Alas, we have tarried too long. Even should we yet win the battle today, "
 "surely the seals have already broken, destroying our home...."
 msgstr ""
+"唉，我们耽搁太久了。即便今日我们仍能赢得此战，封印也必已破碎，我们的家园已然"
+"毁灭……"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:20
@@ -11466,17 +11514,17 @@ msgstr "希尔达-玛纳"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:129
 msgid "Sister Kenara"
-msgstr ""
+msgstr "凯娜拉修女"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:131
 msgid "Brother Vinrar"
-msgstr ""
+msgstr "文拉尔修士"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:132
 msgid "Sister Miryan"
-msgstr ""
+msgstr "米尔扬修女"
 
 #. [message]: speaker=$speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:176
@@ -11484,18 +11532,19 @@ msgid ""
 "Lo and behold, Konrad: my home! At last I return... but we are too late! "
 "Undead! The seal has already broken!"
 msgstr ""
+"看哪，科纳德：我的家！我终于回来了……可我们来得太迟了！亡灵！封印已经破裂了！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:182
 msgid ""
 "Lo and behold, Konrad! Fate has brought us to my home; the monastery of my "
 "order."
-msgstr ""
+msgstr "看哪，科纳德！命运将我们带到了我的家——我所属教团的修道院。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:186
 msgid "... but what calamity is this? Undead! The sacred seal has broken!"
-msgstr ""
+msgstr "……可这是何等灾祸？亡灵！神圣的封印已经破裂了！"
 
 #. [message]: speaker=Myrilell
 #. "Brother" is not literal. Rather, the speaker and the "brother" are both members of a monastic society
@@ -11504,6 +11553,8 @@ msgid ""
 "Brother, you return to us! And with aid from the outside! Yet your arrival "
 "is but a silver lining, too little too late, for our strength has failed."
 msgstr ""
+"修士，你回到我们身边了！而且还带来了外界的援助！可你的到来不过是一线希望，杯"
+"水车薪，为时已晚，因为我们的力量已经衰竭。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:210
@@ -11512,6 +11563,8 @@ msgid ""
 "outside... Yet your arrival is but a silver lining, too little too late, for "
 "our strength has failed."
 msgstr ""
+"陌生人，我们欢迎你来到我们的家园！我们久候外界的援助……可你的到来不过是一线希"
+"望，杯水车薪，为时已晚，因为我们的力量已经衰竭。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:215
@@ -11520,6 +11573,8 @@ msgid ""
 "things sprung from the deepest nightmares of humanity. With the spell broken "
 "that once sealed them below, the undead emerge to destroy us all!"
 msgstr ""
+"黑暗魔法从地下深处涌出，赋予那些诞生自人类最深处噩梦的存在以可怖的不死之身。"
+"曾将它们封印于地下的咒语已经破碎，亡灵涌出，要将我们所有人毁灭！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:227
@@ -11528,13 +11583,15 @@ msgid ""
 "heir to the throne of Wesnoth. If there are undead here then it is my duty "
 "to help you stop them."
 msgstr ""
+"别放弃希望！你们派凯洛尔去求援，而他找到了我——科纳德，韦诺王座的继承人。如果"
+"这里有亡灵，那我就有责任帮你们阻止它们。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:231
 msgid ""
 "You say there was once a spell that sealed these dead underground. Can you "
 "cast it again?"
-msgstr ""
+msgstr "你说曾有一道咒语将这些亡者封印在地下。你们能再施一次吗？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:236
@@ -11542,6 +11599,8 @@ msgid ""
 "Don’t give up hope! I am Konrad, heir to the throne of Wesnoth, and if there "
 "are undead here then it is my duty to help you stop them."
 msgstr ""
+"别放弃希望！我是科纳德，韦诺王座的继承人，如果这里有亡灵，那我就有责任帮你们"
+"阻止它们。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:240
@@ -11549,6 +11608,7 @@ msgid ""
 "But what is this place? You say there was once a spell that sealed these "
 "dead underground. Can you cast it again?"
 msgstr ""
+"但这是什么地方？你说曾有一道咒语将这些亡者封印在地下。你们能再施一次吗？"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:245
@@ -11556,13 +11616,15 @@ msgid ""
 "Without the ruby? No. There are none alive today, save perhaps the great "
 "Delfador, with the might to again from-naught weave such a seal."
 msgstr ""
+"没有红宝石？不行。如今世上还活着的，或许只有伟大的德法多，才有力量再次从无到"
+"有编织出这样的封印。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:247
 msgid ""
 "But the pieces of our shattered spell still linger. With time, it could be "
 "repaired."
-msgstr ""
+msgstr "但我们那破碎咒语的残片仍留存于世。假以时日，它或许能够被修复。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:251
@@ -11571,18 +11633,20 @@ msgid ""
 "horrors of the undead crashing down upon our humble home, and many perished. "
 "Light save them."
 msgstr ""
+"我们此前尝试过，几乎招致毁灭。那次尝试让亡灵的全部恐怖降临在我们简陋的家园"
+"上，许多人因此丧命。愿光明拯救他们。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:255
 msgid ""
 "I understand — alone, you could not defend yourself. But now I am here. I "
 "will help you."
-msgstr ""
+msgstr "我明白——仅凭你们自己，无法守住此地。但现在我在这里。我会帮助你们。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:263
 msgid "You are a blessing, Konrad. With your help, perhaps it is possible."
-msgstr ""
+msgstr "你是上天赐福，科纳德。有你的帮助，或许此事仍有可能。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:294
@@ -11590,6 +11654,8 @@ msgid ""
 "There are only four of us left who have the power to repair the seal. The "
 "rest of us — the novices — I entrust into your command."
 msgstr ""
+"如今我们之中只剩四人还有力量修复封印。其余的人——那些见习者——我就交给你指挥"
+"了。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:298
@@ -11598,6 +11664,8 @@ msgid ""
 "time our ritual shall complete, and the seal shall be repaired, trapping the "
 "undead back underground."
 msgstr ""
+"我和前辈们施法时，请守住我们的修道院。四十八小时后，我们的仪式将完成，封印将"
+"被修复，把亡灵重新困回地下。"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:314
@@ -11612,12 +11680,12 @@ msgstr "科纳德现在可以征募法师，并（只能）将他们升级为白
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:356
 msgid "Death of Myrilell or Kenara"
-msgstr ""
+msgstr "米瑞莱尔或凯娜拉死亡"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:365
 msgid "Your allies will not move, but can attack adjacent enemies."
-msgstr ""
+msgstr "你的盟友不会移动，但可以攻击相邻的敌人。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:379
@@ -11626,6 +11694,8 @@ msgid ""
 "mentor? What of Brother Percy, keeper of the ancient texts? They should have "
 "stopped this."
 msgstr ""
+"米瑞莱尔，我们的魔法怎会衰弱至此？我的导师特里丝蒂亚修女在哪里？古老典籍的守"
+"护者珀西修士呢？他们本该阻止这一切的。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:383
@@ -11633,32 +11703,34 @@ msgid ""
 "Dead, both. Fallen to the swelling tide of undead. You have been sorely "
 "missed, Moremirmu, away on your quest to spread light across the wider world."
 msgstr ""
+"都死了，两个都是。他们殒命于不断高涨的亡灵狂潮。莫密尔姆，你远行在外，去将光"
+"明播撒到更广阔的世界，我们实在非常想念你。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:387
 msgid "Dead!? So many dead."
-msgstr ""
+msgstr "死了！？死了这么多人。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:393
 msgid ""
 "The seal shattered, my home imperiled, my friends slain. This is the work of "
 "a dozen lifetimes undone."
-msgstr ""
+msgstr "封印破碎，家园危在旦夕，友人惨遭杀害。这是十几代人的心血毁于一旦。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:397
 msgid ""
 "Konrad, I am overcome by grief. I am brought to tears. The very foundation "
 "of my faith is shaken."
-msgstr ""
+msgstr "科纳德，我悲痛难抑，泪流不止。我信仰的根基也已动摇。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:405
 msgid ""
 "I am sorry. I cannot battle today. I must meditate, and ponder on my "
 "emotions."
-msgstr ""
+msgstr "抱歉，我今日无法作战。我必须静修冥想，审视自己的情感。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:409
@@ -11666,6 +11738,8 @@ msgid ""
 "Ponder your emotions? Moremirmu, I know it’s a shock to see your home in "
 "crisis, but we’re about to fight a battle!"
 msgstr ""
+"审视自己的情感？莫密尔姆，我知道看到家园陷入危机让你深受打击，可我们马上就要"
+"打仗了！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:413
@@ -11673,17 +11747,18 @@ msgid ""
 "I am a warrior of the Light, Konrad. My Light cannot shine while there "
 "within me beats a heart touched by the Dark."
 msgstr ""
+"我是光之战士，科纳德。若我胸中跳动着一颗被黑暗触碰的心，我的光便无法闪耀。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:424
 msgid "He’s gone!"
-msgstr ""
+msgstr "他走了！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:439
 msgid ""
 "Myrilell, what is this place we now defend? How did you all come to be here?"
-msgstr ""
+msgstr "米瑞莱尔，我们现在守卫的是什么地方？你们大家怎么会来到这里？"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:443
@@ -11691,6 +11766,8 @@ msgid ""
 "These hills — now our home — were once a wholly accursed place, blighted by "
 "necromancy and consumed by darkness."
 msgstr ""
+"这些山丘——如今我们的家园——曾是一个彻底受诅咒的地方，被死灵法术腐化，被黑暗吞"
+"噬。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:447
@@ -11700,6 +11777,9 @@ msgid ""
 "are stragglers of Ras-Tabahn’s. We only know that centuries ago, the crown "
 "sealed them underground with powerful magic."
 msgstr ""
+"我们不知那邪恶从何而来。有人认为这些死灵法师是巫妖领主，是从西方入侵的幸存"
+"者；另一些人相信他们是拉斯-塔班的残部。我们只知道，数百年前，王室以强大的魔法"
+"将他们封印在地下。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:451
@@ -11708,6 +11788,8 @@ msgid ""
 "to cleanse this place of evil. We built our monastery here to ensure that "
 "the darkness never escapes."
 msgstr ""
+"我们修会的男女成员，身为光明的仆从，以净化此地邪恶为己任。我们在此修建修道"
+"院，以确保黑暗永不逃脱。"
 
 #. [message]: speaker=Vinrar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:455
@@ -11715,11 +11797,13 @@ msgid ""
 "But it’s been decades since the Crown last sent to us men or supplies, and "
 "the power of our order has waned. And now even the seal has fallen..."
 msgstr ""
+"但自从王室上次给我们送来人手或补给，已经过去数十年，我们教团的力量也已衰退。"
+"如今，就连封印也已崩溃……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:467
 msgid "Look out! They’re preparing another assault."
-msgstr ""
+msgstr "小心！他们又在准备进攻了。"
 
 #. [message]: type=Lich
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:471
@@ -11728,6 +11812,8 @@ msgid ""
 "shall be thrown open and our followers shall flood across the land! You "
 "cannot stop the eternal life that we bring!"
 msgstr ""
+"我们被你们那该死的封印困住太久了！地下隧道将被打开，我们的追随者将如潮水般席"
+"卷大地！你们无法阻止我们带来的永生！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:475
@@ -11735,13 +11821,15 @@ msgid ""
 "Eternal life is no blessing, lich, but a curse. I have tasted from the cup "
 "of which you offer, and we will not allow such poison to spread."
 msgstr ""
+"永生绝非祝福，巫妖，而是诅咒。你所献上的那杯，我已亲尝；我们绝不容许这等毒药"
+"蔓延。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:476
 msgid ""
 "For too long has the crown neglected this place. Now, the spirit of Garard "
 "comes to put things right."
-msgstr ""
+msgstr "王室忽视此地已经太久了。如今，伽拉德之灵前来拨乱反正。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:477
@@ -11749,6 +11837,8 @@ msgid ""
 "As tempting as the thought may be, I’ve heard more than a few stories of "
 "promising young magi tempted by necromancy. It never ends well."
 msgstr ""
+"这念头固然诱人，但我听过不止一两个前途无量的年轻法师受死灵法术诱惑的故事。那"
+"从来不会有好下场。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:478
@@ -11756,6 +11846,8 @@ msgid ""
 "As tempting as the thought may be, I’ve seen more than a few promising young "
 "magi tempted by necromancy. It never ends well."
 msgstr ""
+"这念头固然诱人，但我亲眼见过不止一个前途无量的年轻法师受死灵法术诱惑。那从来"
+"不会有好下场。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:479
@@ -11763,13 +11855,15 @@ msgid ""
 "Fancy talk comin’ from a stick-handed sixpenny skull, ye soused gurnet! Jus’ "
 "wait ’til ah stick my axe through one o’yer wrinklin’ ribs!"
 msgstr ""
+"漂亮话倒会讲，你个拿棍儿的六便士骷髅，腌醉的鲂鮄鱼！等俺一斧子劈穿你一根皱巴"
+"巴的肋骨再说！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:480
 msgid ""
 "You’re not the first lich we’ve fought. Want to hear what we did to the last "
 "one?"
-msgstr ""
+msgstr "你可不是我们打过的第一个巫妖。想听听我们是怎么收拾上一个的吗？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:482
@@ -11777,13 +11871,15 @@ msgid ""
 "Really, eternal life? I’d love to discuss some of my alchemical theories "
 "with you! ...wait, ah, no, you mean undeath, don’t you."
 msgstr ""
+"说真的，永生？我倒是很想和你讨论一下我的一些炼金术理论！……等等，啊，不，你指"
+"的是亡灵的不死状态，对吧。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:483
 msgid ""
 "Ya ya ya. Dosh heard dis all before. Always someone be thinkin’ dey know "
 "what’s best for everyone else."
-msgstr ""
+msgstr "呀呀呀。多什早听过这些啦。总有人觉得，自己晓得啥对别人最好。"
 
 #. [message]: speaker=Vinrar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:520
@@ -11793,7 +11889,7 @@ msgstr "终于，我见到光了…"
 #. [message]: speaker=Miryan
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:528
 msgid "Yield not one inch to the darkness..."
-msgstr ""
+msgstr "绝不向黑暗退让一寸……"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:540
@@ -11801,28 +11897,29 @@ msgid ""
 "This body is merely a puppet! You cannot stop us from enlightening your "
 "world to the bliss of eternal un-life!"
 msgstr ""
+"这具躯壳不过是个傀儡！你无法阻止我们让你们的世界领悟永恒不死生命的极乐！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:547
 msgid ""
 "Your fighting only delays the inevitable! There are more of us than you "
 "could ever imagine!"
-msgstr ""
+msgstr "你们的抵抗只是拖延必然的结局！我们的人数远比你所能想象的更多！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:551
 msgid "One fewer now."
-msgstr ""
+msgstr "现在少了一个。"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:570
 msgid "Lo! My faith has been tested! And lo! It has endured!"
-msgstr ""
+msgstr "看哪！我的信仰曾受试炼！而看哪！它已然坚立！"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:607
 msgid "In the crucible of the Light, evil shall be purged!"
-msgstr ""
+msgstr "在光明的熔炉中，邪恶必被涤净！"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:626
@@ -11833,28 +11930,33 @@ msgid ""
 "Smite: each time Moremirmu strikes a finishing blow, he will deal\n"
 "30 arcane damage to all adjacent enemies."
 msgstr ""
+"莫密尔姆归来了！他获得了 +2 伤害、+20 生命值，\n"
+"以及强大的“惩击”能力！\n"
+"\n"
+"惩击：每当莫密尔姆打出终结一击时，他都会\n"
+"对所有相邻敌人造成 30 点奥术伤害。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:651
 msgid "Nearly done, Konrad! Hold strong and we shall yet be victorious!"
-msgstr ""
+msgstr "就快完成了，科纳德！坚持住，我们仍会胜利！"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:659
 msgid "Light save us all! It is finished."
-msgstr ""
+msgstr "愿光明拯救我们所有人！完成了。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:689
 msgid "They’re gone!"
-msgstr ""
+msgstr "它们消失了！"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:695
 msgid ""
 "With the seal restored, the undead have once more been banished underground. "
 "We are in your debt, Your Highness."
-msgstr ""
+msgstr "封印已经恢复，亡灵再次被驱逐到地下。我们欠您一份恩情，殿下。"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:699
@@ -11864,18 +11966,21 @@ msgid ""
 "young mages, and the nascent Light that they nurture within. May they serve "
 "you well as you journey on to reclaim your throne."
 msgstr ""
+"我和诸位前辈必须留在这里，继续增强我们的魔法，并确保亡灵再也不会逃脱。但我把"
+"我们年轻的法师，以及他们内心孕育的初生之光，交托到你手中。愿他们在你继续前"
+"行、夺回王座之时，能为你效力。"
 
 #. [message]: id=Myrilell,Kenara
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:729
 msgid "No! Without her help, I have no hope of restoring the seal."
-msgstr ""
+msgstr "不！没有她的帮助，我毫无希望恢复封印。"
 
 #. [message]: id=Myrilell,Kenara
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:733
 msgid ""
 "The undead will continue to pour forth and pour forth, until we are all "
 "overwhelmed..."
-msgstr ""
+msgstr "亡灵会不断涌出，不断涌出，直到我们全都被吞没……"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:14
@@ -11885,21 +11990,22 @@ msgstr "交叉路口之战"
 #. [side]: type=Knight, id=knight
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:58
 msgid "Raery"
-msgstr ""
+msgstr "雷里"
 
 #. [message]: speaker=Lisar
 #. Lisar has prisoners, and is trying to lure Konrad into an ambush. The player has just decided to play this scenario.
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:206
 msgid ""
 "He’s taken the bait. Quick, get down into the mines and alert the others."
-msgstr ""
+msgstr "他上钩了。快，下到矿井里去，通知其他人。"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=knight
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:215
 msgid ""
 "What about the prisoners, m’lady? Shall we execute them before the imposter "
 "arrives?"
-msgstr ""
+msgstr "那些俘虏怎么办，殿下？要趁冒名顶替者到来之前处决他们吗？"
 
 #. [message]: speaker=Ulfdain
 #. Ulfdain throws lots of hard-to-understand old-fashioned insults at Li'sar. This is his usual way of speaking.
@@ -11909,6 +12015,8 @@ msgid ""
 "Jus’ gimme the chance an’ I’ll rip that head right off yer ninnyhammerin’ "
 "neck, ye white-livered gasser!"
 msgstr ""
+"你过来试试啊，你个黄肚皮、牛蹄子的蠢炮公主！只要给俺逮着机会，俺就把你那个榆"
+"木脑袋从脖子上拧下来，你个白肝儿的吹牛大王！"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:224
@@ -11917,18 +12025,20 @@ msgid ""
 "cold blood. But we do need to get the dwarves out of here — both for their "
 "own safety and to keep them out of the rebels’ hands."
 msgstr ""
+"虽然这个念头很诱人，雷里，但我可不会冷血杀害无辜者。不过我们确实得把矮人带离"
+"这里——既为了他们的安全，也为了不让他们落入叛军手中。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:234
 msgid "Too late, Konrad has come! Forget the prisoners and prepare for battle."
-msgstr ""
+msgstr "太迟了，科纳德来了！别管俘虏了，准备战斗。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:260
 msgid ""
 "I’ve come to face you, princess! Only a true villain would threaten "
 "innocents to force someone into a fight."
-msgstr ""
+msgstr "我来与你对决，公主！只有真正的恶棍才会威胁无辜者，逼别人开战。"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:264
@@ -11937,6 +12047,8 @@ msgid ""
 "“prince” — I will not allow you to sow any more discord and chaos among my "
 "people. Your rebellion ends here."
 msgstr ""
+"哦，得了吧，矮人从来就没有任何危险。倒是你，“王子”——我不会再让你在我的子民中"
+"散播不和与混乱。你的叛乱到此为止。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:272
@@ -11949,7 +12061,7 @@ msgstr "击败莉莎"
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:279
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:469
 msgid "Defeat Yrogin"
-msgstr ""
+msgstr "击败伊罗金"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:287
@@ -11960,12 +12072,12 @@ msgstr "救出乌尔夫戴恩"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:312
 msgid "Look! Someone approaches from the eastern road."
-msgstr ""
+msgstr "看！有人从东边的大路上过来了。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:314
 msgid "Yrogin"
-msgstr ""
+msgstr "伊罗金"
 
 #. [message]: speaker=Yrogin
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:319
@@ -11973,11 +12085,12 @@ msgid ""
 "Message from the queen, Your Highness! The boats are ready, but there is "
 "only a short window in which to act before Elensefar recovers."
 msgstr ""
+"女王传来消息，殿下！船只已备好，但趁埃仁撒伐恢复之前行动的时间窗口很短。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:323
 msgid "Poor timing; I’m a little busy at the moment..."
-msgstr ""
+msgstr "来得真不是时候；我这会儿正忙着呢……"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:327
@@ -11985,6 +12098,8 @@ msgid ""
 "Still, Elensefar is too important a prize to let slip. I cannot risk Maddock "
 "regaining his footing before we have a chance to deal the finishing blow."
 msgstr ""
+"不过，埃仁撒伐这战利品太重要了，不能白白放过。我不能冒险让马多克在我们有机会"
+"发动致命一击之前重新站稳脚跟。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:331
@@ -11992,11 +12107,13 @@ msgid ""
 "I’ll depart immediately. Yrogin, you assume command here. It shouldn’t take "
 "much to defeat this con-man now that we’ve lured him into battle."
 msgstr ""
+"我立刻出发。伊罗金，这里由你接管指挥。既然我们已经把他诱入战场，击败这个骗子"
+"应该费不了多少功夫。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:436
 msgid "For Her Highness! Kill the imposter!"
-msgstr ""
+msgstr "为了公主殿下！杀了冒名顶替者！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:439
@@ -12004,13 +12121,15 @@ msgid ""
 "Caution, Konrad! These hills are full of old mineshafts, their entrances "
 "overgrown with grass and weeds. Li’sar must be using them to ambush us."
 msgstr ""
+"当心，科纳德！这些山丘中遍布古老的矿井，入口长满了野草。莉莎必定是在利用它们"
+"伏击我们。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:440
 msgid ""
 "Look out, Your Highness! Your cousin has stationed ambushers across the "
 "hills, lurking in old mineshafts."
-msgstr ""
+msgstr "当心，殿下！您的表姐在山丘各处布下了伏兵，他们就潜伏在古老的矿井里。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:441
@@ -12019,13 +12138,14 @@ msgid ""
 "Where did you come from?! Careful, Konrad, I think there are ambushers "
 "hiding in old mineshafts all across these hills."
 msgstr ""
+"你是从哪儿冒出来的？！小心，科纳德，我觉得这一带山丘的旧矿井里都藏着伏兵。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:443
 msgid ""
 "Lo! The forces of evil ambush us at every turn — even the very ground itself "
 "succors our foes within its old mines."
-msgstr ""
+msgstr "看哪！邪恶势力处处伏击我们——就连大地本身也在古老矿井中庇护我们的敌人。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:446
@@ -12033,21 +12153,23 @@ msgid ""
 "Those ambushers burst right out of the ground! There must be old mineshafts "
 "everywhere in these hills, overgrown with grass and weeds."
 msgstr ""
+"那些伏兵竟然直接从地底钻了出来！这些山里肯定到处都是旧矿道，入口都被杂草盖住"
+"了。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:450
 msgid "Wait, stop! I’m not an imposter, I’m the real Konrad!"
-msgstr ""
+msgstr "等等，住手！我不是冒名顶替者，我是真正的科纳德！"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:454
 msgid "... there’s nothing I can say to save these woodsmen, is there?"
-msgstr ""
+msgstr "……不管我说什么，都救不了这些山民了，是吗？"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:490
 msgid "Invisible ambushers hide throughout the hills."
-msgstr ""
+msgstr "隐形伏兵潜伏在山丘各处。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:513
@@ -12716,10 +12838,8 @@ msgstr ""
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:18
-#, fuzzy
-#| msgid "scenario name^Blackwater Port"
 msgid "scenario name^Glamdrol"
-msgstr "黑水港"
+msgstr "戈拉姆多"
 
 #. [side]
 #. [side]: type={TYPE}, id=leader{SIDE}
@@ -12756,10 +12876,8 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:211
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:212
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:213
-#, fuzzy
-#| msgid "50 gold"
 msgid "150 gold"
-msgstr "50金币"
+msgstr "150金币"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:233
