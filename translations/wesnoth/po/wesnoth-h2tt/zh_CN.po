@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-03 15:09+0800\n"
+"PO-Revision-Date: 2026-10-04 11:14+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -14716,7 +14716,8 @@ msgstr ""
 "我们已经到达山谷南面的出口，并重创了这些兽人！要是能真正解放这个地方就好了……"
 "可我知道，还有远比这里多的人在艾什薇尔治下受苦。"
 
-# 注意 <i>Hold fast your hope, for one day you shall be free!</i> 这句话在 wesnoth-nr S01 中也出现过
+# 注意 <i>Hold fast your hope, for one day you shall be free!</i> 这句话在 wesnoth-
+# nr S01 中也出现过
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:548
@@ -14865,10 +14866,8 @@ msgstr ""
 "此景虽令人唏嘘，但我们或许还能在此找到兽人征服者遗漏的珍宝。我们只需先赶走本"
 "地的巨魔即可。"
 
-# Translated by openai with model deepseek-flash.
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:229
-#, fuzzy
 msgid ""
 "Caves and crypts are no place for the fair folk, Konrad, and dwarvish "
 "tunnels even less so. I am not eager to proceed, but what must be done must "
@@ -14877,10 +14876,8 @@ msgstr ""
 "洞穴与地穴绝非精灵之所宜，科纳德，矮人的隧道更是如此。我本不热心前行，然而该"
 "做之事，终究须做。"
 
-# Translated by openai with model deepseek-flash.
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:230
-#, fuzzy
 msgid ""
 "Cave and crypts are no place for cavalry, Konrad, and dwarvish tunnels even "
 "less so. I am not eager to proceed, but what must be done must be done."
@@ -14888,11 +14885,9 @@ msgstr ""
 "洞穴与地穴绝非骑兵用武之地，科纳德，矮人隧道更是如此。我并不愿继续前进，但该"
 "做的事就必须做。"
 
-# Translated by openai with model deepseek-flash.
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:231
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:232
-#, fuzzy
 msgid ""
 "Well, this is a far cry from the sunny shores of Alduin. And it stinks of "
 "troll excrement! Let’s do what needs to be done and get it over with."
@@ -14900,10 +14895,8 @@ msgstr ""
 "唉，这里离奥渡因阳光明媚的海岸可差得远了。而且弥漫着巨魔粪便的恶臭！咱们赶紧"
 "把该办的事办完，好离开这鬼地方。"
 
-# Translated by openai with model deepseek-flash.
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:233
-#, fuzzy
 msgid ""
 "Aye, an’ <b><i>I</i></b> may find me father’s defiled bones, or me "
 "grandfather’s. Cheery thoughts all around, eh?"
@@ -14911,10 +14904,8 @@ msgstr ""
 "是啊，而且<b><i>俺</i></b>说不定还会找到俺爹被亵渎的尸骨，或者俺爷爷的。这念"
 "头可真令人愉快，是吧？"
 
-# Translated by openai with model deepseek-flash.
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:234
-#, fuzzy
 msgid ""
 "Away in the deep darkness, we are cut off from the light. But hark! Not from "
 "the Light, nor ever from the Light, for the Light shall always guide the "
@@ -14974,26 +14965,20 @@ msgid ""
 "Kill the trolls... kill them all... scour the caverns... search the halls..."
 msgstr "杀掉巨魔……杀光他们……扫荡洞窟……搜遍厅堂……"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:393
-#, fuzzy
 msgid ""
 "More orcs at the gates... Send Eller... for reinforcements. The west hall. "
 "Where... are my dragoons?"
-msgstr "城门口又有兽人……派埃勒……去搬援兵。西厅。我的龙骑兵……在哪儿？"
+msgstr "门口又有兽人……派埃勒……去搬援兵。西厅。我的龙骑兵……在哪儿？"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:400
-#, fuzzy
 msgid "No more recruits. I will lead the sortie... personally."
 msgstr "没有新兵了。我将亲自……率领出击。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:412
-#, fuzzy
 msgid ""
 "Look at the strange axe that death knight is holding! What an unusual weapon."
 msgstr "看那个死亡骑士拿着的怪斧头！多么不寻常的武器。"
@@ -15008,19 +14993,15 @@ msgstr "俺……那是……"
 msgid "<i>THAT’S MY FATHER’S AXE!</i>"
 msgstr "<b>那是俺爹的斧头！</b>"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:425
-#, fuzzy
 msgid ""
 "Give it back, ye beastly bag o’ bones! I’ll rip out yer ribs and stuff ’em "
 "down yer eye sockets!"
 msgstr "还回来，你这畜生般的骨头袋子！俺要把你的肋骨扯出来，塞进你的眼窝里！"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:429
-#, fuzzy
 msgid ""
 "I’ll boil yer teeth. I’ll invert your kneecaps. Death is too good for ye. UN-"
 "death is too good fer ye!"
@@ -15049,19 +15030,15 @@ msgid ""
 "tryin’! Charge!"
 msgstr "以瑟萨冈的胡子起誓，咱们非得把它夺回来，否则死不休！冲啊！"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:456
-#, fuzzy
 msgid ""
 "Lost? No... do not speak that word. We will... prevail. We will find... the "
 "sceptre..."
 msgstr "失败？不……别说那个词。我们会……取胜。我们会找到……权杖……"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:460
-#, fuzzy
 msgid ""
 "The Sceptre? Of Fire?! Who are you, foul creature that we fight? Speak your "
 "name, that I may know the foe I slay!"
@@ -15109,10 +15086,8 @@ msgstr ""
 "他的金子对咱们有用，但他的战斧可能更有用。斧上刻的符文看起来像是矮人的，而且"
 "很古老……"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:533
-#, fuzzy
 msgid ""
 "Aye... like I said ’twere my father’s, but ’tweren’t he who forged it. Been "
 "with us dwarves since times o’ legend, have th’ bloodaxes. I never thought "
@@ -15121,16 +15096,14 @@ msgstr ""
 "是啊……俺说过，那是俺爹的，可锻造它的不是他。血斧自传说时代起就伴随我们矮人。"
 "俺从没想过还能再见到这样的景象！自从黑暗岁月开始以来就没有过……"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:541
-#, fuzzy
 msgid ""
 "Perhaps th’ spirit o’ Knalga ain’t so dead an’ buried after all. Ah’m a "
 "Bloodaxe now, like my father an’ his father an’ his father afore him! Ah’m "
 "in yer debt once again, Konrad. Ye given me hope."
 msgstr ""
-"也许克纳尔加的魂灵终究还没彻底死去、彻底埋葬。俺现在是血斧了，就像俺爹、俺爷"
+"也许纳尔迦的魂灵终究还没彻底死去、彻底埋葬。俺现在是血斧了，就像俺爹、俺爷"
 "爷，还有俺爷爷的爹一样！俺又欠你一份情，科纳德。你给了俺希望。"
 
 #. [message]: speaker=Konrad
@@ -15147,39 +15120,30 @@ msgstr "一件配得上国王——或王子的武器。我将亲自持此斧对
 msgid "Dwarvish Bloodaxe"
 msgstr "矮人血斧"
 
-# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:562
-#, fuzzy
 msgid ""
 "This runic axe increases Konrad’s melee damage by 3, and grants him the "
 "<i>drains</i> special on his melee attacks."
 msgstr ""
-"这把符文斧使科纳德的近战伤害提高 3 点，并使他的近战攻击获得<i>吸血</i>特殊能"
-"力。"
+"这把符文斧使科纳德的近战伤害提高3点，并使他的近战攻击获得<b>吸血</b>特攻。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:594
-#, fuzzy
 msgid ""
 "I am glad; the halls of your ancestors are at peace once more, Ulfdain. Now "
 "it is time for us to move on."
 msgstr "我很高兴；你祖先的厅堂重归安宁了，乌尔夫戴恩。现在我们该继续前进了。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:599
-#, fuzzy
 msgid ""
 "More trolls will move in soon, but for now, the caverns are empty. Time for "
 "us to move on."
 msgstr "很快会有更多巨魔迁进来，但眼下洞穴已经空了。我们该继续前进了。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:626
-#, fuzzy
 msgid ""
 "These halls are old, and our fighting is damaging the walls and pillars. If "
 "we cannot finish soon, the whole cavern might collapse on us!"
@@ -15187,10 +15151,8 @@ msgstr ""
 "这些厅堂年代久远，我们的战斗正在破坏墙壁和石柱。如果不能尽快结束，整个洞穴都"
 "可能塌到我们头上！"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:640
-#, fuzzy
 msgid ""
 "Our fighting has caused too much damage to these old ruins! The whole "
 "mountain is falling down on us!"
@@ -15202,22 +15164,17 @@ msgstr "我们的战斗对这些古老废墟造成了太大破坏！整座山都
 msgid "Knalgans"
 msgstr "纳尔迦人"
 
-# Translated by openai with model deepseek-flash.
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:170
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:179
-#, fuzzy
 msgid ""
 "The Knalgans led Konrad and his men, blindfolded, through a maze of twisting "
 "tunnels and passageways."
 msgstr ""
-"克纳尔甘人蒙住科纳德和他部下的眼睛，领着他们穿过蜿蜒曲折、迷宫般的隧道与通"
-"道。"
+"纳尔迦人蒙住科纳德和他部下的眼睛，领着他们穿过蜿蜒曲折、迷宫般的隧道与通道。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:172
-#, fuzzy
 msgid ""
 "The sound of hammers echoed through the stale cave air, then pickaxes, then "
 "the quiet murmur of low dwarvish voices, interspersed with louder remarks "
@@ -15227,10 +15184,8 @@ msgstr ""
 "锤击声在滞闷的洞穴空气中回荡，接着是镐声，再接着是矮人们低沉的轻声细语，其间"
 "夹杂着科纳德队伍中那些没被蒙住眼睛的矮人更响亮的说话声。最后，终于归于寂静。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:181
-#, fuzzy
 msgid ""
 "The sound of hammers echoed through the stale cave air, then pickaxes, then "
 "the quiet murmur of low dwarvish voices. And at long last, silence."
@@ -15253,17 +15208,17 @@ msgstr ""
 msgid ""
 "It’s just a solid wall of rock. How am I supposed to get through and find "
 "your comrades?"
-msgstr ""
+msgstr "这不过是一堵实心岩壁。我该怎么穿过去找到你的同伴？"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:203
 msgid "Dig, human. I must return to my guard duties."
-msgstr ""
+msgstr "挖吧，人类。俺得回去站岗了。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:214
 msgid "Find the missing dwarves"
-msgstr ""
+msgstr "找到失踪的矮人"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:234
@@ -15271,6 +15226,7 @@ msgid ""
 "Ulfdain, the Knalgans here have been very evasive about what’s going on. Do "
 "you have any insights?"
 msgstr ""
+"乌尔夫戴恩，这里的纳尔迦矮人对发生了什么事一直讳莫如深。你有什么头绪吗？"
 
 #. [message]: speaker=Ulfdain
 #. [message]: race=dwarf
@@ -15279,14 +15235,14 @@ msgstr ""
 msgid ""
 "Aye, I think I can guess. But I cannae tell an outsider, Konrad, not even "
 "you."
-msgstr ""
+msgstr "嗯，俺大概能猜着。可俺不能告诉外人，科纳德，连你也不行。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:244
 msgid ""
 "Friend dwarf, the Knalgans here have been very evasive about what’s going "
 "on. Do you have any insights?"
-msgstr ""
+msgstr "矮人朋友，这里的纳尔迦矮人对发生了什么事一直讳莫如深。你有什么头绪吗？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:324
@@ -15295,18 +15251,20 @@ msgid ""
 "slow going, but we’ll be able to dig our way through the cave-in. That must "
 "be what Geldar meant."
 msgstr ""
+"这里的岩壁不算太硬，用刀剑和长矛就能砸开。进展会很慢，但我们能一路挖穿塌方。"
+"格尔达一定是这个意思。"
 
 #. [message]: type=Dwarvish Miner
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:343
 msgid "Mining’s a lot easier when you’ve got the proper equipment, aye?"
-msgstr ""
+msgstr "有了趁手的家伙什儿，挖矿可就容易多了，是吧？"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:393
 msgid ""
 "Look out! The cavern beyond this wall is filled with water, and it’s "
 "flooding into our caves!"
-msgstr ""
+msgstr "当心！这堵墙后面的洞穴里全是水，水正灌进我们的矿洞！"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:448
@@ -15318,19 +15276,19 @@ msgstr "<i>（咳）</i>谁在那里？"
 msgid ""
 "I am Prince Konrad of Wesnoth, and a friend of Knalga. I’ve come to rescue "
 "you!"
-msgstr ""
+msgstr "我是韦诺的科纳德王子，也是纳尔迦的朋友。我是来救你的！"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:456
 msgid ""
 "Aye, that so? ...ye weren’t who I was expectin’. <i>(cough)</i> But I’m not "
 "about to turn down help."
-msgstr ""
+msgstr "嗯，当真？……俺等的可不是你。<i>（咳）</i>不过俺可不会把帮手往外推。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:464
 msgid "Yer alive! Quick, git ’im to th’ great hall."
-msgstr ""
+msgstr "你还活着！快，把他带到大殿去。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:471
@@ -15339,12 +15297,14 @@ msgid ""
 "but I was led to believe there was a whole posse trapped down here. What’s "
 "the meaning of this?"
 msgstr ""
+"瑞尔高恩，这一切就为了一个矮人？我明白生命的宝贵，但我之前听说有一整队人被困"
+"在下面。这到底是什么意思？"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:475
 msgid ""
 "Never ye mind, human. But you did right by us, so we’ll do right by you."
-msgstr ""
+msgstr "甭管那么多，人类。可你帮了俺们，俺们也会帮你。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:479
@@ -15353,6 +15313,8 @@ msgid ""
 "o’ everyone to spare. But those we do have are tough, and well-practiced in "
 "the art of battle."
 msgstr ""
+"俺知道你巴不得把俺们各种战士都要走，可俺们人手不够，没法样样都给你。不过能给"
+"的都是硬茬子，个个久经战阵。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:481
@@ -15360,97 +15322,75 @@ msgid ""
 "Choose two — Fighters, Guardsmen, Thunderers, or Ulfserkers — an’ we’ll send "
 "ye’ enough Knalgans to make a difference in yer quest."
 msgstr ""
+"选两类——战士、卫兵、雷霆战士或狂狼战士——俺们就会派给你足够多的纳尔迦矮人，让"
+"你的远征大不一样。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:494
 msgid ""
 "It shall be done, Konrad. May you someday reclaim your birthright — and us "
 "ours."
-msgstr ""
+msgstr "就这么办，科纳德。愿你有一天夺回你的继承权——也愿俺们夺回俺们自己的。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:509
-#, fuzzy
-#| msgid "You may now recruit the legendary dwarvish guardsmen!"
 msgid "Choose Dwarvish Fighters and Guardsmen"
-msgstr "您现在可以征募传奇般的矮人卫兵了！"
+msgstr "选择矮人战士和卫兵"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:510
-#, fuzzy
-#| msgid "You may now recruit the legendary dwarvish guardsmen!"
 msgid "Konrad can now recruit Dwarvish Fighters and Guardsmen!"
-msgstr "您现在可以征募传奇般的矮人卫兵了！"
+msgstr "科纳德现在可以征募矮人战士和卫兵了！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:515
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Choose Dwarvish Fighters and Thunderers"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "选择矮人战士和雷霆战士"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:516
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Konrad can now recruit Dwarvish Fighters and Thunderers!"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "科纳德现在可以征募矮人战士和雷霆战士了！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:521
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Choose Dwarvish Fighters and Ulfserkers"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "选择矮人战士和狂狼战士"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:522
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Konrad can now recruit Dwarvish Fighters and Ulfserkers!"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "科纳德现在可以征募矮人战士和狂狼战士了！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:527
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Choose Dwarvish Guardsmen and Thunderers"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "选择矮人卫兵和雷霆战士"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:528
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Konrad can now recruit Dwarvish Guardsmen and Thunderers!"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "科纳德现在可以征募矮人卫兵和雷霆战士了！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:533
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Choose Dwarvish Guardsmen and Ulfserkers"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "选择矮人卫兵和狂狼战士"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:534
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Konrad can now recruit Dwarvish Guardsmen and Ulfserkers!"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "科纳德现在可以征募矮人卫兵和狂狼战士了！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:539
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Choose Dwarvish Thunderers and Ulfserkers"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "选择矮人雷霆战士和狂狼战士"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:540
-#, fuzzy
-#| msgid "You can now recruit fearsome Gryphon Riders!"
 msgid "Konrad can now recruit Dwarvish Thunderers and Ulfserkers!"
-msgstr "您现在可以征募令人闻风丧胆的狮鹫骑士了！"
+msgstr "科纳德现在可以征募矮人雷霆战士和狂狼战士了！"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:545
@@ -15464,6 +15404,8 @@ msgid ""
 "send aid to Knalga. I understand you have little to give, but right now it "
 "is in both of our best interests to work together!"
 msgstr ""
+"一旦我击败艾什薇尔、夺回王座，我会十分乐意援助纳尔迦。我明白你们拿不出多少东"
+"西，但眼下通力合作才最符合你我双方的利益！"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:556
@@ -15471,13 +15413,13 @@ msgid ""
 "Aye, an’ I thought I’d live out a peaceful life in th’ west halls, but here "
 "we both are. We can’t spare any more, Konrad, not even for a prince."
 msgstr ""
+"是啊，俺本来还想着在西边大厅里安安稳稳过完这辈子，可如今咱俩都落到这儿了。俺"
+"们实在匀不出更多人手了，科纳德，哪怕你是王子也不行。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:562
-#, fuzzy
-#| msgid "Refuse"
 msgid "Refuse payment"
-msgstr "拒绝"
+msgstr ""
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:566
@@ -15486,13 +15428,15 @@ msgid ""
 "demand bread from a starving man? Keep your warriors for Knalga, and may "
 "Knalga one day prosper again."
 msgstr ""
+"矮人朋友，你们需要尽可能多的战士。我又有什么资格向一个快饿死的人讨要面包呢？"
+"把你的战士留在纳尔迦吧，愿纳尔迦有朝一日重归繁荣。"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:570
 msgid ""
 "You’re a good lad, Konrad. Thank ye, an’ I’m sorry we were so suspicious "
 "when ye first showed up."
-msgstr ""
+msgstr "你是个好小伙，科纳德。谢谢你，俺也很抱歉，你刚露面的时候俺们那么多疑。"
 
 #. [message]: speaker=Relgorn
 #. this is a hint to the player that there's a special event if they also complete "Lost General" and entirely wipe out the orcs in "Dwarven Doors"
@@ -15502,6 +15446,9 @@ msgid ""
 "what remains o’ it, at least. Between the trolls in the west an’ the orcs in "
 "the Doors we’re just spread too thin. Mebbe if those were gone..."
 msgstr ""
+"不管你最后能不能夺回王座，纳尔迦永远欢迎你——至少，欢迎你来俺们剩下的这点地"
+"方。西边有巨魔，矮人之门里有兽人，俺们实在人手太紧、顾不过来。要是那些家伙都"
+"没了，说不定……"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:603
@@ -15509,6 +15456,8 @@ msgid ""
 "We must hurry. We promised Relgorn we would rescue his lost kin, but every "
 "hour we wait is an hour in which some misfortune may befall them."
 msgstr ""
+"我们必须抓紧。我们答应过瑞尔高恩，要救回他失踪的族人；可我们每多等一小时，他"
+"们就可能多遭一分不幸。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:610
@@ -15516,41 +15465,28 @@ msgid ""
 "We have taken so long to search for the missing dwarves! Even should we "
 "eventually find them, we will surely find only their corpses..."
 msgstr ""
+"我们搜寻失踪矮人已经花了太久！就算最终找到他们，找到的也只会是他们的尸体……"
 
 #. [side]: type=Fire Ant Queen, id=ant_leader
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:62
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:92
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:77
-#, fuzzy
-#| msgid "Monsters"
 msgid "Monsters"
 msgstr "怪兽"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:259
-#, fuzzy
-#| msgid ""
-#| "The last dwarvish settlement far behind them, the party descended into "
-#| "the deepest parts of the hewn caverns. Except for disturbances caused by "
-#| "the occasional goblin, the air in the lower passages was still and "
-#| "tomblike."
 msgid ""
 "The last dwarvish ruin far behind them, the party descended into the deepest "
 "parts of the hewn caverns. Except for disturbances caused by the occasional "
 "rodent, the air in the lower passages was still and tomblike."
 msgstr ""
-"一行人已然把最后的矮人定居点远远地甩在背后，下到了这些粗凿洞穴的最深处。除了"
-"偶尔有地精骚扰之外，坑道中十分寂静，如同坟墓一般。"
+"一行人已然把最后的矮人废墟远远地甩在背后，下到了这些粗凿洞穴的最深处。除了偶"
+"尔有啮齿动物骚扰之外，坑道中十分寂静，如同坟墓一般。"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:265
-#, fuzzy
-#| msgid ""
-#| "Stepping through a low corridor, Konrad and Delfador emerged from the "
-#| "maze-like catacombs into icy blackness. Darkness seemed to crush them. "
-#| "Lights flickered and went out. Even the staff of the elder mage struggled "
-#| "to produce enough light to see by."
 msgid ""
 "Stepping through a low corridor, Konrad and Delfador emerged from the maze-"
 "like catacombs into icy blackness. Darkness seemed to crush them. Lights "
@@ -15563,43 +15499,30 @@ msgstr ""
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:271
-#, fuzzy
-#| msgid ""
-#| "A cavernous void stretched out ahead, across which no ceiling or walls "
-#| "were visible. Wind howled and whipped over narrow ledges bridging the "
-#| "depths, almost as if animated by powerful nearby magic... and newly "
-#| "awoken evil."
 msgid ""
 "A cavernous void stretched out ahead, across which no ceiling or walls were "
 "visible. Wind howled and whipped over narrow ledges bridging the depths, "
 "almost as if animated by powerful nearby magic... and approaching evil."
 msgstr ""
 "一个巨大的空穴在面前延展开来，里面看不到任何的天花板或者墙壁。风旋转着迅速穿"
-"过连接着洞穴深处的平台，几乎就像是被附近强大的魔法所操控着……或者说，被刚苏醒"
-"的邪恶造物所操控着。"
+"过连接着洞穴深处的平台，几乎就像是被附近强大的魔法所操控着……或者说，被正在接"
+"近的邪恶造物所操控着。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:295
 msgid ""
 "We’ve been traveling for days upon days. Surely the Sceptre is getting close!"
-msgstr ""
+msgstr "我们已经日复一日地赶路。圣火权杖肯定离我们很近了！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:299
-#, fuzzy
-#| msgid ""
-#| "The Sceptre... the earth... the molten lava... the fire... the air around "
-#| "us... everything. It calls out to the heir — I can barely hold it back in "
-#| "my mind. It was forged here, not far north of where we now stand. The "
-#| "sheer power of it!"
 msgid ""
 "Yes, I feel it is near here. It calls out to be freed... it is near; very "
 "near! The Sceptre was forged here, not far where we now stand. The sheer "
 "power of it!"
 msgstr ""
-"这权杖……这土地……这熔岩……这烈焰……这四周的气息……所有这一切。圣火权杖正在呼唤着"
-"王座的继承人——我几乎不能将这种感觉压在心底了。它是在这里铸造的，就在我们北边"
-"不远的地方。那绝对的力量！"
+"是的，我感觉它就在附近。它呼唤着被解放……很近了，非常近了！权杖就是在这里铸造"
+"的，离我们现在站的地方不远。它的力量何等磅礴！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:302
@@ -15608,6 +15531,8 @@ msgid ""
 "It is the fault of my people — Landar’s rebels — that the Sceptre was lost. "
 "It is only fair that I help get it back. Which way should we go, Delfador?"
 msgstr ""
+"权杖失落，是我族——兰达尔的叛军——的过错。我理应助你将它夺回。德法多，我们该往"
+"何处去？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:304
@@ -15616,6 +15541,8 @@ msgid ""
 "thought I might actually be seein’ it in person. Which way do we go, "
 "Delfador?"
 msgstr ""
+"从小到大，他们总给我讲权杖的童话……从没想过我竟然能亲眼见到它。德法多，咱们往"
+"哪走？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:305
@@ -15624,6 +15551,8 @@ msgid ""
 "proclaim the texts, and so shall it be. Whither shall we go to find the "
 "Sceptre, scholar?"
 msgstr ""
+"诚然，神圣之火必将光明带入黑暗之地！经文如此宣告，事必如此成就。学者啊，我们"
+"该往何处寻找圣火权杖？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:306
@@ -15632,6 +15561,8 @@ msgid ""
 "it, long ago. Now ’tis only right that I help ye get it back. Where be the "
 "Sceptre, scholar?"
 msgstr ""
+"那东西本是俺们族人替你们人类造的，也是俺们族人很久以前弄丢的。如今俺帮你们把"
+"它找回来，才算理所应当。学者，权杖搁哪儿呢？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:307
@@ -15639,6 +15570,8 @@ msgid ""
 "I’ve read so much about the lost Sceptre of Fire! I never though I would, "
 "well, actually help <i>find</i> it. Where do we go, Delfador?"
 msgstr ""
+"我读过那么多关于失落的圣火权杖的书！我从没想过自己竟然会，呃，真的帮忙<b>找到"
+"</b>它。德法多，我们往哪儿走？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:308
@@ -15647,6 +15580,8 @@ msgid ""
 "Konrad, and right the many wrongs of Asheviere. Whither shall we go, "
 "Delfador?"
 msgstr ""
+"伽拉德的诏令终于要实现了。科纳德，你将夺取圣火权杖，纠正艾什薇尔的诸多不义。"
+"德法多，我们该往何处去？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:309
@@ -15655,6 +15590,8 @@ msgid ""
 "I feel the power! It’s overwhelming! I never— well, Delfador, thank you for "
 "trusting me to be here with you. Where shall we start the search?"
 msgstr ""
+"我感觉到那股力量了！它太强大了，简直压倒一切！我从未——呃，德法多，谢谢你信任"
+"我，让我能和你一起在这里。我们该从哪儿开始搜寻？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:311
@@ -15662,11 +15599,13 @@ msgid ""
 "Dis cave good place for troll, but no good place for softskins. Better find "
 "your scep-tar an’ get back to sun-lit places. Which way should we start?"
 msgstr ""
+"这洞对巨魔是好地方，对软皮可不好。最好找你们那根权——杖，然后回有太阳的地方。"
+"俺们从哪边开始？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:312
 msgid "Very well — then where? How do we find it?"
-msgstr ""
+msgstr "好吧——那它在哪儿？我们怎么才能找到它？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:316
@@ -15674,6 +15613,8 @@ msgid ""
 "North and east. More than that, I cannot tell. Whatever beasts, monsters, "
 "and other denizens of the dark lurk ahead, I know that we shall prevail."
 msgstr ""
+"向北，再向东。再多，我便说不出了。无论前方潜伏着何种野兽、怪物，还是黑暗中的"
+"其他住民，我知道我们终将取胜。"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:324
@@ -15684,14 +15625,14 @@ msgstr "击败敌方首领"
 #. this is deliberately vague, and foreshadows Li'sar's appearance in part two of this scenario
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:329
 msgid "Then, fight to claim the Sceptre"
-msgstr ""
+msgstr "随后，为夺取圣火权杖而战"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:339
 msgid ""
 "The longer you take to defeat the enemy leader, the more time your other "
 "enemies will have to accrue gold."
-msgstr ""
+msgstr "你击败敌方首领所花的时间越长，其他敌人积攒金币的时间就越多。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:351
@@ -15701,6 +15642,9 @@ msgid ""
 "of Wesnoth. With the Sceptre in my hand even Asheviere would struggle to "
 "deny my claim to the throne."
 msgstr ""
+"德法多，你告诉过我圣火权杖的重要性。我相信你！它是一件强大的魔法神器，也是韦"
+"诺诸王传说中的象征。只要权杖在我手中，就算艾什薇尔也难以否认我对王位的继承"
+"权。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:355
@@ -15710,6 +15654,9 @@ msgid ""
 "missed out helping because we had to come here instead. I hope it’ll be "
 "worth it in the end."
 msgstr ""
+"然而，一想到我们深入群山之下时，家乡还有无数人在受苦，我就心痛。精灵、人类、"
+"矮人；那些人本是我们该去帮助的，却因为不得不来到这里而错过了。我希望到头来这"
+"一切都是值得的。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:366
@@ -15717,6 +15664,7 @@ msgid ""
 "Delfador... other than the prophecy about the Sceptre, you haven’t been "
 "keeping any other secrets from me “for my own good”, have you?"
 msgstr ""
+"德法多……除了关于权杖的预言，你没有再以“为我好”为由，向我隐瞒其他秘密吧？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:370
@@ -15725,13 +15673,15 @@ msgid ""
 "to come to light. Here and now, we must focus on finding the Sceptre if you "
 "are ever to become king."
 msgstr ""
+"有一个。但我请你克制好奇心，因为我希望它永远不必公之于众。此时此刻，若你终有"
+"一日要成为国王，我们就必须专注于找到权杖。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:407
 msgid ""
 "What a strange rock formation. Could this be the resting place of the "
 "Sceptre?"
-msgstr ""
+msgstr "这岩石构造真古怪。这里会不会就是圣火权杖安放的地方？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:411
@@ -15739,72 +15689,61 @@ msgid ""
 "There is some power about it, to be sure. But we must clear out the leader "
 "of the local fauna before we can investigate further."
 msgstr ""
+"此地确实有某种力量，毋庸置疑。但在进一步探查之前，我们必须先清除本地兽群的首"
+"领。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:426
 msgid ""
 "We’ve been wandering for so long, and we still haven’t cleared our way to "
 "the Sceptre."
-msgstr ""
+msgstr "我们已经游荡了这么久，却仍未清出一条通往权杖的路。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:430
 msgid ""
 "Even if it really is somewhere here, I fear it is beyond our power to "
 "obtain..."
-msgstr ""
+msgstr "就算它真的就在这里的某处，我怕我们也无力得到它……"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:454
 msgid ""
 "That wasn’t so bad! The vermin are defeated, and the way is clear to explore "
 "further."
-msgstr ""
+msgstr "还不算太糟！这些害虫已经被打败，前面的路也清出来了，可以继续探索。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:458
 msgid ""
 "I sense great power emanating from the chasm nearby. Everyone, gather round."
-msgstr ""
+msgstr "我感应到附近的深渊中涌出强大的力量。所有人，聚拢过来。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:560
-#, fuzzy
-#| msgid "25 gold"
 msgid "55 gold"
-msgstr "25金币"
+msgstr "55金币"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:560
 msgid ""
 "Li’sar’s soldiers have stockpiled some gold here! We’ll put it to better use."
-msgstr ""
+msgstr "莉莎的士兵在这里囤积了一些金币！我们会把它们用在更该用的地方。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:599
-#, fuzzy
-#| msgid ""
-#| "Across the chasm, the air almost crackled with magical energy. It also "
-#| "became steadily warmer. The floor was smooth and glassy in places, and a "
-#| "faint glow provided a small reprieve from the thick blackness. Volcanic "
-#| "fumes drifted up from cracks in the floor."
 msgid ""
 "Near the chasm, the air almost crackled with magical energy. It also became "
 "steadily warmer. The floor was smooth and glassy in places, and a faint glow "
 "provided a small reprieve from the thick blackness. Volcanic fumes drifted "
 "up from cracks in the floor."
 msgstr ""
-"整个洞穴中的空气都几乎要被魔法能量挤裂了，给人带来一丝暖意。有的地面如同玉石"
-"一样光滑，散发着点点光芒，仿佛能够缓解这厚重的黑暗。地下的火山烟灰从地面裂缝"
-"处喷薄而出。"
+"洞穴附近，空气都几乎要被魔法能量挤裂了，给人带来一丝暖意。有的地面如同玉石一"
+"样光滑，散发着点点光芒，仿佛能够缓解这厚重的黑暗。地下的火山烟灰从地面裂缝处"
+"喷薄而出。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:603
-#, fuzzy
-#| msgid ""
-#| "Distant rumbles and earthquakes made it difficult to keep steady footing. "
-#| "The very earth had come alive, heaving, struggling to be relieved of its "
-#| "centuries-old burden..."
 msgid ""
 "Distant rumbles and earthquakes made it difficult to keep steady footing. "
 "The very earth had come alive, heaving, struggling to be relieved of its "
@@ -15815,19 +15754,12 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:616
-#, fuzzy
-#| msgid ""
-#| "The Sceptre... the earth... the molten lava... the fire... the air around "
-#| "us... everything. It calls out to the heir — I can barely hold it back in "
-#| "my mind. It was forged here, not far north of where we now stand. The "
-#| "sheer power of it!"
 msgid ""
 "We are here. The Sceptre... the earth... the fire... the air around us... "
 "everything! It calls out to be freed — I can barely hold it back in my mind."
 msgstr ""
-"这权杖……这土地……这熔岩……这烈焰……这四周的气息……所有这一切。圣火权杖正在呼唤着"
-"王座的继承人——我几乎不能将这种感觉压在心底了。它是在这里铸造的，就在我们北边"
-"不远的地方。那绝对的力量！"
+"我们到了。这权杖……这土地……这熔岩……这烈焰……这四周的气息……所有这一切！它在呼唤"
+"着被解放——我几乎不能将这种感觉压在心底了。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:619
@@ -15838,27 +15770,29 @@ msgid ""
 "I sense it too... there is a strangeness in the air. A fire in the soul of "
 "this place. But where? The cave is empty!"
 msgstr ""
+"我也感应到了……空气中有一种异样。此地的灵魂中燃烧着一团火。可它在哪里？洞穴空"
+"空如也！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:623
 msgid ""
 "Aye, tha’s nice... except there’s nothin’ here, ye cloud-headed flapdragon! "
 "It’s an empty cave!"
-msgstr ""
+msgstr "是啊，说得倒美……可这儿屁都没有，你个脑袋进云的扑腾龙！这就是个空山洞！"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:624
 msgid ""
 "But where is it, o’ great Delfador? The cave here is empty. Do we stand in "
 "the wrong place?"
-msgstr ""
+msgstr "可它在哪儿呢，啊，伟大的德法多？这洞穴空空如也。我们是不是站错了地方？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:625
 msgid ""
 "Err... is this one o’ those confusing wizard things? Where’s the Sceptre? "
 "Th’ cave looks pretty empty to me."
-msgstr ""
+msgstr "呃……这是不是那种让人犯迷糊的巫师把戏？权杖在哪儿？我看这洞穴挺空的啊。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:626
@@ -15866,6 +15800,8 @@ msgid ""
 "Yea, truly there is a strangeness in the air here... not of the Light, but "
 "of something else entirely. But where is the source? The cave stands empty."
 msgstr ""
+"诚然，此处的空气中确有一种异样……并非源自光明，而是某种截然不同的东西。可源头"
+"在何处？洞穴空无一物。"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:627
@@ -15873,6 +15809,8 @@ msgid ""
 "Err... it— it does? I don’t see anything... Oh! Is this a metaphor? The real "
 "treasure is the friends we made along the way?"
 msgstr ""
+"呃……真——真的吗？我什么都看不见……哦！这是不是个比喻？真正的宝藏，就是我们一路"
+"走来结交的朋友？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:628
@@ -15880,11 +15818,13 @@ msgid ""
 "Dey say trolls are slow, but even Dosh can see dere’s nothing here. Flat and "
 "empty. Nothing for us to take, is dere?"
 msgstr ""
+"他们说巨魔脑子慢，可连多什都看得出来，这儿啥也没有。平平的，空空的。没东西给"
+"俺们抢，是不？"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:629
 msgid "But where is it? I don’t see a thing!"
-msgstr ""
+msgstr "可它到底在哪儿？我什么都没看见！"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:633
@@ -15893,11 +15833,13 @@ msgid ""
 "of a dormant volcano, which erupted centuries ago and buried the Sceptre in "
 "rock. It is indeed here, under the cave floor."
 msgstr ""
+"恰恰相反！我的研究使我确信，我们正站在一座休眠火山的中心。它数百年前曾喷发，"
+"将权杖埋入岩层之中。它确实就在这里，就在洞穴地面之下。"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:659
 msgid "It shall take time, but my magic can dig the Sceptre out."
-msgstr ""
+msgstr "这尚需些时日，但我的魔法能将权杖掘出。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:695
@@ -15905,6 +15847,7 @@ msgid ""
 "A sound like that can mean only one thing: Konrad and his handler have "
 "reached the Sceptre of Fire."
 msgstr ""
+"那样的声响只可能意味着一件事：科纳德和他的幕后操纵者已经找到圣火权杖了。"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:699
@@ -15912,6 +15855,8 @@ msgid ""
 "Princess Li’sar! Villain! Asheviere’s greed must extend far if she would "
 "risk her last child this far from Wesnoth, deep under the northern mountains."
 msgstr ""
+"莉莎公主！你这恶徒！艾什薇尔竟肯让她最后一个孩子冒险远离韦诺，深入北方群山之"
+"下——她的贪欲想必深不见底！"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:721
@@ -15919,150 +15864,187 @@ msgid ""
 "Loyalists, this is it. Within these caves lurks my usurping cousin; the "
 "false prince; the puppet of Delfador."
 msgstr ""
+"忠诚的将士们，就是这里了。这些洞穴中潜伏着我那篡位的表弟；伪王子；德法多的傀"
+"儡。"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:741
-#, fuzzy
-#| msgid "Escape down the road to Elensefar"
 msgid "your comrades dead at Elensefar"
-msgstr "沿着通往埃仁撒伐的道路奔逃"
+msgstr "你们的战友横尸埃仁撒伐"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:742
-#, fuzzy
-#| msgid "Elensefar Reef"
 msgid "Elensefar ruled by thieves"
-msgstr "埃仁撒伐礁"
+msgstr "埃仁撒伐被盗贼统治"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:743
+#, fuzzy
 msgid "supplies pillaged at Fort Tahn"
-msgstr ""
+msgstr "坦恩堡的补给遭劫掠"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:744
+#, fuzzy
 msgid "convoys aflame outside Dan’Tonk"
-msgstr ""
+msgstr "丹·冬克城外的车队燃起大火"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:745
+#, fuzzy
 msgid "zombified townsfolk at the peninsula"
-msgstr ""
+msgstr "半岛镇民化为僵尸"
 
+# Translated by openai with model deepseek-flash. Original text: The Dwarven
+# Doors
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:746
 #, fuzzy
-#| msgid "The Dwarven Doors"
 msgid "dead slaves at the Dwarven Doors"
-msgstr "矮人之门"
+msgstr "矮人之门的奴隶尸骸"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:747
+#, fuzzy
 msgid "libraries aflame at Alduin"
-msgstr ""
+msgstr "奥渡因的图书馆陷入火海"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:748
 msgid "rebels at Blackwater Port"
 msgstr "黑水港的反抗军"
 
+# Translated by openai with model deepseek-flash. Original text: The Bay of
+# Pearls
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:749
 #, fuzzy
-#| msgid "The Bay of Pearls"
 msgid "riots at the Bay of Pearls"
-msgstr "珍珠湾"
+msgstr "珍珠湾的暴乱"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:750
+#, fuzzy
 msgid "undead amok in the hills"
-msgstr ""
+msgstr "山丘中亡灵肆虐"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:751
+#, fuzzy
 msgid "elvish criminals escaping into the south"
-msgstr ""
+msgstr "精灵罪犯逃往南方"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:752
+#, fuzzy
 msgid "trouble with the orcs at Glamdrol"
-msgstr ""
+msgstr "戈拉姆多的兽人作乱"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:753
+#, fuzzy
 msgid "corpses clogging up the Ford"
-msgstr ""
+msgstr "雅碧滩被尸体堵塞"
 
+# Translated by openai with model deepseek-flash. Original text: That is the
+# fabled Gryphon Mountain.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:754
 #, fuzzy
-#| msgid "That is the fabled Gryphon Mountain."
 msgid "blood-stained slopes on Gryphon Mountain"
-msgstr "这就是传说中的“狮鹫山”。"
+msgstr "狮鹫山染血的山坡"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:756
+#, fuzzy
 msgid ": $lisar_speech."
-msgstr ""
+msgstr "：$lisar_speech。"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:757
+#, fuzzy
 msgid ""
 ". You have heard the lies he tells, misleading those who would otherwise "
 "oppose him"
-msgstr ""
+msgstr "。你已听过他散布的谎言，那些谎言误导了本会反对他的人"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #. several of the strings above are joined to create $lisar_speech.
 #. For example, this message might read something like "in his wake: dead slaves at the Dwarven Doors, zombified townsfolk at the peninsula... Today, we put a stop to it."
 #. If translating a dynamic string like this is difficult or impossible in your language, you can replace $lisar_speech with ". You have heard the lies he tells, misleading those who would otherwise oppose him."
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:764
+#, fuzzy
 msgid ""
 "You know the blood and chaos that follow in his wake$lisar_speech|... Today, "
 "we put a stop to it. Is everyone in position?"
 msgstr ""
+"你们知道他身后留下的流血与混乱$lisar_speech|……今天，我们要终结这一切。所有人"
+"都就位了吗？"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:784
 msgid "Northern company ready and reporting, ma’am."
-msgstr ""
+msgstr "北方连队准备就绪，前来报到，长官。"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:788
+#, fuzzy
 msgid "Yrridyn"
-msgstr ""
+msgstr "伊里丁"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:800
+#, fuzzy
 msgid ""
 "We’ve burned the trolls out of the eastern tunnels. Our way forward is clear."
-msgstr ""
+msgstr "我们已将巨魔从东部隧道中烧了出去。前路畅通无阻。"
 
+# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:804
+#, fuzzy
 msgid "Arynnoc"
-msgstr ""
+msgstr "阿林诺克"
 
+# Translated by openai with model deepseek-flash. Original text: Gwatharry
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:805
 #, fuzzy
-#| msgid "Gwatharry"
 msgid "Gwytharyn"
-msgstr "格瓦萨里"
+msgstr "格维萨林"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:817
+#, fuzzy
 msgid ""
 "My bowmen and I are ready and waiting at the far passage. They won’t get "
 "through us, Your Highness."
-msgstr ""
+msgstr "我和我的弓手已在远端通道准备就绪，严阵以待。他们休想越过我们，殿下。"
 
+# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:825
+#, fuzzy
 msgid ""
 "Good. And Mirya — scout around for any other exits we’ve missed. We must not "
 "allow Konrad to escape with the Sceptre of Fire."
 msgstr ""
+"很好。还有，米尔雅——去侦察一下还有没有我们遗漏的其他出口。绝不能让科纳德带着"
+"圣火权杖逃走。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:861
@@ -16071,6 +16053,8 @@ msgid ""
 "strong, friends. We must guard Delfador while he unearths the Sceptre, or "
 "perhaps even attack and defeat Li’sar herself!"
 msgstr ""
+"莉莎以为我们会设法逃跑？不，我不会这么轻易屈服。坚守住，朋友们。我们必须在德"
+"法多挖出权杖时保护他，甚至或许该主动出击，击败莉莎本人！"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:865
@@ -16103,10 +16087,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:883
-#, fuzzy
-#| msgid "The Sceptre of Fire"
 msgid "(gain the Sceptre of Fire)"
-msgstr "圣火权杖"
+msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:883
@@ -16120,10 +16102,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:889
-#, fuzzy
-#| msgid "The Sceptre of Fire"
 msgid "(gain the Sceptre of Fire, and special armor for Konrad)"
-msgstr "圣火权杖"
+msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:913
@@ -16238,10 +16218,8 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1030
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1031
-#, fuzzy
-#| msgid "The Isle of Alduin"
 msgid "Behold the flames of Alduin!"
-msgstr "奥渡因岛"
+msgstr ""
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1032
