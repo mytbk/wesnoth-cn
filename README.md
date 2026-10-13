@@ -13,6 +13,8 @@
 
 当前 vimacs 的工作流程是先用AI机翻，然后人工校对。目前 vimacs 采用工具 [ollama-translate](https://codeberg.org/vimacs/ollama-translate) 进行机器翻译，在 .po 文件的同级目录下有 prompt.txt 作为这个 .po 文件的翻译指引。推荐使用 [Poedit](https://poedit.net/) 编辑 .po 文件。
 
+翻译指南见 [docs/guide.md](docs/guide.md).
+
 翻译进度参见此[翻译统计信息](https://gettext.wesnoth.org/?view=langs&version=branch&lang=zh_CN)页面。
 
 # 地图本地化
