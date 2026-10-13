@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-11 19:06+0800\n"
+"PO-Revision-Date: 2026-10-13 22:46+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -195,7 +195,7 @@ msgstr "在放出莫密尔姆之前完成《玛夫·玛拉尔的半岛》。"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
 msgid "Kill an enemy with Delurin during <i>Isle of the Damned</i>."
-msgstr "在<i>被诅咒者之岛</i>中，使用德鲁林击杀一名敌人。"
+msgstr "在《被诅咒者之岛》中，使用德鲁林击杀一名敌人。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
@@ -210,12 +210,12 @@ msgstr "灭虫专家"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:32
 msgid "Kill all giant spiders during <i>Isle of the Damned II</i>."
-msgstr "在<i>被诅咒者之岛 II</i>中击杀所有巨蛛。"
+msgstr "在《被诅咒者之岛 II》中击杀所有巨蛛。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
 msgid "Complete <i>The Siege of Elensefar</i> on Deadly difficulty."
-msgstr "在极难难度下完成<i>围攻埃仁撒伐</i>。"
+msgstr "在极难难度下完成《围攻埃仁撒伐》。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
@@ -225,12 +225,10 @@ msgstr "近乎不可能"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:35
 msgid "Complete <i>The Silver City</i> without capturing any villages."
-msgstr "在不占领任何村庄的情况下完成<i>银色之城</i>。"
+msgstr "在不占领任何村庄的情况下完成《银色之城》。"
 
-# Translated by openai with model deepseek-flash.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:35
-#, fuzzy
 msgid "Laissez-faire"
 msgstr "自由放任"
 
@@ -246,10 +244,8 @@ msgid ""
 "melee weapons."
 msgstr "在《塔恩要塞》击败大师弓手，且不使用近战武器攻击他。"
 
-# Translated by openai with model deepseek-flash.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:39
-#, fuzzy
 msgid "Conservationist"
 msgstr "自然保护者"
 
@@ -258,7 +254,7 @@ msgstr "自然保护者"
 msgid ""
 "Defeat the Mother Gryphon in <i>Gryphon Mountain</i> without killing any "
 "other gryphons."
-msgstr "在<i>狮鹫山</i>击败狮鹫之母，且不击杀任何其他狮鹫。"
+msgstr "在《狮鹫山》击败狮鹫之母，且不击杀任何其他狮鹫。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:40
@@ -288,7 +284,7 @@ msgstr "趁热享用"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:42
 msgid "Get the finishing blow on Li’sar with Ulfdain during <i>Crossroads</i>."
-msgstr "在<i>交叉路口之战</i>中，由乌尔夫戴恩给予莉莎最后一击。"
+msgstr "在《交叉路口之战》中，由乌尔夫戴恩给予莉莎最后一击。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:43
@@ -361,7 +357,7 @@ msgstr "洞穴鱼"
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:51
 msgid ""
 "Complete <i>The Lost General</i> while only recruiting or recalling Merfolk."
-msgstr "仅征募或召回人鱼，完成<i>失落的将军</i>。"
+msgstr "仅征募或召回人鱼，完成《失落的将军》。"
 
 # Translated by openai with model deepseek-flash.
 #. [achievement_group]
@@ -390,7 +386,7 @@ msgstr "拖延症"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:56
 msgid "Lose an important prisoner in <i>Plunging Into Darkness</i>."
-msgstr "在<i>突入黑暗</i>中失去一名重要俘虏。"
+msgstr "在《突入黑暗》中失去一名重要俘虏。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:56
@@ -400,7 +396,7 @@ msgstr "哎哟……"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:57
 msgid "Complete <i>The Swamp of Dread</i> without capturing any villages."
-msgstr "在不占领任何村庄的情况下完成<i>恐惧沼泽</i>。"
+msgstr "在不占领任何村庄的情况下完成《恐惧沼泽》。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:57
@@ -427,12 +423,12 @@ msgstr "突击队"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:61
 msgid "Complete <i>A Crisis of Leadership</i> without recruiting."
-msgstr "在不征募任何单位的情况下完成<i>领导危机</i>。"
+msgstr "在不征募任何单位的情况下完成《领导危机》。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:62
 msgid "Complete <i>Cliffs of Thoria</i> without capturing any drake villages."
-msgstr "不占领任何龙人村庄而完成<i>索丽亚之崖</i>。"
+msgstr "不占领任何龙人村庄而完成《索丽亚之崖》。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:62
@@ -442,7 +438,7 @@ msgstr "和平主义者"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:63
 msgid "Defeat the Saurian leader in <i>Underground Channels</i>."
-msgstr "在<i>地下通道</i>中击败蜥蜴人首领。"
+msgstr "在《地下通道》中击败蜥蜴人首领。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:63
@@ -490,7 +486,7 @@ msgstr "玩忽职守"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:71
 msgid "Complete <i>The Battle for Wesnoth</i> after autumn of year 524."
-msgstr "在524年秋季之后完成<i>韦诺之战</i>。"
+msgstr "在524年秋季之后完成《韦诺之战》。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:72
@@ -510,7 +506,7 @@ msgstr "少有人走的路"
 msgid ""
 "Complete <i>The Battle for Wesnoth</i> on Deadly difficulty without burning "
 "the locals’ farms."
-msgstr "在极难难度完成<i>韦诺之战</i>，且不烧毁当地人的农田。"
+msgstr "在极难难度完成《韦诺之战》，且不烧毁当地人的农田。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:73
@@ -1719,12 +1715,10 @@ msgstr ""
 msgid "Dulatus Hills"
 msgstr "杜拉图斯丘陵"
 
-# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:93
-#, fuzzy
 msgid "Merle"
-msgstr "梅尔"
+msgstr "默尔"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:125
@@ -1838,16 +1832,14 @@ msgstr ""
 msgid "Welcome back, prince. Soon I might be calling you “king.”"
 msgstr "欢迎回来，王子。说不定很快我就得管你叫“国王”了。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #. $bm_merle_stored_gold may be between 0 and 100. $gold may be between 0 and infinity
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:219
-#, fuzzy
 msgid ""
 "I have $bm_merle_stored_gold gold stored with Merle, and $gold gold in my "
 "coffers."
 msgstr ""
-"我在梅尔那里存了 $bm_merle_stored_gold 枚金币，我的金库里还有 $gold 枚金币。"
+"我在默尔那里存了 $bm_merle_stored_gold 枚金币，我的金库里还有 $gold 枚金币。"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:224
@@ -1875,12 +1867,10 @@ msgstr ""
 "或者，你要是真想的话，我觉得你这些钱够把咱整个村子都雇进你的军队了。要是你想"
 "这么干，我想我们大多数人都会愿意的。"
 
-# Translated by openai with model deepseek-flash.
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:252
-#, fuzzy
 msgid "Hire Merle’s village (lose all stored gold, learn to recruit Ruffians)"
-msgstr "雇佣梅尔的村子（失去所有存放的金币，学会招募恶棍）"
+msgstr "雇佣默尔的村子（失去所有存放的金币，学会征募无赖）"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:256
@@ -3460,7 +3450,7 @@ msgid ""
 "New Recruits\n"
 "<i><b>Choose Two</b></i>:"
 msgstr ""
-"可征募新兵\n"
+"可征募的新单位\n"
 "<i><b>选择两种</b></i>："
 
 #. [message]: speaker=Geldar
@@ -4246,17 +4236,15 @@ msgstr ""
 msgid "An ignominious end for a mage who’s caused us so much trouble."
 msgstr "对于给我们造成这么多麻烦的法师来说，这可真是一个不光彩的结局。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:86
-#, fuzzy
 msgid ""
 "From what Li’sar tells me, Mirya has recruited orcish clans for Asheviere in "
 "the past. It is good that we stopped her before she could bring this one "
 "into their fold too."
 msgstr ""
-"据莉莎告诉我，米尔雅过去曾为艾什薇尔招募兽人部族。幸好我们及时阻止了她，没让"
-"她把这支部族也拉拢过去。"
+"据莉莎告诉我，米莉娅过去曾为艾什薇尔征募兽人氏族。幸好我们及时阻止了她，没让"
+"她把这支也拉拢过去。"
 
 #. [message]: speaker=urag_tifer
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:92
@@ -4548,12 +4536,9 @@ msgstr ""
 msgid "Underground Channels"
 msgstr "地下通道"
 
-# Translated by openai with model deepseek-flash. Original text: Death of
-# Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:406
-#, fuzzy
 msgid "New Recruit for Delfador:"
-msgstr "为德法多招募新兵："
+msgstr "德法多可征募的新单位："
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:427
@@ -4870,17 +4855,15 @@ msgstr ""
 "那位可敬的领主不久前在战斗中负伤，随后向东退往林塔尼尔森林。他还没有平安抵达"
 "吗？那可不是好消息，因为他看上去是位睿智的精灵，也是位坚定的盟友。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:676
-#, fuzzy
 msgid ""
 "That bodes ill indeed. I do not believe he has perished, for Kalenz "
 "represents the best of us, and has survived many trials in times past. But I "
 "fear he has been waylaid by some mischief."
 msgstr ""
-"这确实是不祥之兆。我不相信他已殒命，因为卡雷兹代表了我们中最优秀者，过去也经"
-"历过无数磨难的考验。但我担心他途中遭了什么祸事拦截。"
+"这确实是不祥之兆。我不相信他已经死了，因为卡雷兹代表了我们中最优秀的人，过去"
+"他经历过许多考验都幸存了下来。但我担心他可能遭遇了某种不幸。"
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:680
@@ -5326,10 +5309,8 @@ msgstr ""
 "那些……在城墙上方俯冲的是狮鹫吗？艾什薇尔一定又试图夺取它们的蛋，但多亏我们的"
 "帮助，狮鹫已经强大到能够反击了！"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1273
-#, fuzzy
 msgid ""
 "That was a dark day... I remember it well. I urged the baron to flee, but in "
 "the end we chose to stand and fight — and it cost him his life. So many "
@@ -5482,20 +5463,16 @@ msgstr "莉莎"
 msgid "Explore Wesnoth"
 msgstr "探索韦诺"
 
-# Translated by openai with model deepseek-flash.
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:503
-#, fuzzy
 msgid ""
 "Build up your army ($( $bm_milestone_scepter - $bm_turns ) battles remaining)"
-msgstr "扩充你的军队（剩余 $( $bm_milestone_scepter - $bm_turns ) 场战斗）"
+msgstr "组建你的军队（剩余 $( $bm_milestone_scepter - $bm_turns ) 场战斗）"
 
-# Translated by openai with model deepseek-flash.
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:511
-#, fuzzy
 msgid "Build up your army (1 battle remaining)"
-msgstr "扩充你的军队（剩余 1 场战斗）"
+msgstr "组建你的军队（剩余 1 场战斗）"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:524
@@ -5534,12 +5511,10 @@ msgstr "准备迎战艾什薇尔（剩余 1 场战斗）"
 msgid "Defeat the Dark Queen and reclaim your throne."
 msgstr "击败黑暗女王，夺回你的王座。"
 
-# Translated by openai with model deepseek-flash.
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:596
-#, fuzzy
 msgid "Explore Wesnoth and build up your army"
-msgstr "探索韦诺并扩充你的军队"
+msgstr "探索韦诺并组建你的军队"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:600
@@ -5933,15 +5908,13 @@ msgid ""
 "happened to Eldred."
 msgstr "作战计划已获批准，殿下。您母亲还补充道——记住埃雷德的下场。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1093
-#, fuzzy
 msgid ""
 "I know the risks, but Elensefar has dragged on for far too long already. "
 "Wizard or no, we have to finish things before we overextend."
 msgstr ""
-"我知道有风险，但埃仁撒伐的战事已经拖得太久了。不管有没有法师，我们都必须在战"
+"我知道有风险，但埃仁撒伐的战事已经拖得太久了。不管有没有巫师，我们都必须在战"
 "线过度延伸之前做个了结。"
 
 #. [message]: speaker=Delfador
@@ -5949,19 +5922,17 @@ msgstr ""
 msgid "Well done, Konrad. We must now consider how to proceed."
 msgstr "干得好，科纳德。我们现在必须考虑下一步该如何行动。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1127
-#, fuzzy
 msgid ""
 "Our victory at Elensefar has been a great blow to Asheviere, but her thumb "
 "firmly remains upon the core cities of central Wesnoth. We have not the "
 "strength to challenge her in her domain. Even if we did, such a war would "
 "kill untold numbers."
 msgstr ""
-"我们在埃仁撒伐的胜利对艾什薇尔是一次沉重打击，但她的铁腕仍牢牢掌控着韦诺中部"
-"的核心城市。我们没有力量在她的领地上挑战她。就算有，这样的战争也会夺去无数人"
-"的性命。"
+"我们在埃仁撒伐的胜利对艾什薇尔是一次沉重的打击，但她的铁腕仍牢牢掌控着韦诺中"
+"部的核心城市。我们没有力量在她的领地上挑战她。就算有，这样的战争也会夺去无数"
+"人的性命。"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1131
@@ -6289,24 +6260,20 @@ msgstr ""
 "没错，公主小姐。既然你们是俺们的盟友，俺想你不会介意捐上这 $ford_cost 金币"
 "吧。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1537
-#, fuzzy
 msgid "Good news or bad news, Mirya. Are we too late?"
-msgstr "好消息还是坏消息，米尔娅。我们来晚了吗？"
+msgstr "好消息还是坏消息，米莉娅。我们来晚了吗？"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1541
-#, fuzzy
 msgid ""
 "They definitely have a lead on the Sceptre — of that I’m certain, Your "
 "Highness. But your “cousin” has only just arrived. They can’t yet have "
 "reached it."
 msgstr ""
-"他们肯定已经掌握了圣火权杖的线索——这点我确信，殿下。但您那位“表亲”才刚刚抵"
-"达。他们不可能已经赶到那里。"
+"他们肯定已经掌握了权杖的线索——这点我确信，殿下。但您那位“表弟”才刚刚抵达。他"
+"们不可能已经赶到那里。"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1545
@@ -6399,10 +6366,8 @@ msgstr ""
 msgid "Crier"
 msgstr "传令官"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1621
-#, fuzzy
 msgid ""
 "Hear ye, hear ye! I bring tidings to the Lord Konrad from Her Majesty the "
 "Queen!"
@@ -7272,8 +7237,8 @@ msgstr "死亡不超过15：可征募精灵弓箭手"
 msgid "10 or fewer deaths: recruit Elvish Scouts"
 msgstr "死亡不超过10：可征募精灵侦察兵"
 
-#. [objective]: condition=win, description=  
-#. [objective]: condition=win, description=<span strikethrough='true' color='#A9A9A9'>  
+#. [objective]: condition=win, description=
+#. [objective]: condition=win, description=<span strikethrough='true' color='#A9A9A9'>
 #. if 5 or fewer elves die, Konrad will learn to recruit Elvish Fighters
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:339
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:346
@@ -15358,10 +15323,8 @@ msgstr "选择矮人雷霆战士和狂狼战士"
 msgid "Konrad can now recruit Dwarvish Thunderers and Ulfserkers!"
 msgstr "科纳德现在可以征募矮人雷霆战士和狂狼战士了！"
 
-# Translated by openai with model deepseek-flash.
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:545
-#, fuzzy
 msgid "Ask for more"
 msgstr "要求更多"
 
@@ -15384,10 +15347,8 @@ msgstr ""
 "是啊，俺本来还想着在西边大厅里安安稳稳过完这辈子，可如今咱俩都落到这儿了。俺"
 "们实在匀不出更多人手了，科纳德，哪怕你是王子也不行。"
 
-# Translated by openai with model deepseek-flash.
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:562
-#, fuzzy
 msgid "Refuse payment"
 msgstr "拒绝报酬"
 
@@ -20022,10 +19983,8 @@ msgid ""
 msgstr ""
 "一场英勇的战斗！但最终我仍被击败——难以置信。我会加入你们，科纳德、莉莎。"
 
-# Translated by openai with model deepseek-flash.
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:612
-#, fuzzy
 msgid ""
 "Bah, a humiliating defeat! But a defeat nonetheless. Let it not be said that "
 "Sir Rugan is without honor — as agreed, I will join your army."
@@ -20792,13 +20751,10 @@ msgstr ""
 "更可能是你故意绕远路，指望避开最激烈的战斗。巴亚尔，哀家对你期望更高。此事战"
 "后再议。"
 
-# Translated by openai with model deepseek-flash. Original text: Fools! We
-# will run you down like dogs!
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2106
-#, fuzzy
 msgid "Ignore him. Run them down like dogs."
-msgstr "别理他。把他们像狗一样碾死。"
+msgstr "别理他。把他们打得有如丧家之犬。"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2114
@@ -21166,15 +21122,13 @@ msgstr ""
 "多什回到北方，他的战斗事迹和（作为巨魔而言）非凡的智慧使他颇有名气。后来，他"
 "聚集了足够多的追随者，建立了自己的氏族，并作为酋长明智地统治着它。"
 
-# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2435
-#, fuzzy
 msgid ""
 "Konrad kept his promise to Merle, channeling gold and attention towards the "
 "Dulatus hills. That place became known as a home of great craftsmen."
 msgstr ""
-"科纳德遵守了对梅尔的承诺，将黄金和关注投向杜拉图斯丘陵。那个地方后来以伟大工"
+"科纳德遵守了对默尔的承诺，将黄金和关注投向杜拉图斯丘陵。那个地方后来以伟大工"
 "匠之乡而闻名。"
 
 #. [event]
@@ -22091,24 +22045,20 @@ msgstr ""
 "凭借受祝福之剑，并将圣光引向治愈自身伤口，这样的战士足以成为对抗一切非自然之"
 "物的有力盟友。"
 
-# Translated by openai with model deepseek-flash.
 #. [unit_type]: id=Caravan, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:5
-#, fuzzy
 msgid "Caravan"
-msgstr "篷车"
+msgstr "大篷车"
 
-# Translated by openai with model deepseek-flash.
 #. [unit_type]: id=Caravan, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:19
-#, fuzzy
 msgid ""
 "Caravans are used to carry gold or supplies across long distances. Because "
 "of the immense weight of the cargo this caravan carries, it is not nimble, "
 "but the driver can still try to drive off attackers with his whip."
 msgstr ""
-"篷车用于长途运送黄金或补给。由于这辆篷车所载的货物极为沉重，它并不灵活，但车"
-"夫仍可尝试用鞭子击退攻击者。"
+"大篷车经常长距离运输黄金或是供给品。由于装载的货物非常沉重，大篷车并不灵活，"
+"但司机还是可以用辫子赶走袭击者。"
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:29
@@ -22642,23 +22592,19 @@ msgid ""
 "Where do you hail from?"
 msgstr "莫密尔姆，我见过白袍法师，但从没见过像你这样的人。你来自哪里？"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Moremirmu
 #. this is a hint that there's a special event for bringing Moremirmu to the monastery in the Gryphon Mountains
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:439
-#, fuzzy
 msgid ""
 "From the great monastery of the seal, good Konrad! It is by the grace of the "
 "Light that I was rescued and raised there, high in the Gryphon Mountains. We "
 "ought to visit there someday."
 msgstr ""
-"我来自圣印大修道院，好科纳德！正是蒙圣光恩典，我才在高高的狮鹫山脉中被救起，"
-"并在那里长大。有朝一日，我们应当去那里看看。"
+"我来自圣印大修道院，好科纳德！正是蒙圣光恩典，我才在高高的狮鹫山中被救起，并"
+"在那里长大。有朝一日，我们应当去那里看看。"
 
-# Translated by openai with model deepseek-flash.
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:443
-#, fuzzy
 msgid ""
 "Now, I have taken up the sword and ventured forth in search of evil to "
 "smite. And lo! You and I united, and lo! Now we quest together against the "
@@ -23250,35 +23196,29 @@ msgstr ""
 msgid "sceptre of fire"
 msgstr "圣火权杖"
 
-# Translated by openai with model deepseek-flash.
 #. [object]: id=royal_chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:276
-#, fuzzy
 msgid "Royal Chainmail"
 msgstr "王室锁子甲"
 
-# Translated by openai with model deepseek-flash.
 #. [object]: id=royal_chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:277
-#, fuzzy
 msgid ""
 "Masterfully crafted by Weldyn smiths, then magically duplicated and enhanced "
 "by Delfador, this armor grants Konrad +40% resistance to all damage."
 msgstr ""
 "这套护甲由维尔帝的铁匠精心锻造，再由德法多以魔法复制并强化，使科纳德对所有伤"
-"害的抗性提高 40%。"
+"害的抗性提高 40%."
 
-# Translated by openai with model deepseek-flash.
 #. [dummy]: id=chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:282
-#, fuzzy
 msgid "chainmail"
 msgstr "锁子甲"
 
 #. [dummy]: id=chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:283
 msgid "This unit gains +40% resistance to all damage."
-msgstr "该单位对所有伤害的抗性提高 40%。"
+msgstr "该单位对所有伤害的抗性提高 40%."
 
 #. [object]: id=moonbow
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:309
@@ -23318,26 +23258,19 @@ msgstr "+再生"
 msgid "Take heart, men! Rally and avenge the fallen!"
 msgstr "振作起来，弟兄们！重整旗鼓，为阵亡者复仇！"
 
-# Translated by openai with model deepseek-flash.
 #. [object]: id=amulet
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:489
-#, fuzzy
 msgid "Artificer’s Amulet"
-msgstr "工匠护符"
+msgstr "工匠护身符"
 
-# Translated by openai with model deepseek-flash. Original text: Item for
-# Konrad: <span color='#EFBF04'><b>Regenerate 1 HP each turn. This value
-# doubles
-# (2, 4, 8, etc) for each other magic item that Konrad wields.</b></span>
 #. [object]: id=amulet
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:490
-#, fuzzy
 msgid ""
 "This oddly shaped talisman siphons energy from nearby magical items, healing "
 "Konrad for 1 HP each turn. This value doubles (2, 4, 8, etc) for each other "
 "magic item that Konrad wields."
 msgstr ""
-"这件形状奇特的护符会从附近的魔法物品中汲取能量，每回合为科纳德恢复 1 点生命"
+"这件形状奇特的护身符会从附近的魔法物品中汲取能量，每回合为科纳德恢复 1 点生命"
 "值。科纳德每多持有一件魔法物品，此数值便翻倍（2、4、8 等）。"
 
 #. [menu]: id=menu-main
