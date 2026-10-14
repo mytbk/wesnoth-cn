@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-13 22:46+0800\n"
+"PO-Revision-Date: 2026-10-14 22:22+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -301,12 +301,10 @@ msgstr "侠盗马车"
 msgid "Arrive on the north shore at the start of <i>The Ford of Abez</i>."
 msgstr "在《雅碧滩》开始时抵达北岸。"
 
-# Translated by openai with model deepseek-flash.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:44
-#, fuzzy
 msgid "Switcheroo"
-msgstr "偷梁换柱"
+msgstr "反其道而行"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:47
@@ -359,19 +357,16 @@ msgid ""
 "Complete <i>The Lost General</i> while only recruiting or recalling Merfolk."
 msgstr "仅征募或召回人鱼，完成《失落的将军》。"
 
-# Translated by openai with model deepseek-flash.
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:52
-#, fuzzy
 msgid "Bring the proper equipment to <i>Digging for Dwarves</i>."
-msgstr "带上合适的装备前往<i>挖掘矮人</i>。"
+msgstr "带上合适的装备《掘洞寻矮人》。"
 
-# Translated by openai with model deepseek-flash.
+# Minecraft 是个游戏名，同时带有 "mine" 一词提示要带矿工。为保持双关性，此处不做翻译。
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:52
-#, fuzzy
 msgid "Minecraft"
-msgstr "我的世界"
+msgstr "Minecraft"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:55
@@ -2858,12 +2853,10 @@ msgid ""
 "you on our side."
 msgstr "欢迎加入反抗艾什薇尔的反抗军，人鱼朋友。我很高兴你能站在我们这边。"
 
-# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:361
-#, fuzzy
 msgid "Ashen’s Maw"
-msgstr "灰烬之喉"
+msgstr "灰烬之渊"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:370
@@ -3356,12 +3349,10 @@ msgstr ""
 "他们与纳尔迦的联盟曾十分牢固，但即便人类与矮人联手，也挡不住兽人大军。如今它"
 "竟成了兽人铁蹄下的奴隶之城！"
 
-# Translated by openai with model deepseek-flash.
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1068
-#, fuzzy
 msgid "Caverns of Chaincolt"
-msgstr "钱科尔特洞窟"
+msgstr "锁链马洞窟"
 
 #. [scenario]: id=28_The_Lost_General
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1079
@@ -3437,13 +3428,11 @@ msgstr "格尔达"
 msgid "Relgorn"
 msgstr "瑞尔高恩"
 
-# Translated by openai with model deepseek-flash.
 #. [scenario]: id=29_Digging_for_Dwarves
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1187
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:9
-#, fuzzy
 msgid "Digging for Dwarves"
-msgstr "挖掘矮人"
+msgstr "掘洞寻矮人"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1191
 msgid ""
@@ -7237,8 +7226,8 @@ msgstr "死亡不超过15：可征募精灵弓箭手"
 msgid "10 or fewer deaths: recruit Elvish Scouts"
 msgstr "死亡不超过10：可征募精灵侦察兵"
 
-#. [objective]: condition=win, description=
-#. [objective]: condition=win, description=<span strikethrough='true' color='#A9A9A9'>
+#. [objective]: condition=win, description=  
+#. [objective]: condition=win, description=<span strikethrough='true' color='#A9A9A9'>  
 #. if 5 or fewer elves die, Konrad will learn to recruit Elvish Fighters
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:339
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:346
