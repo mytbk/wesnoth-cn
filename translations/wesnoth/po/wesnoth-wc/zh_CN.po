@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2025-12-14 13:55+0800\n"
+"POT-Creation-Date: 2026-06-23 03:16 UTC\n"
+"PO-Revision-Date: 2026-10-18 10:32+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.9\n"
 
 #. [era]: id=world_conquest_era
 #: data/campaigns/World_Conquest/_main.cfg:41
@@ -157,7 +157,7 @@ msgid "The Hand"
 msgstr "神手"
 
 #. [world_conquest_data]
-#: data/campaigns/World_Conquest/era/factions/The_Hand.cfg:17
+#: data/campaigns/World_Conquest/era/factions/The_Hand.cfg:16
 msgid "Dune Rider, Knalgan Alliance and Drakes"
 msgstr "沙丘骑手、纳尔迦联盟和龙人"
 
@@ -1680,7 +1680,7 @@ msgid "Enemies"
 msgstr "敌军"
 
 #. [lua]: add_player_side
-#: data/campaigns/World_Conquest/lua/map/scenario_utils/side_definitions.lua:60
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/side_definitions.lua:61
 msgid "Allies"
 msgstr "盟军"
 
@@ -1841,8 +1841,13 @@ msgid "Charged with intense magic, this shield generates a forcefield causing ad
 msgstr "这面盾中充盈着强烈的魔力，将产生力场，使相邻敌人在装备者周围造成的伤害减少。"
 
 #. [leadership]: id=forcefield
-#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:249 data/campaigns/World_Conquest/resources/data/artifacts.cfg:250
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:249
 msgid "forcefield"
+msgstr "力场"
+
+#. [leadership]: id=forcefield
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:250
+msgid "female^forcefield"
 msgstr "力场"
 
 #. [leadership]: id=forcefield
@@ -1936,7 +1941,7 @@ msgid "Medicinal herbs"
 msgstr "药草"
 
 #. [artifact]
-#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:420 data/campaigns/World_Conquest/resources/strings/mainline.cfg:5
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:420 data/campaigns/World_Conquest/resources/strings/mainline.cfg:4
 msgid "heals +8, cures"
 msgstr "疗伤 +8，疗毒"
 
@@ -2071,8 +2076,13 @@ msgid "This tormented sword causes rage in any who wield it. Melee attacks will 
 msgstr "这把磨损的剑会让任何挥舞它的人感到愤怒。近战攻击将获得狂怒能力，强制交战3回合。"
 
 #. [berserk]: id=wct_fury
-#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:624 data/campaigns/World_Conquest/resources/data/artifacts.cfg:625
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:624
 msgid "fury"
+msgstr "狂怒"
+
+#. [berserk]: id=wct_fury
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:625
+msgid "female^fury"
 msgstr "狂怒"
 
 #. [berserk]: id=wct_fury
@@ -2111,8 +2121,13 @@ msgid "This cursed outfit spreads a trail of darkness, harming those who get too
 msgstr "这件被诅咒的外装会散布黑暗之痕迹，伤害那些过于接近者。"
 
 #. [illuminates]: id=darkness
-#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:674 data/campaigns/World_Conquest/resources/data/artifacts.cfg:675
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:674
 msgid "darkness"
+msgstr "黑暗"
+
+#. [illuminates]: id=darkness
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:675
+msgid "female^darkness"
 msgstr "黑暗"
 
 #. [illuminates]: id=darkness
@@ -2121,8 +2136,13 @@ msgid "This unit darkens the surrounding area, making chaotic units fight better
 msgstr "此单位使周围区域变暗，使混沌单位的战斗力上升，而守序单位的战斗力下降。任何与此单位相邻的单位，在昼间如同在黄昏战斗，而在黄昏则如同在夜间战斗。"
 
 #. [dummy]: id=wc2_corruption
-#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:681 data/campaigns/World_Conquest/resources/data/artifacts.cfg:682
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:681
 msgid "corruption"
+msgstr "腐蚀"
+
+#. [dummy]: id=wc2_corruption
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:682
+msgid "female^corruption"
 msgstr "腐蚀"
 
 #. [dummy]: id=wc2_corruption
@@ -2201,8 +2221,13 @@ msgid "This inspiring banner rallies the bearer’s allies to war, imparting a d
 msgstr "这面鼓舞人心的旗帜使持旗者的友军集结开战，使周围的友军单位伤害上升。"
 
 #. [leadership]: id=banner
-#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:784 data/campaigns/World_Conquest/resources/data/artifacts.cfg:785
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:784
 msgid "banner"
+msgstr "战旗"
+
+#. [leadership]: id=banner
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:785
+msgid "female^banner"
 msgstr "战旗"
 
 #. [leadership]: id=banner
@@ -2347,20 +2372,30 @@ msgstr "$range|：$special|"
 
 #. [chance]
 #. [skirmisher]: id=distract
-#: data/campaigns/World_Conquest/resources/data/training.cfg:378 data/campaigns/World_Conquest/resources/data/training.cfg:403 data/campaigns/World_Conquest/resources/data/training.cfg:404
+#: data/campaigns/World_Conquest/resources/data/training.cfg:378 data/campaigns/World_Conquest/resources/data/training.cfg:403
 msgid "distract"
 msgstr "分神"
 
 #. [chance]
 #. [resistance]: id=tenacity
-#: data/campaigns/World_Conquest/resources/data/training.cfg:390 data/campaigns/World_Conquest/resources/data/training.cfg:427 data/campaigns/World_Conquest/resources/data/training.cfg:428
+#: data/campaigns/World_Conquest/resources/data/training.cfg:390 data/campaigns/World_Conquest/resources/data/training.cfg:427
 msgid "tenacity"
 msgstr "顽强"
+
+#. [skirmisher]: id=distract
+#: data/campaigns/World_Conquest/resources/data/training.cfg:404
+msgid "female^distract"
+msgstr "分神"
 
 #. [skirmisher]: id=distract
 #: data/campaigns/World_Conquest/resources/data/training.cfg:405
 msgid "Allied units ignore enemy zones of control adjacent to this unit."
 msgstr "友方单位无视与此单位相邻的敌方控制区域。"
+
+#. [resistance]: id=tenacity
+#: data/campaigns/World_Conquest/resources/data/training.cfg:428
+msgid "female^tenacity"
+msgstr "顽强"
 
 #. [resistance]: id=tenacity
 #: data/campaigns/World_Conquest/resources/data/training.cfg:429
