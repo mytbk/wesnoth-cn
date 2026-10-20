@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-17 19:27+0800\n"
+"PO-Revision-Date: 2026-10-20 21:14+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Poedit 3.10\n"
 
 #. [editor_group]: id=heir_2_the_throne
 #. [campaign]: id=Heir 2 The Throne
@@ -14626,7 +14626,7 @@ msgid ""
 "day you shall be free!</i>"
 msgstr ""
 "至少我们尽力帮助了那些在此被奴役的人。对那些仍留下的人，对那些我们未能拯救的"
-"人，我要说：<b>坚守希望，终有一日，你们将重获自由！</b>"
+"人，我要说：<b>坚守希望，终有一日，你们必得自由！</b>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:565
