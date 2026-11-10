@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-10-21 02:43 UTC\n"
-"PO-Revision-Date: 2026-11-03 19:47+0800\n"
+"PO-Revision-Date: 2026-11-10 15:08+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -213,7 +213,7 @@ msgstr "在《被诅咒者之岛 II》中击杀所有巨蛛。"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
 msgid "Complete <i>The Siege of Elensefar</i> on Deadly difficulty."
-msgstr "在极难难度下完成《围攻埃仁撒伐》。"
+msgstr "在极难难度下完成《埃仁撒伐之围》。"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
@@ -1566,7 +1566,7 @@ msgstr "哈尔斯特德"
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1526
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:16
 msgid "The Siege of Elensefar"
-msgstr "围攻埃仁撒伐"
+msgstr "埃仁撒伐之围"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1658
