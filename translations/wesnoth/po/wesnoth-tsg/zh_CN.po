@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.19\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-26 10:35+0800\n"
+"PO-Revision-Date: 2026-11-21 13:44+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Poedit 3.10\n"
 
 #. [campaign]: id=The_South_Guard
 #. [achievement_group]
@@ -5194,7 +5194,7 @@ msgid ""
 "You’ve gone mad! Whatever you once were, you are nothing but evil now! Once "
 "Minister Hylas and I defeat you, these lands will finally be safe."
 msgstr ""
-"你疯了！无论你曾经是什么，你现在除了邪恶什么也不是！一旦我和格里克爵士击败"
+"你疯了！无论你曾经是什么，你现在除了邪恶什么也不是！一旦我和海拉斯辅佐官击败"
 "你，这片土地终将安全。"
 
 #. [message]: speaker=Deoran
