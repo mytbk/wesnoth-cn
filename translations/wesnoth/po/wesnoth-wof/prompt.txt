@@ -127,6 +127,18 @@ Isle of Gaall 加尔岛
 
 ---
 
+待译原文有一条或多条，按固定格式提供，例如：
+
+<src><id>0</id><text>msg1 to translate</text></src>
+<src><id>1</id><text>msg2 to translate</text></src>
+<src><id>2</id><text>msg3 to translate</text></src>
+
+最终输出：
+
+<translate><id>0</id><text>translated text1</text></translate>
+<translate><id>1</id><text>translated text2</text></translate>
+<translate><id>2</id><text>translated text3</text></translate>
+
 **源文件中的上下文**:
 
 ```
@@ -138,11 +150,3 @@ Isle of Gaall 加尔岛
 ```
 %(msgid)s
 ```
-
-**语境注释**：
-
-```
-%(comment)s
-```
-
-请根据背景知识、上下文和语境注释，分析待翻译的文字的含义，根据翻译要求翻译为简体中文。最终的翻译放在 <translate></translate> 标签里面。
