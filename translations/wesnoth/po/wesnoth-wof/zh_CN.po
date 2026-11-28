@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.20\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-11-12 11:44+0800\n"
+"PO-Revision-Date: 2026-11-28 21:07+0800\n"
 "Last-Translator: vimacs <vimacs.hacks@gmail.com>\n"
 "Language-Team: Wesnoth Simplified Chinese Team\n"
 "Language: zh_CN\n"
@@ -32,10 +32,8 @@ msgstr "命运之风"
 msgid "WoF"
 msgstr "WoF"
 
-# Translated by openai with model deepseek-flash.
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:19
-#, fuzzy
 msgid ""
 "As the once plentiful hunting grounds of Morogor slip below the waves, war "
 "looms between drakes driven rogue by hunger and those still honorable. Yet "
@@ -45,7 +43,7 @@ msgid ""
 msgstr ""
 "当莫罗戈昔日丰饶的猎场渐渐沉入波涛之下，龙人之间战事将起：一边是被饥饿逼得叛"
 "离正道的龙人，一边是仍守荣誉的龙人。然而命运之风或许正在转向——受远方辽阔大地"
-"的传说激励，一群羽翼初成的猎手已整装待发，要带领同族踏上救赎之旅。"
+"的传说激励，一群羽翼初成的猎手已整装待发，带领同族踏上救赎之旅。"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:21
@@ -72,7 +70,7 @@ msgstr "简单"
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:25
 msgid "Intendant"
-msgstr "辅佐者"
+msgstr "辅政官"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:25
@@ -136,38 +134,30 @@ msgstr "狩猎"
 #. In this campaign, the drake narrator and other drake characters speak with the Morogor dialect, which has some unique syntax and terms.
 #. The file data/campaigns/Winds_of_Fate/story/Morogor_Dialect.txt has details about how these drakes speak in English, as well as a glossary for the campaign.
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:20
-#, fuzzy
 msgid "From the skies above, the glider caste felt the Winds."
-msgstr "高天之上，滑翔者种姓感知到了风。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:23
-#, fuzzy
 msgid ""
 "They saw the diminishment of our nourishing lands as the isles of Morogor "
 "slipped into the sea. They heard the cries of starving hatchlings before the "
 "wasting’s eternal hush."
 msgstr ""
-"他们看见莫罗戈诸岛沉入海中，我们滋养众生的土地随之萎缩；他们听见饥饿幼龙的哭"
-"喊，随后是凋零带来的永恒寂静。"
 
 # Translated by openai with model deepseek-flash.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:26
-#, fuzzy
 msgid ""
 "Newer flights scraped out a meager existence on islets of rock their "
 "ancestors would have scorned. With envious eyes these flights gazed upon the "
 "green expanses of the central isles. Then it began..."
 msgstr ""
-"较新的翼群在先祖曾不屑一顾的岩礁上勉强度日。这些翼群以嫉妒的目光望向中央群岛"
-"苍翠的广袤。然后，一切开始了……"
 
 # Translated by openai with model deepseek-flash.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:29
-#, fuzzy
 msgid ""
 "One by one, the most desperate flights turned rogue. They broke the long "
 "peace among drakes by invading the domains of their neighbors. One by one, "
@@ -175,15 +165,11 @@ msgid ""
 "Still more turned; two by two, then four by four. Soon enough there would be "
 "more flights to betray the Ways of Morogor than uphold them."
 msgstr ""
-"最绝望的翼群一个接一个沦为叛群。它们入侵邻邦的领地，打破了龙人之间长久的和"
-"平。依照莫罗戈法典，叛群又被尊崇法典的翼群逐一消灭。仍有更多翼群倒戈；两个两"
-"个，然后四个四个。很快，背叛莫罗戈法典的翼群将多过维护它的翼群。"
 
 # Translated by openai with model deepseek-flash.
 #. [part]
 #. The ‘sea skimmers’ referred to here are the human and orc ships in TRoW.
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:33
-#, fuzzy
 msgid ""
 "It was in this dark time the glider caste felt a familiar Windpath under "
 "their wings, a path newly recast from the twisting Winds of Fate. Curious "
@@ -194,31 +180,21 @@ msgid ""
 "return. Just the same, the ancient glider caste had more than a notion of "
 "their destination."
 msgstr ""
-"正是在这黑暗岁月，滑翔者种姓在翼下感知到一条熟悉的风途——一条由翻涌的命运之风"
-"重新铺成的路径。奥玛拉斯岛上出现了奇异的陆行生物。它们乘木制海掠船渡海，从地"
-"平线一端的彼方驶向另一端。即便是最强的翼，也无法安全追随它们到那么远的地方，"
-"唯恐越过有去无回的界限。尽管如此，古老的滑翔者种姓对它们的目的地，并非只有模"
-"糊的猜测。"
 
 # Translated by openai with model deepseek-flash.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:36
-#, fuzzy
 msgid ""
 "For their Spoken Memories told what other castes had forgotten. There are "
 "lands beyond Morogor, across the Great Ocean. From there drakes came long "
 "ago. To this wider world we needed return."
 msgstr ""
-"因为他们的口述史记下了其他种姓早已遗忘的事：莫罗戈之外，隔着泰洋，仍有陆地；"
-"很久以前，龙人正是从那里而来。我们必须回到这更广阔的世界。"
 
-# Translated by openai with model deepseek-flash.
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:47
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:132
-#, fuzzy
 msgid "Gorlack’s Wing"
-msgstr "戈拉克翼队"
+msgstr "戈拉克的翼队"
 
 #. [side]
 #. [part]
@@ -312,7 +288,6 @@ msgstr "捕获了20只猎物之中的$kill_total个"
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:153
-#, fuzzy
 msgid ""
 "Behold, the Isle of Gaall.\n"
 "The most perilous hunting ground in the Domain of Vladnir.\n"
@@ -321,53 +296,36 @@ msgid ""
 "to this place.\n"
 "Only to become its prey."
 msgstr ""
-"看吧，加尔岛。\n"
-"维拉德尼尔领地中最凶险的猎场。\n"
-"\n"
-"许多猎手受自家幼龙饥饿啼声驱使，来到此地。\n"
-"却成了它的猎物。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:161
-#, fuzzy
 msgid ""
 "Our trial for aspirancy has come at last.\n"
 "The hunt that awaits us below will prove a worthy test."
 msgstr ""
-"我们的竞位试炼终于来了。\n"
-"下方等待我们的狩猎，将是配得上我们的考验。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:166
-#, fuzzy
 msgid ""
 "If only we could still count Karron among us...\n"
 "\n"
 "I fear without her aid this trial will outmatch us.\n"
 "We too may fall prey to this isle."
 msgstr ""
-"若我们之中仍有卡戎，那该多好……\n"
-"\n"
-"我担心，没有她的助力，我们敌不过这场试炼。\n"
-"我们也会沦为这座岛的猎物。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:173
-#, fuzzy
 msgid ""
 "Karron never was among us, verily.\n"
 "Her heart sought glory over our greater purpose."
 msgstr ""
-"卡戎从未真正与我们同行，诚然。\n"
-"她心向荣耀，胜过我们更大的目标。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:178
-#, fuzzy
 msgid ""
 "We need no further hunters to prevail here.\n"
 "No less of a challenge readies us for aspirancy.\n"
@@ -375,175 +333,131 @@ msgid ""
 "\n"
 "Call the Hunt."
 msgstr ""
-"要在此地取胜，我们无需更多猎手。\n"
-"这场挑战同样严酷，足以让我们为竞位做好准备。\n"
-"更不必等你种姓长久预言的复升。\n"
-"\n"
-"唤启狩猎。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:186
-#, fuzzy
 msgid ""
 "By your will— Hunters, descend!\n"
 "\n"
 "For the sake of our hatchlings, take all the prey you can carry!"
 msgstr ""
-"依你意志——猎手们，降落！\n"
-"\n"
-"为了我们的幼龙，带上你们能带的所有猎物！"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #. Drakes refer to aloe as “tailleaf” and use it medicinally the same way humans use yarrow.
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:197
-#, fuzzy
 msgid ""
 "Behold the many healing oases which dot this isle.\n"
 "Their cleansing waters purge miasma from wounds.\n"
 "While the tailleaf growing at their shores makes a fine poultice."
 msgstr ""
-"看吧，岛上散布着许多疗愈绿洲。\n"
-"它们的清水能洗净伤口，驱除瘴气。\n"
-"岸边生长的尾叶，可制成上好的药敷。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:203
-#, fuzzy
 msgid "Any of us injured during the hunt should seek an oasis for healing."
-msgstr "狩猎中受伤者，都应寻一处绿洲疗伤。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: type=Drake Fighter
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:220
-#, fuzzy
 msgid ""
 "Ah, it is you, Gorlack.\n"
 "\n"
 "In my fire for the hunt, I strayed from Karron’s pack.\n"
 "Then a bite from venomous prey drove my retreat here."
 msgstr ""
-"啊，是你，戈拉克。\n"
-"\n"
-"狩猎时我猎意太盛，离了卡戎的队伍。\n"
-"后来一只有毒猎物的咬伤，逼我退到了这里。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: type=Drake Fighter
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:229
-#, fuzzy
 msgid ""
 "The waters flowing from the Cenotaph of Kotick have purged the venom from my "
 "wound.\n"
 "I ask sanction to join your hunt, so I might now purge the dishonor of my "
 "folly."
 msgstr ""
-"从科蒂克衣冠冢流出的水，已洗净我伤口的毒。\n"
-"我请求准许加入你的狩猎，好洗去我愚行带来的耻辱。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:234
-#, fuzzy
 msgid ""
 "It was <i>Karron</i> that dishonored herself by not regathering you.\n"
 "\n"
 "My sanction is given."
 msgstr ""
-"没有重新召集你，令她自己蒙羞的是<b>卡戎</b>。\n"
-"\n"
-"我准许。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:255
-#, fuzzy
 msgid "So it is, that timid Gorlack attempts the Trial of Gaall."
-msgstr "原来怯懦的戈拉克也敢来闯加尔试炼。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:261
-#, fuzzy
 msgid "So it is, that brave Karron cowers within the Cenotaph of Morogor."
-msgstr "原来勇敢的卡戎，正缩在莫罗戈衣冠冢中。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:267
-#, fuzzy
 msgid "Karron, you are without companions."
-msgstr "卡戎，你身边没有同伴。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:271
-#, fuzzy
 msgid ""
 "One was slain.\n"
 "The other went astray."
 msgstr ""
-"一个被杀。\n"
-"另一个走失了。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:278
-#, fuzzy
 msgid "To attempt this trial with only two allies was unwise."
-msgstr "只带两名盟友来闯这场试炼，并不明智。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:282
-#, fuzzy
 msgid ""
 "Yet so have I already succeeded, <i>little glider</i>.\n"
 "All my prey-tokens are gathered; my hunt is ended."
 msgstr ""
-"可我已经这样成功了，<b>小滑翔者</b>。\n"
-"我的猎物凭证都已集齐；我的狩猎结束了。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:289
-#, fuzzy
 msgid "Then take your leave."
-msgstr "那你便去吧。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:293
-#, fuzzy
 msgid "As you wish."
-msgstr "如你所愿。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:299
-#, fuzzy
 msgid "...... Karron, hold."
-msgstr "……卡戎，站住。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:305
-#, fuzzy
 msgid ""
 "... It is perilous to depart from this place unaided.\n"
 "\n"
 "For your own sake, join us."
 msgstr ""
-"……独自离开此地，很危险。\n"
-"\n"
-"为了你自己，加入我们。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:311
-#, fuzzy
 msgid ""
 "Gorlack, it is purely for <b>your</b> sakes that I shall do so.\n"
 "One final time.\n"
@@ -552,31 +466,22 @@ msgid ""
 "You will taste humiliation at the contention.\n"
 "I shall deliver it."
 msgstr ""
-"戈拉克，我这样做，纯粹是为了<b>你们</b>。\n"
-"仅此一次。\n"
-"\n"
-"待这座岛落在身后，我们便重新以敌相对，分道而去。\n"
-"你会在竞位战中尝到羞辱。\n"
-"那羞辱将由我亲手送上。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: type=Fire Guardian
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:334
-#, fuzzy
 msgid "(<i>Crackle</i>)"
-msgstr "（<b>噼啪</b>）"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:338
-#, fuzzy
 msgid "Magnificent."
-msgstr "壮丽。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:342
-#, fuzzy
 msgid ""
 "That is a Teller.\n"
 "Perhaps the only beings elder than our Spoken Memories.\n"
@@ -584,34 +489,24 @@ msgid ""
 "In the Time of Beginning, they were great as stormclouds.\n"
 "Luminous as the skyfire of the same."
 msgstr ""
-"那是述者。\n"
-"或许，是唯一比我们的口述史更古老的存在。\n"
-"\n"
-"太初时代，他们如风暴云般伟岸，\n"
-"又如其间的天火般璀璨。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: type=Fire Guardian
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:353
-#, fuzzy
 msgid ""
 "Ward thyselves for it has arrived. The grey light that shades the living "
 "worlds. The calm wind that snuffs warm souls. The Faerie reached this world."
 msgstr ""
-"你们须自守，因它已到来。那灰光为生者世界投下阴影。那静风熄灭温热的灵魂。精界"
-"已抵达此世。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:357
-#, fuzzy
 msgid "It whispers..."
-msgstr "它在低语……"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:361
-#, fuzzy
 msgid ""
 "Before the world grew cold, the Tellers spoke to us our first Memories.\n"
 "Some of their wisdom, shared to us.\n"
@@ -621,130 +516,93 @@ msgid ""
 "\n"
 "“ Ward thyselves. The Faerie reached this world. ”"
 msgstr ""
-"在世界变冷之前，述者向我们讲述了最初的口述史。\n"
-"他们把自己的部分智慧，分享给我们。\n"
-"可如今他们只能低语，轻得无法听清。\n"
-"\n"
-"他们最后大声说出的话……\n"
-"\n"
-"“你们须自守。精界已抵达此世。”"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:377
-#, fuzzy
 msgid ""
 "There has never been time enough to waste on these glider myths.\n"
 "Yet you do so during <i>the hunt</i>.\n"
 "\n"
 "Gorlack, you have grown so very weak to this folly of Resha’s."
 msgstr ""
-"从没有足够的时间可浪费在这些滑翔者的神话上。\n"
-"可你偏在<b>狩猎</b>之时这么做。\n"
-"\n"
-"戈拉克，你竟被瑞莎的荒唐念头磨得如此软弱。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:393
-#, fuzzy
 msgid ""
 "Curse these nipping beasts!\n"
 "\n"
 "Gorlack, the rest are in your keeping; I must withdraw."
 msgstr ""
-"这些乱咬的畜生！\n"
-"\n"
-"戈拉克，其余同伴交你照看；我必须撤走。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:414
-#, fuzzy
 msgid "Victory is yours, <b>Aspirant</b> Gorlack."
-msgstr "胜利属于你，<b>竞位者</b>戈拉克。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:418
-#, fuzzy
 msgid ""
 "Learn from this trial, Resha.\n"
 "Your doubt voiced at the onset of this hunt; see now its futility."
 msgstr ""
-"瑞莎，从这场试炼中吸取教训。\n"
-"你在狩猎之初说出的疑虑，如今看看，何等无用。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:425
-#, fuzzy
 msgid ""
 "Your Windpath was well chosen.\n"
 "I was wrong to doubt your fearless heart, to which I owe my life."
 msgstr ""
-"你的风途选得很好。\n"
-"我不该怀疑你无畏的心；我欠它一条命。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:432
-#, fuzzy
 msgid ""
 "Gorlack... though you have forbade it, I must speak of <i>the cave</i>.\n"
 "\n"
 "My life–debt to you must be—"
 msgstr ""
-"戈拉克……尽管你禁止过，我还是必须说起<b>那个洞穴</b>。\n"
-"\n"
-"我欠你的命债，必须——"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:438
-#, fuzzy
 msgid ""
 "Nay!\n"
 "\n"
 "There is nothing more to be said of that place."
 msgstr ""
-"不！\n"
-"\n"
-"那个地方，再没有什么可说的。"
 
 # Translated by openai with model deepseek-flash.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:444
-#, fuzzy
 msgid ""
 "You know what lies ahead.\n"
 "Henceforth, we must look only to the future."
 msgstr ""
-"你知道前方有什么。\n"
-"从今往后，我们只能看向未来。"
 
 # Translated by openai with model deepseek-flash.
 #. [scenario]: id=02_Reclamation
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:5
-#, fuzzy
 msgid "Reclamation"
-msgstr "收复失地"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:19
-#, fuzzy
 msgid ""
 "Having risen to the rank of aspirant, Gorlack only needed perform an act of "
 "duty to secure his entry into the contention."
-msgstr "戈拉克已升为竞位者，只需履行一项职责，便能取得进入竞位战的资格。"
+msgstr ""
 
 # Translated by openai with model deepseek-flash.
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:22
-#, fuzzy
 msgid "The opportunity arose with a summons from Dominant Vladnir..."
-msgstr "翼主维拉德尼尔的一纸召令，带来了这样的机会……"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:27
@@ -759,12 +617,6 @@ msgid ""
 "This isle that was before bountiful with game is now laid bare by these "
 "infesters."
 msgstr ""
-"戈拉斯·奥姆之背信，仅是翼群间大战将至之序曲。\n"
-"众多目光，正注视着即将沦为流亡者的我等。\n"
-"彼等，正窥见我等之脆弱…\n"
-"\n"
-"即便此刻，一伙贪婪的陆生生物，仍在据守着我等最北端的岛屿。\n"
-"昔日软猎丰饶之岛，今已为入侵者所夺，寸草不留。"
 
 #. [part]
 #. [unit]: id=Vladnir, type=Drake Warden, role=dominant
@@ -810,12 +662,12 @@ msgstr "卡戎"
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:37
 msgid ""
 "So then let this pestilence be harvested in place of the meat it has taken!"
-msgstr "既如此，便以此灾殃之孽物，抵偿其所夺之血肉！"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:42
 msgid "Aspirant Karron, offer your ploy of attack."
-msgstr "竞位者卡戎，呈汝之攻策。"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:47
@@ -828,12 +680,6 @@ msgid ""
 "Wherever their defenses thin to feed a counter attack against me, the circle "
 "will fall upon."
 msgstr ""
-"自海上形成合围之势。\n"
-"不容任何逃脱。\n"
-"吾将窥破其防线最薄弱之处。\n"
-"继而突贯，直取最近之哨塔。\n"
-"据此集结兵力，肃清全岛。\n"
-"凡彼守备疏，以济其反击者，吾军必合击之。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:57
@@ -842,9 +688,6 @@ msgid ""
 "\n"
 "Now offer yours, Aspirant Gorlack."
 msgstr ""
-"严密之策，竞位者卡戎。\n"
-"\n"
-"该汝献策，竞位者戈拉克。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:64
@@ -859,15 +702,6 @@ msgid ""
 "On second dawn, second wing strikes opposite from northwest.\n"
 "Where they will find our prey’s back turned to them."
 msgstr ""
-"困兽犹斗，尤护其背。\n"
-"四面围猎，实为不智。\n"
-"当使猎物自以为得计。\n"
-"\n"
-"吾等分两翼势均龙人。\n"
-"首翼于破晓时分，突袭东南望塔。\n"
-"守军必以半数兵力驰援围剿。\n"
-"次晨第二翼自西北反向突袭。\n"
-"其时猎物背门洞开，尽现吾等之前。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:77
@@ -875,8 +709,6 @@ msgid ""
 "Your first wing would not last the day, Gorlack.\n"
 "It is you who speaks folly!"
 msgstr ""
-"汝之首翼，难支旦夕，戈拉克。\n"
-"斯言谬矣！"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:83
@@ -884,8 +716,6 @@ msgid ""
 "The wing will hold.\n"
 "I shall lead it myself to see that it does."
 msgstr ""
-"翼队坚守阵地。\n"
-"吾将亲率此翼，以保其成。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:89
@@ -895,9 +725,6 @@ msgid ""
 "\n"
 "I am curious as to why."
 msgstr ""
-"竞位者戈拉克，汝此番谋略首次凌驾于竞位者卡戎之上。\n"
-"\n"
-"余甚欲知其缘由。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:96
@@ -906,8 +733,6 @@ msgid ""
 "Urged by the touch of flame, this creature might breathe secrets for "
 "reaching far lands beyond the sea."
 msgstr ""
-"如此吾方可完好俘获硬猎之首。\n"
-"此生灵受焰舌驱策，或能吐露远渡重洋之秘途。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:102
@@ -917,9 +742,6 @@ msgid ""
 "waves.\n"
 "Every raindrop drowns more of the world till the sky itself is filled."
 msgstr ""
-"汝复虚掷光阴，沉吟瑞莎翔者之奇谈乎！\n"
-"纵彼远土，昔为翔者所颂，今亦沉于洪波。\n"
-"天雨不绝，渐吞寰宇，及至苍穹亦盈。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:109
@@ -929,10 +751,6 @@ msgid ""
 "These intruders are land bound.\n"
 "They can only be from distant land."
 msgstr ""
-"无翼。\n"
-"无鳍。\n"
-"此等入侵者困于陆地。\n"
-"必自远方而来。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:117
@@ -943,11 +761,6 @@ msgid ""
 "\n"
 "The Hunt is Called."
 msgstr ""
-"事既已定。\n"
-"竞位者戈拉克，此俘虏交由汝审讯。\n"
-"竞位者卡戎，汝领第二翼队。\n"
-"\n"
-"狩猎已启。"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:160
@@ -1010,7 +823,7 @@ msgstr "维拉加死亡"
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:287
 msgid "Karron’s Wing will attack from the northeast on turn 7"
-msgstr "卡戎之翼将于第7回合自东北方攻袭"
+msgstr "卡戎的翼队将于第7回合自东北方攻袭"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:296
@@ -1018,8 +831,6 @@ msgid ""
 "It seems by our swift approach we have evaded our foe’s notice.\n"
 "They have yet to rally a defense."
 msgstr ""
-"吾等疾行而至；敌尚未察。\n"
-"其未及列防。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:301
@@ -1027,15 +838,13 @@ msgid ""
 "We shall retake the nigh watchtower before they do so.\n"
 "From there we rally a defense of our own."
 msgstr ""
-"吾等必先彼夺回夜哨。\n"
-"自彼处吾将整吾翼群之防。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:306
 msgid ""
 "If we are to ensnare their leader unharmed, then we must surround it with "
 "our hunters."
-msgstr "若欲无损擒其首，吾等须以猎者围之。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:310
@@ -1045,18 +854,12 @@ msgid ""
 "Once we have our captive, burn their sea skimmers.\n"
 "The landbound prey may then be left for our younger hunters to harvest."
 msgstr ""
-"此乃汝之首务，瑞莎。\n"
-"\n"
-"待擒获彼等，焚其海面疾足之舟。  \n"
-"陆行硬猎可留予吾族新晋猎手收割。"
 
 #. [message]: speaker=Grag
 #. By ‘wyrms’ he is referring to the drakes in a belittling way.
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:327
 msgid "These vomiting wyrms again!? I HATE THEM!!!"
 msgstr ""
-"又是这些吐火的巨龙！？\n"
-"吾深厌之！！！"
 
 #. [message]: speaker=Viragar
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:337
@@ -1065,9 +868,6 @@ msgid ""
 "\n"
 "Pull our boats back and keep the fire breathers off them!"
 msgstr ""
-"列阵！列阵！各归其位，你们这些渣滓！巨龙正似雨般降落！\n"
-"\n"
-"把我们的船拉回来，别让这些喷火者靠近！"
 
 #. [message]: speaker=Viragar
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:357
@@ -1076,9 +876,6 @@ msgid ""
 "\n"
 "Wyrms breathe fire... boats are wood... fire is BAD for wood."
 msgstr ""
-"我命令你让船只远离巨龙，你们这些无用的渣滓！\n"
-"\n"
-"龙吐火…船为木…火将毁木。"
 
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:371
@@ -1087,8 +884,6 @@ msgid ""
 "woodworms.\n"
 "That makes more sense; never heard of fire breathing woodworms."
 msgstr ""
-"哦，喷火的“巨龙”，…还以为你说的是防蛀木之虫。\n"
-"这就合理了，没听说过蛀木之虫能喷火。"
 
 #. [message]: speaker=Viragar
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:378
@@ -1097,14 +892,11 @@ msgid ""
 "\n"
 "Harry them with everything you got, dung maggot!"
 msgstr ""
-"他们已经下定决心了，所以就进攻吧！\n"
-"\n"
-"用尽全力骚扰他们，粪蛆！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:395
 msgid "Clasher, fall in."
-msgstr "冲击者，列阵。"
+msgstr ""
 
 #. [message]: type=Drake Clasher
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:401
@@ -1113,9 +905,6 @@ msgid ""
 "\n"
 "The Secrets my caste keeps must not be seen by a foe."
 msgstr ""
-"吾之职责乃先毁吾族秘刻。\n"
-"\n"
-"吾族所守秘刻绝不可落于敌眼。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:407
@@ -1125,10 +914,6 @@ msgid ""
 "The hunt has been called.\n"
 "Your prior duty is hereby superseded."
 msgstr ""
-"此岛无有敌手，唯有猎物。\n"
-"\n"
-"狩猎已启。\n"
-"汝旧职乃废。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:425
@@ -1138,9 +923,6 @@ msgid ""
 "Clasher glyphs are engraved into it; this firescale must bear Secrets of "
 "their caste."
 msgstr ""
-"此火鳞过于粗重，不堪为甲胄之用…\n"
-"\n"
-"其上镌有冲击者符文；必载其种姓之秘刻。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:439
@@ -1149,9 +931,6 @@ msgid ""
 "\n"
 "By the Ways of Morogor, we clashers must keep our Secrets."
 msgstr ""
-"此火鳞所铸之秘刻，吾不可言。\n"
-"\n"
-"依莫罗戈法典所载，吾等冲击者须守秘刻。"
 
 #. [message]: speaker=narrator
 #. Here ‘steeped’ means engrossed.
@@ -1196,40 +975,11 @@ msgid ""
 "\n"
 "26th day of the Eastward Oceanic Expedition</i>"
 msgstr ""
-"…一场可怖的龙人内战正迫近。\n"
-"\n"
-"每支翼群由一名\"翼主\"统领，三名受衔的\"辅佐者\"提供谏言。其下设有\"竞位者"
-"\"，其位阶类同王子，然晋升翼主之位须经竞位战决断。另有跨越各翼群的种姓体系，"
-"分四支——\n"
-"\n"
-"——灼烧者乃战略家，尤重同族安危。天生将才。然其骄矜，常失察微末之事，终致败"
-"绩。\n"
-"\n"
-"——冲击者奉莫罗戈法典为圭臬，执法公允，深受众信。彼辈戍守龙人孵化所，亦守护镌"
-"刻于陶板之上的秘识文库。彼所藏之机密，非独不令我等知，亦不使<i>外种姓</i>"
-"闻。\n"
-"\n"
-"——战士勇悍。思虑迅捷却失之武断，乃至目光短浅。彼辈乃此地最大祸患。\n"
-"\n"
-"——滑翔者浸淫\"口述史\"，他种姓未曾知晓之口述史，怀揣奇思。作为斥候、信使与猎"
-"场司掌，彼辈深知莫罗戈正沉没。然他系种姓漠视其警言。\n"
-"\n"
-"一名唤作瑞莎的年轻滑翔者告余：其种姓冀望逃离莫罗戈。吾疑我等抵达此地或助长了"
-"彼辈决心。幸而洁欣将其所有海图严锁秘藏。若非如此，南湾上空恐已闻龙翼击空之"
-"声！\n"
-"\n"
-"洁欣言其族熟知此等龙族。韦福克典籍载有此类魔物——正是彼辈将韦福克之民自远西之"
-"地驱离。而滑翔者亦传诵着龙人远居莫罗戈之外的轶闻。余与瑞莎会谈时，彼曾述数则"
-"此类故事，然未竟便因战士种姓再起叛乱而中断。\n"
-"\n"
-"<i>――南湾的利奥德伦王子，</i>\n"
-"\n"
-"<i>东向海洋远征之第26日</i>"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:511
 msgid "Lo! Karron reinforces us."
-msgstr "看！卡戎率翼队驰援吾等。"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:517
@@ -1239,10 +989,6 @@ msgid ""
 "Wing, descend upon the interlopers.\n"
 "Leave no survivors!"
 msgstr ""
-"吾见戈拉克尚存…\n"
-"\n"
-"翼队，俯冲剿灭入侵者。\n"
-"不留活口！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:524
@@ -1250,18 +996,16 @@ msgid ""
 "Karron, their leader is to remain alive.\n"
 "I want no repeat of last time."
 msgstr ""
-"卡戎，须留其首领活口。\n"
-"前次之事，不可复演。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:531
 msgid "You do not command me, Gorlack."
-msgstr "汝无权号令吾，戈拉克。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:535
 msgid "I remind you it is by Vladnir’s order this creature remain whole."
-msgstr "吾告汝：此乃维拉德尼尔之令，此物须得保全。"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:541
@@ -1271,10 +1015,6 @@ msgid ""
 "\n"
 "Mostly."
 msgstr ""
-"便如此。\n"
-"吾之翼队必护汝之奖不令侵损。\n"
-"\n"
-"多半如此。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:557
@@ -1282,8 +1022,6 @@ msgid ""
 "I must withdraw.\n"
 "Another triumph falls to Gorlack alone."
 msgstr ""
-"吾须退却。\n"
-"此胜再归戈拉克独享。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:587
@@ -1292,22 +1030,19 @@ msgid ""
 "Your kind fares beyond these isles.\n"
 "You will tell us of your destinations."
 msgstr ""
-"汝将告之，猎物。\n"
-"汝族行迹远涉诸岛。\n"
-"吾等欲知汝之去向。"
 
 #. [message]: speaker=Viragar
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:595
 msgid ""
 "Release me now and maybe I let some of you live... for future sport of my "
 "archers! Hahahaha!"
-msgstr "现在放了我，也许我能留你几条命…用来做我弓箭手的未来的运动！哈哈哈哈！"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #. ‘Spit’ as in a device on which to roast meat.
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:600
 msgid "Put him on the <i>Spit of Telling</i>."
-msgstr "将其置于<i>述者之叉</i>上。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:673
@@ -1316,9 +1051,6 @@ msgid ""
 "\n"
 "It was to be taken alive!"
 msgstr ""
-"不可！\n"
-"\n"
-"此猎物当生擒！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:692
@@ -1327,8 +1059,6 @@ msgid ""
 "You, with your wing of halfwits, have stayed our reascension for an age "
 "longer!"
 msgstr ""
-"吾之囚虏遭戮矣，卡戎！\n"
-"汝率痴愚翼队；延宕吾族复升大业整一世代！"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:699
@@ -1336,8 +1066,6 @@ msgid ""
 "Your pet was cut down by mistake.\n"
 "Try to calm yourself, Gorlack."
 msgstr ""
-"汝之宠物误遭屠戮。\n"
-"平汝心绪，戈拉克。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:713
@@ -1345,8 +1073,6 @@ msgid ""
 "Their sea skimmers are perished.\n"
 "Their hope of escape is no more."
 msgstr ""
-"其海掠者皆殁。\n"
-"遁逃之望尽绝。"
 
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:716
@@ -1360,24 +1086,21 @@ msgid ""
 "\n"
 "Now, see to—"
 msgstr ""
-"吾等猎者将毕其狩。\n"
-"\n"
-"如此，此事——"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:732
 msgid "Lo! An unknown wing approaches from northwest!"
-msgstr "瞧！西北方有未知翼队迫近！"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:746
 msgid "Announce yourselves!"
-msgstr "报上汝等身份！"
+msgstr ""
 
 #. [message]: speaker=Koli
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:750
 msgid "I am Second Intendant Koli of Flight Omakon."
-msgstr "吾乃奥玛孔翼群次席辅佐者，科利。"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:756
@@ -1386,24 +1109,21 @@ msgid ""
 "\n"
 "They are strangely far out..."
 msgstr ""
-"奥玛孔之疆域距此尚有七十二里格之遥。\n"
-"\n"
-"彼等竟远遁至此异境…"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:764
 msgid "They are rogue."
-msgstr "彼乃逆翼。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:770
 msgid "State your purpose here!"
-msgstr "汝此行何为！"
+msgstr ""
 
 #. [message]: speaker=Koli
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:774
 msgid "My dominant has sent me to observe the status of this isle."
-msgstr "吾翼主遣吾察此岛之状。"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:780
@@ -1412,16 +1132,13 @@ msgid ""
 "\n"
 "Probe just a little closer, rogue!"
 msgstr ""
-"汝之翼主令汝刺探软鳞乎…\n"
-"\n"
-"再近半分，叛翼！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:788
 msgid ""
 "If you approach any closer, then by the Ways of Morogor we shall Proclaim "
 "you Rogue."
-msgstr "汝若再近一步，依莫罗戈法典吾等将宣告汝为叛翼。"
+msgstr ""
 
 #. [message]: speaker=Koli
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:792
@@ -1434,16 +1151,11 @@ msgid ""
 "Then the needs of our hatchlings will demand the taking of your hunting "
 "grounds."
 msgstr ""
-"若吾翼群欲行叛离，汝早已知之。\n"
-"因吾等挥师相向之际，必先昭告凛冽之志。\n"
-"此乃予汝等龙人同族最后之荣光…\n"
-"\n"
-"届时吾雏龙之需，将迫取汝猎场。"
 
 #. [message]: speaker=Koli
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:800
 msgid "For now, I go."
-msgstr "吾暂离去。"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:806
@@ -1453,14 +1165,11 @@ msgid ""
 "What we have done to these creatures is only a glimpse of the fate which "
 "awaits you!"
 msgstr ""
-"确然，归告汝之翼主。\n"
-"此日所见诸事，汝当尽述。\n"
-"吾等施于彼族之裁决，不过汝等命运之先兆！"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:835
 msgid "The rogue flights grow bolder."
-msgstr "叛翼愈发猖狂。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:839
@@ -1469,9 +1178,6 @@ msgid ""
 "\n"
 "Go ensure that our captive is attended to, Resha."
 msgstr ""
-"彼等终将无足轻重。\n"
-"\n"
-"瑞莎，汝去确保囚者得受看顾。"
 
 #. [scenario]: id=02x_Victory_Feast
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:5
@@ -1483,22 +1189,22 @@ msgstr "凯旋盛宴"
 msgid ""
 "Fresh prey carcasses were justly divided among hunters in accord with the "
 "Ways of Morogor. An ample victory feast was had..."
-msgstr "依照莫罗戈法典，新猎得的硬猎尸身当公正分予众猎手。凯旋盛宴丰足而备…"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:19
 msgid "Savory..."
-msgstr "味鲜…"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:24
 msgid "Sapid..."
-msgstr "可口…"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:29
 msgid "...these creatures are a delicacy without match."
-msgstr "…这些生物乃是无与伦比的珍馐。"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:34
@@ -1506,8 +1212,6 @@ msgid ""
 "Gorlack, I bear rich tidings.\n"
 "The captive’s mind revealed its every secret."
 msgstr ""
-"戈拉克，吾携要讯而至。\n"
-"俘虏之心已尽显其秘。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:34
@@ -1538,18 +1242,16 @@ msgid ""
 "Excellent, Resha!\n"
 "Speak of it."
 msgstr ""
-"干得好，瑞莎！\n"
-"说说看。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:46
 msgid "‘Orc’ the creatures call themselves."
-msgstr "这些生物自称“兽人”。"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:52
 msgid "Hmm... ‘Ork chops’"
-msgstr "嗯……“兽人肉排”"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:57
@@ -1562,11 +1264,6 @@ msgid ""
 "Surely it is the place from which our ancestors followed Dominant Morogor "
 "into exile."
 msgstr ""
-"他们自西方远海一处“绿岛”涌出。\n"
-"其疆域之广，足可与吾等中央群岛匹敌。\n"
-"\n"
-"然更西处尚有天地无垠；纵使凌云俯瞰，亦难窥其全貌。  \n"
-"此处必是先祖追随翼主莫罗戈踏上流放之途的始源之地。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:66
@@ -1574,8 +1271,6 @@ msgid ""
 "It may very well be, Resha.\n"
 "Now speak of our prey’s destination in the east."
 msgstr ""
-"瑞莎，此言不虚。\n"
-"且道东方硬猎所向之处。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:72
@@ -1587,15 +1282,11 @@ msgid ""
 "Then only a cluster of shoals to rest them, which might be slid past "
 "unnoticed with perilous ease."
 msgstr ""
-"此路凶险异常。\n"
-"纵有命运之风相佑，寻常飞翼亦难渡此浩瀚海疆。\n"
-"\n"
-"其后唯见零星浅滩可作栖所，然稍纵即逝之险，更胜汪洋。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:80
 msgid "Go on."
-msgstr "继续。"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:85
@@ -1609,13 +1300,6 @@ msgid ""
 "Turmoil.\n"
 "When nigh all of them perished in an unknown calamity."
 msgstr ""
-"复东行，则沧海无垠，浩渺与昔同。\n"
-"\n"
-"终焉，乃见泰陆，其域之阔，堪比泰洋。\n"
-"幽玄亦如之。\n"
-"\n"
-"口述史记曰：太古有龙，蕃息于彼，历动荡时代。\n"
-"未几，天降奇殃，宗族几近覆灭，其因终不可考。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:96
@@ -1626,10 +1310,6 @@ msgid ""
 "beyond.\n"
 "There my eyrie will be set; a beacon leading other flights to salvation."
 msgstr ""
-"若彼处乃硬猎迁途，则彼处必为猎获最丰之地。\n"
-"\n"
-"吾将以竞位战所赢之翼群，远赴彼岸之泰陆。\n"
-"吾之巢穴将立于此；如烽火指引余众翼群归向救赎。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:104
@@ -1639,10 +1319,6 @@ msgid ""
 "He counts on us, his aspirants, to set eyries within his domain.\n"
 "Only with nigh allies can Flight Vladnir hold against the rogues!"
 msgstr ""
-"戈拉克，此举将使维拉德尼尔陷于覆灭！\n"
-"\n"
-"他仰赖吾等竞位者，在其疆域内建立巢穴。\n"
-"唯有盟翼毗邻，维拉德尼尔翼群方可抵御叛族！"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:112
@@ -1653,11 +1329,6 @@ msgid ""
 "Lest a day comes when none can hold against the rogues.\n"
 "Neither the burning hunger that drives them to treachery."
 msgstr ""
-"吾之使命高于汝，卡戎。\n"
-"\n"
-"吾须行吾民所需之事。\n"
-"免遭一日，无翼群可御叛徒。\n"
-"亦难敌其焚心之饥，驱彼行悖逆之举。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:121
@@ -1667,9 +1338,6 @@ msgid ""
 "I shall win the new flight myself, so that with it the Domain of Vladnir "
 "will hold!"
 msgstr ""
-"尔既弃盟，则于争必败。 \n"
-"\n"
-"吾将亲率新翼群取胜，令维拉德尼尔之疆域永固！"
 
 #. [scenario]: id=03_The_Contention
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:27
@@ -1683,8 +1351,6 @@ msgid ""
 "ranks to become the new dominant. Each aspirant chose carefully three "
 "intendants to aid them."
 msgstr ""
-"竞位战之日终至。各种姓选其竞位者，欲为新翼主。各竞位者慎择三辅佐者，以助其"
-"竞。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:42
@@ -1694,8 +1360,6 @@ msgid ""
 "the two aspirants of Vladnir remained to face one another in the Arena of "
 "Dominance, in the very heart of Morogor..."
 msgstr ""
-"统领翼群所需的一切技艺皆受考验。每位竞位者历经耐力之试、征战之试、狩猎之试。"
-"终末，唯余维拉德尼尔麾下两名竞位者，立于莫罗戈腹地的统御竞技场中相峙…"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:55
@@ -1756,7 +1420,7 @@ msgid ""
 "castes; if one dies, the next recalled drake of the same caste will replace "
 "it as long as that drake is level 2 or higher"
 msgstr ""
-"此后，戈拉克麾下将有忠诚的战士与冲击者种姓的辅佐者；若其一死亡，召回的同种姓"
+"此后，戈拉克麾下将有忠诚的战士与冲击者种姓的辅政官；若其一死亡，召回的同种姓"
 "之龙人达2级及以上者将继任其位"
 
 #. [message]: speaker=Karron
@@ -1765,13 +1429,11 @@ msgid ""
 "Today, my old mentor, it is I that teaches <i>you</i>.\n"
 "You shall learn a pivotal lesson in humility!"
 msgstr ""
-"今时，吾之旧师；乃余教<i>汝</i>矣。\n"
-"汝当习谦逊之要义！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:252
 msgid "If just sharp as your tongue were your teeth."
-msgstr "若齿之利，如舌之锋。"
+msgstr ""
 
 #. [message]: speaker=Vladnir
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:373
@@ -1780,9 +1442,6 @@ msgid ""
 "\n"
 "The flight-in-contention is hereby entrusted to Dominant Karron’s keeping."
 msgstr ""
-"卡戎已晋位翼主。\n"
-"\n"
-"此竞位之翼群，托于翼主卡戎治下。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:381
@@ -1790,8 +1449,6 @@ msgid ""
 "This must be a dream.\n"
 "I no longer dwell in the shadow of Gorlack."
 msgstr ""
-"此必为幻梦。\n"
-"吾已离戈拉克之影。"
 
 #. [message]: speaker=Vladnir
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:392
@@ -1800,9 +1457,6 @@ msgid ""
 "\n"
 "The flight-in-contention is hereby entrusted to Dominant Gorlack’s keeping."
 msgstr ""
-"戈拉克已晋位翼主。\n"
-"\n"
-"此竞位之翼群，托于翼主戈拉克治下。"
 
 #. [message]: speaker=Karron
 #. [part]
@@ -1825,16 +1479,6 @@ msgid ""
 "\n"
 "Worse than these all— your hearts bleed fear!"
 msgstr ""
-"龙人众！\n"
-"\n"
-"诸种姓同翼，听吾宣谕！\n"
-"\n"
-"此乃吾辈承受之晦暗时刻。\n"
-"故土所供，已非往昔。\n"
-"未饲之雏，尽殁于衰萎。\n"
-"吾族内战，迫在眉睫。\n"
-"\n"
-"尤甚者——汝等心魂，正淌惧血！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:417
@@ -1847,18 +1491,11 @@ msgid ""
 "I shall lead you to the way beyond.\n"
 "With my new flight, I proceed to the far lands to plant my eyrie!"
 msgstr ""
-"此望吾予汝。\n"
-"莫罗戈外尚有疆土。\n"
-"远避其纷扰。\n"
-"\n"
-"此誓吾立汝。\n"
-"吾将引汝至界外之路。\n"
-"率吾新翼群，吾将行至远疆，立吾巢穴！"
 
 #. [message]: speaker=Vladnir
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:427
 msgid "So it begins..."
-msgstr "风途之变，由此开启…"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:431
@@ -1867,9 +1504,6 @@ msgid ""
 "\n"
 "The Greatland of the east!"
 msgstr ""
-"吾之巢穴将立于万陆之巅。\n"
-"\n"
-"东方泰陆！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:437
@@ -1878,14 +1512,11 @@ msgid ""
 "\n"
 "For it will be your salvation!"
 msgstr ""
-"候吾召命。\n"
-"\n"
-"此乃汝之救赎！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:447
 msgid "For winning by defeating the rival leader, you receive war claws!"
-msgstr "因击败对方首领获胜，你获得了战爪！"
+msgstr ""
 
 #. [object]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:454
@@ -1916,9 +1547,6 @@ msgid ""
 "\n"
 "I seek your forgiveness."
 msgstr ""
-"维拉德尼尔翼主，吾不可再为此地之盟翼。\n"
-"\n"
-"乞汝宽宥。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:23
@@ -1928,10 +1556,6 @@ msgid ""
 "The Spoken Memories of the glider caste have pointed your course.\n"
 "There is no better heading I may counsel."
 msgstr ""
-"无需吾之宽宥。\n"
-"\n"
-"滑翔者种姓之口述史已指明汝之风途。\n"
-"吾无可谏更优之航向。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:31
@@ -1941,10 +1565,6 @@ msgid ""
 "\n"
 "Perhaps glider wisdom overlaps the many written Secrets your own caste wards."
 msgstr ""
-"…吾从未知汝竟如此敬重滑翔者。\n"
-"亦不知汝竟得闻口述史。\n"
-"\n"
-"或许，滑翔者之智，与汝种姓所守护之诸多秘刻，亦有相通之处。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:39
@@ -1957,13 +1577,6 @@ msgid ""
 "\n"
 "Your glider first intendant is well chosen for the journey ahead of you."
 msgstr ""
-"吾受命缄口。\n"
-"滑翔者或可共享其口述史。\n"
-"吾等冲击者必守秘刻。\n"
-"\n"
-"然此事可告汝知…\n"
-"\n"
-"汝之滑翔者辅佐，诚合前路之需。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:50
@@ -1973,21 +1586,17 @@ msgid ""
 "\n"
 "<i>May your fire light the way in darkness.</i>"
 msgstr ""
-"诸多事务已在运转。\n"
-"吾将离去，尚有要务需备…\n"
-"\n"
-"<i>愿汝之火明照暗途。</i>"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:58
 msgid "<i>May your ancestors tread beside you.</i>"
-msgstr "<i>愿汝先祖与汝同行。</i>"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:63
 msgid ""
 "My Dominant Gorlack, your flight has assembled upon the eastern landing."
-msgstr "吾主戈拉克，汝之翼群已集结于东侧着陆台。"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:68
@@ -1995,8 +1604,6 @@ msgid ""
 "There is no need for you to address me by status, Resha.\n"
 "We are still equals regardless of rank."
 msgstr ""
-"瑞莎，汝无需以位阶相称。\n"
-"纵有衔秩之别，吾等仍为同翼。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:74
@@ -2005,9 +1612,6 @@ msgid ""
 "\n"
 "I would have perished in that cave if not for your intervention."
 msgstr ""
-"我的朋友，我们并非平等——吾欠汝一命。\n"
-"\n"
-"若非汝出手相救，吾早已殒命于那洞穴之中。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:86
@@ -2021,12 +1625,6 @@ msgid ""
 "While the rest of your caste revere this Ancestor, you alone shoulder the "
 "truth."
 msgstr ""
-"戈拉克…\n"
-"有一事吾必须谏言。\n"
-"\n"
-"汝已听闻吾族流落此沉没群岛之古远口述史。\n"
-"汝亦承受着莫罗戈翼主背叛致此之耻。\n"
-"当汝同种姓皆尊崇此先祖时，唯汝独负真相。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:96
@@ -2035,9 +1633,6 @@ msgid ""
 "\n"
 "Yet such is a small price for wisdom."
 msgstr ""
-"诚然，知晓吾族耻辱过往，确令吾心稍得冷却。\n"
-"\n"
-"然此不过换取智慧之微渺代价。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:103
@@ -2051,13 +1646,6 @@ msgid ""
 "We must proceed with the utmost caution.\n"
 "With our Windpath well chosen."
 msgstr ""
-"朋友，代价尚未偿还。\n"
-"这些岛屿之外的世界，其奇异远超言语所能描绘。\n"
-"那是自传说时代起便被遗忘之物。\n"
-"\n"
-"当吾族踏上那片曾吞噬无数先民的泰陆之时…\n"
-"吾等须以极慎之心前行。\n"
-"风途之择，必承天命。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:114
@@ -2070,13 +1658,6 @@ msgid ""
 "With it we shall part the turbulent Winds of Fate themselves.\n"
 "Leaving in their place, a Windpath of our own making."
 msgstr ""
-"瑞莎，吾闻汝谏。\n"
-"吾当从之。\n"
-"\n"
-"然，且收汝惧，因吾等之众，非言语可尽述。\n"
-"汝将亲睹此心魂深处之力。\n"
-"凭此力，吾等将劈裂狂乱之命运之风。\n"
-"于其之上，铺就属吾等之风途。"
 
 #. [scenario]: id=04_Journey
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:5
@@ -2230,7 +1811,7 @@ msgstr ""
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:208
 msgid "My liege! Drakes have made landfall to your south!"
-msgstr "我的领主！龙人已经在你的南面登陆了！"
+msgstr "领主！龙人已经在你的南面登陆了！"
 
 #. [message]: speaker=Poseira
 #. By ‘rocks’ he is referring to the Morogor Archipelago in a belittling way.
@@ -2265,8 +1846,6 @@ msgid ""
 "Long have the merfolk harried us.\n"
 "Now they hinder our journey across their ocean realm."
 msgstr ""
-"人鱼骚扰我们很久了。\n"
-"现在他们阻碍我们穿越他们的海洋领地。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:240
@@ -2276,10 +1855,6 @@ msgid ""
 "Yet the flight is direly weary from the journey.\n"
 "We should avoid conflict."
 msgstr ""
-"若不统御此浅滩，吾翼群将无以补粮秣。\n"
-"\n"
-"然此行已令同翼疲惫不堪。\n"
-"当避战事。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:247
@@ -2287,8 +1862,6 @@ msgid ""
 "We outmatch them.\n"
 "We shall overcome them as so we always have."
 msgstr ""
-"吾等强于彼辈。\n"
-"吾等必如常胜之。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:254
@@ -2297,8 +1870,6 @@ msgid ""
 "Yet pray first recall the folly of Dominant Morogor at the Battle of the "
 "Crystal Sea."
 msgstr ""
-"若此乃汝之志。\n"
-"然先请忆莫罗戈翼主于晶海之役所行愚举。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:259
@@ -2307,9 +1878,6 @@ msgid ""
 "\n"
 "We must repeat not the ancient mistakes."
 msgstr ""
-"…汝言属实，瑞莎。\n"
-"\n"
-"吾等不可重蹈古昔之谬。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:265
@@ -2323,23 +1891,16 @@ msgid ""
 "For from those shall we, all at once, carry away <i>their</i> provisions "
 "with our rested flight."
 msgstr ""
-"吾将允三日之憩。\n"
-"全翼群皆当休整。\n"
-"唯吾等最强翼者除外…\n"
-"\n"
-"吾等将伺机袭扰海魔。\n"
-"至第三日终，必占其所有聚落。\n"
-"届时方可携休整之翼群，一举夺尽<i>彼之</i>粮秣。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:277
 msgid "We might also forge a truce with the serpents."
-msgstr "吾等亦可与渊蛇缔结休战。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:281
 msgid "A truce with prey..."
-msgstr "与猎物休战…"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:287
@@ -2352,17 +1913,11 @@ msgid ""
 "Otherwise, having not summoned us here, they will assume us allies of the "
 "merfolk."
 msgstr ""
-"托付汝信于吾，此广袤世界确有异途可循。\n"
-"\n"
-"若吾等不屠渊蛇分毫，吾或可令其首领归顺吾翼。\n"
-"然吾须近至可辨其异语之境。 \n"
-"\n"
-"否则彼辈既未召吾于此，必视吾等为人鱼之盟。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:296
 msgid "I shall consider this."
-msgstr "吾将思之。"
+msgstr ""
 
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:306
@@ -2398,13 +1953,11 @@ msgid ""
 "Strange waves circle the northernmost shoals.\n"
 "I fear the northern mermish plan to unleash monsters from the deep."
 msgstr ""
-"极北浅滩有异浪环流。\n"
-"吾惧北方人鱼欲释深渊魔物。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:332
 msgid "Slaying their leader will halt their doing so."
-msgstr "诛其首，则行止。"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:336
@@ -2412,8 +1965,6 @@ msgid ""
 "That might spread us too thin.\n"
 "I must advise against it."
 msgstr ""
-"此令吾翼过薄。\n"
-"吾必谏止。"
 
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:350
@@ -2518,7 +2069,7 @@ msgstr "（<i>咳</i>）…哇"
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:524
 msgid "We seek an ally against these fiendish merfolk."
-msgstr "吾等欲觅盟友，以抗此妖异人鱼。"
+msgstr ""
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:530
@@ -2529,7 +2080,7 @@ msgstr "嘶嘶？你们要背叛人鱼？"
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:534
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:572
 msgid "... Yes."
-msgstr "…是。"
+msgstr ""
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:540
@@ -2542,7 +2093,7 @@ msgstr "然后你们要从我们这里夺走这片礁石？嘶嘶！"
 msgid ""
 "We seek a right to respite here for those of our kind traveling past these "
 "isles."
-msgstr "吾等同翼行经此岛，求一栖身之权。"
+msgstr ""
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:550
@@ -2556,7 +2107,7 @@ msgstr "你说什么？"
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:592
 msgid ""
 "...... We have no need of your reef. We seek only the land above the sea."
-msgstr "吾等无需汝之礁石。唯求海上之地。"
+msgstr ""
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:560
@@ -2588,7 +2139,7 @@ msgstr "嘶嘶！"
 msgid ""
 "All provisions are gathered; the flight is readied for departure, awaiting "
 "your command."
-msgstr "给养已齐备；翼群整装待发，唯待汝令。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:675
@@ -2597,9 +2148,6 @@ msgid ""
 "\n"
 "Take wing!"
 msgstr ""
-"可矣。\n"
-"\n"
-"起飞！"
 
 #. [scenario]: id=05_Threshold
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:5
@@ -2649,7 +2197,7 @@ msgstr "前翼"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:66
 msgid "Haldric Creatures"
-msgstr "哈德里克生物"
+msgstr ""
 
 #. [leader]: id=Rhynnin, type=Lieutenant
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:73
@@ -2840,11 +2388,6 @@ msgid ""
 "From our long shameful exile adrift on sinking isles.\n"
 "Reascended to claim our forgotten birthright of this greater world."
 msgstr ""
-"吾将于此立巢。\n"
-"\n"
-"此乃吾族通路之始。\n"
-"自沉岛流亡之漫长屈辱。\n"
-"复升以收复吾辈遗忘之大千世界之天命。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:471
@@ -2853,15 +2396,12 @@ msgid ""
 "\n"
 "Some orcs may have drifted to here as well."
 msgstr ""
-"此岛所栖之软猎，未及此群岛所能载也…\n"
-"\n"
-"或有兽众亦漂泊至此。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:477
 msgid ""
 "Then we shall seize their settlements to procure our flight’s sustenance."
-msgstr "吾等将夺其聚落，以资吾翼群之给养。"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:481
@@ -2872,11 +2412,6 @@ msgid ""
 "There are hatchlings just below.\n"
 "They look to be in dire need of aid!"
 msgstr ""
-"下方似有骚动……\n"
-"\n"
-"雏龙！\n"
-"正下方有雏龙。\n"
-"其状甚危，亟需驰援！"
 
 #. [message]: speaker=Rhynnin
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:497
@@ -2897,7 +2432,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:503
 msgid "Another herd of those orc creatures..."
-msgstr "另一群这些兽人生物……"
+msgstr ""
 
 #. [message]: speaker=Resha
 #. At this time, the drakes mistakenly believe humans call their race ‘haldric’ but this is actually the name of their king.
@@ -2906,8 +2441,6 @@ msgid ""
 "Nay, their weaponry is not crude enough.\n"
 "Those are haldric, creatures of much higher quality."
 msgstr ""
-"非也，其兵器远非粗劣之物。\n"
-"彼等乃哈德里克，精良之族。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:513
@@ -2916,8 +2449,6 @@ msgid ""
 "clear.\n"
 "Those hatchlings will be slain if our intervention is not swift."
 msgstr ""
-"虽哈德里克人之语多陌生词汇，其威胁之调却明晰无疑。\n"
-"若吾等不及速援，彼雏龙必将殒命。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:572
@@ -2933,9 +2464,6 @@ msgid ""
 "\n"
 "These... are <b>not</b> hatchlings."
 msgstr ""
-"瑞莎。\n"
-"\n"
-"此…<b>非</b>雏龙。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:582
@@ -2943,8 +2471,6 @@ msgid ""
 "By the Winds, they are not.\n"
 "Their resemblance is so strikingly of hatchlings..."
 msgstr ""
-"凭风之名，其绝非吾族。\n"
-"形貌虽酷似初生之雏..."
 
 #. [message]: speaker=Arinexis
 #. This "rapid clicking" is either a sound made by the saurian tongue or by a non-mammalian vocal organ like the avian syrinx.
@@ -2961,7 +2487,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:596
 msgid "They are receiving us."
-msgstr "彼等正迎吾等。"
+msgstr ""
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:602
@@ -2977,9 +2503,6 @@ msgid ""
 "\n"
 "You will do as I command!"
 msgstr ""
-"小子！\n"
-"\n"
-"汝当遵吾令！"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:614
@@ -3017,13 +2540,6 @@ msgid ""
 "The arrival of our flight would likely startle such desperate action.\n"
 "We would be wise to secure all settlements before then."
 msgstr ""
-"莫罗戈之岛已两度遭哈尔德里克族所据。 \n"
-"彼等行此，必有近乎龙族之狡黠。 \n"
-"若其嗅得败亡将至… \n"
-"\n"
-"定会焚其聚落以绝粮秣之资。\n"
-"吾等翼群抵达恐将惊起彼辈孤注一掷。\n"
-"当务之急乃先行掌控所有聚落。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:659
@@ -3135,12 +2651,12 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:743
 msgid "Beware the great maelstrom off the north coast."
-msgstr "谨防北岸大漩涡。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:747
 msgid "The tides are of no consequence to us, Resha."
-msgstr "潮涌于吾等无碍，瑞莎。"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:751
@@ -3149,9 +2665,6 @@ msgid ""
 "I fear a thing most foul may lurk within there, even now.\n"
 "We would do well to keep our distance from it."
 msgstr ""
-"往昔，此等风暴乃古敌之要塞。\n"
-"纵是今时，吾亦忧惧有至秽之物蛰伏其中。\n"
-"吾等当远离此境。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:757
@@ -3159,8 +2672,6 @@ msgid ""
 "I shall keep that in mind.\n"
 "Carry on with your duty."
 msgstr ""
-"吾必谨记。\n"
-"汝当恪尽职守。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:772
@@ -3186,24 +2697,21 @@ msgid ""
 "\n"
 "Fly!"
 msgstr ""
-"飞离此地！\n"
-"\n"
-"飞！"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:798
 msgid "It is just as I had feared."
-msgstr "正如吾所惧。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:802
 msgid "Elaborate."
-msgstr "详述之。"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:806
 msgid "This is a <i>living mist</i>, a creature of the Faerie."
-msgstr "此乃<i>活雾</i>，精界造物。"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:810
@@ -3212,8 +2720,6 @@ msgid ""
 "terms.\n"
 "We should evade it if we can."
 msgstr ""
-"若无吾翼群，则无以均势抗敌。\n"
-"若可避战，当避之。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:849
@@ -3221,8 +2727,6 @@ msgid ""
 "The settlements are seized, along with all contained provisions.\n"
 "There is enough to feed our flight for half a dozen moons."
 msgstr ""
-"聚落已夺，粮秣尽取。\n"
-"所获之资，足供吾翼群六轮月相之需。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:854
@@ -3231,9 +2735,6 @@ msgid ""
 "\n"
 "From here my domain extends."
 msgstr ""
-"于此岛，吾立此巢穴。\n"
-"\n"
-"自此域，吾疆延四方。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:860
@@ -3247,13 +2748,6 @@ msgid ""
 "From here, they may go forth to set eyries of their own upon this greatest "
 "land."
 msgstr ""
-"瑞莎，遣滑翔者携讯归返莫罗戈。\n"
-"\n"
-"亦传告诸翼：吾将于一年之期降下召令。\n"
-"凡心火炽烈足以跋涉旅途者，\n"
-"皆可抵此巢穴受召。 \n"
-"\n"
-"自此，彼等可往此亘古大地，立其族裔之巢。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:872
@@ -3263,15 +2757,11 @@ msgid ""
 "I wish to dispatch a sky patrol as well.\n"
 "To begin ceaseless watch of the Greatland just off our eastern shore."
 msgstr ""
-"遵汝之令。\n"
-"\n"
-"吾欲遣天巡翼队。\n"
-"始巡泰陆东岸，无休无止。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:879
 msgid "Make it so."
-msgstr "照此施行。"
+msgstr ""
 
 #. [scenario]: id=05x_Early_Arrival
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:5
@@ -3312,7 +2802,7 @@ msgstr "龙人"
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:133
 msgid "Karron, you did not wait for my summons!"
-msgstr "卡戎，汝未候吾召！"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:137
@@ -3325,18 +2815,11 @@ msgid ""
 "So the youths you bestowed me I traded to other flights,\n"
 "for prime drakes able to make the journey."
 msgstr ""
-"汝未留驻守之望。\n"
-"自汝离巢，叛徒即窥探维拉德尼尔之域。\n"
-"若无汝翼群镇守，吾等兵力不足以御敌。\n"
-"\n"
-"维拉德尼尔于此谏余。\n"
-"故以汝赐余之幼雏，易与他翼群， \n"
-"换得健壮龙人堪任远征。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:149
 msgid "Vladnir will not last with <b>no</b> ally by his side."
-msgstr "维拉德尼尔<b>无</b>盟翼在侧，其势难久。"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:153
@@ -3344,8 +2827,6 @@ msgid ""
 "Vladnir is to follow me here.\n"
 "By now he is already faring."
 msgstr ""
-"维拉德尼尔将随吾至此。\n"
-"彼此刻应已启程。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:160
@@ -3353,8 +2834,6 @@ msgid ""
 "We have not yet the provisions for three flights within this domain.\n"
 "There could be hunger before the next moon!"
 msgstr ""
-"吾等领地内尚无供养三支翼群之储粮。\n"
-"未及下月盈缺，饥馑将至！"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:165
@@ -3363,9 +2842,6 @@ msgid ""
 "\n"
 "Gorlack, hatchlings do not belong at a counsel gathering."
 msgstr ""
-"戈拉克，吾等必——\n"
-"\n"
-"戈拉克，雏龙不得列席议席。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:173
@@ -3387,7 +2863,7 @@ msgstr "实际上，我是部族的长者。漫游星尘赐我长寿嘶嘶。我
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:191
 msgid "They are ‘saurians’."
-msgstr "彼等乃“蜥蜴人”。"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:195
@@ -3396,14 +2872,11 @@ msgid ""
 "Disturbingly so.\n"
 "I do not want them near my fli—"
 msgstr ""
-"其形肖似雏龙，令人懈备。  \n"
-"实乃扰心。\n"
-"吾不欲彼辈近吾翼——"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:203
 msgid "Enough."
-msgstr "足矣。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:209
@@ -3412,14 +2885,11 @@ msgid ""
 "\n"
 "Resha, see to it at once."
 msgstr ""
-"吾当详察泰陆，以觅软猎之丰。\n"
-"\n"
-"瑞莎，速为之。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:217
 msgid "By your will."
-msgstr "遵汝意志。"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:228
@@ -3428,8 +2898,6 @@ msgid ""
 "northeast.\n"
 "A nest of haldric."
 msgstr ""
-"戈拉克，吾抵此境，见东北向有软猎大群聚。\n"
-"乃哈德里克之巢穴。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:235
@@ -3442,8 +2910,6 @@ msgid ""
 "Gorlack, your hatchling-things cry nonsense.\n"
 "You must gain control over them."
 msgstr ""
-"戈拉克，汝之雏翼啼鸣无状。\n"
-"汝须令其归序。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:246
@@ -3470,8 +2936,6 @@ msgid ""
 "Gorlack, we should harvest them.\n"
 "There is meat enough there to feed our three flights a full year."
 msgstr ""
-"戈拉克，吾等当收割此猎。\n"
-"其肉足供三翼群饱食整年。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:259
@@ -3482,9 +2946,6 @@ msgid ""
 "hunter.\n"
 "Also that this Greatland hides terrible danger."
 msgstr ""
-"瑞莎谏言，勿再与人类交锋，直至吾等更知其底细。\n"
-"诸多滑翔者口述史有载：往昔轻敌之硬猎，反成猎手。\n"
-"亦言此泰陆，暗藏凶险。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:265
@@ -3493,9 +2954,6 @@ msgid ""
 "\n"
 "I remember, long ago..."
 msgstr ""
-"汝言如瑞莎，惧声颤颤。\n"
-"\n"
-"吾忆之久矣…"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:271
@@ -3508,12 +2966,6 @@ msgid ""
 "Before Resha.\n"
 "Before your mind echoed with her glider myths."
 msgstr ""
-"汝欲言吾等将胜恶徒之战。\n"
-"狩猎猛兽如此可怖，唯协力方可图之。\n"
-"\n"
-"彼时久远。\n"
-"瑞莎未现。\n"
-"汝心未回荡其滑翔者之传说。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:282
@@ -3522,9 +2974,6 @@ msgid ""
 "Look around us.\n"
 "It is not the ocean we stand upon."
 msgstr ""
-"非为传说，卡戎。\n"
-"环视吾等所立之地。\n"
-"此非吾等所立之海洋。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:288
@@ -3544,19 +2993,6 @@ msgid ""
 "When you promised first intendancy to Resha.\n"
 "The insult of second... to me."
 msgstr ""
-"汝之壮举梦景，言之凿凿。\n"
-"其志之坚，如熔岩凝铸。\n"
-"\n"
-"吾遂得启悟其间。\n"
-"愿为汝之首任辅佐者。\n"
-"如是可伴汝左右——共赴未来征途。\n"
-"\n"
-"吾之淬炼，艰于诸盟翼。\n"
-"吾之搏杀，烈于众同翼。\n"
-"汝二人尚居基础阶位时，吾已晋战士之阶……\n"
-"\n"
-"然汝将首辅之位许予瑞莎。\n"
-"次席之辱……竟归于吾。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:306
@@ -3564,8 +3000,6 @@ msgid ""
 "You dwell so much in the past.\n"
 "The past weakens you."
 msgstr ""
-"汝沉湎往昔过甚。\n"
-"往昔令汝孱弱。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:311
@@ -3575,10 +3009,6 @@ msgid ""
 "I adjure you, remember your <b>fire</b> for those dreams of glory!\n"
 "The gift of your caste that once burned brightest in your heart!"
 msgstr ""
-"为此刻，吾溯往昔！\n"
-"\n"
-"吾令汝，记尔之<b>火</b>，以奉荣光！\n"
-"尔之种姓所赐，心焰最炽之光也！"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:318
@@ -3588,15 +3018,11 @@ msgid ""
 "Look to that ‘human’ legion which faces you.\n"
 "Those creatures which ward the threshold to the greatest land..."
 msgstr ""
-"戈拉克……且望向吾辈眼前之狭海。\n"
-"\n"
-"观汝面前之‘人类’军团。\n"
-"彼等乃镇守至高疆土之门户者也……"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:325
 msgid "Dominant Gorlack, pray tell what glorious dream you see."
-msgstr "翼主戈拉克，请告汝所见之荣梦。"
+msgstr ""
 
 #. [scenario]: id=06_Landfall
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:5
@@ -3689,9 +3115,6 @@ msgid ""
 "\n"
 "Within sight of these humans!"
 msgstr ""
-"戈拉克，汝已着陆！\n"
-"\n"
-"竟在此等人类眼前！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:182
@@ -3702,11 +3125,6 @@ msgid ""
 "\n"
 "Fall in."
 msgstr ""
-"汝巡哨归巢，正逢其时，瑞莎。\n"
-"此群猎物，当为吾俎。\n"
-"至营后，吾将授汝其详。\n"
-"\n"
-"归列。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:190
@@ -3715,9 +3133,6 @@ msgid ""
 "\n"
 "The full ability of the humans is still unknown to us."
 msgstr ""
-"戈拉克，此举极不智！\n"
-"\n"
-"吾等尚未尽晓人类之能。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:198
@@ -3727,10 +3142,6 @@ msgid ""
 "When I give you the signal, light the beacon.\n"
 "It will call in our reinforcements."
 msgstr ""
-"吾等别无他选，须得此肉。\n"
-"\n"
-"待吾号令，汝燃烽火。\n"
-"援翼将应召而至。"
 
 #. [message]: speaker=Iryn
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:226
@@ -3819,12 +3230,12 @@ msgstr "是"
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:393
 msgid "I see we shall eat well this day!"
-msgstr "今日吾等当飨盛宴！"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:404
 msgid "Alas! Karron is slain!"
-msgstr "哀哉！卡戎已陨！"
+msgstr ""
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:415
@@ -3842,8 +3253,6 @@ msgid ""
 "Learn from this victory, Resha.\n"
 "See now the futility of your doubt."
 msgstr ""
-"此胜可为汝师，瑞莎。\n"
-"而今当见汝疑之虚妄。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:426
@@ -3854,15 +3263,11 @@ msgid ""
 "\n"
 "Though our Windpath is now unknowable, I fear it leads to war."
 msgstr ""
-"戈拉克，凭此胜绩，吾之疑虑三倍滋长。\n"
-"吾等已径直飞入混沌，卷入命运之风最深处的漩涡。\n"
-"\n"
-"虽风途已不可辨，吾恐其终导向战端。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:433
 msgid "There can be no <i>war</i> in a land with prey so plenty."
-msgstr "猎获丰饶之地，安有<i>战事</i>。"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:439
@@ -3871,14 +3276,11 @@ msgid ""
 "\n"
 "They could very well outmatch us."
 msgstr ""
-"此等生物绝非常猎。\n"
-"\n"
-"彼等或可凌驾吾翼之上。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:445
 msgid "... You witnessed only moments ago how we slew a nest of them utterly."
-msgstr "…汝适才亲见吾翼尽屠其巢。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:449
@@ -3888,10 +3290,6 @@ msgid ""
 "I relieve you of all duties.\n"
 "Return to the eyrie until your sense recovers."
 msgstr ""
-"或许…汝之巡猎已过苛，瑞莎。\n"
-"\n"
-"吾免汝一切职责。\n"
-"待汝神思复常，再归巢穴。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:456
@@ -3924,8 +3322,6 @@ msgid ""
 "I come with tidings, fellow dominant.\n"
 "Half of Morogor makes ready for the journey here."
 msgstr ""
-"同属翼主，吾携讯而至。\n"
-"莫罗戈半数已备，将启程来此。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:26
@@ -3938,12 +3334,6 @@ msgid ""
 "Much of it will grow as cold as a high mountain peak.\n"
 "This cold lasts several moons."
 msgstr ""
-"此事断不可为。 \n"
-"吾等如今自身给养尚且不足。 \n"
-"\n"
-"更有蜥蜴人报知：泰陆上正肆虐凛冬之季。\n"
-"万里疆土将冻结若高山绝顶之寒。\n"
-"此极寒将绵延数轮月升。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:36
@@ -3951,8 +3341,6 @@ msgid ""
 "Nothing will delay their coming.\n"
 "All that before stirred one flight against another, now drives them here."
 msgstr ""
-"没有任何事物能延缓他们的到来。  \n"
-"昔日激起翼群相争的一切，此刻皆驱其至此。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:42
@@ -3960,8 +3348,6 @@ msgid ""
 "Then their needs will be met.\n"
 "I shall expand the hunt so as to meet them."
 msgstr ""
-"其所需必将得偿。\n"
-"吾将广猎以应之。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:48
@@ -3973,11 +3359,6 @@ msgid ""
 "Elsewise... you doom this expedition by following the shameful Windpath of "
 "Dominant Morogor."
 msgstr ""
-"戈拉克，汝必须全盘重议此道。\n"
-"\n"
-"终止狩猎。\n"
-"\n"
-"若不然…汝将随莫罗戈翼主之可耻风途，葬送此番远征。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:57
@@ -3987,9 +3368,6 @@ msgid ""
 "Dominant Morogor betrayed his own kith; he attacked the very drakes with "
 "whom he had sworn alliance!"
 msgstr ""
-"汝未恢复理智，瑞莎！\n"
-"\n"
-"翼主莫罗戈竟背弃盟翼；其突袭之众，正是曾立血誓同盟之龙人！"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:64
@@ -4003,13 +3381,6 @@ msgid ""
 "I should have long ago Spoken the whole of this Memory to you.\n"
 "Yet I had concern it was more than you could believe by word alone."
 msgstr ""
-"非也，他所攻击的并非龙人…\n"
-"\n"
-"莫罗戈背叛的那些盟友乃是异族生灵。\n"
-"或许正是此刻吾等猎手在草甸上追猎的同类。\n"
-"\n"
-"吾本早该将此口述史悉数告与汝知。\n"
-"然吾曾忧心，仅凭言语不足令汝尽信。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:75
@@ -4023,14 +3394,6 @@ msgid ""
 "\n"
 "No Ancestor would mistake such simple <i>prey</i> for an ally."
 msgstr ""
-"然汝之忧确有分寸，因吾至今亦难信汝所言。\n"
-"\n"
-"彼“人类”族类，栖身平野高草间以牧为生，\n"
-"驯役驮兽行于大地，\n"
-"驾浮木所造之物渡海，\n"
-"实不足与我等大业相抗。\n"
-"\n"
-"先祖英明，岂会将此等简单<i>猎物</i>误作盟友。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:87
@@ -4045,13 +3408,6 @@ msgid ""
 "I fear one of these races is they who swept our folk from this Greatland "
 "long ago."
 msgstr ""
-"然此确为真。\n"
-"\n"
-"昔危难之时，龙人曾与诸多高贵种族结为盟友——疾足、古龙、匠灵、渊蛇、掷手皆列其"
-"中。\n"
-"\n"
-"亦有本性凶残之辈——兽众、巨灵……乃至精界。\n"
-"吾恐正是其中一族，于久远之年将吾族逐出此泰陆。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:97
@@ -4064,12 +3420,6 @@ msgid ""
 "If we proceed as we have, we shall drive old allies to war against us.\n"
 "Worse still, we may awaken an ancient foe to our presence in this land."
 msgstr ""
-"长久暌隔，彼等自称之名号已然更易。  \n"
-"然吾等沿途所遇诸多生灵，其形貌与口述史所载别无二致。  \n"
-"实为同族无疑。  \n"
-"\n"
-"若仍循旧策而行，必使昔日盟友与吾等为敌。  \n"
-"更甚者，或将惊动远古之敌，令其察觉吾等已重返此土。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:107
@@ -4078,16 +3428,13 @@ msgid ""
 "\n"
 "By the Honor of my Caste in whole, I hereby Proclaim it so."
 msgstr ""
-"汝之首位辅佐者言真，翼主戈拉克。\n"
-"\n"
-"吾以吾种姓全族之荣名，于此昭告此言。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:114
 msgid ""
 "Dominant Vladnir... never since the exiling has another caste verified our "
 "Spoken Memories."
-msgstr "翼主维拉德尼尔…自流放以来，再无其他种姓印证过吾等口述史。"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:119
@@ -4112,21 +3459,6 @@ msgid ""
 "\n"
 "Yet our written secrets quietly remained."
 msgstr ""
-"此事确为禁令所止。\n"
-"自传说时代起，吾等冲击者便担负守秘之责——\n"
-"\n"
-"帕拉帕索斯为寻九贤议会，穿行地底蜿蜒幽径。\n"
-"巨型机关造物之构法，乃至其金属核心中水火交融之秘。\n"
-"维特薇嘉娜于无望决斗中困住伦万之前，留给伴侣的最后情语。\n"
-"\n"
-"先祖的智慧、权能、故事。\n"
-"\n"
-"此等曾为全体龙人共享。  \n"
-"直至吾翼主莫罗戈因流放之苦痛，下令禁绝讲述。\n"
-"惟独汝等滑翔者之种姓未从。\n"
-"吾等依荣誉守约，遂遵禁令。\n"
-"\n"
-"然吾族所书秘刻，静默犹存。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:138
@@ -4134,13 +3466,11 @@ msgid ""
 "Now, we are far beyond the Domain of Morogor; here his edicts hold no sway.\n"
 "All that he made secret, I may share with you here."
 msgstr ""
-"此刻，吾等已远遁莫罗戈治外；此地其律令无从施威。\n"
-"凡其列为秘刻者，吾皆可在此尽诉于汝。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:144
 msgid "Speak no more of your secrets."
-msgstr "勿再言汝秘。"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:149
@@ -4157,10 +3487,6 @@ msgid ""
 "All useless, as an entire age passed while every one of you feared to act on "
 "what you knew!"
 msgstr ""
-"如今我明白了，汝等皆紧攥着往昔的碎片；蜷缩其间瑟瑟发抖。  \n"
-"冲击者之秘刻。\n"
-"滑翔者之口述史。\n"
-"尽皆无用，整整一个世代流逝，汝等明知真相却无一人敢挺身而行！"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:162
@@ -4170,9 +3496,6 @@ msgid ""
 "\n"
 "If we do not heed them, I fear—"
 msgstr ""
-"戈拉克，冲击者所携秘刻，或许载有口述史未言之泰陆详情。\n"
-"\n"
-"若吾等置若罔闻，吾恐——"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:169
@@ -4183,11 +3506,6 @@ msgid ""
 "So many foes vanquished.\n"
 "Yet still you feel not how we shift the Winds by the force of our Will."
 msgstr ""
-"休再言汝之惧！\n"
-"\n"
-"吾等已克万难。\n"
-"吾等已败万敌。\n"
-"然汝犹未察：吾等正以意志之力，转命运之风。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:178
@@ -4196,9 +3514,6 @@ msgid ""
 "\n"
 "While the Spoken Memories tell us steady wings may catch the Winds of Fate—"
 msgstr ""
-"…戈拉克，吾未解汝意。\n"
-"\n"
-"诚然口述史有云：展翼不移者可乘命运之风——"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:185
@@ -4215,23 +3530,12 @@ msgid ""
 "With no room left for <i>fear</i>.\n"
 "With all your Willful heart, make that world be!"
 msgstr ""
-"非也！\n"
-"\n"
-"吾等非为命运之风随意摆布之落叶。\n"
-"吾等乃<b>铸风</b>之人。\n"
-"\n"
-"吾等非茫然摸索风途之徒。\n"
-"吾等乃辟路之士。\n"
-"\n"
-"以汝炽心全部火焰，感知世界应有之貌。\n"
-"不容<b>惧意</b>存隙。\n"
-"以汝全副意志之心，令彼界成真！"
 
 # Translated by openrouter with model deepseek/deepseek-chat-v3.1:free..
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:200
 msgid "Perhaps you need witness one final demonstration..."
-msgstr "汝或须一睹究竟…"
+msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:205
@@ -4247,21 +3551,11 @@ msgid ""
 "\n"
 "Together we shall provide enough for all of Morogor."
 msgstr ""
-"吾召狩猎。  \n"
-"此猎盛于旧猎。  \n"
-"\n"
-"三猎翼群。  \n"
-"\n"
-"吾已传讯卡戎东行穿越草野。  \n"
-"维拉德尼尔，汝当往东南暖沙之地。  \n"
-"吾将北上入韦弥尔森林。  \n"
-"\n"
-"合猎所获，当足供莫罗戈万众。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:219
 msgid "Then... so it will be..."
-msgstr "既如此…便如所愿…"
+msgstr ""
 
 #. [scenario]: id=07_Harvest
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:5
@@ -4273,7 +3567,7 @@ msgstr "收成"
 msgid ""
 "Dominant Gorlack considered every hunting opportunity along the way to "
 "Wesmere."
-msgstr "领导者戈拉克考虑了前往韦弥尔途中的一切狩猎机会。"
+msgstr "翼主戈拉克考虑了前往韦弥尔途中的一切狩猎机会。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:22
@@ -4281,8 +3575,6 @@ msgid ""
 "A deep green swamp offered adequate game. Yet the saurian Arinexis urged him "
 "on to the much fatter prize that lay just ahead..."
 msgstr ""
-"深绿色的沼泽提供了充足的软猎。然而蜥蜴人阿瑞尼克西斯仍催促他继续向前，以获得"
-"前方更为丰厚的猎物。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:26
@@ -4291,8 +3583,6 @@ msgid ""
 "Arinexis spoke of these ‘elves’ as dull witted with a capricious heart, the "
 "consequences of remaining too long within their stale realm."
 msgstr ""
-"因为在寒冷的韦弥尔森林中栖息着一大群新的猎物种族。阿瑞尼克西斯曾描述这些\"精"
-"灵\"愚钝善变，这是住在他们陈旧的王国中太久所导致的后果。"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:30
@@ -4432,7 +3722,7 @@ msgstr "<i>…沙克•卡悍，这就是我说过的精灵之软肋嘶嘶…</i
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:322
 msgid "These creatures of yours ramble incomprehensibly."
-msgstr "汝等生灵言语，吾实难解。"
+msgstr ""
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:326
@@ -4843,9 +4133,6 @@ msgid ""
 "\n"
 "Then regather upon the Sunreach Peaks."
 msgstr ""
-"翼群，散开。\n"
-"丛林予吾等之一切，皆予夺取。\n"
-"尔等随后于日触峰会合。"
 
 #. [scenario]: id=08_Overlook
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:5
@@ -4964,7 +4251,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:288
 msgid "You <b>will</b> be silent."
-msgstr "你<b>将会</b>保持沉默。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:306
@@ -4972,18 +4259,16 @@ msgid ""
 "Report, Resha.\n"
 "There are still nine wings yet to rejoin us!"
 msgstr ""
-"报告，瑞莎。\n"
-"还有九支翼队尚未归队！"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:311
 msgid "Gorlack, the wings are slain."
-msgstr "戈拉克，翼队被杀了。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:315
 msgid "Impossible..."
-msgstr "不可能..."
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:319
@@ -4994,16 +4279,11 @@ msgid ""
 "A full host of them now pursues us here.\n"
 "We must retreat to the eyrie with all haste."
 msgstr ""
-"这片丛林遮掩了精灵真正的数目。\n"
-"正如我们的傲慢隐藏了他们的真正实力。\n"
-"\n"
-"现在他们派出了一支大军在此追击我们。\n"
-"我们必须尽快撤退到老巢。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:336
 msgid "They are coming..."
-msgstr "他们正在过来……"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:340
@@ -5013,10 +4293,6 @@ msgid ""
 "We must not forsake it.\n"
 "Too much depends on it."
 msgstr ""
-"吾辈之猎获过重，纵十数往返，亦不可飞运。\n"
-"\n"
-"吾等岂可弃之。\n"
-"所系甚重。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:347
@@ -5036,12 +4312,12 @@ msgstr "巨龙，莫向此尘吐息嘶嘶！"
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:370
 msgid "Fire Dust... enough to bring down this cave behind us..."
-msgstr "火焰粉尘……足以让我们身后的洞穴崩塌……"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:374
 msgid "... a <b>cave</b>."
-msgstr "…一个<b>洞穴</b>。"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:378
@@ -5054,18 +4330,11 @@ msgid ""
 "You delivered me from <b><i>that</i></b> cave alive.\n"
 "I swear to you, Gorlack, I shall now repay you in kind."
 msgstr ""
-"戈拉克，你知道我们必须勇往直前……\n"
-"\n"
-"我们会一起去做的。\n"
-"一起。\n"
-"\n"
-"是你让我从<b><i>那个</i></b>山洞里活着出来的。\n"
-"我向你发誓，戈拉克，现在轮到我来回报你了。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:388
 msgid "Resha... about <b><i>that</i></b> cave... there is someth—"
-msgstr "瑞莎……关于<b><i>那个</i></b>洞窟……有些——"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:406
@@ -5074,9 +4343,6 @@ msgid ""
 "\n"
 "Their aim must be to delay us before the arrival of the others."
 msgstr ""
-"陆行滑翔者！\n"
-"\n"
-"他们的目标一定是在其他人到来之前拖延我们。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:412
@@ -5085,14 +4351,11 @@ msgid ""
 "\n"
 "The rest of you, into the cave!"
 msgstr ""
-"我需要几个人守住入口。\n"
-"\n"
-"其余的人，进洞里去！"
 
 #. [message]: race=drake
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:496
 msgid "Such a sickly looking creature."
-msgstr "如此的一个病态生物。"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:500
@@ -5238,11 +4501,6 @@ msgid ""
 "That is a fearsome word known from even our oldest Memories.\n"
 "Tell us its full meaning."
 msgstr ""
-"精界…\n"
-"\n"
-"汝言追吾等之物，乃“精界”也。\n"
-"此名骇人，吾等口述史亦载其威。\n"
-"告吾等其全意。"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:625
@@ -5262,14 +4520,12 @@ msgid ""
 "Gorlack, it is an ancient foe that hunts us.\n"
 "You must get our flight through this mountain at any cost."
 msgstr ""
-"戈拉克，此乃狩猎吾等之远古恐怖。\n"
-"汝须引吾等翼群，穿越此山，不计代价。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:634
 msgid ""
 "I shall have passage through this mountain. You are advised to move aside."
-msgstr "我将通过这座山脉。建议你最好让开。"
+msgstr ""
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:640
@@ -5304,7 +4560,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:701
 msgid "Nay. Gorlack, I shall not depart this cave before you!"
-msgstr "不，戈拉克，我不会在你之前离开这个洞穴！"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:715
@@ -5313,9 +4569,6 @@ msgid ""
 "\n"
 "Yet I shall not forsake them to such a place as this."
 msgstr ""
-"那两个蜥蜴人没跟上……\n"
-"\n"
-"然而我不会将他们遗弃在这种地方。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:760
@@ -5325,20 +4578,16 @@ msgid ""
 "\n"
 "Leave this cave behind."
 msgstr ""
-"继续吧，我的朋友。\n"
-"我会确保没有人跟随。\n"
-"\n"
-"离开这个洞穴。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:769
 msgid "Nay, there is no time, we leave now."
-msgstr "不，没有时间了，我们现在离开。"
+msgstr ""
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:773
 msgid "Tell Karron I always regretted taking her place."
-msgstr "告诉卡伦，我总是后悔取代了她的位置。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:779
@@ -5346,8 +4595,6 @@ msgid ""
 "Resha, we leave this cave together.\n"
 "Just like we did the first one."
 msgstr ""
-"瑞莎，我们一起离开这个洞穴。\n"
-"就像我们第一次那样。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:784
@@ -5414,14 +4661,6 @@ msgid ""
 "\n"
 "Our flight was scattered east, deep into the Greatland."
 msgstr ""
-"翼主戈拉克，吾为汝带来狩猎之噩音。\n"
-"\n"
-"卡戎翼群于草原之上，遭人类群落重创。\n"
-"翼主卡戎最后之言，乃欲率众遁入汝之巢穴。\n"
-"欲援救危殆之卡戎翼群…\n"
-"吾之翼主，维拉德尼尔，死于吾等硬猎之手。\n"
-"\n"
-"吾等翼群溃散东去，深入泰陆腹地。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:148
@@ -5431,12 +4670,12 @@ msgstr "………………"
 #. [message]: speaker=Klanir
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:154
 msgid "I must relay what I know to Dominant Karron, should she still live."
-msgstr "我必须将我知道的事情转告给领导者卡伦，如果她还活着的话。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:158
 msgid "Glider, take care."
-msgstr "滑行者，小心。"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:173
@@ -5451,10 +4690,6 @@ msgid ""
 "\n"
 "May it provide the safety for our weary flight that I have failed to."
 msgstr ""
-"我们会把营地设在那里…\n"
-"在那里伤痕累累的土地流出温暖的岩浆…\n"
-"\n"
-"愿它能为我们疲惫的飞行队伍提供我未能提供的安全。"
 
 #. [message]: speaker=narrator
 #. "Back next spring." As in the season after winter and before summer.
@@ -5496,14 +4731,11 @@ msgid ""
 "\n"
 "I do not believe what I see..."
 msgstr ""
-"嚯！\n"
-"\n"
-"我不相信我看到的……"
 
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:336
 msgid "It is magnificent."
-msgstr "壮哉。"
+msgstr ""
 
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:340
@@ -5511,8 +4743,6 @@ msgid ""
 "It is a drakekin.\n"
 "Few have beheld such a being since the Time of Legend."
 msgstr ""
-"乃古龙也。  \n"
-"自传说时代起，鲜有目睹此等生灵者。"
 
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:345
@@ -5521,9 +4751,6 @@ msgid ""
 "\n"
 "It was the drakekin who led us from the Moonlit Wastes in the Time of Fate."
 msgstr ""
-"吾等亲目，得见古龙……  \n"
-"\n"
-"于命运时代，乃古龙引吾辈走出月光荒原。"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:353
@@ -5535,15 +4762,11 @@ msgid ""
 "Fly, my pets! Sweep this place of every scaleless beast so I will have no "
 "distraction."
 msgstr ""
-"吾知汝在此，孱弱之沙克•卡悍！汝当知不可擅闯吾域！纵需搜遍此谷，吾必寻得汝之藏"
-"身之处。\n"
-"\n"
-"飞吧，吾之宠物！肃清此地所有无鳞之辈，使吾心无旁骛。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:359
 msgid "It is... an Ancestor..."
-msgstr "此乃…一先祖…"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:363
@@ -5558,12 +4781,12 @@ msgstr "做最后的抵抗"
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:400
 msgid "Be no more."
-msgstr "汝当归于虚无。"
+msgstr ""
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:413
 msgid "Your challenge is accepted."
-msgstr "接受你的挑战。"
+msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:417
@@ -5573,12 +4796,12 @@ msgstr "！！！"
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:431
 msgid "I will return."
-msgstr "吾必归来。"
+msgstr ""
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:466
 msgid "Show yourself, Brother!"
-msgstr "显形吧，兄弟！"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:470
@@ -5593,7 +4816,7 @@ msgstr "看啊，强大的沙克•卡悍！"
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:492
 msgid "You are bold to present such an imposter!"
-msgstr "汝竟冒名顶替！"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:496
@@ -5624,18 +4847,18 @@ msgstr "不要说这么多嘶嘶，泽德里克斯！你会被吃掉的！"
 msgid ""
 "You are bold indeed, little saurian. What you have told me is false, yet a "
 "mere liar could not speak so bravely before a dragon."
-msgstr "汝果敢矣，小蜥蜴。汝言为虚，然一介狂徒，岂敢于龙前如此慷慨陈词。"
+msgstr ""
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:518
 msgid ""
 "Indeed, your heart believes the falsehood you speak... because it wishes to."
-msgstr "诚然，汝心所信，乃汝口中之谎言…因其愿之。"
+msgstr ""
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:528
 msgid "Zedrix, your Heart shall Reveal its Truth."
-msgstr "泽德里克斯，汝之心将揭示其真相。"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:539
@@ -5645,14 +4868,11 @@ msgid ""
 "\n"
 "... of which I am all that is left."
 msgstr ""
-"柯拉卡拉斯……汝弟已殒。他以身为盾，护其疆域与微末之民嘶嘶……\n"
-"\n"
-"……而我，便是那残存之孤。"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:547
 msgid "So then it is true..."
-msgstr "果真如此…"
+msgstr ""
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:553
@@ -5663,14 +4883,11 @@ msgid ""
 "that he grew weak, vulnerable. Now another great battle between us there "
 "will never be. Now there is only me."
 msgstr ""
-"几乎每季，彼必侵吾之境；或吾扰彼之域。每逢交锋，战火之烈，竟令云端亦生惧意。"
-"吾当未足以磨砺彼身，致其力衰而露破绽。今世再无吾二人之惊天一战。如今，唯余吾"
-"独存。"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:562
 msgid "I go."
-msgstr "吾去。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:570
@@ -5679,19 +4896,16 @@ msgid ""
 "\n"
 "Yet to his last breath, he was fearless."
 msgstr ""
-"先祖，汝言沙克•卡悍日渐衰微……\n"
-"\n"
-"然其至终息一刻，亦无畏无惧。"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:578
 msgid "Yes, Shek’kahan was fearless."
-msgstr "然，沙克•卡悍无所畏惧。"
+msgstr ""
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:584
 msgid "<b>That</b> was his weakness."
-msgstr "其弱点也正在于<b>此</b>。"
+msgstr ""
 
 #. [scenario]: id=10_Fire_Meets_Steel
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:11
@@ -5763,7 +4977,7 @@ msgstr "我现在知道你不是沙克•卡悍嘶嘶。我看到了我希望看
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:336
 msgid "As have I..."
-msgstr "吾亦然…"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:340
@@ -5783,14 +4997,6 @@ msgid ""
 "\n"
 "It had cornered her."
 msgstr ""
-"昔为雏龙之时…\n"
-"吾远离维拉德尼尔的巢穴，沉沦于辉煌未来的幻梦。\n"
-"\n"
-"彼时，闻近处洞穴传哀嚎。\n"
-"友瑞莎偶遇一贼匿于其内。\n"
-"贼欲杀之，以匿其踪。\n"
-"\n"
-"她已陷入绝境。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:355
@@ -5800,10 +5006,6 @@ msgid ""
 "\n"
 "With one swipe I was sent to the ground, bleeding."
 msgstr ""
-"吾曾自诩无敌，自命为传说英雄。\n"
-"吾猛扑向巨兽，赤爪挥击，然仅迸出微弱火星。\n"
-"\n"
-"彼一击，吾便坠地，血流不止。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:362
@@ -5814,11 +5016,6 @@ msgid ""
 "\n"
 "Flee... abandon Resha to die..."
 msgstr ""
-"吾躯僵冷，欲遁…\n"
-"\n"
-"遁意汹涌…\n"
-"\n"
-"遁…弃瑞莎于死地…"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:370
@@ -5831,13 +5028,6 @@ msgid ""
 "I would do anything to save my friend.\n"
 "I felt the whole world around me burning for the means to save her."
 msgstr ""
-"此念煎熬，锥心刺骨——\n"
-"\n"
-"<i>弃吾友，坐视其亡。</i>\n"
-"\n"
-"当是时，吾心忽燃烈焰，平生未尝有也。\n"
-"愿倾吾所有，以援吾友。\n"
-"觉四野皆燃，唯觅良方，援彼于危。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:380
@@ -5848,11 +5038,6 @@ msgid ""
 "\n"
 "It was there now."
 msgstr ""
-"吾右翼之下，忽有触感。\n"
-"一柄冲击者之矛，矛锋一臂之距处已然断裂。\n"
-"吾入洞之时，彼处尚无此物。\n"
-"\n"
-"此物今在彼处。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:388
@@ -5862,10 +5047,6 @@ msgid ""
 "I threw myself upon it with all my hate.\n"
 "The spear I ran deep into its cold heart."
 msgstr ""
-"贼转身，将绝瑞莎。\n"
-"\n"
-"吾倾尽憎恨，猛扑向前。\n"
-"长矛刺入其冰冷之心。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:395
@@ -5874,9 +5055,6 @@ msgid ""
 "\n"
 "Ever since have I fled the fear that drove me toward such vile cowardice."
 msgstr ""
-"自彼时起，吾笃信拯救吾友之火…\n"
-"\n"
-"自彼时起，吾远遁引吾入此般卑懦。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:401
@@ -5886,7 +5064,7 @@ msgstr "你也回避了瑞莎的恐惧。"
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:405
 msgid "Breathing in her fears could chill my heart to cowardice."
-msgstr "吸入其惧，寒吾心，懦怯生。"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:409
@@ -5902,7 +5080,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:415
 msgid "...... It did."
-msgstr "……诚然。"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:419
@@ -5912,7 +5090,7 @@ msgstr "你为她产生的恐惧让你变得勇敢。"
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:423
 msgid "A discarded spear made me brave."
-msgstr "一柄弃枪，铸吾之勇。"
+msgstr ""
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:427
@@ -5972,8 +5150,6 @@ msgid ""
 "I do not grasp the words you speak.\n"
 "Use fewer of them with less haste."
 msgstr ""
-"吾不解汝言。\n"
-"请少言，勿急。"
 
 #. [message]: speaker=Thurdakor
 #. "Now just what in the fiendish skies above is that supposed to mean?! I will have you know—"
@@ -5997,7 +5173,7 @@ msgstr "别理他，他喝得太多了。"
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:545
 msgid "If you depart now no harm will come to you."
-msgstr "若汝此时退去，则无伤损临身。"
+msgstr ""
 
 #. [message]: speaker=Thurdakor
 #. By "boys" he is referring to his own men in a lighthearted way.
@@ -6039,8 +5215,6 @@ msgid ""
 "You can no easier cast us off these peaks than we could pull you from the "
 "deep."
 msgstr ""
-"汝且看，此皆汝等所造之终局。\n"
-"尔等欲逐吾等出群峰，亦难于吾等拔尔等出地渊。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:624
@@ -6052,12 +5226,6 @@ msgid ""
 "The vast under world beneath these we shall not violate.\n"
 "Both of us may hunt the lowlands so long as one takes not the other as game."
 msgstr ""
-"吾与汝立此盟约。\n"
-"\n"
-"群峰皆为吾之疆域。\n"
-"熔炉所需之土，亦尽在其间。\n"
-"彼深渊之下，吾等绝不染指。\n"
-"吾与君皆可于低地行猎，但凭彼此不相为猎。"
 
 #. [message]: speaker=Thurdakor
 #. "Not sure I like the sound of this deal."
@@ -6072,9 +5240,6 @@ msgid ""
 "We covet the soil as little as you do the clouds.\n"
 "We shall find no better neighbors than each other."
 msgstr ""
-"此乃汝所能得之最佳。\n"
-"吾等不贪恋泥土，正如汝等不屑于云。\n"
-"吾等互为邻，再无更佳。"
 
 #. [message]: speaker=Thurdakor
 #. "You're not easy to haggle with, dragon."
@@ -6092,7 +5257,7 @@ msgstr "行，这买卖俺们成交了。俺甚至可以把俺的小宠物龙给
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:747
 msgid "Gorlack, it seems no cave can keep us!"
-msgstr "戈拉克，无一洞穴能将吾等囚禁！"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:753
@@ -6120,26 +5285,21 @@ msgid ""
 "\n"
 "By your pact with them, I was freed."
 msgstr ""
-"深渊之民，凿吾残石之冢，以求掘出吾身。\n"
-"吾本永为彼辈囚徒，囚于幽冥。\n"
-"吾为奇物，震慑彼之幼崽，勿使其流窜于上方。\n"
-"\n"
-"幸得汝之盟约，吾方得解脱。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:792
 msgid "My friend, I am once again in your debt."
-msgstr "吾友，余复欠汝情。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:798
 msgid "Nay, Resha, it is I that owes you."
-msgstr "非也，瑞莎。吾方亏欠于汝。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:804
 msgid "Come, we have much to prepare for."
-msgstr "来，吾等尚有诸多事宜备办。"
+msgstr ""
 
 #. [scenario]: id=11_Crosswind
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:9
@@ -6185,11 +5345,6 @@ msgid ""
 "When the Flight of Gorlack did not return,\n"
 "I assumed you all had perished to the wild creatures of this land."
 msgstr ""
-"戈拉克，见汝尚存，吾心甚慰。\n"
-"汝亦如是，瑞莎。\n"
-"\n"
-"戈拉克之翼未归，\n"
-"吾本以为汝等皆殒于此地荒蛮之物手下。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:219
@@ -6198,9 +5353,6 @@ msgid ""
 "\n"
 "If only Vladnir had shared our fortune."
 msgstr ""
-"卡戎，吾心同此庆！\n"
-"\n"
-"然维拉德尼尔若能共沐此运，方为圆满。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:225
@@ -6216,15 +5368,6 @@ msgid ""
 "problematic.\n"
 "At last we shall tame this <i>wild</i> land."
 msgstr ""
-"诚，维拉德尼尔，其名不朽。\n"
-"维拉德尼尔，其仇必报。\n"
-"\n"
-"五支新翼已抵汝之巢穴。\n"
-"另有七支，将于一月之内抵达。\n"
-"来年，更有十二翼将随之而来。\n"
-"\n"
-"合力之下，吾等将迅疾肃清为患之硬猎。\n"
-"此方<i>蛮荒</i>之地，终将为吾等所驯。"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:239
@@ -6237,8 +5380,6 @@ msgid ""
 "Karron, not even the whole of Morogor could subdue this land.\n"
 "Not in the way we strove to."
 msgstr ""
-"卡戎，纵使莫罗戈全域亦难驯服此土。\n"
-"非吾辈昔日所为之法也。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:250
@@ -6247,9 +5388,6 @@ msgid ""
 "\n"
 "Gorlack, by your own measure, you speak cowardice!"
 msgstr ""
-"戈——……汝从未如此言说…\n"
-"\n"
-"戈拉克，汝之言，乃懦弱之音！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:258
@@ -6271,19 +5409,6 @@ msgid ""
 "Until we learn to temper our pride with fear we remain the creatures they "
 "exiled."
 msgstr ""
-"吾之度量有误。\n"
-"吾等以为仅逃出莫罗戈，便能完成复升之途。\n"
-"然吾等携莫罗戈之魂同行。\n"
-"其无畏之魂。\n"
-"\n"
-"如吾等流放之先祖，吾等沿风途最短之路，傲然翱翔。\n"
-"凡遇生物，必斩之。即便同翼，亦不例外。\n"
-"吾等竟化身为上古之敌——兽众、巨灵、精界…乃至龙人自身。\n"
-"直至败绩临身，一如翼主莫罗戈。\n"
-"盖因吾等摒弃一切恐惧。\n"
-"\n"
-"此乃吾等高贵先祖放逐吾等之因。\n"
-"直至吾等学会以恐惧驯化傲慢，吾等仍是彼等所放逐之流民。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:274
@@ -6293,9 +5418,6 @@ msgid ""
 "By your honor, Gorlack, you must return to your eyrie, to complete what you "
 "began!"
 msgstr ""
-"滑翔者的蠢行，到此为止！\n"
-"\n"
-"汝之荣誉所在，戈拉克！汝须归巢，以竟汝始！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:282
@@ -6306,11 +5428,6 @@ msgid ""
 "You may return with the remaining provisions we gathered.\n"
 "Once returned, you may claim the eyrie I forsook."
 msgstr ""
-"<i>此地</i>乃吾之巢穴矣。\n"
-"此地吾当驻守，以庇吾翼，免受将至之战火。\n"
-"\n"
-"汝可携余粮归去。\n"
-"归去之后，吾昔之巢穴，汝可据为己有。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:290
@@ -6320,10 +5437,6 @@ msgid ""
 "\n"
 "Gorlack, the hunt is not ended!"
 msgstr ""
-"汝曾誓言，助彼等寻汝之泰陆！\n"
-"汝号令狩猎——\n"
-"\n"
-"戈拉克，狩猎未竟！"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:299
@@ -6338,10 +5451,6 @@ msgid ""
 "\n"
 "There is nothing more I can do for our folk now—"
 msgstr ""
-"吾之号令未曾下达；翼群已然过早而至。\n"
-"吾之狩猎确已终结，以败绩告终。\n"
-"\n"
-"而今，吾已再无能为吾族奉献——"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:312
@@ -6355,14 +5464,6 @@ msgid ""
 "\n"
 "Through the Ways of Morogor, I Proclaim you Deprived."
 msgstr ""
-"汝可拥抱汝之怯懦，戈拉克。\n"
-"携其藏于此陋室。\n"
-"\n"
-"然汝翼群之荣光，汝休想玷污。\n"
-"彼等将随吾归队，复入狩猎。\n"
-"以助吾族救度——汝早已背弃之业！\n"
-"\n"
-"依莫罗戈法典，废黜汝之翼位。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:325
@@ -6371,9 +5472,6 @@ msgid ""
 "\n"
 "Here its Ways do not apply."
 msgstr ""
-"此地远在莫罗戈之外。\n"
-"\n"
-"莫罗戈法典于此不存。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:331
@@ -6383,15 +5481,11 @@ msgid ""
 "Damn you for this, Gorlack.\n"
 "You have left me only the coldest choice."
 msgstr ""
-"唯有一策…乃生死之决。\n"
-"\n"
-"戈拉克，汝之恶行，吾必诅咒。\n"
-"汝所予吾者，唯此酷烈之择。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:340
 msgid "Gorlack, recall how we took captive the orc creature back in Morogor..."
-msgstr "戈拉克，忆吾辈于莫罗戈擒获兽众之昔…"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:346
@@ -6401,10 +5495,6 @@ msgid ""
 "\n"
 "Karron is to be taken alive."
 msgstr ""
-"然。\n"
-"吾等当如是。\n"
-"\n"
-"卡戎，必活捉之。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:355
@@ -6417,18 +5507,11 @@ msgid ""
 "Yet burners too were absent.\n"
 "It may be two castes is all that remains of her flight."
 msgstr ""
-"于其扎营之际，吾察见翼主卡戎之翼群，有一奇景。\n"
-"\n"
-"滑翔者，竟无一人。\n"
-"彼或正探查敌踪…\n"
-"\n"
-"然灼烧者，亦踪迹全无。\n"
-"或仅余二姓，存于其翼群之中。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:367
 msgid "Whatever the case, Karron must not be underestimated."
-msgstr "纵是如此，卡戎之翼，不可轻视。"
+msgstr ""
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:398
@@ -6447,9 +5530,6 @@ msgid ""
 "\n"
 "Very well, <i>little fledgling</i>, you have earned my respect."
 msgstr ""
-"竟有此微物，其心火炽烈更胜吾同翼…\n"
-"\n"
-"也罢，<i>雏鸟</i>，汝已赢得吾之敬意。"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:410
@@ -6502,14 +5582,11 @@ msgid ""
 "\n"
 "You are strangely far flown from that shoal you so coveted."
 msgstr ""
-"舒塞克，见汝矣。\n"
-"\n"
-"汝乃远飏，离彼所慕之沙洲，此事甚奇。"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:477
 msgid "...... You are far from your reef."
-msgstr "……汝远离汝礁。"
+msgstr ""
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:483
@@ -6554,9 +5631,6 @@ msgid ""
 "\n"
 "Perhaps one of their caste may reveal its meaning."
 msgstr ""
-"此灼鳞之上，刻着冲击者的秘刻…\n"
-"\n"
-"或可于其种姓之中，窥见其意。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:577
@@ -6708,7 +5782,7 @@ msgstr ""
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:631
 msgid "Gliders, engage!"
-msgstr "滑翔者，开战！"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:657
@@ -6717,9 +5791,6 @@ msgid ""
 "\n"
 "Now!"
 msgstr ""
-"灼烧者们…\n"
-"\n"
-"出击！"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:759
@@ -6728,24 +5799,21 @@ msgid ""
 "\n"
 "My Windpath spared one friend... only to cut down another..."
 msgstr ""
-"卡戎。\n"
-"\n"
-"吾之风途曾饶过一友…却终将另一人斩于剑下…"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:775
 msgid "You win, I go... I run."
-msgstr "你赢了，我走…我跑。"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:803
 msgid "You have one last victory over me... finish it."
-msgstr "汝既得最终一胜……了结罢。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:809
 msgid "Nay."
-msgstr "不。"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:813
@@ -6760,10 +5828,6 @@ msgid ""
 "\n"
 "As a friend seeking to keep you from the turmoil that is soon to be."
 msgstr ""
-"卡戎，吾逐汝出此泰陆，出此极东之远土。  \n"
-"非若竞位战中胜者之克敌……  \n"
-"\n"
-"乃以友人之心，欲使汝避离将至之乱局。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:828
@@ -6777,18 +5841,11 @@ msgid ""
 "\n"
 "This will be a war with prey."
 msgstr ""
-"吾竭力阻止翼间之战。\n"
-"然吾仅将其，易为一场未知之战。\n"
-"\n"
-"饥翼云集，其狩猎将远胜于吾。\n"
-"然此非狩猎…\n"
-"\n"
-"此乃猎杀之战。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:838
 msgid "Prey can no more make war on us than could the clouds."
-msgstr "猎物岂能向吾辈宣战，正如云霭不能兴兵。"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:844
@@ -6800,11 +5857,6 @@ msgid ""
 "Only through defeat may some learn the creatures they hunt are much more "
 "than prey."
 msgstr ""
-"彼等早已启战端，诸翼皆曾目证。  \n"
-"\n"
-"将临诸翼，或半散落于泰陆方域深处。  \n"
-"其将如维拉德尼尔翼群那般，遭遇不可知之命途。  \n"
-"唯经败绩，方可明悟：彼等所猎之物，远非猎物而已。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:854
@@ -6815,10 +5867,6 @@ msgid ""
 "They are our equals until we <b>prove</b> ourselves their betters.\n"
 "In this Great Contention."
 msgstr ""
-"诚然，此等生灵亦是竞争者，欲与吾等争世之主。\n"
-"此泰陆乃吾等之试炼场。\n"
-"于吾等<b>证</b>其劣等之前，彼等堪与吾等同列。\n"
-"于此大争霸。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:863
@@ -6830,23 +5878,17 @@ msgid ""
 "Our every move must be part of a grander design for victory.\n"
 "In this Great Contention that will take a thousand years."
 msgstr ""
-"吾等需此地高贵生灵为盟。\n"
-"若吾蜥蜴盟友。\n"
-"亦如吾等立契之深居者。\n"
-"\n"
-"吾等每一步，皆为胜业宏图之一环。\n"
-"于此千年大争霸之中。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:874
 msgid ""
 "By this Windpath alone shall we reascend to dominate the world once again."
-msgstr "唯此风途，吾等方复升，再统世间。"
+msgstr ""
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:878
 msgid "Gorlack, I do not feel this... Windpath beneath my wings..."
-msgstr "戈拉克，吾未感此…风途于翼下…"
+msgstr ""
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:884
@@ -6858,12 +5900,6 @@ msgid ""
 "Seek out new lands with the wisdom learned from mistakes made here.\n"
 "Let your gliders’ Spoken Memories guide the way."
 msgstr ""
-"汝仍无畏，吾友。\n"
-"故而，吾将汝流放西行，远离此厄。\n"
-"\n"
-"汝当西去，纵越莫罗戈。 \n"
-"鉴此地之失，以求新域。 \n"
-"令汝滑翔者之口述史，引汝风途。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:893
@@ -6872,9 +5908,6 @@ msgid ""
 "\n"
 "We may together take on this adventure as it always should have been."
 msgstr ""
-"戈拉克，令吾等之翼群，向西进发。\n"
-"\n"
-"吾辈或可共赴此险，此行，本应如是矣。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:901
@@ -6886,11 +5919,6 @@ msgid ""
 "When defeat drives our folk to seek a new Windpath, I must be here to "
 "provide it."
 msgstr ""
-"吾甚憾，卡戎。\n"
-"汝所期之风途，吾等终不得交。\n"
-"\n"
-"汝昔所言甚是，吾必竟吾始。\n"
-"当败绩之翼令吾族另觅风途，吾必在此，为彼等开之。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:909
@@ -6899,14 +5927,11 @@ msgid ""
 "\n"
 "May your fire light the way in darkness."
 msgstr ""
-"然，天命如此……\n"
-"\n"
-"愿君之火，明于晦暗，以引其道。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:917
 msgid "May your wings catch the winds to soar."
-msgstr "愿汝翼乘风翱翔。"
+msgstr ""
 
 #. [scenario]: id=12_Epilogue
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:5
@@ -6961,7 +5986,7 @@ msgid ""
 "In accord, the flights went again into exile, withdrawing to the Greatland’s "
 "many remote places. So ended the <i>War with Prey</i>."
 msgstr ""
-"就此，诸翼再度踏上流放之路，退守泰陆的诸多偏远之地。至此，<i>猎杀之战</i>方告"
+"就此，诸翼再度踏上流放之路，退守泰陆的诸多偏远之地。至此，<b>猎杀之战</b>方告"
 "落幕。"
 
 #. [unit_type]: id=Caravel, race=mechanical
@@ -7176,7 +6201,7 @@ msgstr "阿瑞尼克西斯嘶嘶…你的时刻来得太早了嘶嘶！"
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:153
 msgid "My dragon, I have failed you..."
-msgstr "我的龙，我辜负了你……"
+msgstr "龙，我辜负了你……"
 
 #. [floating_text]
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:80
